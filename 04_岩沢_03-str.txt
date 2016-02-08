@@ -1,0 +1,254 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> se_wooddoor_open2
+<0000> se_wooddoor_open2
+
+//<0001> Otonashi
+<0001> Otonashi
+
+//<0002> Shitty Brat
+<0002> Shitty Brat
+
+//<0003> Attorney
+<0003> Attorney
+
+//<0004> Super Iffy Hottie
+<0004> Super Iffy Hottie
+
+//<0005> ロリコン
+<0005> ロリコン
+
+//<0006> メガネ仲間
+<0006> メガネ仲間
+
+//<0007> 暗算日本記録保持者
+<0007> 暗算日本記録保持者
+
+//<0008> 通り魔
+<0008> 通り魔
+
+//<0009> 記憶ナシ男
+<0009> 記憶ナシ男
+
+//<0010> 音速
+<0010> 音速
+
+//<0011> 無限
+<0011> 無限
+
+//<0012> Horny Samurai
+<0012> Horny Samurai
+
+//<0013> Super Horny Squad Member 1
+<0013> Super Horny Squad Member 1
+
+//<0014> Horny Boy
+<0014> Horny Boy
+
+//<0015> Ugri Yuri
+<0015> Ugri Yuri
+
+//<0016> Depussy
+<0016> Depussy
+
+//<0017> Perverted American Dog
+<0017> Perverted American Dog
+
+//<0018> Zeus
+<0018> Zeus
+
+//<0019> Hinata mark Ⅱ
+<0019> Hinata mark Ⅱ
+
+//<0020> Dung Beetle
+<0020> Dung Beetle
+
+//<0021> Mass Produced Hinata
+<0021> Mass Produced Hinata
+
+//<0022> ？？
+<0022> ？？
+
+//<0023> 「よう」
+<0023> 「Yo.」
+
+//<0024> nothing
+<0024> nothing
+
+//<0025> nothing
+<0025> nothing
+
+//<0026> nothing
+<0026> nothing
+
+//<0027> nothing
+<0027> nothing
+
+//<0028> nothing
+<0028> nothing
+
+//<0029> Iwasawa
+<0029> Iwasawa
+
+//<0030> 「またお前か…」
+<0030> 「It's you again…」
+
+//<0031> Otonashi
+<0031> Otonashi
+
+//<0032> Shitty Brat
+<0032> Shitty Brat
+
+//<0033> Attorney
+<0033> Attorney
+
+//<0034> Super Iffy Hottie
+<0034> Super Iffy Hottie
+
+//<0035> ロリコン
+<0035> ロリコン
+
+//<0036> メガネ仲間
+<0036> メガネ仲間
+
+//<0037> 暗算日本記録保持者
+<0037> 暗算日本記録保持者
+
+//<0038> 通り魔
+<0038> 通り魔
+
+//<0039> 記憶ナシ男
+<0039> 記憶ナシ男
+
+//<0040> 音速
+<0040> 音速
+
+//<0041> 無限
+<0041> 無限
+
+//<0042> Horny Samurai
+<0042> Horny Samurai
+
+//<0043> Super Horny Squad Member 1
+<0043> Super Horny Squad Member 1
+
+//<0044> Horny Boy
+<0044> Horny Boy
+
+//<0045> Ugri Yuri
+<0045> Ugri Yuri
+
+//<0046> Depussy
+<0046> Depussy
+
+//<0047> Perverted American Dog
+<0047> Perverted American Dog
+
+//<0048> Zeus
+<0048> Zeus
+
+//<0049> Hinata mark Ⅱ
+<0049> Hinata mark Ⅱ
+
+//<0050> Dung Beetle
+<0050> Dung Beetle
+
+//<0051> Mass Produced Hinata
+<0051> Mass Produced Hinata
+
+//<0052> ？？
+<0052> ？？
+
+//<0053> 「まあ、話だけでいいから聞いてくれ」
+<0053> 「Well, talking is enough, so just hear me out.」
+
+//<0054> nothing
+<0054> nothing
+
+//<0055> nothing
+<0055> nothing
+
+//<0056> nothing
+<0056> nothing
+
+//<0057> nothing
+<0057> nothing
+
+//<0058> nothing
+<0058> nothing
+
+//<0059> Iwasawa
+<0059> Iwasawa
+
+//<0060> 「ああ、短めに頼むよ」
+<0060> 「Yeah, please keep it short.」
+
+//<0061> それなりのプレッシャーをかけられる…。
+<0061> Her request started to pressure me…
+
+//<0062> nothing
+<0062> nothing
+
+//<0063> nothing
+<0063> nothing
+
+//<0064> nothing
+<0064> nothing
+
+//<0065> nothing
+<0065> nothing
+
+//<0066> nothing
+<0066> nothing
+
+//<0067> Iwasawa
+<0067> Iwasawa
+
+//<0068> 「おお、またお前か」
+<0068> 「Oh, it's you again.」
+
+//<0069> nothing
+<0069> nothing
+
+//<0070> nothing
+<0070> nothing
+
+//<0071> nothing
+<0071> nothing
+
+//<0072> nothing
+<0072> nothing
+
+//<0073> nothing
+<0073> nothing
+
+//<0074> Iwasawa
+<0074> Iwasawa
+
+//<0075> 「今度はどんな話を聞かせてくれるんだい？」
+<0075> 「What kind of things will you be telling me this time?」
+
+//<0076> 04_岩沢の興味のある話題探し
+<0076> 04_岩沢の興味のある話題探し
+
+//<0077> dummy
+<0077> dummy
+
+//<0078> ep03_bg015
+<0078> ep03_bg015
+
+//<0079> iw0107
+<0079> iw0107
+
+//<0080> iw0210
+<0080> iw0210
+
+//<0081> iw0102
+<0081> iw0102
+
+//<0082> iw0201
+<0082> iw0201
+

@@ -1,0 +1,1064 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> nothing
+<0000> nothing
+
+//<0001> 
+<0001> 
+
+//<0002> 
+<0002> 
+
+//<0003> nothing
+<0003> nothing
+
+//<0004> 廊下で、大荷物を手で運ぶOoyamaを見つける。
+<0004> In the corridors, I could see Ooyama carrying a huge luggage.
+
+//<0005> nothing
+<0005> nothing
+
+//<0006> nothing
+<0006> nothing
+
+//<0007> nothing
+<0007> nothing
+
+//<0008> nothing
+<0008> nothing
+
+//<0009> nothing
+<0009> nothing
+
+//<0010> Ooyama
+<0010> Ooyama
+
+//<0011> 「Oh!　Shitty Brat-kun!」
+<0011> 「Oh!　Shitty Brat-kun!」
+
+//<0012> Ooyama
+<0012> Ooyama
+
+//<0013> 「Oh!　Attorney!」
+<0013> 「Oh! Attorney!」
+
+//<0014> Ooyama
+<0014> Ooyama
+
+//<0015> 「Oh! Super Iffy Hottie-kun!」
+<0015> 「Oh! Super Iffy Hottie-kun!」
+
+//<0016> Ooyama
+<0016> Ooyama
+
+//<0017> 「Oh! Lolicon-kun!」
+<0017> 「Oh! Lolicon-kun!」
+
+//<0018> Ooyama
+<0018> Ooyama
+
+//<0019> 「Oh! Glasses Buddy-kun!」
+<0019> 「Oh! Glasses Buddy-kun!」
+
+//<0020> Ooyama
+<0020> Ooyama
+
+//<0021> 「Oh! Japan's Mental Math Record Holder-kun!」
+<0021> 「Oh! Japan's Mental Math Record Holder-kun!」
+
+//<0022> Ooyama
+<0022> Ooyama
+
+//<0023> 「Oh! Slasher-kun!」
+<0023> 「Oh! Slasher-kun!」
+
+//<0024> Ooyama
+<0024> Ooyama
+
+//<0025> 「Oh! Amnesic Boy-kun!」
+<0025> 「Oh! Amnesic Boy-kun!」
+
+//<0026> Ooyama
+<0026> Ooyama
+
+//<0027> 「Oh! Onsoku-kun!」
+<0027> 「Oh! Onsoku-kun!」
+
+//<0028> Ooyama
+<0028> Ooyama
+
+//<0029> 「Oh! Mugen-kun!」
+<0029> 「Oh! Mugen-kun!」
+
+//<0030> Ooyama
+<0030> Ooyama
+
+//<0031> 「Oh! Otonashi-kun!」
+<0031> 「Oh! Otonashi-kun!」
+
+//<0032> Ooyamaの持つ荷物を見て、良心の呵責を覚える…。
+<0032> Looking at the luggage Ooyama was carrying, I felt a pang of guilt.
+
+//<0033> Otonashi
+<0033> Otonashi
+
+//<0034> Shitty Brat
+<0034> Shitty Brat
+
+//<0035> Attorney
+<0035> Attorney
+
+//<0036> Super Iffy Hottie
+<0036> Super Iffy Hottie
+
+//<0037> Lolicon
+<0037> Lolicon
+
+//<0038> Glasses Buddy
+<0038> Glasses Buddy
+
+//<0039> Japan's Mental Math Record Holder
+<0039> Japan's Mental Math Record Holder
+
+//<0040> Slasher
+<0040> Slasher
+
+//<0041> Amnesic Boy
+<0041> Amnesic Boy
+
+//<0042> Onsoku
+<0042> Onsoku
+
+//<0043> Mugen
+<0043> Mugen
+
+//<0044> Ero Samurai
+<0044> Ero Samurai
+
+//<0045> Ero-Ero Squad Member 1
+<0045> Ero-Ero Squad Member 1
+
+//<0046> Just a Perverted Boy
+<0046> Just a Perverted Boy
+
+//<0047> Ugly Yuri
+<0047> Ugly Yuri
+
+//<0048> Depussy
+<0048> Depussy
+
+//<0049> Perverted American Dog
+<0049> Perverted American Dog
+
+//<0050> Zeus
+<0050> Zeus
+
+//<0051> Hinata mark Ⅱ
+<0051> Hinata mark Ⅱ
+
+//<0052> Dung Beetle
+<0052> Dung Beetle
+
+//<0053> Mass Produced Hinata
+<0053> Mass Produced Hinata
+
+//<0054> ？？
+<0054> ？？
+
+//<0055> 「悪いな、俺のせいで振り回して…」
+<0055> 「Sorry, It's my fault you were moved to a different room…」
+
+//<0056> nothing
+<0056> nothing
+
+//<0057> nothing
+<0057> nothing
+
+//<0058> nothing
+<0058> nothing
+
+//<0059> nothing
+<0059> nothing
+
+//<0060> nothing
+<0060> nothing
+
+//<0061> Ooyama
+<0061> Ooyama
+
+//<0062> 「いや、ルームメイトが藤巻くんなら、ぜんぜん大丈夫だよっ」
+<0062> 「I don't mind. If my roommate is Fujimaki-kun, then everything is just fine!」
+
+//<0063> Otonashi
+<0063> Otonashi
+
+//<0064> Shitty Brat
+<0064> Shitty Brat
+
+//<0065> Attorney
+<0065> Attorney
+
+//<0066> Super Iffy Hottie
+<0066> Super Iffy Hottie
+
+//<0067> Lolicon
+<0067> Lolicon
+
+//<0068> Glasses Buddy
+<0068> Glasses Buddy
+
+//<0069> Japan's Mental Math Record Holder
+<0069> Japan's Mental Math Record Holder
+
+//<0070> Slasher
+<0070> Slasher
+
+//<0071> Amnesic Boy
+<0071> Amnesic Boy
+
+//<0072> Onsoku
+<0072> Onsoku
+
+//<0073> Mugen
+<0073> Mugen
+
+//<0074> Ero Samurai
+<0074> Ero Samurai
+
+//<0075> Ero-Ero Squad Member 1
+<0075> Ero-Ero Squad Member 1
+
+//<0076> Just a Perverted Boy
+<0076> Just a Perverted Boy
+
+//<0077> Ugly Yuri
+<0077> Ugly Yuri
+
+//<0078> Depussy
+<0078> Depussy
+
+//<0079> Perverted American Dog
+<0079> Perverted American Dog
+
+//<0080> Zeus
+<0080> Zeus
+
+//<0081> Hinata mark Ⅱ
+<0081> Hinata mark Ⅱ
+
+//<0082> Dung Beetle
+<0082> Dung Beetle
+
+//<0083> Mass Produced Hinata
+<0083> Mass Produced Hinata
+
+//<0084> ？？
+<0084> ？？
+
+//<0085> 「そっか…。ならよかった」
+<0085> 「I see… That's a relief.」
+
+//<0086> nothing
+<0086> nothing
+
+//<0087> nothing
+<0087> nothing
+
+//<0088> nothing
+<0088> nothing
+
+//<0089> nothing
+<0089> nothing
+
+//<0090> nothing
+<0090> nothing
+
+//<0091> Ooyama
+<0091> Ooyama
+
+//<0092> 「日向くんは面倒見がいいからねー。日向くんらしいよっ」
+<0092> 「Hinata-kun's good at looking after people. It's not surprising things turned out this way.」
+
+//<0093> それは、ホモだからか…。
+<0093> Well, he's gay after all…
+
+//<0094> nothing
+<0094> nothing
+
+//<0095> nothing
+<0095> nothing
+
+//<0096> nothing
+<0096> nothing
+
+//<0097> nothing
+<0097> nothing
+
+//<0098> nothing
+<0098> nothing
+
+//<0099> Ooyama
+<0099> Ooyama
+
+//<0100> 「え？　どうしたの、そんな不安そうな顔して？」
+<0100> 「Huh? What's wrong? Why do you have such a uneasy expression on your face?」
+
+//<0101> Otonashi
+<0101> Otonashi
+
+//<0102> Shitty Brat
+<0102> Shitty Brat
+
+//<0103> Attorney
+<0103> Attorney
+
+//<0104> Super Iffy Hottie
+<0104> Super Iffy Hottie
+
+//<0105> Lolicon
+<0105> Lolicon
+
+//<0106> Glasses Buddy
+<0106> Glasses Buddy
+
+//<0107> Japan's Mental Math Record Holder
+<0107> Japan's Mental Math Record Holder
+
+//<0108> Slasher
+<0108> Slasher
+
+//<0109> Amnesic Boy
+<0109> Amnesic Boy
+
+//<0110> Onsoku
+<0110> Onsoku
+
+//<0111> Mugen
+<0111> Mugen
+
+//<0112> Ero Samurai
+<0112> Ero Samurai
+
+//<0113> Ero-Ero Squad Member 1
+<0113> Ero-Ero Squad Member 1
+
+//<0114> Just a Perverted Boy
+<0114> Just a Perverted Boy
+
+//<0115> Ugly Yuri
+<0115> Ugly Yuri
+
+//<0116> Depussy
+<0116> Depussy
+
+//<0117> Perverted American Dog
+<0117> Perverted American Dog
+
+//<0118> Zeus
+<0118> Zeus
+
+//<0119> Hinata mark Ⅱ
+<0119> Hinata mark Ⅱ
+
+//<0120> Dung Beetle
+<0120> Dung Beetle
+
+//<0121> Mass Produced Hinata
+<0121> Mass Produced Hinata
+
+//<0122> ？？
+<0122> ？？
+
+//<0123> 「Attorneyだけに、誰の代理なのか気になってさ…」
+<0123> 「I might be an attorney, but I have no idea whose attorney I am…」
+
+//<0124> nothing
+<0124> nothing
+
+//<0125> nothing
+<0125> nothing
+
+//<0126> nothing
+<0126> nothing
+
+//<0127> nothing
+<0127> nothing
+
+//<0128> nothing
+<0128> nothing
+
+//<0129> Ooyama
+<0129> Ooyama
+
+//<0130> 「I think your uneasiness is because your memories haven't returned yet.」
+<0130> 「I think your uneasiness is because your memories haven't returned yet.」
+
+//<0131> Otonashi
+<0131> Otonashi
+
+//<0132> Shitty Brat
+<0132> Shitty Brat
+
+//<0133> Attorney
+<0133> Attorney
+
+//<0134> Super Iffy Hottie
+<0134> Super Iffy Hottie
+
+//<0135> Lolicon
+<0135> Lolicon
+
+//<0136> Glasses Buddy
+<0136> Glasses Buddy
+
+//<0137> Japan's Mental Math Record Holder
+<0137> Japan's Mental Math Record Holder
+
+//<0138> Slasher
+<0138> Slasher
+
+//<0139> Amnesic Boy
+<0139> Amnesic Boy
+
+//<0140> Onsoku
+<0140> Onsoku
+
+//<0141> Mugen
+<0141> Mugen
+
+//<0142> Ero Samurai
+<0142> Ero Samurai
+
+//<0143> Ero-Ero Squad Member 1
+<0143> Ero-Ero Squad Member 1
+
+//<0144> Just a Perverted Boy
+<0144> Just a Perverted Boy
+
+//<0145> Ugly Yuri
+<0145> Ugly Yuri
+
+//<0146> Depussy
+<0146> Depussy
+
+//<0147> Perverted American Dog
+<0147> Perverted American Dog
+
+//<0148> Zeus
+<0148> Zeus
+
+//<0149> Hinata mark Ⅱ
+<0149> Hinata mark Ⅱ
+
+//<0150> Dung Beetle
+<0150> Dung Beetle
+
+//<0151> Mass Produced Hinata
+<0151> Mass Produced Hinata
+
+//<0152> ？？
+<0152> ？？
+
+//<0153> 「ならいいけどな…」
+<0153> 「I hope that's the case…」
+
+//<0154> Otonashi
+<0154> Otonashi
+
+//<0155> Shitty Brat
+<0155> Shitty Brat
+
+//<0156> Attorney
+<0156> Attorney
+
+//<0157> Super Iffy Hottie
+<0157> Super Iffy Hottie
+
+//<0158> Lolicon
+<0158> Lolicon
+
+//<0159> Glasses Buddy
+<0159> Glasses Buddy
+
+//<0160> Japan's Mental Math Record Holder
+<0160> Japan's Mental Math Record Holder
+
+//<0161> Slasher
+<0161> Slasher
+
+//<0162> Amnesic Boy
+<0162> Amnesic Boy
+
+//<0163> Onsoku
+<0163> Onsoku
+
+//<0164> Mugen
+<0164> Mugen
+
+//<0165> Ero Samurai
+<0165> Ero Samurai
+
+//<0166> Ero-Ero Squad Member 1
+<0166> Ero-Ero Squad Member 1
+
+//<0167> Just a Perverted Boy
+<0167> Just a Perverted Boy
+
+//<0168> Ugly Yuri
+<0168> Ugly Yuri
+
+//<0169> Depussy
+<0169> Depussy
+
+//<0170> Perverted American Dog
+<0170> Perverted American Dog
+
+//<0171> Zeus
+<0171> Zeus
+
+//<0172> Hinata mark Ⅱ
+<0172> Hinata mark Ⅱ
+
+//<0173> Dung Beetle
+<0173> Dung Beetle
+
+//<0174> Mass Produced Hinata
+<0174> Mass Produced Hinata
+
+//<0175> ？？
+<0175> ？？
+
+//<0176>  Mugen…何 Mugenなのかわからないからさ…」
+<0176> Infinite… I have no idea what is infinite…」
+
+//<0177> nothing
+<0177> nothing
+
+//<0178> nothing
+<0178> nothing
+
+//<0179> nothing
+<0179> nothing
+
+//<0180> nothing
+<0180> nothing
+
+//<0181> nothing
+<0181> nothing
+
+//<0182> Ooyama
+<0182> Ooyama
+
+//<0183> 「I think your uneasiness is because your memories haven't returned yet.」
+<0183> 「I think your uneasiness is because your memories haven't returned yet.」
+
+//<0184> Otonashi
+<0184> Otonashi
+
+//<0185> Shitty Brat
+<0185> Shitty Brat
+
+//<0186> Attorney
+<0186> Attorney
+
+//<0187> Super Iffy Hottie
+<0187> Super Iffy Hottie
+
+//<0188> Lolicon
+<0188> Lolicon
+
+//<0189> Glasses Buddy
+<0189> Glasses Buddy
+
+//<0190> Japan's Mental Math Record Holder
+<0190> Japan's Mental Math Record Holder
+
+//<0191> Slasher
+<0191> Slasher
+
+//<0192> Amnesic Boy
+<0192> Amnesic Boy
+
+//<0193> Onsoku
+<0193> Onsoku
+
+//<0194> Mugen
+<0194> Mugen
+
+//<0195> Ero Samurai
+<0195> Ero Samurai
+
+//<0196> Ero-Ero Squad Member 1
+<0196> Ero-Ero Squad Member 1
+
+//<0197> Just a Perverted Boy
+<0197> Just a Perverted Boy
+
+//<0198> Ugly Yuri
+<0198> Ugly Yuri
+
+//<0199> Depussy
+<0199> Depussy
+
+//<0200> Perverted American Dog
+<0200> Perverted American Dog
+
+//<0201> Zeus
+<0201> Zeus
+
+//<0202> Hinata mark Ⅱ
+<0202> Hinata mark Ⅱ
+
+//<0203> Dung Beetle
+<0203> Dung Beetle
+
+//<0204> Mass Produced Hinata
+<0204> Mass Produced Hinata
+
+//<0205> ？？
+<0205> ？？
+
+//<0206> 「ならいいけどな…」
+<0206> 「I hope that's the case…」
+
+//<0207> Otonashi
+<0207> Otonashi
+
+//<0208> Shitty Brat
+<0208> Shitty Brat
+
+//<0209> Attorney
+<0209> Attorney
+
+//<0210> Super Iffy Hottie
+<0210> Super Iffy Hottie
+
+//<0211> Lolicon
+<0211> Lolicon
+
+//<0212> Glasses Buddy
+<0212> Glasses Buddy
+
+//<0213> Japan's Mental Math Record Holder
+<0213> Japan's Mental Math Record Holder
+
+//<0214> Slasher
+<0214> Slasher
+
+//<0215> Amnesic Boy
+<0215> Amnesic Boy
+
+//<0216> Onsoku
+<0216> Onsoku
+
+//<0217> Mugen
+<0217> Mugen
+
+//<0218> Ero Samurai
+<0218> Ero Samurai
+
+//<0219> Ero-Ero Squad Member 1
+<0219> Ero-Ero Squad Member 1
+
+//<0220> Just a Perverted Boy
+<0220> Just a Perverted Boy
+
+//<0221> Ugly Yuri
+<0221> Ugly Yuri
+
+//<0222> Depussy
+<0222> Depussy
+
+//<0223> Perverted American Dog
+<0223> Perverted American Dog
+
+//<0224> Zeus
+<0224> Zeus
+
+//<0225> Hinata mark Ⅱ
+<0225> Hinata mark Ⅱ
+
+//<0226> Dung Beetle
+<0226> Dung Beetle
+
+//<0227> Mass Produced Hinata
+<0227> Mass Produced Hinata
+
+//<0228> ？？
+<0228> ？？
+
+//<0229> 「そう見えるか…？」
+<0229> 「Do I…?」
+
+//<0230> nothing
+<0230> nothing
+
+//<0231> nothing
+<0231> nothing
+
+//<0232> nothing
+<0232> nothing
+
+//<0233> nothing
+<0233> nothing
+
+//<0234> nothing
+<0234> nothing
+
+//<0235> Ooyama
+<0235> Ooyama
+
+//<0236> 「うん。でも日向くんはとても優しいよ。いきなり無理なんかさせないよ。安心して」
+<0236> 「Yes. But don't worry. Hinata-kun is a very kind person. He won't be hard on you all of a sudden.」
+
+//<0237> それは、開発の課程を言っているのだろうか…。
+<0237> Is he saying that because he's been with him for ages…?
+
+//<0238> 余計に不安になってくる…。
+<0238> I'm feeling even more uneasy now…
+
+//<0239> Otonashi
+<0239> Otonashi
+
+//<0240> Shitty Brat
+<0240> Shitty Brat
+
+//<0241> Attorney
+<0241> Attorney
+
+//<0242> Super Iffy Hottie
+<0242> Super Iffy Hottie
+
+//<0243> Lolicon
+<0243> Lolicon
+
+//<0244> Glasses Buddy
+<0244> Glasses Buddy
+
+//<0245> Japan's Mental Math Record Holder
+<0245> Japan's Mental Math Record Holder
+
+//<0246> Slasher
+<0246> Slasher
+
+//<0247> Amnesic Boy
+<0247> Amnesic Boy
+
+//<0248> Onsoku
+<0248> Onsoku
+
+//<0249> Mugen
+<0249> Mugen
+
+//<0250> Ero Samurai
+<0250> Ero Samurai
+
+//<0251> Ero-Ero Squad Member 1
+<0251> Ero-Ero Squad Member 1
+
+//<0252> Just a Perverted Boy
+<0252> Just a Perverted Boy
+
+//<0253> Ugly Yuri
+<0253> Ugly Yuri
+
+//<0254> Depussy
+<0254> Depussy
+
+//<0255> Perverted American Dog
+<0255> Perverted American Dog
+
+//<0256> Zeus
+<0256> Zeus
+
+//<0257> Hinata mark Ⅱ
+<0257> Hinata mark Ⅱ
+
+//<0258> Dung Beetle
+<0258> Dung Beetle
+
+//<0259> Mass Produced Hinata
+<0259> Mass Produced Hinata
+
+//<0260> ？？
+<0260> ？？
+
+//<0261> 「あ、ああ…」
+<0261> 「Yeah…」
+
+//<0262> 最後になんとか作り笑いを返した。
+<0262> I somehow managed to give him a smile.
+
+//<0263> Otonashi
+<0263> Otonashi
+
+//<0264> Shitty Brat
+<0264> Shitty Brat
+
+//<0265> Attorney
+<0265> Attorney
+
+//<0266> Super Iffy Hottie
+<0266> Super Iffy Hottie
+
+//<0267> Lolicon
+<0267> Lolicon
+
+//<0268> Glasses Buddy
+<0268> Glasses Buddy
+
+//<0269> Japan's Mental Math Record Holder
+<0269> Japan's Mental Math Record Holder
+
+//<0270> Slasher
+<0270> Slasher
+
+//<0271> Amnesic Boy
+<0271> Amnesic Boy
+
+//<0272> Onsoku
+<0272> Onsoku
+
+//<0273> Mugen
+<0273> Mugen
+
+//<0274> Ero Samurai
+<0274> Ero Samurai
+
+//<0275> Ero-Ero Squad Member 1
+<0275> Ero-Ero Squad Member 1
+
+//<0276> Just a Perverted Boy
+<0276> Just a Perverted Boy
+
+//<0277> Ugly Yuri
+<0277> Ugly Yuri
+
+//<0278> Depussy
+<0278> Depussy
+
+//<0279> Perverted American Dog
+<0279> Perverted American Dog
+
+//<0280> Zeus
+<0280> Zeus
+
+//<0281> Hinata mark Ⅱ
+<0281> Hinata mark Ⅱ
+
+//<0282> Dung Beetle
+<0282> Dung Beetle
+
+//<0283> Mass Produced Hinata
+<0283> Mass Produced Hinata
+
+//<0284> ？？
+<0284> ？？
+
+//<0285> 「だな…」
+<0285> 「I guess so…」
+
+//<0286> nothing
+<0286> nothing
+
+//<0287> nothing
+<0287> nothing
+
+//<0288> nothing
+<0288> nothing
+
+//<0289> nothing
+<0289> nothing
+
+//<0290> nothing
+<0290> nothing
+
+//<0291> Ooyama
+<0291> Ooyama
+
+//<0292> 「Then, I'll be going! A lot of things might happen, but good luck, Shitty Brat-kun!」
+<0292> 「Then, I'll be going! A lot of things might happen, but good luck, Shitty Brat-kun!」
+
+//<0293> Ooyama
+<0293> Ooyama
+
+//<0294> 「Then, I'll be going! A lot of things might happen, but good luck, Attorney!」
+<0294> 「Then, I'll be going! A lot of things might happen, but good luck, Attorney!」
+
+//<0295> Ooyama
+<0295> Ooyama
+
+//<0296> 「Then, I'll be going! A lot of things might happen, but good luck, Super Iffy Hottie-kun!」
+<0296> 「Then, I'll be going! A lot of things might happen, but good luck, Super Iffy Hottie-kun!」
+
+//<0297> Ooyama
+<0297> Ooyama
+
+//<0298> 「Then, I'll be going! A lot of things might happen, but good luck, Lolicon-kun!」
+<0298> 「Then, I'll be going! A lot of things might happen, but good luck, Lolicon-kun!」
+
+//<0299> Ooyama
+<0299> Ooyama
+
+//<0300> 「Then, I'll be going! A lot of things might happen, but good luck, Glasses Buddy-kun!」
+<0300> 「Then, I'll be going! A lot of things might happen, but good luck, Glasses Buddy-kun!」
+
+//<0301> Ooyama
+<0301> Ooyama
+
+//<0302> 「Then, I'll be going! A lot of things might happen, but good luck, Japan's Mental Math Record Holder-kun!」
+<0302> 「Then, I'll be going! A lot of things might happen, but good luck, Japan's Mental Math Record Holder-kun!」
+
+//<0303> Ooyama
+<0303> Ooyama
+
+//<0304> 「Then, I'll be going! A lot of things might happen, but good luck, Slasher-kun!」
+<0304> 「Then, I'll be going! A lot of things might happen, but good luck, Slasher-kun!」
+
+//<0305> Ooyama
+<0305> Ooyama
+
+//<0306> 「Then, I'll be going! A lot of things might happen, but good luck, Amnesic Boy-kun!」
+<0306> 「Then, I'll be going! A lot of things might happen, but good luck, Amnesic Boy-kun!」
+
+//<0307> Ooyama
+<0307> Ooyama
+
+//<0308> 「Then, I'll be going! A lot of things might happen, but good luck, Onsoku-kun!」
+<0308> 「Then, I'll be going! A lot of things might happen, but good luck, Onsoku-kun!」
+
+//<0309> Ooyama
+<0309> Ooyama
+
+//<0310> 「Then, I'll be going! A lot of things might happen, but good luck, Otonashi-kun!」
+<0310> 「Then, I'll be going! A lot of things might happen, but good luck, Otonashi-kun!」
+
+//<0311> Ooyama
+<0311> Ooyama
+
+//<0312> 「Then, I'll be going! A lot of things might happen, but good luck, Mugen-kun!」
+<0312> 「Then, I'll be going! A lot of things might happen, but good luck, Mugen-kun!」
+
+//<0313> Otonashi
+<0313> Otonashi
+
+//<0314> Shitty Brat
+<0314> Shitty Brat
+
+//<0315> Attorney
+<0315> Attorney
+
+//<0316> Super Iffy Hottie
+<0316> Super Iffy Hottie
+
+//<0317> Lolicon
+<0317> Lolicon
+
+//<0318> Glasses Buddy
+<0318> Glasses Buddy
+
+//<0319> Japan's Mental Math Record Holder
+<0319> Japan's Mental Math Record Holder
+
+//<0320> Slasher
+<0320> Slasher
+
+//<0321> Amnesic Boy
+<0321> Amnesic Boy
+
+//<0322> Onsoku
+<0322> Onsoku
+
+//<0323> Mugen
+<0323> Mugen
+
+//<0324> Ero Samurai
+<0324> Ero Samurai
+
+//<0325> Ero-Ero Squad Member 1
+<0325> Ero-Ero Squad Member 1
+
+//<0326> Just a Perverted Boy
+<0326> Just a Perverted Boy
+
+//<0327> Ugly Yuri
+<0327> Ugly Yuri
+
+//<0328> Depussy
+<0328> Depussy
+
+//<0329> Perverted American Dog
+<0329> Perverted American Dog
+
+//<0330> Zeus
+<0330> Zeus
+
+//<0331> Hinata mark Ⅱ
+<0331> Hinata mark Ⅱ
+
+//<0332> Dung Beetle
+<0332> Dung Beetle
+
+//<0333> Mass Produced Hinata
+<0333> Mass Produced Hinata
+
+//<0334> ？？
+<0334> ？？
+
+//<0335> 「ああ」
+<0335> 「Thanks.」
+
+//<0336> nothing
+<0336> nothing
+
+//<0337> nothing
+<0337> nothing
+
+//<0338> nothing
+<0338> nothing
+
+//<0339> nothing
+<0339> nothing
+
+//<0340> nothing
+<0340> nothing
+
+//<0341> Ooyamaが立ち去る。
+<0341> Ooyama left.
+
+//<0342> dummy
+<0342> dummy
+
+//<0343> ep03_bg032
+<0343> ep03_bg032
+
+//<0344> oy0301_03
+<0344> oy0301_03
+
+//<0345> oy0101_02
+<0345> oy0101_02
+
+//<0346> oy0102
+<0346> oy0102
+
+//<0347> oy0107
+<0347> oy0107
+
+//<0348> oy0107_10
+<0348> oy0107_10
+
+//<0349> oy0107_10
+<0349> oy0107_10
+
+//<0350> oy0102
+<0350> oy0102
+
+//<0351> oy0303
+<0351> oy0303
+
+//<0352> oy999900l2
+<0352> oy999900l2
+

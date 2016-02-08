@@ -1,0 +1,7178 @@
+// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> 傾斜がかった、森へ踏み入る。
+<0000> I stumbled into a forest with a steep slope.
+
+//<0001> しばらく歩くと、開けた場所に出た。
+<0001> After walking for a while, I found an empty area.
+
+//<0002> nothing
+<0002> nothing
+
+//<0003> nothing
+<0003> nothing
+
+//<0004> nothing
+<0004> nothing
+
+//<0005> nothing
+<0005> nothing
+
+//<0006> nothing
+<0006> nothing
+
+//<0007> Matsushita
+<0007> Matsushita
+
+//<0008> 「…ひゃくじゅうさん！　…ひゃくじゅうよん！」
+<0008> 「…103! …104!」
+
+//<0009> 巨木に帯を巻きつけ、それを使って背負いの打ち込みを延々と続けている柔道着を着たMatsushita五段の姿が。
+<0009> I could see Matsushita, who was wearing a judo uniform, and had his sash coiled around a gigantic tree, putting his heart into training.
+
+//<0010> Hinata
+<0010> Hinata
+
+//<0011> Boy B
+<0011> Boy B
+
+//<0012> Super Horny Squad Member 1
+<0012> Super Horny Squad Member 1
+
+//<0013> Handsome-chin
+<0013> Handsome-chin
+
+//<0014> Homota
+<0014> Homota
+
+//<0015> Hina-chin
+<0015> Hina-chin
+
+//<0016> Hideki
+<0016> Hideki
+
+//<0017> 男子生徒
+<0017> 男子生徒
+
+//<0018> ？？
+<0018> ？？
+
+//<0019> 「よう、Matsushita五段！」
+<0019> 「Yo, Matsushita the 5th!」
+
+//<0020> nothing
+<0020> nothing
+
+//<0021> nothing
+<0021> nothing
+
+//<0022> nothing
+<0022> nothing
+
+//<0023> nothing
+<0023> nothing
+
+//<0024> nothing
+<0024> nothing
+
+//<0025> Matsushita
+<0025> Matsushita
+
+//<0026> 「ん？　なんの用だ？」
+<0026> 「Hm? What do you need?」
+
+//<0027> Hinata
+<0027> Hinata
+
+//<0028> Boy B
+<0028> Boy B
+
+//<0029> Super Horny Squad Member 1
+<0029> Super Horny Squad Member 1
+
+//<0030> Handsome-chin
+<0030> Handsome-chin
+
+//<0031> Homota
+<0031> Homota
+
+//<0032> Hina-chin
+<0032> Hina-chin
+
+//<0033> Hideki
+<0033> Hideki
+
+//<0034> 男子生徒
+<0034> 男子生徒
+
+//<0035> ？？
+<0035> ？？
+
+//<0036> 「今、こいつをいろんな場所に案内してる最中なんだ」
+<0036> 「I was showing this guy around.」
+
+//<0037> nothing
+<0037> nothing
+
+//<0038> nothing
+<0038> nothing
+
+//<0039> nothing
+<0039> nothing
+
+//<0040> nothing
+<0040> nothing
+
+//<0041> nothing
+<0041> nothing
+
+//<0042> Matsushita
+<0042> Matsushita
+
+//<0043> 「You're the newcomer, umm… Was it Shitty Bratか」
+<0043> 「You're the newcomer, umm… Was it Shitty Brat?」
+
+//<0044> nothing
+<0044> nothing
+
+//<0045> nothing
+<0045> nothing
+
+//<0046> nothing
+<0046> nothing
+
+//<0047> nothing
+<0047> nothing
+
+//<0048> nothing
+<0048> nothing
+
+//<0049> Matsushita
+<0049> Matsushita
+
+//<0050> 「You're the newcomer, umm… Was it Attorneyか」
+<0050> 「You're the newcomer, umm… Was it Attorney?」
+
+//<0051> nothing
+<0051> nothing
+
+//<0052> nothing
+<0052> nothing
+
+//<0053> nothing
+<0053> nothing
+
+//<0054> nothing
+<0054> nothing
+
+//<0055> nothing
+<0055> nothing
+
+//<0056> Matsushita
+<0056> Matsushita
+
+//<0057> 「You're the newcomer, umm… Was it Super Iffy Hottieか」
+<0057> 「You're the newcomer, umm… Was it Super Iffy Hottie?」
+
+//<0058> nothing
+<0058> nothing
+
+//<0059> nothing
+<0059> nothing
+
+//<0060> nothing
+<0060> nothing
+
+//<0061> nothing
+<0061> nothing
+
+//<0062> nothing
+<0062> nothing
+
+//<0063> Matsushita
+<0063> Matsushita
+
+//<0064> 「You're the newcomer, umm… Was it Lolicon」
+<0064> 「You're the newcomer, umm… Was it Lolicon?」
+
+//<0065> nothing
+<0065> nothing
+
+//<0066> nothing
+<0066> nothing
+
+//<0067> nothing
+<0067> nothing
+
+//<0068> nothing
+<0068> nothing
+
+//<0069> nothing
+<0069> nothing
+
+//<0070> Matsushita
+<0070> Matsushita
+
+//<0071> 「You're the newcomer, umm… Was it Glasses Buddyか」
+<0071> 「You're the newcomer, umm… Was it Glasses Buddy?」
+
+//<0072> nothing
+<0072> nothing
+
+//<0073> nothing
+<0073> nothing
+
+//<0074> nothing
+<0074> nothing
+
+//<0075> nothing
+<0075> nothing
+
+//<0076> nothing
+<0076> nothing
+
+//<0077> Matsushita
+<0077> Matsushita
+
+//<0078> 「新入りの、あーーー…」
+<0078> 「You're the newcomer, ummmmmmmm…」
+
+//<0079> nothing
+<0079> nothing
+
+//<0080> nothing
+<0080> nothing
+
+//<0081> nothing
+<0081> nothing
+
+//<0082> nothing
+<0082> nothing
+
+//<0083> nothing
+<0083> nothing
+
+//<0084> Hinata
+<0084> Hinata
+
+//<0085> Boy B
+<0085> Boy B
+
+//<0086> Super Horny Squad Member 1
+<0086> Super Horny Squad Member 1
+
+//<0087> Handsome-chin
+<0087> Handsome-chin
+
+//<0088> Homota
+<0088> Homota
+
+//<0089> Hina-chin
+<0089> Hina-chin
+
+//<0090> Hideki
+<0090> Hideki
+
+//<0091> 男子生徒
+<0091> 男子生徒
+
+//<0092> ？？
+<0092> ？？
+
+//<0093> 「Japan's Mental Math Record Holderだよ」
+<0093> 「It's Holder of Japan's Mental Math Record.」
+
+//<0094> Otonashi
+<0094> Otonashi
+
+//<0095> Shitty Brat
+<0095> Shitty Brat
+
+//<0096> Attorney
+<0096> Attorney
+
+//<0097> Super Iffy Hottie
+<0097> Super Iffy Hottie
+
+//<0098> Lolicon
+<0098> Lolicon
+
+//<0099> Glasses Buddy
+<0099> Glasses Buddy
+
+//<0100> Japan's Mental Math Record Holder
+<0100> Japan's Mental Math Record Holder
+
+//<0101> Slasher
+<0101> Slasher
+
+//<0102> Amnesic Boy
+<0102> Amnesic Boy
+
+//<0103> Onsoku
+<0103> Onsoku
+
+//<0104> Mugen
+<0104> Mugen
+
+//<0105> Horny Samurai
+<0105> Horny Samurai
+
+//<0106> Super Horny Squad Member 1
+<0106> Super Horny Squad Member 1
+
+//<0107> Horny Boy
+<0107> Horny Boy
+
+//<0108> Ugly Yuri
+<0108> Ugly Yuri
+
+//<0109> Depussy
+<0109> Depussy
+
+//<0110> Perverted American Dog
+<0110> Perverted American Dog
+
+//<0111> Zeus
+<0111> Zeus
+
+//<0112> Hinata mark Ⅱ
+<0112> Hinata mark Ⅱ
+
+//<0113> Dung Beetle
+<0113> Dung Beetle
+
+//<0114> Mass Produced Hinata
+<0114> Mass Produced Hinata
+
+//<0115> ？？
+<0115> ？？
+
+//<0116> 「違う。Japan's Mental Math Record Holderだ」
+<0116> 「You got it wrong. It's Japan's Mental Math Record Holder.」
+
+//<0117> nothing
+<0117> nothing
+
+//<0118> nothing
+<0118> nothing
+
+//<0119> nothing
+<0119> nothing
+
+//<0120> nothing
+<0120> nothing
+
+//<0121> nothing
+<0121> nothing
+
+//<0122> Hinata
+<0122> Hinata
+
+//<0123> Boy B
+<0123> Boy B
+
+//<0124> Super Horny Squad Member 1
+<0124> Super Horny Squad Member 1
+
+//<0125> Handsome-chin
+<0125> Handsome-chin
+
+//<0126> Homota
+<0126> Homota
+
+//<0127> Hina-chin
+<0127> Hina-chin
+
+//<0128> Hideki
+<0128> Hideki
+
+//<0129> 男子生徒
+<0129> 男子生徒
+
+//<0130> ？？
+<0130> ？？
+
+//<0131> 「ああ、それだ」
+<0131> 「Yeah, that was it.」
+
+//<0132> nothing
+<0132> nothing
+
+//<0133> nothing
+<0133> nothing
+
+//<0134> nothing
+<0134> nothing
+
+//<0135> nothing
+<0135> nothing
+
+//<0136> nothing
+<0136> nothing
+
+//<0137> Matsushita
+<0137> Matsushita
+
+//<0138> 「新入りのJapan's Mental Math Record Holderか」
+<0138> 「You're the newcomer, Japan's Mental Math Record Holder.」
+
+//<0139> nothing
+<0139> nothing
+
+//<0140> nothing
+<0140> nothing
+
+//<0141> nothing
+<0141> nothing
+
+//<0142> nothing
+<0142> nothing
+
+//<0143> nothing
+<0143> nothing
+
+//<0144> Matsushita
+<0144> Matsushita
+
+//<0145> 「You're the newcomer, umm… Was it Slasherか」
+<0145> 「You're the newcomer, umm… Was it Slasher?」
+
+//<0146> そんな奴が新入りでいいのだろうか…。
+<0146> Are you seriously ok with having somebody like that as a newcomer…?
+
+//<0147> nothing
+<0147> nothing
+
+//<0148> nothing
+<0148> nothing
+
+//<0149> nothing
+<0149> nothing
+
+//<0150> nothing
+<0150> nothing
+
+//<0151> nothing
+<0151> nothing
+
+//<0152> Matsushita
+<0152> Matsushita
+
+//<0153> 「You're the newcomer, umm… Was it Amnesic Boyか」
+<0153> 「You're the newcomer, umm… Was it Amnesic Boy?」
+
+//<0154> nothing
+<0154> nothing
+
+//<0155> nothing
+<0155> nothing
+
+//<0156> nothing
+<0156> nothing
+
+//<0157> nothing
+<0157> nothing
+
+//<0158> nothing
+<0158> nothing
+
+//<0159> Matsushita
+<0159> Matsushita
+
+//<0160> 「You're the newcomer, umm… Was it Onsokuか」
+<0160> 「You're the newcomer, umm… Was it Onsoku?」
+
+//<0161> nothing
+<0161> nothing
+
+//<0162> nothing
+<0162> nothing
+
+//<0163> nothing
+<0163> nothing
+
+//<0164> nothing
+<0164> nothing
+
+//<0165> nothing
+<0165> nothing
+
+//<0166> Matsushita
+<0166> Matsushita
+
+//<0167> 「You're the newcomer, umm… Was it Otonashiか」
+<0167> 「You're the newcomer, umm… Was it Otonashi?」
+
+//<0168> nothing
+<0168> nothing
+
+//<0169> nothing
+<0169> nothing
+
+//<0170> nothing
+<0170> nothing
+
+//<0171> nothing
+<0171> nothing
+
+//<0172> nothing
+<0172> nothing
+
+//<0173> Matsushita
+<0173> Matsushita
+
+//<0174> 「You're the newcomer, umm… Was it Mugenか」
+<0174> 「You're the newcomer, umm… Was it Mugen?」
+
+//<0175> Otonashi
+<0175> Otonashi
+
+//<0176> Shitty Brat
+<0176> Shitty Brat
+
+//<0177> Attorney
+<0177> Attorney
+
+//<0178> Super Iffy Hottie
+<0178> Super Iffy Hottie
+
+//<0179> Lolicon
+<0179> Lolicon
+
+//<0180> Glasses Buddy
+<0180> Glasses Buddy
+
+//<0181> Japan's Mental Math Record Holder
+<0181> Japan's Mental Math Record Holder
+
+//<0182> Slasher
+<0182> Slasher
+
+//<0183> Amnesic Boy
+<0183> Amnesic Boy
+
+//<0184> Onsoku
+<0184> Onsoku
+
+//<0185> Mugen
+<0185> Mugen
+
+//<0186> Horny Samurai
+<0186> Horny Samurai
+
+//<0187> Super Horny Squad Member 1
+<0187> Super Horny Squad Member 1
+
+//<0188> Horny Boy
+<0188> Horny Boy
+
+//<0189> Ugly Yuri
+<0189> Ugly Yuri
+
+//<0190> Depussy
+<0190> Depussy
+
+//<0191> Perverted American Dog
+<0191> Perverted American Dog
+
+//<0192> Zeus
+<0192> Zeus
+
+//<0193> Hinata mark Ⅱ
+<0193> Hinata mark Ⅱ
+
+//<0194> Dung Beetle
+<0194> Dung Beetle
+
+//<0195> Mass Produced Hinata
+<0195> Mass Produced Hinata
+
+//<0196> ？？
+<0196> ？？
+
+//<0197> 「ああ」
+<0197> 「Yeah.」
+
+//<0198> nothing
+<0198> nothing
+
+//<0199> nothing
+<0199> nothing
+
+//<0200> nothing
+<0200> nothing
+
+//<0201> nothing
+<0201> nothing
+
+//<0202> nothing
+<0202> nothing
+
+//<0203> Matsushita
+<0203> Matsushita
+
+//<0204> 「なら、乱取りをしよう」
+<0204> 「Then, let's have a randori.」
+
+//<0205> 人の声のようなものが聞こえた。
+<0205> I could hear something that resembled a person's voice.
+
+//<0206> 耳を澄ましてみる。
+<0206> I tried to focus on the sound.
+
+//<0207> …ひゃくじゅうさん！　…ひゃくじゅうよん！
+<0207> …103! …104!
+
+//<0208> 数を数えているようだ…。
+<0208> What is he counting…?
+
+//<0209> こんな森で何をしているんだろう…。
+<0209> Why is he even in this forest to begin with…?
+
+//<0210> その声が聞こえるほうへ歩いていく。
+<0210> I started walking to where the voice was coming from.
+
+//<0211> ぽっかりと開けた場所に出た。
+<0211> It was a completely open space.
+
+//<0212> nothing
+<0212> nothing
+
+//<0213> nothing
+<0213> nothing
+
+//<0214> nothing
+<0214> nothing
+
+//<0215> nothing
+<0215> nothing
+
+//<0216> nothing
+<0216> nothing
+
+//<0217> そこに居たのは、木を相手に打ち込みをするMatsushita五段だった。
+<0217> In there, I could see Matsushita the 5th pounding a log.
+
+//<0218> 戦線の制服ではなく、柔道着姿だ。
+<0218> He wasn't in his battlefront uniform, but in his judo uniform.
+
+//<0219> nothing
+<0219> nothing
+
+//<0220> nothing
+<0220> nothing
+
+//<0221> nothing
+<0221> nothing
+
+//<0222> nothing
+<0222> nothing
+
+//<0223> nothing
+<0223> nothing
+
+//<0224> Matsushita
+<0224> Matsushita
+
+//<0225> 「ひゃくにじゅうご！　ひゃくにじゅうろく！」
+<0225> 「105! 106!」
+
+//<0226> Otonashi
+<0226> Otonashi
+
+//<0227> Shitty Brat
+<0227> Shitty Brat
+
+//<0228> Attorney
+<0228> Attorney
+
+//<0229> Super Iffy Hottie
+<0229> Super Iffy Hottie
+
+//<0230> Lolicon
+<0230> Lolicon
+
+//<0231> Glasses Buddy
+<0231> Glasses Buddy
+
+//<0232> Japan's Mental Math Record Holder
+<0232> Japan's Mental Math Record Holder
+
+//<0233> Slasher
+<0233> Slasher
+
+//<0234> Amnesic Boy
+<0234> Amnesic Boy
+
+//<0235> Onsoku
+<0235> Onsoku
+
+//<0236> Mugen
+<0236> Mugen
+
+//<0237> Horny Samurai
+<0237> Horny Samurai
+
+//<0238> Super Horny Squad Member 1
+<0238> Super Horny Squad Member 1
+
+//<0239> Horny Boy
+<0239> Horny Boy
+
+//<0240> Ugly Yuri
+<0240> Ugly Yuri
+
+//<0241> Depussy
+<0241> Depussy
+
+//<0242> Perverted American Dog
+<0242> Perverted American Dog
+
+//<0243> Zeus
+<0243> Zeus
+
+//<0244> Hinata mark Ⅱ
+<0244> Hinata mark Ⅱ
+
+//<0245> Dung Beetle
+<0245> Dung Beetle
+
+//<0246> Mass Produced Hinata
+<0246> Mass Produced Hinata
+
+//<0247> ？？
+<0247> ？？
+
+//<0248> 「あのー…ちわーっす」
+<0248> 「Erm… Hey.」
+
+//<0249> なんて声をかけていいかわからず、妙な挨拶をしてしまう。
+<0249> I didn't know what to say, so I ended up giving an awkward greeting.
+
+//<0250> nothing
+<0250> nothing
+
+//<0251> nothing
+<0251> nothing
+
+//<0252> nothing
+<0252> nothing
+
+//<0253> nothing
+<0253> nothing
+
+//<0254> nothing
+<0254> nothing
+
+//<0255> Matsushita
+<0255> Matsushita
+
+//<0256> 「む…？」
+<0256> 「Huh…?」
+
+//<0257> 俺の声に気づいてくれた。
+<0257> My voice seemed to have caught his attention.
+
+//<0258> nothing
+<0258> nothing
+
+//<0259> nothing
+<0259> nothing
+
+//<0260> nothing
+<0260> nothing
+
+//<0261> nothing
+<0261> nothing
+
+//<0262> nothing
+<0262> nothing
+
+//<0263> Matsushita
+<0263> Matsushita
+
+//<0264> 「You're the newcomer, umm… Was it Shitty Bratか」
+<0264> 「You're the newcomer, umm… Was it Shitty Brat?」
+
+//<0265> nothing
+<0265> nothing
+
+//<0266> nothing
+<0266> nothing
+
+//<0267> nothing
+<0267> nothing
+
+//<0268> nothing
+<0268> nothing
+
+//<0269> nothing
+<0269> nothing
+
+//<0270> Matsushita
+<0270> Matsushita
+
+//<0271> 「You're the newcomer, umm… Was it Attorneyか」
+<0271> 「You're the newcomer, umm… Was it Attorney?」
+
+//<0272> nothing
+<0272> nothing
+
+//<0273> nothing
+<0273> nothing
+
+//<0274> nothing
+<0274> nothing
+
+//<0275> nothing
+<0275> nothing
+
+//<0276> nothing
+<0276> nothing
+
+//<0277> Matsushita
+<0277> Matsushita
+
+//<0278> 「You're the newcomer, umm… Was it Super Iffy Hottieか」
+<0278> 「You're the newcomer, umm… Was it Super Iffy Hottie?」
+
+//<0279> nothing
+<0279> nothing
+
+//<0280> nothing
+<0280> nothing
+
+//<0281> nothing
+<0281> nothing
+
+//<0282> nothing
+<0282> nothing
+
+//<0283> nothing
+<0283> nothing
+
+//<0284> Matsushita
+<0284> Matsushita
+
+//<0285> 「You're the newcomer, umm… Was it Loliconか」
+<0285> 「You're the newcomer, umm… Was it Lolicon?」
+
+//<0286> nothing
+<0286> nothing
+
+//<0287> nothing
+<0287> nothing
+
+//<0288> nothing
+<0288> nothing
+
+//<0289> nothing
+<0289> nothing
+
+//<0290> nothing
+<0290> nothing
+
+//<0291> Matsushita
+<0291> Matsushita
+
+//<0292> 「You're the newcomer, umm… Was it Glasses Buddyか」
+<0292> 「You're the newcomer, umm… Was it Glasses Buddy?」
+
+//<0293> nothing
+<0293> nothing
+
+//<0294> nothing
+<0294> nothing
+
+//<0295> nothing
+<0295> nothing
+
+//<0296> nothing
+<0296> nothing
+
+//<0297> nothing
+<0297> nothing
+
+//<0298> Matsushita
+<0298> Matsushita
+
+//<0299> 「You're the newcomer, umm… Was it えーーーと…」
+<0299> 「You're the newcomer, umm… What was it again…?」
+
+//<0300> Otonashi
+<0300> Otonashi
+
+//<0301> Shitty Brat
+<0301> Shitty Brat
+
+//<0302> Attorney
+<0302> Attorney
+
+//<0303> Super Iffy Hottie
+<0303> Super Iffy Hottie
+
+//<0304> Lolicon
+<0304> Lolicon
+
+//<0305> Glasses Buddy
+<0305> Glasses Buddy
+
+//<0306> Japan's Mental Math Record Holder
+<0306> Japan's Mental Math Record Holder
+
+//<0307> Slasher
+<0307> Slasher
+
+//<0308> Amnesic Boy
+<0308> Amnesic Boy
+
+//<0309> Onsoku
+<0309> Onsoku
+
+//<0310> Mugen
+<0310> Mugen
+
+//<0311> Horny Samurai
+<0311> Horny Samurai
+
+//<0312> Super Horny Squad Member 1
+<0312> Super Horny Squad Member 1
+
+//<0313> Horny Boy
+<0313> Horny Boy
+
+//<0314> Ugly Yuri
+<0314> Ugly Yuri
+
+//<0315> Depussy
+<0315> Depussy
+
+//<0316> Perverted American Dog
+<0316> Perverted American Dog
+
+//<0317> Zeus
+<0317> Zeus
+
+//<0318> Hinata mark Ⅱ
+<0318> Hinata mark Ⅱ
+
+//<0319> Dung Beetle
+<0319> Dung Beetle
+
+//<0320> Mass Produced Hinata
+<0320> Mass Produced Hinata
+
+//<0321> ？？
+<0321> ？？
+
+//<0322> 「Japan's Mental Math Record Holder」
+<0322> 「It's Japan's Mental Math Record Holder.」
+
+//<0323> nothing
+<0323> nothing
+
+//<0324> nothing
+<0324> nothing
+
+//<0325> nothing
+<0325> nothing
+
+//<0326> nothing
+<0326> nothing
+
+//<0327> nothing
+<0327> nothing
+
+//<0328> Matsushita
+<0328> Matsushita
+
+//<0329> 「そう、新入りのJapan's Mental Math Record Holderか」
+<0329> 「Oh yeah, was it Japan's Mental Math Record Holder?」
+
+//<0330> nothing
+<0330> nothing
+
+//<0331> nothing
+<0331> nothing
+
+//<0332> nothing
+<0332> nothing
+
+//<0333> nothing
+<0333> nothing
+
+//<0334> nothing
+<0334> nothing
+
+//<0335> Matsushita
+<0335> Matsushita
+
+//<0336> 「You're the newcomer, umm… Was it Slasherか」
+<0336> 「You're the newcomer, umm… Was it Slasher?」
+
+//<0337> nothing
+<0337> nothing
+
+//<0338> nothing
+<0338> nothing
+
+//<0339> nothing
+<0339> nothing
+
+//<0340> nothing
+<0340> nothing
+
+//<0341> nothing
+<0341> nothing
+
+//<0342> Matsushita
+<0342> Matsushita
+
+//<0343> 「You're the newcomer, umm… Was it Amnesic Boyか」
+<0343> 「You're the newcomer, umm… Was it Amnesic Boy?」
+
+//<0344> nothing
+<0344> nothing
+
+//<0345> nothing
+<0345> nothing
+
+//<0346> nothing
+<0346> nothing
+
+//<0347> nothing
+<0347> nothing
+
+//<0348> nothing
+<0348> nothing
+
+//<0349> Matsushita
+<0349> Matsushita
+
+//<0350> 「You're the newcomer, umm… Was it Onsokuか」
+<0350> 「You're the newcomer, umm… Was it Onsoku?」
+
+//<0351> nothing
+<0351> nothing
+
+//<0352> nothing
+<0352> nothing
+
+//<0353> nothing
+<0353> nothing
+
+//<0354> nothing
+<0354> nothing
+
+//<0355> nothing
+<0355> nothing
+
+//<0356> Matsushita
+<0356> Matsushita
+
+//<0357> 「You're the newcomer, umm… Was it Mugenか」
+<0357> 「You're the newcomer, umm… Was it Mugen?」
+
+//<0358> nothing
+<0358> nothing
+
+//<0359> nothing
+<0359> nothing
+
+//<0360> nothing
+<0360> nothing
+
+//<0361> nothing
+<0361> nothing
+
+//<0362> nothing
+<0362> nothing
+
+//<0363> Matsushita
+<0363> Matsushita
+
+//<0364> 「You're the newcomer, umm… Was it Otonashiか」
+<0364> 「You're the newcomer, umm… Was it Otonashi?」
+
+//<0365> Otonashi
+<0365> Otonashi
+
+//<0366> Shitty Brat
+<0366> Shitty Brat
+
+//<0367> Attorney
+<0367> Attorney
+
+//<0368> Super Iffy Hottie
+<0368> Super Iffy Hottie
+
+//<0369> Lolicon
+<0369> Lolicon
+
+//<0370> Glasses Buddy
+<0370> Glasses Buddy
+
+//<0371> Japan's Mental Math Record Holder
+<0371> Japan's Mental Math Record Holder
+
+//<0372> Slasher
+<0372> Slasher
+
+//<0373> Amnesic Boy
+<0373> Amnesic Boy
+
+//<0374> Onsoku
+<0374> Onsoku
+
+//<0375> Mugen
+<0375> Mugen
+
+//<0376> Horny Samurai
+<0376> Horny Samurai
+
+//<0377> Super Horny Squad Member 1
+<0377> Super Horny Squad Member 1
+
+//<0378> Horny Boy
+<0378> Horny Boy
+
+//<0379> Ugly Yuri
+<0379> Ugly Yuri
+
+//<0380> Depussy
+<0380> Depussy
+
+//<0381> Perverted American Dog
+<0381> Perverted American Dog
+
+//<0382> Zeus
+<0382> Zeus
+
+//<0383> Hinata mark Ⅱ
+<0383> Hinata mark Ⅱ
+
+//<0384> Dung Beetle
+<0384> Dung Beetle
+
+//<0385> Mass Produced Hinata
+<0385> Mass Produced Hinata
+
+//<0386> ？？
+<0386> ？？
+
+//<0387> 「いや、今の俺はHorny Boyだ」
+<0387> 「No, nowm I'm Horny Boy.」
+
+//<0388> nothing
+<0388> nothing
+
+//<0389> nothing
+<0389> nothing
+
+//<0390> nothing
+<0390> nothing
+
+//<0391> nothing
+<0391> nothing
+
+//<0392> nothing
+<0392> nothing
+
+//<0393> Matsushita
+<0393> Matsushita
+
+//<0394> 「む？　意味がわからん」
+<0394> 「Hmm? What do you mean?」
+
+//<0395> Otonashi
+<0395> Otonashi
+
+//<0396> Shitty Brat
+<0396> Shitty Brat
+
+//<0397> Attorney
+<0397> Attorney
+
+//<0398> Super Iffy Hottie
+<0398> Super Iffy Hottie
+
+//<0399> Lolicon
+<0399> Lolicon
+
+//<0400> Glasses Buddy
+<0400> Glasses Buddy
+
+//<0401> Japan's Mental Math Record Holder
+<0401> Japan's Mental Math Record Holder
+
+//<0402> Slasher
+<0402> Slasher
+
+//<0403> Amnesic Boy
+<0403> Amnesic Boy
+
+//<0404> Onsoku
+<0404> Onsoku
+
+//<0405> Mugen
+<0405> Mugen
+
+//<0406> Horny Samurai
+<0406> Horny Samurai
+
+//<0407> Super Horny Squad Member 1
+<0407> Super Horny Squad Member 1
+
+//<0408> Horny Boy
+<0408> Horny Boy
+
+//<0409> Ugly Yuri
+<0409> Ugly Yuri
+
+//<0410> Depussy
+<0410> Depussy
+
+//<0411> Perverted American Dog
+<0411> Perverted American Dog
+
+//<0412> Zeus
+<0412> Zeus
+
+//<0413> Hinata mark Ⅱ
+<0413> Hinata mark Ⅱ
+
+//<0414> Dung Beetle
+<0414> Dung Beetle
+
+//<0415> Mass Produced Hinata
+<0415> Mass Produced Hinata
+
+//<0416> ？？
+<0416> ？？
+
+//<0417> 「意味っつーか…ま、いいや」
+<0417> 「The meaning…? There isn't really one…」
+
+//<0418> nothing
+<0418> nothing
+
+//<0419> nothing
+<0419> nothing
+
+//<0420> nothing
+<0420> nothing
+
+//<0421> nothing
+<0421> nothing
+
+//<0422> nothing
+<0422> nothing
+
+//<0423> Matsushita
+<0423> Matsushita
+
+//<0424> 「そうか」
+<0424> 「I see…」
+
+//<0425> Otonashi
+<0425> Otonashi
+
+//<0426> Shitty Brat
+<0426> Shitty Brat
+
+//<0427> Attorney
+<0427> Attorney
+
+//<0428> Super Iffy Hottie
+<0428> Super Iffy Hottie
+
+//<0429> Lolicon
+<0429> Lolicon
+
+//<0430> Glasses Buddy
+<0430> Glasses Buddy
+
+//<0431> Japan's Mental Math Record Holder
+<0431> Japan's Mental Math Record Holder
+
+//<0432> Slasher
+<0432> Slasher
+
+//<0433> Amnesic Boy
+<0433> Amnesic Boy
+
+//<0434> Onsoku
+<0434> Onsoku
+
+//<0435> Mugen
+<0435> Mugen
+
+//<0436> Horny Samurai
+<0436> Horny Samurai
+
+//<0437> Super Horny Squad Member 1
+<0437> Super Horny Squad Member 1
+
+//<0438> Horny Boy
+<0438> Horny Boy
+
+//<0439> Ugly Yuri
+<0439> Ugly Yuri
+
+//<0440> Depussy
+<0440> Depussy
+
+//<0441> Perverted American Dog
+<0441> Perverted American Dog
+
+//<0442> Zeus
+<0442> Zeus
+
+//<0443> Hinata mark Ⅱ
+<0443> Hinata mark Ⅱ
+
+//<0444> Dung Beetle
+<0444> Dung Beetle
+
+//<0445> Mass Produced Hinata
+<0445> Mass Produced Hinata
+
+//<0446> ？？
+<0446> ？？
+
+//<0447> 「ああ」
+<0447> 「Yeah.」
+
+//<0448> nothing
+<0448> nothing
+
+//<0449> nothing
+<0449> nothing
+
+//<0450> nothing
+<0450> nothing
+
+//<0451> nothing
+<0451> nothing
+
+//<0452> nothing
+<0452> nothing
+
+//<0453> Matsushita
+<0453> Matsushita
+
+//<0454> 「もう少しで一旦休憩を入れるから、それまで待っていてくれ」
+<0454> 「I'll be resting in a bit, so please wait for a while.」
+
+//<0455> nothing
+<0455> nothing
+
+//<0456> nothing
+<0456> nothing
+
+//<0457> nothing
+<0457> nothing
+
+//<0458> nothing
+<0458> nothing
+
+//<0459> nothing
+<0459> nothing
+
+//<0460> nothing
+<0460> nothing
+
+//<0461> そう言って、打ち込みを再開する。
+<0461> After saying that, he went back to training.
+
+//<0462> Matsushita
+<0462> Matsushita
+
+//<0463> 「ひゃくごじゅう！」
+<0463> 「150!」
+
+//<0464> nothing
+<0464> nothing
+
+//<0465> nothing
+<0465> nothing
+
+//<0466> nothing
+<0466> nothing
+
+//<0467> nothing
+<0467> nothing
+
+//<0468> nothing
+<0468> nothing
+
+//<0469> Matsushita
+<0469> Matsushita
+
+//<0470> 「ふぅ…一休みするか…」
+<0470> 「Phew… I'll take a rest…」
+
+//<0471> nothing
+<0471> nothing
+
+//<0472> nothing
+<0472> nothing
+
+//<0473> nothing
+<0473> nothing
+
+//<0474> nothing
+<0474> nothing
+
+//<0475> nothing
+<0475> nothing
+
+//<0476> Matsushita五段は座り込んで、置かれていた巾着袋の中から、アルミホイルで包まれた馬鹿でかい何かを取り出した。
+<0476> After sitting down, Matsushita the 5th pulled out something ridiculously large wrapped in aluminum foil from his bag.
+
+//<0477> アルミホイルを剥くと、巨大なおにぎりが現れる。
+<0477> When he unwrapped the foil, a gigantic rice ball appeared.
+
+//<0478> nothing
+<0478> nothing
+
+//<0479> nothing
+<0479> nothing
+
+//<0480> nothing
+<0480> nothing
+
+//<0481> nothing
+<0481> nothing
+
+//<0482> nothing
+<0482> nothing
+
+//<0483> ハンドボールぐらいのでかさのそれを、はむはむと食べ始める。
+<0483> He started to devour the rice ball that was the size of a bowling ball.
+
+//<0484> すごいスピードで食べ終えると、水筒を手に取り、大きな体には不釣り合いのその蓋で湯気の上がる何かを飲む。
+<0484> After finishing his meal with an amazing speed, he started to drink something steaming from his water bottle that looked tiny in comparison to his body.
+
+//<0485> nothing
+<0485> nothing
+
+//<0486> nothing
+<0486> nothing
+
+//<0487> nothing
+<0487> nothing
+
+//<0488> nothing
+<0488> nothing
+
+//<0489> nothing
+<0489> nothing
+
+//<0490> Matsushita
+<0490> Matsushita
+
+//<0491> 「ふぅ～…食後は緑茶に限るなっ」
+<0491> 「Phew～… Green tea hits the spot after a good meal huh?」
+
+//<0492> nothing
+<0492> nothing
+
+//<0493> nothing
+<0493> nothing
+
+//<0494> nothing
+<0494> nothing
+
+//<0495> nothing
+<0495> nothing
+
+//<0496> nothing
+<0496> nothing
+
+//<0497> Matsushita
+<0497> Matsushita
+
+//<0498> 「よし、練習再開っ！」
+<0498> 「All right, back to training!」
+
+//<0499> Otonashi
+<0499> Otonashi
+
+//<0500> Shitty Brat
+<0500> Shitty Brat
+
+//<0501> Attorney
+<0501> Attorney
+
+//<0502> Super Iffy Hottie
+<0502> Super Iffy Hottie
+
+//<0503> Lolicon
+<0503> Lolicon
+
+//<0504> Glasses Buddy
+<0504> Glasses Buddy
+
+//<0505> Japan's Mental Math Record Holder
+<0505> Japan's Mental Math Record Holder
+
+//<0506> Slasher
+<0506> Slasher
+
+//<0507> Amnesic Boy
+<0507> Amnesic Boy
+
+//<0508> Onsoku
+<0508> Onsoku
+
+//<0509> Mugen
+<0509> Mugen
+
+//<0510> Horny Samurai
+<0510> Horny Samurai
+
+//<0511> Super Horny Squad Member 1
+<0511> Super Horny Squad Member 1
+
+//<0512> Horny Boy
+<0512> Horny Boy
+
+//<0513> Ugly Yuri
+<0513> Ugly Yuri
+
+//<0514> Depussy
+<0514> Depussy
+
+//<0515> Perverted American Dog
+<0515> Perverted American Dog
+
+//<0516> Zeus
+<0516> Zeus
+
+//<0517> Hinata mark Ⅱ
+<0517> Hinata mark Ⅱ
+
+//<0518> Dung Beetle
+<0518> Dung Beetle
+
+//<0519> Mass Produced Hinata
+<0519> Mass Produced Hinata
+
+//<0520> ？？
+<0520> ？？
+
+//<0521> 「ええー！！」
+<0521> 「Whaaat!?」
+
+//<0522> nothing
+<0522> nothing
+
+//<0523> nothing
+<0523> nothing
+
+//<0524> nothing
+<0524> nothing
+
+//<0525> nothing
+<0525> nothing
+
+//<0526> nothing
+<0526> nothing
+
+//<0527> Matsushita
+<0527> Matsushita
+
+//<0528> 「む…誰だ」
+<0528> 「Huh… Who're you?」
+
+//<0529> Otonashi
+<0529> Otonashi
+
+//<0530> Shitty Brat
+<0530> Shitty Brat
+
+//<0531> Attorney
+<0531> Attorney
+
+//<0532> Super Iffy Hottie
+<0532> Super Iffy Hottie
+
+//<0533> Lolicon
+<0533> Lolicon
+
+//<0534> Glasses Buddy
+<0534> Glasses Buddy
+
+//<0535> Japan's Mental Math Record Holder
+<0535> Japan's Mental Math Record Holder
+
+//<0536> Slasher
+<0536> Slasher
+
+//<0537> Amnesic Boy
+<0537> Amnesic Boy
+
+//<0538> Onsoku
+<0538> Onsoku
+
+//<0539> Mugen
+<0539> Mugen
+
+//<0540> Horny Samurai
+<0540> Horny Samurai
+
+//<0541> Super Horny Squad Member 1
+<0541> Super Horny Squad Member 1
+
+//<0542> Horny Boy
+<0542> Horny Boy
+
+//<0543> Ugly Yuri
+<0543> Ugly Yuri
+
+//<0544> Depussy
+<0544> Depussy
+
+//<0545> Perverted American Dog
+<0545> Perverted American Dog
+
+//<0546> Zeus
+<0546> Zeus
+
+//<0547> Hinata mark Ⅱ
+<0547> Hinata mark Ⅱ
+
+//<0548> Dung Beetle
+<0548> Dung Beetle
+
+//<0549> Mass Produced Hinata
+<0549> Mass Produced Hinata
+
+//<0550> ？？
+<0550> ？？
+
+//<0551> 「俺だよっ！」
+<0551> 「It's me!」
+
+//<0552> nothing
+<0552> nothing
+
+//<0553> nothing
+<0553> nothing
+
+//<0554> nothing
+<0554> nothing
+
+//<0555> nothing
+<0555> nothing
+
+//<0556> nothing
+<0556> nothing
+
+//<0557> Matsushita
+<0557> Matsushita
+
+//<0558> 「ああ、Shitty Brat. I remember seeing you a moment ago. What do you need?」
+<0558> 「Oh right, Shitty Brat. I remember seeing you a moment ago. What do you need?」
+
+//<0559> nothing
+<0559> nothing
+
+//<0560> nothing
+<0560> nothing
+
+//<0561> nothing
+<0561> nothing
+
+//<0562> nothing
+<0562> nothing
+
+//<0563> nothing
+<0563> nothing
+
+//<0564> Matsushita
+<0564> Matsushita
+
+//<0565> 「ああ、Attorney. I remember seeing you a moment ago. What do you need?」
+<0565> 「Oh right, Attorney. I remember seeing you a moment ago. What do you need?」
+
+//<0566> nothing
+<0566> nothing
+
+//<0567> nothing
+<0567> nothing
+
+//<0568> nothing
+<0568> nothing
+
+//<0569> nothing
+<0569> nothing
+
+//<0570> nothing
+<0570> nothing
+
+//<0571> Matsushita
+<0571> Matsushita
+
+//<0572> 「ああ、Super Iffy Hottie. I remember seeing you a moment ago. What do you need?」
+<0572> 「Oh right, Super Iffy Hottie. I remember seeing you a moment ago. What do you need?」
+
+//<0573> nothing
+<0573> nothing
+
+//<0574> nothing
+<0574> nothing
+
+//<0575> nothing
+<0575> nothing
+
+//<0576> nothing
+<0576> nothing
+
+//<0577> nothing
+<0577> nothing
+
+//<0578> Matsushita
+<0578> Matsushita
+
+//<0579> 「ああ、Lolicon. I remember seeing you a moment ago. What do you need?」
+<0579> 「OH right, Lolicon. I remember seeing you a moment ago. What do you need?」
+
+//<0580> nothing
+<0580> nothing
+
+//<0581> nothing
+<0581> nothing
+
+//<0582> nothing
+<0582> nothing
+
+//<0583> nothing
+<0583> nothing
+
+//<0584> nothing
+<0584> nothing
+
+//<0585> Matsushita
+<0585> Matsushita
+
+//<0586> 「ああ、Glasses Buddy. I remember seeing you a moment ago. What do you need?」
+<0586> 「Oh right, Glasses Buddy. I remember seeing you a moment ago. What do you need?」
+
+//<0587> nothing
+<0587> nothing
+
+//<0588> nothing
+<0588> nothing
+
+//<0589> nothing
+<0589> nothing
+
+//<0590> nothing
+<0590> nothing
+
+//<0591> nothing
+<0591> nothing
+
+//<0592> Matsushita
+<0592> Matsushita
+
+//<0593> 「ああ、あーーーー…」
+<0593> 「Oh right, ummm…」
+
+//<0594> Otonashi
+<0594> Otonashi
+
+//<0595> Shitty Brat
+<0595> Shitty Brat
+
+//<0596> Attorney
+<0596> Attorney
+
+//<0597> Super Iffy Hottie
+<0597> Super Iffy Hottie
+
+//<0598> Lolicon
+<0598> Lolicon
+
+//<0599> Glasses Buddy
+<0599> Glasses Buddy
+
+//<0600> Japan's Mental Math Record Holder
+<0600> Japan's Mental Math Record Holder
+
+//<0601> Slasher
+<0601> Slasher
+
+//<0602> Amnesic Boy
+<0602> Amnesic Boy
+
+//<0603> Onsoku
+<0603> Onsoku
+
+//<0604> Mugen
+<0604> Mugen
+
+//<0605> Horny Samurai
+<0605> Horny Samurai
+
+//<0606> Super Horny Squad Member 1
+<0606> Super Horny Squad Member 1
+
+//<0607> Horny Boy
+<0607> Horny Boy
+
+//<0608> Ugly Yuri
+<0608> Ugly Yuri
+
+//<0609> Depussy
+<0609> Depussy
+
+//<0610> Perverted American Dog
+<0610> Perverted American Dog
+
+//<0611> Zeus
+<0611> Zeus
+
+//<0612> Hinata mark Ⅱ
+<0612> Hinata mark Ⅱ
+
+//<0613> Dung Beetle
+<0613> Dung Beetle
+
+//<0614> Mass Produced Hinata
+<0614> Mass Produced Hinata
+
+//<0615> ？？
+<0615> ？？
+
+//<0616> 「Japan's Mental Math Record Holder」
+<0616> 「Japan's Mental Math Record Holder.」
+
+//<0617> nothing
+<0617> nothing
+
+//<0618> nothing
+<0618> nothing
+
+//<0619> nothing
+<0619> nothing
+
+//<0620> nothing
+<0620> nothing
+
+//<0621> nothing
+<0621> nothing
+
+//<0622> Matsushita
+<0622> Matsushita
+
+//<0623> 「そう、Japan's Mental Math Record Holder. I remember seeing you a moment ago. What do you need?」
+<0623> 「Yeah, Japan's Mental Math Record Holder. I remember seeing you a moment ago. What do you need?」
+
+//<0624> nothing
+<0624> nothing
+
+//<0625> nothing
+<0625> nothing
+
+//<0626> nothing
+<0626> nothing
+
+//<0627> nothing
+<0627> nothing
+
+//<0628> nothing
+<0628> nothing
+
+//<0629> Matsushita
+<0629> Matsushita
+
+//<0630> 「ああ、Slasher. I remember seeing you a moment ago. What do you need?」
+<0630> 「Oh right, Slasher. I remember seeing you a moment ago. What do you need?」
+
+//<0631> nothing
+<0631> nothing
+
+//<0632> nothing
+<0632> nothing
+
+//<0633> nothing
+<0633> nothing
+
+//<0634> nothing
+<0634> nothing
+
+//<0635> nothing
+<0635> nothing
+
+//<0636> Matsushita
+<0636> Matsushita
+
+//<0637> 「ああ、Amnesic Boy. I remember seeing you a moment ago. What do you need?」
+<0637> 「Oh right, Amnesic Boy. I remember seeing you a moment ago. What do you need?」
+
+//<0638> nothing
+<0638> nothing
+
+//<0639> nothing
+<0639> nothing
+
+//<0640> nothing
+<0640> nothing
+
+//<0641> nothing
+<0641> nothing
+
+//<0642> nothing
+<0642> nothing
+
+//<0643> Matsushita
+<0643> Matsushita
+
+//<0644> 「ああ、Onsoku. I remember seeing you a moment ago. What do you need?」
+<0644> 「Oh right, Onsoku. I remember seeing you a moment ago. What do you need?」
+
+//<0645> nothing
+<0645> nothing
+
+//<0646> nothing
+<0646> nothing
+
+//<0647> nothing
+<0647> nothing
+
+//<0648> nothing
+<0648> nothing
+
+//<0649> nothing
+<0649> nothing
+
+//<0650> Matsushita
+<0650> Matsushita
+
+//<0651> 「ああ、Mugen. I remember seeing you a moment ago. What do you need?」
+<0651> 「Oh right, Mugen. I remember seeing you a moment ago. What do you need?」
+
+//<0652> nothing
+<0652> nothing
+
+//<0653> nothing
+<0653> nothing
+
+//<0654> nothing
+<0654> nothing
+
+//<0655> nothing
+<0655> nothing
+
+//<0656> nothing
+<0656> nothing
+
+//<0657> Matsushita
+<0657> Matsushita
+
+//<0658> 「ああ、Otonashi. I remember seeing you a moment ago. What do you need?」
+<0658> 「Oh right, Otonashi. I remember seeing you a moment ago. What do you need?」
+
+//<0659> Otonashi
+<0659> Otonashi
+
+//<0660> Shitty Brat
+<0660> Shitty Brat
+
+//<0661> Attorney
+<0661> Attorney
+
+//<0662> Super Iffy Hottie
+<0662> Super Iffy Hottie
+
+//<0663> Lolicon
+<0663> Lolicon
+
+//<0664> Glasses Buddy
+<0664> Glasses Buddy
+
+//<0665> Japan's Mental Math Record Holder
+<0665> Japan's Mental Math Record Holder
+
+//<0666> Slasher
+<0666> Slasher
+
+//<0667> Amnesic Boy
+<0667> Amnesic Boy
+
+//<0668> Onsoku
+<0668> Onsoku
+
+//<0669> Mugen
+<0669> Mugen
+
+//<0670> Horny Samurai
+<0670> Horny Samurai
+
+//<0671> Super Horny Squad Member 1
+<0671> Super Horny Squad Member 1
+
+//<0672> Horny Boy
+<0672> Horny Boy
+
+//<0673> Ugly Yuri
+<0673> Ugly Yuri
+
+//<0674> Depussy
+<0674> Depussy
+
+//<0675> Perverted American Dog
+<0675> Perverted American Dog
+
+//<0676> Zeus
+<0676> Zeus
+
+//<0677> Hinata mark Ⅱ
+<0677> Hinata mark Ⅱ
+
+//<0678> Dung Beetle
+<0678> Dung Beetle
+
+//<0679> Mass Produced Hinata
+<0679> Mass Produced Hinata
+
+//<0680> ？？
+<0680> ？？
+
+//<0681> 「だから今の俺はHorny Boyだ」
+<0681> 「I'll say it once more. Now, I'm Horny Boy.」
+
+//<0682> nothing
+<0682> nothing
+
+//<0683> nothing
+<0683> nothing
+
+//<0684> nothing
+<0684> nothing
+
+//<0685> nothing
+<0685> nothing
+
+//<0686> nothing
+<0686> nothing
+
+//<0687> Matsushita
+<0687> Matsushita
+
+//<0688> 「気は確かか…？」
+<0688> 「Are you serious about this…?」
+
+//<0689> …ダメだ、Hinataは乗ってくれるけど、Matsushita五段相手には通用しそうもない。
+<0689> …It's no use. Hinata joined in, but Matsushita the 5th doesn't seem to understand me.
+
+//<0690> Otonashi
+<0690> Otonashi
+
+//<0691> Shitty Brat
+<0691> Shitty Brat
+
+//<0692> Attorney
+<0692> Attorney
+
+//<0693> Super Iffy Hottie
+<0693> Super Iffy Hottie
+
+//<0694> Lolicon
+<0694> Lolicon
+
+//<0695> Glasses Buddy
+<0695> Glasses Buddy
+
+//<0696> Japan's Mental Math Record Holder
+<0696> Japan's Mental Math Record Holder
+
+//<0697> Slasher
+<0697> Slasher
+
+//<0698> Amnesic Boy
+<0698> Amnesic Boy
+
+//<0699> Onsoku
+<0699> Onsoku
+
+//<0700> Mugen
+<0700> Mugen
+
+//<0701> Horny Samurai
+<0701> Horny Samurai
+
+//<0702> Super Horny Squad Member 1
+<0702> Super Horny Squad Member 1
+
+//<0703> Horny Boy
+<0703> Horny Boy
+
+//<0704> Ugly Yuri
+<0704> Ugly Yuri
+
+//<0705> Depussy
+<0705> Depussy
+
+//<0706> Perverted American Dog
+<0706> Perverted American Dog
+
+//<0707> Zeus
+<0707> Zeus
+
+//<0708> Hinata mark Ⅱ
+<0708> Hinata mark Ⅱ
+
+//<0709> Dung Beetle
+<0709> Dung Beetle
+
+//<0710> Mass Produced Hinata
+<0710> Mass Produced Hinata
+
+//<0711> ？？
+<0711> ？？
+
+//<0712> 「すまん、気にしないでくれ。そんな話をしに来たんじゃない」
+<0712> 「Sorry, forget what I was saying. I didn't come here to talk about that.」
+
+//<0713> nothing
+<0713> nothing
+
+//<0714> nothing
+<0714> nothing
+
+//<0715> nothing
+<0715> nothing
+
+//<0716> nothing
+<0716> nothing
+
+//<0717> nothing
+<0717> nothing
+
+//<0718> Matsushita
+<0718> Matsushita
+
+//<0719> 「ほう。ではどんな用だ？」
+<0719> 「Hoh, then why are you here?」
+
+//<0720> Otonashi
+<0720> Otonashi
+
+//<0721> Shitty Brat
+<0721> Shitty Brat
+
+//<0722> Attorney
+<0722> Attorney
+
+//<0723> Super Iffy Hottie
+<0723> Super Iffy Hottie
+
+//<0724> Lolicon
+<0724> Lolicon
+
+//<0725> Glasses Buddy
+<0725> Glasses Buddy
+
+//<0726> Japan's Mental Math Record Holder
+<0726> Japan's Mental Math Record Holder
+
+//<0727> Slasher
+<0727> Slasher
+
+//<0728> Amnesic Boy
+<0728> Amnesic Boy
+
+//<0729> Onsoku
+<0729> Onsoku
+
+//<0730> Mugen
+<0730> Mugen
+
+//<0731> Horny Samurai
+<0731> Horny Samurai
+
+//<0732> Super Horny Squad Member 1
+<0732> Super Horny Squad Member 1
+
+//<0733> Horny Boy
+<0733> Horny Boy
+
+//<0734> Ugly Yuri
+<0734> Ugly Yuri
+
+//<0735> Depussy
+<0735> Depussy
+
+//<0736> Perverted American Dog
+<0736> Perverted American Dog
+
+//<0737> Zeus
+<0737> Zeus
+
+//<0738> Hinata mark Ⅱ
+<0738> Hinata mark Ⅱ
+
+//<0739> Dung Beetle
+<0739> Dung Beetle
+
+//<0740> Mass Produced Hinata
+<0740> Mass Produced Hinata
+
+//<0741> ？？
+<0741> ？？
+
+//<0742> 「いや、特に用なんてないけど、新入りだし、親睦でも深めようかと…」
+<0742> 「No, I don't really have a reason, but I thought I would make some friends…」
+
+//<0743> nothing
+<0743> nothing
+
+//<0744> nothing
+<0744> nothing
+
+//<0745> nothing
+<0745> nothing
+
+//<0746> nothing
+<0746> nothing
+
+//<0747> nothing
+<0747> nothing
+
+//<0748> Matsushita
+<0748> Matsushita
+
+//<0749> 「なるほど。なら、乱取りをしてやろう」
+<0749> 「I see. Then, let's have a randori.」
+
+//<0750> nothing
+<0750> nothing
+
+//<0751> nothing
+<0751> nothing
+
+//<0752> nothing
+<0752> nothing
+
+//<0753> nothing
+<0753> nothing
+
+//<0754> nothing
+<0754> nothing
+
+//<0755> なぜそうなる！？
+<0755> How did it come to this!?
+
+//<0756> この巨体とこんな場所で乱取りなんて、怪我するに決まっている！
+<0756> My body won't be in one piece after having a randori with this giant in a place like this!
+
+//<0757> Otonashi
+<0757> Otonashi
+
+//<0758> Shitty Brat
+<0758> Shitty Brat
+
+//<0759> Attorney
+<0759> Attorney
+
+//<0760> Super Iffy Hottie
+<0760> Super Iffy Hottie
+
+//<0761> Lolicon
+<0761> Lolicon
+
+//<0762> Glasses Buddy
+<0762> Glasses Buddy
+
+//<0763> Japan's Mental Math Record Holder
+<0763> Japan's Mental Math Record Holder
+
+//<0764> Slasher
+<0764> Slasher
+
+//<0765> Amnesic Boy
+<0765> Amnesic Boy
+
+//<0766> Onsoku
+<0766> Onsoku
+
+//<0767> Mugen
+<0767> Mugen
+
+//<0768> Horny Samurai
+<0768> Horny Samurai
+
+//<0769> Super Horny Squad Member 1
+<0769> Super Horny Squad Member 1
+
+//<0770> Horny Boy
+<0770> Horny Boy
+
+//<0771> Ugly Yuri
+<0771> Ugly Yuri
+
+//<0772> Depussy
+<0772> Depussy
+
+//<0773> Perverted American Dog
+<0773> Perverted American Dog
+
+//<0774> Zeus
+<0774> Zeus
+
+//<0775> Hinata mark Ⅱ
+<0775> Hinata mark Ⅱ
+
+//<0776> Dung Beetle
+<0776> Dung Beetle
+
+//<0777> Mass Produced Hinata
+<0777> Mass Produced Hinata
+
+//<0778> ？？
+<0778> ？？
+
+//<0779> 「いや、会話で十分」
+<0779> 「No, I'll be fine with talking with you.」
+
+//<0780> nothing
+<0780> nothing
+
+//<0781> nothing
+<0781> nothing
+
+//<0782> nothing
+<0782> nothing
+
+//<0783> nothing
+<0783> nothing
+
+//<0784> nothing
+<0784> nothing
+
+//<0785> Matsushita
+<0785> Matsushita
+
+//<0786> 「いやいや、俺も長年ここに居るが、男同士は乱取りするのが一番早くわかり合えるのだ」
+<0786> 「No, I've been here for a long time, and from my experience, randori is the fastest way for boys to bond.」
+
+//<0787> nothing
+<0787> nothing
+
+//<0788> nothing
+<0788> nothing
+
+//<0789> nothing
+<0789> nothing
+
+//<0790> nothing
+<0790> nothing
+
+//<0791> nothing
+<0791> nothing
+
+//<0792> Matsushita
+<0792> Matsushita
+
+//<0793> 「よっし、こーーーい！！」
+<0793> 「ALL RIGHT, COME AT ME!!」
+
+//<0794> Otonashi
+<0794> Otonashi
+
+//<0795> Shitty Brat
+<0795> Shitty Brat
+
+//<0796> Attorney
+<0796> Attorney
+
+//<0797> Super Iffy Hottie
+<0797> Super Iffy Hottie
+
+//<0798> Lolicon
+<0798> Lolicon
+
+//<0799> Glasses Buddy
+<0799> Glasses Buddy
+
+//<0800> Japan's Mental Math Record Holder
+<0800> Japan's Mental Math Record Holder
+
+//<0801> Slasher
+<0801> Slasher
+
+//<0802> Amnesic Boy
+<0802> Amnesic Boy
+
+//<0803> Onsoku
+<0803> Onsoku
+
+//<0804> Mugen
+<0804> Mugen
+
+//<0805> Horny Samurai
+<0805> Horny Samurai
+
+//<0806> Super Horny Squad Member 1
+<0806> Super Horny Squad Member 1
+
+//<0807> Horny Boy
+<0807> Horny Boy
+
+//<0808> Ugly Yuri
+<0808> Ugly Yuri
+
+//<0809> Depussy
+<0809> Depussy
+
+//<0810> Perverted American Dog
+<0810> Perverted American Dog
+
+//<0811> Zeus
+<0811> Zeus
+
+//<0812> Hinata mark Ⅱ
+<0812> Hinata mark Ⅱ
+
+//<0813> Dung Beetle
+<0813> Dung Beetle
+
+//<0814> Mass Produced Hinata
+<0814> Mass Produced Hinata
+
+//<0815> ？？
+<0815> ？？
+
+//<0816> 「俺、胴着じゃないし…」
+<0816> 「I don't have protective gear on…」
+
+//<0817> nothing
+<0817> nothing
+
+//<0818> nothing
+<0818> nothing
+
+//<0819> nothing
+<0819> nothing
+
+//<0820> nothing
+<0820> nothing
+
+//<0821> nothing
+<0821> nothing
+
+//<0822> Matsushita
+<0822> Matsushita
+
+//<0823> 「こーーーーい！！」
+<0823> 「COME AT ME!!」
+
+//<0824> Otonashi
+<0824> Otonashi
+
+//<0825> Shitty Brat
+<0825> Shitty Brat
+
+//<0826> Attorney
+<0826> Attorney
+
+//<0827> Super Iffy Hottie
+<0827> Super Iffy Hottie
+
+//<0828> Lolicon
+<0828> Lolicon
+
+//<0829> Glasses Buddy
+<0829> Glasses Buddy
+
+//<0830> Japan's Mental Math Record Holder
+<0830> Japan's Mental Math Record Holder
+
+//<0831> Slasher
+<0831> Slasher
+
+//<0832> Amnesic Boy
+<0832> Amnesic Boy
+
+//<0833> Onsoku
+<0833> Onsoku
+
+//<0834> Mugen
+<0834> Mugen
+
+//<0835> Horny Samurai
+<0835> Horny Samurai
+
+//<0836> Super Horny Squad Member 1
+<0836> Super Horny Squad Member 1
+
+//<0837> Horny Boy
+<0837> Horny Boy
+
+//<0838> Ugly Yuri
+<0838> Ugly Yuri
+
+//<0839> Depussy
+<0839> Depussy
+
+//<0840> Perverted American Dog
+<0840> Perverted American Dog
+
+//<0841> Zeus
+<0841> Zeus
+
+//<0842> Hinata mark Ⅱ
+<0842> Hinata mark Ⅱ
+
+//<0843> Dung Beetle
+<0843> Dung Beetle
+
+//<0844> Mass Produced Hinata
+<0844> Mass Produced Hinata
+
+//<0845> ？？
+<0845> ？？
+
+//<0846> (なんて話が通じない奴なんだ！)
+<0846> (It's impossible to communicate with him!)
+
+//<0847> Hinata
+<0847> Hinata
+
+//<0848> Boy B
+<0848> Boy B
+
+//<0849> Super Horny Squad Member 1
+<0849> Super Horny Squad Member 1
+
+//<0850> Handsome-chin
+<0850> Handsome-chin
+
+//<0851> Homota
+<0851> Homota
+
+//<0852> Hina-chin
+<0852> Hina-chin
+
+//<0853> Hideki
+<0853> Hideki
+
+//<0854> 男子生徒
+<0854> 男子生徒
+
+//<0855> ？？
+<0855> ？？
+
+//<0856> 「五段は、こういう熱血漢なんだよ」
+<0856> 「Our 5th is just, a little bit on the hot-blooded side.」
+
+//<0857> Otonashi
+<0857> Otonashi
+
+//<0858> Shitty Brat
+<0858> Shitty Brat
+
+//<0859> Attorney
+<0859> Attorney
+
+//<0860> Super Iffy Hottie
+<0860> Super Iffy Hottie
+
+//<0861> Lolicon
+<0861> Lolicon
+
+//<0862> Glasses Buddy
+<0862> Glasses Buddy
+
+//<0863> Japan's Mental Math Record Holder
+<0863> Japan's Mental Math Record Holder
+
+//<0864> Slasher
+<0864> Slasher
+
+//<0865> Amnesic Boy
+<0865> Amnesic Boy
+
+//<0866> Onsoku
+<0866> Onsoku
+
+//<0867> Mugen
+<0867> Mugen
+
+//<0868> Horny Samurai
+<0868> Horny Samurai
+
+//<0869> Super Horny Squad Member 1
+<0869> Super Horny Squad Member 1
+
+//<0870> Horny Boy
+<0870> Horny Boy
+
+//<0871> Ugly Yuri
+<0871> Ugly Yuri
+
+//<0872> Depussy
+<0872> Depussy
+
+//<0873> Perverted American Dog
+<0873> Perverted American Dog
+
+//<0874> Zeus
+<0874> Zeus
+
+//<0875> Hinata mark Ⅱ
+<0875> Hinata mark Ⅱ
+
+//<0876> Dung Beetle
+<0876> Dung Beetle
+
+//<0877> Mass Produced Hinata
+<0877> Mass Produced Hinata
+
+//<0878> ？？
+<0878> ？？
+
+//<0879> 「え？　俺はどうすればいいんだ！？」
+<0879> 「Huh? What should I do!?」
+
+//<0880> Hinata
+<0880> Hinata
+
+//<0881> Boy B
+<0881> Boy B
+
+//<0882> Super Horny Squad Member 1
+<0882> Super Horny Squad Member 1
+
+//<0883> Handsome-chin
+<0883> Handsome-chin
+
+//<0884> Homota
+<0884> Homota
+
+//<0885> Hina-chin
+<0885> Hina-chin
+
+//<0886> Hideki
+<0886> Hideki
+
+//<0887> 男子生徒
+<0887> 男子生徒
+
+//<0888> ？？
+<0888> ？？
+
+//<0889> 「お好きにどーぞ」
+<0889> 「Have your choice.」
+
+//<0890> 戦う
+<0890> Fight
+
+//<0891> 逃げる
+<0891> Run away
+
+//<0892> selbtn : 
+<0892> selbtn : 
+
+//<0893> Otonashi
+<0893> Otonashi
+
+//<0894> Shitty Brat
+<0894> Shitty Brat
+
+//<0895> Attorney
+<0895> Attorney
+
+//<0896> Super Iffy Hottie
+<0896> Super Iffy Hottie
+
+//<0897> Lolicon
+<0897> Lolicon
+
+//<0898> Glasses Buddy
+<0898> Glasses Buddy
+
+//<0899> Japan's Mental Math Record Holder
+<0899> Japan's Mental Math Record Holder
+
+//<0900> Slasher
+<0900> Slasher
+
+//<0901> Amnesic Boy
+<0901> Amnesic Boy
+
+//<0902> Onsoku
+<0902> Onsoku
+
+//<0903> Mugen
+<0903> Mugen
+
+//<0904> Horny Samurai
+<0904> Horny Samurai
+
+//<0905> Super Horny Squad Member 1
+<0905> Super Horny Squad Member 1
+
+//<0906> Horny Boy
+<0906> Horny Boy
+
+//<0907> Ugly Yuri
+<0907> Ugly Yuri
+
+//<0908> Depussy
+<0908> Depussy
+
+//<0909> Perverted American Dog
+<0909> Perverted American Dog
+
+//<0910> Zeus
+<0910> Zeus
+
+//<0911> Hinata mark Ⅱ
+<0911> Hinata mark Ⅱ
+
+//<0912> Dung Beetle
+<0912> Dung Beetle
+
+//<0913> Mass Produced Hinata
+<0913> Mass Produced Hinata
+
+//<0914> ？？
+<0914> ？？
+
+//<0915> 「くそっ！　やるしかねーのか！」
+<0915> 「Damn it! Do I have no choice!?」
+
+//<0916> nothing
+<0916> nothing
+
+//<0917> 
+<0917> 
+
+//<0918> 
+<0918> 
+
+//<0919> nothing
+<0919> nothing
+
+//<0920> se_fling_ground
+<0920> se_fling_ground
+
+//<0921> 組みにかかるが、みごとに飛ばされる。
+<0921> I charged with all my might, but obviously, I was no match for him.
+
+//<0922> うまく受け身も取れず、肩から地面に叩きつけられて痛い…。
+<0922> Without even giving me time to prepare an ukemi, I was pinned down shoulder first on the ground…
+
+//<0923> nothing
+<0923> nothing
+
+//<0924> nothing
+<0924> nothing
+
+//<0925> nothing
+<0925> nothing
+
+//<0926> nothing
+<0926> nothing
+
+//<0927> nothing
+<0927> nothing
+
+//<0928> Matsushita
+<0928> Matsushita
+
+//<0929> 「こーーーーい！！」
+<0929> 「COME AT ME!!」
+
+//<0930> Otonashi
+<0930> Otonashi
+
+//<0931> Shitty Brat
+<0931> Shitty Brat
+
+//<0932> Attorney
+<0932> Attorney
+
+//<0933> Super Iffy Hottie
+<0933> Super Iffy Hottie
+
+//<0934> Lolicon
+<0934> Lolicon
+
+//<0935> Glasses Buddy
+<0935> Glasses Buddy
+
+//<0936> Japan's Mental Math Record Holder
+<0936> Japan's Mental Math Record Holder
+
+//<0937> Slasher
+<0937> Slasher
+
+//<0938> Amnesic Boy
+<0938> Amnesic Boy
+
+//<0939> Onsoku
+<0939> Onsoku
+
+//<0940> Mugen
+<0940> Mugen
+
+//<0941> Horny Samurai
+<0941> Horny Samurai
+
+//<0942> Super Horny Squad Member 1
+<0942> Super Horny Squad Member 1
+
+//<0943> Horny Boy
+<0943> Horny Boy
+
+//<0944> Ugly Yuri
+<0944> Ugly Yuri
+
+//<0945> Depussy
+<0945> Depussy
+
+//<0946> Perverted American Dog
+<0946> Perverted American Dog
+
+//<0947> Zeus
+<0947> Zeus
+
+//<0948> Hinata mark Ⅱ
+<0948> Hinata mark Ⅱ
+
+//<0949> Dung Beetle
+<0949> Dung Beetle
+
+//<0950> Mass Produced Hinata
+<0950> Mass Produced Hinata
+
+//<0951> ？？
+<0951> ？？
+
+//<0952> (え？　一回じゃ済まないの…？)
+<0952> (Huh? Is once not good enough…?)
+
+//<0953> 戦う
+<0953> Fight
+
+//<0954> 逃げる
+<0954> Run away
+
+//<0955> selbtn : 
+<0955> selbtn : 
+
+//<0956> se_fling_ground
+<0956> se_fling_ground
+
+//<0957> また飛ばされる。痛い…。
+<0957> I was pinned down again… It hurts like hell…
+
+//<0958> nothing
+<0958> nothing
+
+//<0959> nothing
+<0959> nothing
+
+//<0960> nothing
+<0960> nothing
+
+//<0961> nothing
+<0961> nothing
+
+//<0962> nothing
+<0962> nothing
+
+//<0963> Matsushita
+<0963> Matsushita
+
+//<0964> 「こーーーーい！！」
+<0964> 「COME AT ME!!!!!」
+
+//<0965> え？　まだ済まないの？
+<0965> Huh? It's still not finished?
+
+//<0966> 戦い続ける
+<0966> Finish up the fight
+
+//<0967> 逃げる
+<0967> Run away
+
+//<0968> selbtn : 
+<0968> selbtn : 
+
+//<0969> さすがにもう無理だ！
+<0969> This is too much for me!
+
+//<0970> とても付き合いきれない！
+<0970> I can't take this anymore!
+
+//<0971> 柔道の経験があったかもわからないのに、無理だ！
+<0971> I don't even know the basics of judo! This is impossible for me!
+
+//<0972> nothing
+<0972> nothing
+
+//<0973> nothing
+<0973> nothing
+
+//<0974> nothing
+<0974> nothing
+
+//<0975> nothing
+<0975> nothing
+
+//<0976> nothing
+<0976> nothing
+
+//<0977> nothing
+<0977> nothing
+
+//<0978> Otonashi
+<0978> Otonashi
+
+//<0979> Shitty Brat
+<0979> Shitty Brat
+
+//<0980> Attorney
+<0980> Attorney
+
+//<0981> Super Iffy Hottie
+<0981> Super Iffy Hottie
+
+//<0982> Lolicon
+<0982> Lolicon
+
+//<0983> Glasses Buddy
+<0983> Glasses Buddy
+
+//<0984> Japan's Mental Math Record Holder
+<0984> Japan's Mental Math Record Holder
+
+//<0985> Slasher
+<0985> Slasher
+
+//<0986> Amnesic Boy
+<0986> Amnesic Boy
+
+//<0987> Onsoku
+<0987> Onsoku
+
+//<0988> Mugen
+<0988> Mugen
+
+//<0989> Horny Samurai
+<0989> Horny Samurai
+
+//<0990> Super Horny Squad Member 1
+<0990> Super Horny Squad Member 1
+
+//<0991> Horny Boy
+<0991> Horny Boy
+
+//<0992> Ugly Yuri
+<0992> Ugly Yuri
+
+//<0993> Depussy
+<0993> Depussy
+
+//<0994> Perverted American Dog
+<0994> Perverted American Dog
+
+//<0995> Zeus
+<0995> Zeus
+
+//<0996> Hinata mark Ⅱ
+<0996> Hinata mark Ⅱ
+
+//<0997> Dung Beetle
+<0997> Dung Beetle
+
+//<0998> Mass Produced Hinata
+<0998> Mass Produced Hinata
+
+//<0999> ？？
+<0999> ？？
+
+//<1000> 「すまん、Hinata、俺は撤退する！」
+<1000> 「Sorry, Hinata, I'll be retreating!」
+
+//<1001> nothing
+<1001> nothing
+
+//<1002> nothing
+<1002> nothing
+
+//<1003> nothing
+<1003> nothing
+
+//<1004> nothing
+<1004> nothing
+
+//<1005> nothing
+<1005> nothing
+
+//<1006> nothing
+<1006> nothing
+
+//<1007> 俺は逃げ出した。
+<1007> I started to run away.
+
+//<1008> Hinata
+<1008> Hinata
+
+//<1009> Boy B
+<1009> Boy B
+
+//<1010> Super Horny Squad Member 1
+<1010> Super Horny Squad Member 1
+
+//<1011> Handsome-chin
+<1011> Handsome-chin
+
+//<1012> Homota
+<1012> Homota
+
+//<1013> Hina-chin
+<1013> Hina-chin
+
+//<1014> Hideki
+<1014> Hideki
+
+//<1015> 男子生徒
+<1015> 男子生徒
+
+//<1016> ？？
+<1016> ？？
+
+//<1017> 「とのことなんで、すまないな、Matsushita五段！」
+<1017> 「I gues sthis it it, sorry, Matsushita the 5th!」
+
+//<1018> nothing
+<1018> nothing
+
+//<1019> nothing
+<1019> nothing
+
+//<1020> nothing
+<1020> nothing
+
+//<1021> nothing
+<1021> nothing
+
+//<1022> nothing
+<1022> nothing
+
+//<1023> Matsushita
+<1023> Matsushita
+
+//<1024> 「むぅ…」
+<1024> 「Hmm…」
+
+//<1025> nothing
+<1025> nothing
+
+//<1026> nothing
+<1026> nothing
+
+//<1027> nothing
+<1027> nothing
+
+//<1028> nothing
+<1028> nothing
+
+//<1029> nothing
+<1029> nothing
+
+//<1030> nothing
+<1030> nothing
+
+//<1031> Hinata
+<1031> Hinata
+
+//<1032> Boy B
+<1032> Boy B
+
+//<1033> Super Horny Squad Member 1
+<1033> Super Horny Squad Member 1
+
+//<1034> Handsome-chin
+<1034> Handsome-chin
+
+//<1035> Homota
+<1035> Homota
+
+//<1036> Hina-chin
+<1036> Hina-chin
+
+//<1037> Hideki
+<1037> Hideki
+
+//<1038> 男子生徒
+<1038> 男子生徒
+
+//<1039> ？？
+<1039> ？？
+
+//<1040> 「待てよぉーーー！」
+<1040> 「Wait for me!!」
+
+//<1041> Hinataが追ってくるが、それも恐い…。
+<1041> Hinata started chasing after me, but that was scary as well…
+
+//<1042> Hinataも追ってきてくれた。
+<1042> Hinata started chasing after me.
+
+//<1043> se_fling_ground
+<1043> se_fling_ground
+
+//<1044> 何度飛ばされたことだろう。
+<1044> How many times was I pinned down?
+
+//<1045> 全身が痛い…。
+<1045> My entire body hurts…
+
+//<1046> でも戦線の制服は胴着の代わりにもなるように作られてるんじゃないかと思うほど丈夫だった。
+<1046> But the uniforms were as sturdy as an assault vest, as it wasn't damaged at all.
+
+//<1047> nothing
+<1047> nothing
+
+//<1048> nothing
+<1048> nothing
+
+//<1049> nothing
+<1049> nothing
+
+//<1050> nothing
+<1050> nothing
+
+//<1051> nothing
+<1051> nothing
+
+//<1052> Hinata
+<1052> Hinata
+
+//<1053> Boy B
+<1053> Boy B
+
+//<1054> Super Horny Squad Member 1
+<1054> Super Horny Squad Member 1
+
+//<1055> Handsome-chin
+<1055> Handsome-chin
+
+//<1056> Homota
+<1056> Homota
+
+//<1057> Hina-chin
+<1057> Hina-chin
+
+//<1058> Hideki
+<1058> Hideki
+
+//<1059> 男子生徒
+<1059> 男子生徒
+
+//<1060> ？？
+<1060> ？？
+
+//<1061> 「どうだ？　分かり合えたか？」
+<1061> 「How was it? Did you two bond?」
+
+//<1062> nothing
+<1062> nothing
+
+//<1063> nothing
+<1063> nothing
+
+//<1064> nothing
+<1064> nothing
+
+//<1065> nothing
+<1065> nothing
+
+//<1066> nothing
+<1066> nothing
+
+//<1067> Matsushita
+<1067> Matsushita
+
+//<1068> 「どうだ…分かり合えただろう？」
+<1068> 「How was it…? Do you feel like we've bonded?」
+
+//<1069> Otonashi
+<1069> Otonashi
+
+//<1070> Shitty Brat
+<1070> Shitty Brat
+
+//<1071> Attorney
+<1071> Attorney
+
+//<1072> Super Iffy Hottie
+<1072> Super Iffy Hottie
+
+//<1073> Lolicon
+<1073> Lolicon
+
+//<1074> Glasses Buddy
+<1074> Glasses Buddy
+
+//<1075> Japan's Mental Math Record Holder
+<1075> Japan's Mental Math Record Holder
+
+//<1076> Slasher
+<1076> Slasher
+
+//<1077> Amnesic Boy
+<1077> Amnesic Boy
+
+//<1078> Onsoku
+<1078> Onsoku
+
+//<1079> Mugen
+<1079> Mugen
+
+//<1080> Horny Samurai
+<1080> Horny Samurai
+
+//<1081> Super Horny Squad Member 1
+<1081> Super Horny Squad Member 1
+
+//<1082> Horny Boy
+<1082> Horny Boy
+
+//<1083> Ugly Yuri
+<1083> Ugly Yuri
+
+//<1084> Depussy
+<1084> Depussy
+
+//<1085> Perverted American Dog
+<1085> Perverted American Dog
+
+//<1086> Zeus
+<1086> Zeus
+
+//<1087> Hinata mark Ⅱ
+<1087> Hinata mark Ⅱ
+
+//<1088> Dung Beetle
+<1088> Dung Beetle
+
+//<1089> Mass Produced Hinata
+<1089> Mass Produced Hinata
+
+//<1090> ？？
+<1090> ？？
+
+//<1091> 「いや、ぜんぜん」
+<1091> 「No, not at all.」
+
+//<1092> nothing
+<1092> nothing
+
+//<1093> nothing
+<1093> nothing
+
+//<1094> nothing
+<1094> nothing
+
+//<1095> nothing
+<1095> nothing
+
+//<1096> nothing
+<1096> nothing
+
+//<1097> Matsushita
+<1097> Matsushita
+
+//<1098> 「なんだとぉーーー！？」
+<1098> 「It can't be!!!」
+
+//<1099> Otonashi
+<1099> Otonashi
+
+//<1100> Shitty Brat
+<1100> Shitty Brat
+
+//<1101> Attorney
+<1101> Attorney
+
+//<1102> Super Iffy Hottie
+<1102> Super Iffy Hottie
+
+//<1103> Lolicon
+<1103> Lolicon
+
+//<1104> Glasses Buddy
+<1104> Glasses Buddy
+
+//<1105> Japan's Mental Math Record Holder
+<1105> Japan's Mental Math Record Holder
+
+//<1106> Slasher
+<1106> Slasher
+
+//<1107> Amnesic Boy
+<1107> Amnesic Boy
+
+//<1108> Onsoku
+<1108> Onsoku
+
+//<1109> Mugen
+<1109> Mugen
+
+//<1110> Horny Samurai
+<1110> Horny Samurai
+
+//<1111> Super Horny Squad Member 1
+<1111> Super Horny Squad Member 1
+
+//<1112> Horny Boy
+<1112> Horny Boy
+
+//<1113> Ugly Yuri
+<1113> Ugly Yuri
+
+//<1114> Depussy
+<1114> Depussy
+
+//<1115> Perverted American Dog
+<1115> Perverted American Dog
+
+//<1116> Zeus
+<1116> Zeus
+
+//<1117> Hinata mark Ⅱ
+<1117> Hinata mark Ⅱ
+
+//<1118> Dung Beetle
+<1118> Dung Beetle
+
+//<1119> Mass Produced Hinata
+<1119> Mass Produced Hinata
+
+//<1120> ？？
+<1120> ？？
+
+//<1121> 「じゃあ逆に訊くけど、あんたは俺の何がわかった？」
+<1121> 「Then I'll ask you. Did you find out anything about me?」
+
+//<1122> nothing
+<1122> nothing
+
+//<1123> nothing
+<1123> nothing
+
+//<1124> nothing
+<1124> nothing
+
+//<1125> nothing
+<1125> nothing
+
+//<1126> nothing
+<1126> nothing
+
+//<1127> Matsushita
+<1127> Matsushita
+
+//<1128> 「そうだな…お前の気迫がひしひしと伝わってきたぞ」
+<1128> 「Let's see… I could feel your fighting spirit.」
+
+//<1129> Otonashi
+<1129> Otonashi
+
+//<1130> Shitty Brat
+<1130> Shitty Brat
+
+//<1131> Attorney
+<1131> Attorney
+
+//<1132> Super Iffy Hottie
+<1132> Super Iffy Hottie
+
+//<1133> Lolicon
+<1133> Lolicon
+
+//<1134> Glasses Buddy
+<1134> Glasses Buddy
+
+//<1135> Japan's Mental Math Record Holder
+<1135> Japan's Mental Math Record Holder
+
+//<1136> Slasher
+<1136> Slasher
+
+//<1137> Amnesic Boy
+<1137> Amnesic Boy
+
+//<1138> Onsoku
+<1138> Onsoku
+
+//<1139> Mugen
+<1139> Mugen
+
+//<1140> Horny Samurai
+<1140> Horny Samurai
+
+//<1141> Super Horny Squad Member 1
+<1141> Super Horny Squad Member 1
+
+//<1142> Horny Boy
+<1142> Horny Boy
+
+//<1143> Ugly Yuri
+<1143> Ugly Yuri
+
+//<1144> Depussy
+<1144> Depussy
+
+//<1145> Perverted American Dog
+<1145> Perverted American Dog
+
+//<1146> Zeus
+<1146> Zeus
+
+//<1147> Hinata mark Ⅱ
+<1147> Hinata mark Ⅱ
+
+//<1148> Dung Beetle
+<1148> Dung Beetle
+
+//<1149> Mass Produced Hinata
+<1149> Mass Produced Hinata
+
+//<1150> ？？
+<1150> ？？
+
+//<1151> 「いや、ぶっちゃけやる気ゼロで投げ続けられてたんだけど…」
+<1151> 「I had and have none in the first place…」
+
+//<1152> nothing
+<1152> nothing
+
+//<1153> nothing
+<1153> nothing
+
+//<1154> nothing
+<1154> nothing
+
+//<1155> nothing
+<1155> nothing
+
+//<1156> nothing
+<1156> nothing
+
+//<1157> Matsushita
+<1157> Matsushita
+
+//<1158> 「なんだとぉーーー！？」
+<1158> 「It can't be!!!」
+
+//<1159> Otonashi
+<1159> Otonashi
+
+//<1160> Shitty Brat
+<1160> Shitty Brat
+
+//<1161> Attorney
+<1161> Attorney
+
+//<1162> Super Iffy Hottie
+<1162> Super Iffy Hottie
+
+//<1163> Lolicon
+<1163> Lolicon
+
+//<1164> Glasses Buddy
+<1164> Glasses Buddy
+
+//<1165> Japan's Mental Math Record Holder
+<1165> Japan's Mental Math Record Holder
+
+//<1166> Slasher
+<1166> Slasher
+
+//<1167> Amnesic Boy
+<1167> Amnesic Boy
+
+//<1168> Onsoku
+<1168> Onsoku
+
+//<1169> Mugen
+<1169> Mugen
+
+//<1170> Horny Samurai
+<1170> Horny Samurai
+
+//<1171> Super Horny Squad Member 1
+<1171> Super Horny Squad Member 1
+
+//<1172> Horny Boy
+<1172> Horny Boy
+
+//<1173> Ugly Yuri
+<1173> Ugly Yuri
+
+//<1174> Depussy
+<1174> Depussy
+
+//<1175> Perverted American Dog
+<1175> Perverted American Dog
+
+//<1176> Zeus
+<1176> Zeus
+
+//<1177> Hinata mark Ⅱ
+<1177> Hinata mark Ⅱ
+
+//<1178> Dung Beetle
+<1178> Dung Beetle
+
+//<1179> Mass Produced Hinata
+<1179> Mass Produced Hinata
+
+//<1180> ？？
+<1180> ？？
+
+//<1181> 「何もわかってないじゃん」
+<1181> 「We didn't gain anything from this.」
+
+//<1182> nothing
+<1182> nothing
+
+//<1183> nothing
+<1183> nothing
+
+//<1184> nothing
+<1184> nothing
+
+//<1185> nothing
+<1185> nothing
+
+//<1186> nothing
+<1186> nothing
+
+//<1187> Matsushita
+<1187> Matsushita
+
+//<1188> 「いやいや、死んだ世界戦線に入ったからには功績を残してやるという意地を感じたぞ！」
+<1188> 「No, I felt your resolve to do something amazing, when you joined the Afterlife Battlefront!」
+
+//<1189> Otonashi
+<1189> Otonashi
+
+//<1190> Shitty Brat
+<1190> Shitty Brat
+
+//<1191> Attorney
+<1191> Attorney
+
+//<1192> Super Iffy Hottie
+<1192> Super Iffy Hottie
+
+//<1193> Lolicon
+<1193> Lolicon
+
+//<1194> Glasses Buddy
+<1194> Glasses Buddy
+
+//<1195> Japan's Mental Math Record Holder
+<1195> Japan's Mental Math Record Holder
+
+//<1196> Slasher
+<1196> Slasher
+
+//<1197> Amnesic Boy
+<1197> Amnesic Boy
+
+//<1198> Onsoku
+<1198> Onsoku
+
+//<1199> Mugen
+<1199> Mugen
+
+//<1200> Horny Samurai
+<1200> Horny Samurai
+
+//<1201> Super Horny Squad Member 1
+<1201> Super Horny Squad Member 1
+
+//<1202> Horny Boy
+<1202> Horny Boy
+
+//<1203> Ugly Yuri
+<1203> Ugly Yuri
+
+//<1204> Depussy
+<1204> Depussy
+
+//<1205> Perverted American Dog
+<1205> Perverted American Dog
+
+//<1206> Zeus
+<1206> Zeus
+
+//<1207> Hinata mark Ⅱ
+<1207> Hinata mark Ⅱ
+
+//<1208> Dung Beetle
+<1208> Dung Beetle
+
+//<1209> Mass Produced Hinata
+<1209> Mass Produced Hinata
+
+//<1210> ？？
+<1210> ？？
+
+//<1211> 「いや、ぶっちゃけ流されるままに入ったから、なんの意地もないけど」
+<1211> 「No, I joined the battlefront on a whim. I didn't and don't have a resolve.」
+
+//<1212> nothing
+<1212> nothing
+
+//<1213> nothing
+<1213> nothing
+
+//<1214> nothing
+<1214> nothing
+
+//<1215> nothing
+<1215> nothing
+
+//<1216> nothing
+<1216> nothing
+
+//<1217> Matsushita
+<1217> Matsushita
+
+//<1218> 「なんだとぉーーー！？」
+<1218> 「It can't be!!!」
+
+//<1219> Otonashi
+<1219> Otonashi
+
+//<1220> Shitty Brat
+<1220> Shitty Brat
+
+//<1221> Attorney
+<1221> Attorney
+
+//<1222> Super Iffy Hottie
+<1222> Super Iffy Hottie
+
+//<1223> Lolicon
+<1223> Lolicon
+
+//<1224> Glasses Buddy
+<1224> Glasses Buddy
+
+//<1225> Japan's Mental Math Record Holder
+<1225> Japan's Mental Math Record Holder
+
+//<1226> Slasher
+<1226> Slasher
+
+//<1227> Amnesic Boy
+<1227> Amnesic Boy
+
+//<1228> Onsoku
+<1228> Onsoku
+
+//<1229> Mugen
+<1229> Mugen
+
+//<1230> Horny Samurai
+<1230> Horny Samurai
+
+//<1231> Super Horny Squad Member 1
+<1231> Super Horny Squad Member 1
+
+//<1232> Horny Boy
+<1232> Horny Boy
+
+//<1233> Ugly Yuri
+<1233> Ugly Yuri
+
+//<1234> Depussy
+<1234> Depussy
+
+//<1235> Perverted American Dog
+<1235> Perverted American Dog
+
+//<1236> Zeus
+<1236> Zeus
+
+//<1237> Hinata mark Ⅱ
+<1237> Hinata mark Ⅱ
+
+//<1238> Dung Beetle
+<1238> Dung Beetle
+
+//<1239> Mass Produced Hinata
+<1239> Mass Produced Hinata
+
+//<1240> ？？
+<1240> ？？
+
+//<1241> 「やっぱ、何もわかってないじゃん」
+<1241> 「As I expected, we didn't gain anything from this.」
+
+//<1242> nothing
+<1242> nothing
+
+//<1243> nothing
+<1243> nothing
+
+//<1244> nothing
+<1244> nothing
+
+//<1245> nothing
+<1245> nothing
+
+//<1246> nothing
+<1246> nothing
+
+//<1247> Matsushita
+<1247> Matsushita
+
+//<1248> 「いやいや、これだけは伝わってきた。生前の無念、それだけは晴らすとぉ！！」
+<1248> 「No, I could feel this one thing! Your regrets before you died! 」
+
+//<1249> Otonashi
+<1249> Otonashi
+
+//<1250> Shitty Brat
+<1250> Shitty Brat
+
+//<1251> Attorney
+<1251> Attorney
+
+//<1252> Super Iffy Hottie
+<1252> Super Iffy Hottie
+
+//<1253> Lolicon
+<1253> Lolicon
+
+//<1254> Glasses Buddy
+<1254> Glasses Buddy
+
+//<1255> Japan's Mental Math Record Holder
+<1255> Japan's Mental Math Record Holder
+
+//<1256> Slasher
+<1256> Slasher
+
+//<1257> Amnesic Boy
+<1257> Amnesic Boy
+
+//<1258> Onsoku
+<1258> Onsoku
+
+//<1259> Mugen
+<1259> Mugen
+
+//<1260> Horny Samurai
+<1260> Horny Samurai
+
+//<1261> Super Horny Squad Member 1
+<1261> Super Horny Squad Member 1
+
+//<1262> Horny Boy
+<1262> Horny Boy
+
+//<1263> Ugly Yuri
+<1263> Ugly Yuri
+
+//<1264> Depussy
+<1264> Depussy
+
+//<1265> Perverted American Dog
+<1265> Perverted American Dog
+
+//<1266> Zeus
+<1266> Zeus
+
+//<1267> Hinata mark Ⅱ
+<1267> Hinata mark Ⅱ
+
+//<1268> Dung Beetle
+<1268> Dung Beetle
+
+//<1269> Mass Produced Hinata
+<1269> Mass Produced Hinata
+
+//<1270> ？？
+<1270> ？？
+
+//<1271> 「俺、記憶喪失だから生前の無念知らないのだけど」
+<1271> 「I still don't have my memories, so I don't know anything about my regrets.」
+
+//<1272> nothing
+<1272> nothing
+
+//<1273> nothing
+<1273> nothing
+
+//<1274> nothing
+<1274> nothing
+
+//<1275> nothing
+<1275> nothing
+
+//<1276> nothing
+<1276> nothing
+
+//<1277> Matsushita
+<1277> Matsushita
+
+//<1278> 「なんだとぉーーー！？」
+<1278> 「It can't be!!!」
+
+//<1279> Otonashi
+<1279> Otonashi
+
+//<1280> Shitty Brat
+<1280> Shitty Brat
+
+//<1281> Attorney
+<1281> Attorney
+
+//<1282> Super Iffy Hottie
+<1282> Super Iffy Hottie
+
+//<1283> Lolicon
+<1283> Lolicon
+
+//<1284> Glasses Buddy
+<1284> Glasses Buddy
+
+//<1285> Japan's Mental Math Record Holder
+<1285> Japan's Mental Math Record Holder
+
+//<1286> Slasher
+<1286> Slasher
+
+//<1287> Amnesic Boy
+<1287> Amnesic Boy
+
+//<1288> Onsoku
+<1288> Onsoku
+
+//<1289> Mugen
+<1289> Mugen
+
+//<1290> Horny Samurai
+<1290> Horny Samurai
+
+//<1291> Super Horny Squad Member 1
+<1291> Super Horny Squad Member 1
+
+//<1292> Horny Boy
+<1292> Horny Boy
+
+//<1293> Ugly Yuri
+<1293> Ugly Yuri
+
+//<1294> Depussy
+<1294> Depussy
+
+//<1295> Perverted American Dog
+<1295> Perverted American Dog
+
+//<1296> Zeus
+<1296> Zeus
+
+//<1297> Hinata mark Ⅱ
+<1297> Hinata mark Ⅱ
+
+//<1298> Dung Beetle
+<1298> Dung Beetle
+
+//<1299> Mass Produced Hinata
+<1299> Mass Produced Hinata
+
+//<1300> ？？
+<1300> ？？
+
+//<1301> 「あれだけ投げられて、さんざんだな…投げられ損かよ…」
+<1301> 「You pinned me down so much, but I guess that's it… All that's left is my wounds huh…?」
+
+//<1302> Otonashi
+<1302> Otonashi
+
+//<1303> Shitty Brat
+<1303> Shitty Brat
+
+//<1304> Attorney
+<1304> Attorney
+
+//<1305> Super Iffy Hottie
+<1305> Super Iffy Hottie
+
+//<1306> Lolicon
+<1306> Lolicon
+
+//<1307> Glasses Buddy
+<1307> Glasses Buddy
+
+//<1308> Japan's Mental Math Record Holder
+<1308> Japan's Mental Math Record Holder
+
+//<1309> Slasher
+<1309> Slasher
+
+//<1310> Amnesic Boy
+<1310> Amnesic Boy
+
+//<1311> Onsoku
+<1311> Onsoku
+
+//<1312> Mugen
+<1312> Mugen
+
+//<1313> Horny Samurai
+<1313> Horny Samurai
+
+//<1314> Super Horny Squad Member 1
+<1314> Super Horny Squad Member 1
+
+//<1315> Horny Boy
+<1315> Horny Boy
+
+//<1316> Ugly Yuri
+<1316> Ugly Yuri
+
+//<1317> Depussy
+<1317> Depussy
+
+//<1318> Perverted American Dog
+<1318> Perverted American Dog
+
+//<1319> Zeus
+<1319> Zeus
+
+//<1320> Hinata mark Ⅱ
+<1320> Hinata mark Ⅱ
+
+//<1321> Dung Beetle
+<1321> Dung Beetle
+
+//<1322> Mass Produced Hinata
+<1322> Mass Produced Hinata
+
+//<1323> ？？
+<1323> ？？
+
+//<1324> 「Mugenなのに体力も尽きて、名ばかりだぜっ…」
+<1324> 「My name is Mugen, but I'm already exhausted. I guess it's just a name…」
+
+//<1325> nothing
+<1325> nothing
+
+//<1326> nothing
+<1326> nothing
+
+//<1327> nothing
+<1327> nothing
+
+//<1328> nothing
+<1328> nothing
+
+//<1329> nothing
+<1329> nothing
+
+//<1330> Matsushita
+<1330> Matsushita
+
+//<1331> 「いやいや、少なくともお前の柔道の技術が上がったはずだ！」
+<1331> 「No, your judo skills must have improved, even just by a little!」
+
+//<1332> Otonashi
+<1332> Otonashi
+
+//<1333> Shitty Brat
+<1333> Shitty Brat
+
+//<1334> Attorney
+<1334> Attorney
+
+//<1335> Super Iffy Hottie
+<1335> Super Iffy Hottie
+
+//<1336> Lolicon
+<1336> Lolicon
+
+//<1337> Glasses Buddy
+<1337> Glasses Buddy
+
+//<1338> Japan's Mental Math Record Holder
+<1338> Japan's Mental Math Record Holder
+
+//<1339> Slasher
+<1339> Slasher
+
+//<1340> Amnesic Boy
+<1340> Amnesic Boy
+
+//<1341> Onsoku
+<1341> Onsoku
+
+//<1342> Mugen
+<1342> Mugen
+
+//<1343> Horny Samurai
+<1343> Horny Samurai
+
+//<1344> Super Horny Squad Member 1
+<1344> Super Horny Squad Member 1
+
+//<1345> Horny Boy
+<1345> Horny Boy
+
+//<1346> Ugly Yuri
+<1346> Ugly Yuri
+
+//<1347> Depussy
+<1347> Depussy
+
+//<1348> Perverted American Dog
+<1348> Perverted American Dog
+
+//<1349> Zeus
+<1349> Zeus
+
+//<1350> Hinata mark Ⅱ
+<1350> Hinata mark Ⅱ
+
+//<1351> Dung Beetle
+<1351> Dung Beetle
+
+//<1352> Mass Produced Hinata
+<1352> Mass Produced Hinata
+
+//<1353> ？？
+<1353> ？？
+
+//<1354> 「ひたすら投げ続けられ、受け身も取れず痛いだけでか？　多分どっか骨も折れてると思う」
+<1354> 「The only thing I did was being pinned down without an ukemi, and the only thing that's left is the pain. I think I also have a few broken bones.」
+
+//<1355> nothing
+<1355> nothing
+
+//<1356> nothing
+<1356> nothing
+
+//<1357> nothing
+<1357> nothing
+
+//<1358> nothing
+<1358> nothing
+
+//<1359> Two People
+<1359> Two People
+
+//<1360> Hinata
+<1360> Hinata
+
+//<1361> Boy B
+<1361> Boy B
+
+//<1362> Super Horny Squad Member 1
+<1362> Super Horny Squad Member 1
+
+//<1363> Handsome-chin
+<1363> Handsome-chin
+
+//<1364> Homota
+<1364> Homota
+
+//<1365> Hina-chin
+<1365> Hina-chin
+
+//<1366> Hideki
+<1366> Hideki
+
+//<1367> 男子生徒
+<1367> 男子生徒
+
+//<1368> ？？
+<1368> ？？
+
+//<1369> 「なんだってぇーー！？」
+<1369> 「It can't be!!」
+{26fb3} 0f // 1369
+
+//<1370> Matsushita
+<1370> Matsushita
+
+//<1371> 「なんだとぉーーー！？」
+<1371> 「It can't be!!」
+
+//<1372> なぜ、Hinata、お前まで驚く…。
+<1372> Why is Hinata surprised as well…?
+
+//<1373> Otonashi
+<1373> Otonashi
+
+//<1374> Shitty Brat
+<1374> Shitty Brat
+
+//<1375> Attorney
+<1375> Attorney
+
+//<1376> Super Iffy Hottie
+<1376> Super Iffy Hottie
+
+//<1377> Lolicon
+<1377> Lolicon
+
+//<1378> Glasses Buddy
+<1378> Glasses Buddy
+
+//<1379> Japan's Mental Math Record Holder
+<1379> Japan's Mental Math Record Holder
+
+//<1380> Slasher
+<1380> Slasher
+
+//<1381> Amnesic Boy
+<1381> Amnesic Boy
+
+//<1382> Onsoku
+<1382> Onsoku
+
+//<1383> Mugen
+<1383> Mugen
+
+//<1384> Horny Samurai
+<1384> Horny Samurai
+
+//<1385> Super Horny Squad Member 1
+<1385> Super Horny Squad Member 1
+
+//<1386> Horny Boy
+<1386> Horny Boy
+
+//<1387> Ugly Yuri
+<1387> Ugly Yuri
+
+//<1388> Depussy
+<1388> Depussy
+
+//<1389> Perverted American Dog
+<1389> Perverted American Dog
+
+//<1390> Zeus
+<1390> Zeus
+
+//<1391> Hinata mark Ⅱ
+<1391> Hinata mark Ⅱ
+
+//<1392> Dung Beetle
+<1392> Dung Beetle
+
+//<1393> Mass Produced Hinata
+<1393> Mass Produced Hinata
+
+//<1394> ？？
+<1394> ？？
+
+//<1395> 「ほんと、何も得たものがない…」
+<1395> 「Seriosuly, I didn't earn anything from this…」
+
+//<1396> nothing
+<1396> nothing
+
+//<1397> nothing
+<1397> nothing
+
+//<1398> nothing
+<1398> nothing
+
+//<1399> nothing
+<1399> nothing
+
+//<1400> Two People
+<1400> Two People
+
+//<1401> Hinata
+<1401> Hinata
+
+//<1402> Boy B
+<1402> Boy B
+
+//<1403> Super Horny Squad Member 1
+<1403> Super Horny Squad Member 1
+
+//<1404> Handsome-chin
+<1404> Handsome-chin
+
+//<1405> Homota
+<1405> Homota
+
+//<1406> Hina-chin
+<1406> Hina-chin
+
+//<1407> Hideki
+<1407> Hideki
+
+//<1408> 男子生徒
+<1408> 男子生徒
+
+//<1409> ？？
+<1409> ？？
+
+//<1410> 「なんだってぇーー！？」
+<1410> 「No way!!!!」
+{280fa} 0f // 1410
+
+//<1411> Matsushita
+<1411> Matsushita
+
+//<1412> 「なんだとぉーーー！？」
+<1412> 「No way!!!!」
+
+//<1413> まさかHinataまで驚かせてしまうとは…。
+<1413> I didn't think Hinata would be surprised as well…
+
+//<1414> Otonashi
+<1414> Otonashi
+
+//<1415> Shitty Brat
+<1415> Shitty Brat
+
+//<1416> Attorney
+<1416> Attorney
+
+//<1417> Super Iffy Hottie
+<1417> Super Iffy Hottie
+
+//<1418> Lolicon
+<1418> Lolicon
+
+//<1419> Glasses Buddy
+<1419> Glasses Buddy
+
+//<1420> Japan's Mental Math Record Holder
+<1420> Japan's Mental Math Record Holder
+
+//<1421> Slasher
+<1421> Slasher
+
+//<1422> Amnesic Boy
+<1422> Amnesic Boy
+
+//<1423> Onsoku
+<1423> Onsoku
+
+//<1424> Mugen
+<1424> Mugen
+
+//<1425> Horny Samurai
+<1425> Horny Samurai
+
+//<1426> Super Horny Squad Member 1
+<1426> Super Horny Squad Member 1
+
+//<1427> Horny Boy
+<1427> Horny Boy
+
+//<1428> Ugly Yuri
+<1428> Ugly Yuri
+
+//<1429> Depussy
+<1429> Depussy
+
+//<1430> Perverted American Dog
+<1430> Perverted American Dog
+
+//<1431> Zeus
+<1431> Zeus
+
+//<1432> Hinata mark Ⅱ
+<1432> Hinata mark Ⅱ
+
+//<1433> Dung Beetle
+<1433> Dung Beetle
+
+//<1434> Mass Produced Hinata
+<1434> Mass Produced Hinata
+
+//<1435> ？？
+<1435> ？？
+
+//<1436> 「Onsokuなのに、よけられないないなんて…！」
+<1436> 「I'm Onsoku, but I couldn't even avoid his attacks…!」
+
+//<1437> nothing
+<1437> nothing
+
+//<1438> nothing
+<1438> nothing
+
+//<1439> nothing
+<1439> nothing
+
+//<1440> nothing
+<1440> nothing
+
+//<1441> nothing
+<1441> nothing
+
+//<1442> Hinata
+<1442> Hinata
+
+//<1443> Boy B
+<1443> Boy B
+
+//<1444> Super Horny Squad Member 1
+<1444> Super Horny Squad Member 1
+
+//<1445> Handsome-chin
+<1445> Handsome-chin
+
+//<1446> Homota
+<1446> Homota
+
+//<1447> Hina-chin
+<1447> Hina-chin
+
+//<1448> Hideki
+<1448> Hideki
+
+//<1449> 男子生徒
+<1449> 男子生徒
+
+//<1450> ？？
+<1450> ？？
+
+//<1451> 「いやいや、それはお前のあだ名であって、実際そうではないから」
+<1451> 「No, that's just your nickname, and not yuor actual identity!」
+
+//<1452> Otonashi
+<1452> Otonashi
+
+//<1453> Shitty Brat
+<1453> Shitty Brat
+
+//<1454> Attorney
+<1454> Attorney
+
+//<1455> Super Iffy Hottie
+<1455> Super Iffy Hottie
+
+//<1456> Lolicon
+<1456> Lolicon
+
+//<1457> Glasses Buddy
+<1457> Glasses Buddy
+
+//<1458> Japan's Mental Math Record Holder
+<1458> Japan's Mental Math Record Holder
+
+//<1459> Slasher
+<1459> Slasher
+
+//<1460> Amnesic Boy
+<1460> Amnesic Boy
+
+//<1461> Onsoku
+<1461> Onsoku
+
+//<1462> Mugen
+<1462> Mugen
+
+//<1463> Horny Samurai
+<1463> Horny Samurai
+
+//<1464> Super Horny Squad Member 1
+<1464> Super Horny Squad Member 1
+
+//<1465> Horny Boy
+<1465> Horny Boy
+
+//<1466> Ugly Yuri
+<1466> Ugly Yuri
+
+//<1467> Depussy
+<1467> Depussy
+
+//<1468> Perverted American Dog
+<1468> Perverted American Dog
+
+//<1469> Zeus
+<1469> Zeus
+
+//<1470> Hinata mark Ⅱ
+<1470> Hinata mark Ⅱ
+
+//<1471> Dung Beetle
+<1471> Dung Beetle
+
+//<1472> Mass Produced Hinata
+<1472> Mass Produced Hinata
+
+//<1473> ？？
+<1473> ？？
+
+//<1474> 「そっか…でも多分大丈夫…」
+<1474> 「Oh yeah… Well, I'll probably fine…」
+
+//<1475> Otonashi
+<1475> Otonashi
+
+//<1476> Shitty Brat
+<1476> Shitty Brat
+
+//<1477> Attorney
+<1477> Attorney
+
+//<1478> Super Iffy Hottie
+<1478> Super Iffy Hottie
+
+//<1479> Lolicon
+<1479> Lolicon
+
+//<1480> Glasses Buddy
+<1480> Glasses Buddy
+
+//<1481> Japan's Mental Math Record Holder
+<1481> Japan's Mental Math Record Holder
+
+//<1482> Slasher
+<1482> Slasher
+
+//<1483> Amnesic Boy
+<1483> Amnesic Boy
+
+//<1484> Onsoku
+<1484> Onsoku
+
+//<1485> Mugen
+<1485> Mugen
+
+//<1486> Horny Samurai
+<1486> Horny Samurai
+
+//<1487> Super Horny Squad Member 1
+<1487> Super Horny Squad Member 1
+
+//<1488> Horny Boy
+<1488> Horny Boy
+
+//<1489> Ugly Yuri
+<1489> Ugly Yuri
+
+//<1490> Depussy
+<1490> Depussy
+
+//<1491> Perverted American Dog
+<1491> Perverted American Dog
+
+//<1492> Zeus
+<1492> Zeus
+
+//<1493> Hinata mark Ⅱ
+<1493> Hinata mark Ⅱ
+
+//<1494> Dung Beetle
+<1494> Dung Beetle
+
+//<1495> Mass Produced Hinata
+<1495> Mass Produced Hinata
+
+//<1496> ？？
+<1496> ？？
+
+//<1497> 「いや、恐らく大丈夫…」
+<1497> 「No, I'll be fine… probably.」
+
+//<1498> nothing
+<1498> nothing
+
+//<1499> nothing
+<1499> nothing
+
+//<1500> nothing
+<1500> nothing
+
+//<1501> nothing
+<1501> nothing
+
+//<1502> nothing
+<1502> nothing
+
+//<1503> Matsushita
+<1503> Matsushita
+
+//<1504> 「なんだとぉーーー！？」
+<1504> 「It can't be!!!」
+
+//<1505> nothing
+<1505> nothing
+
+//<1506> nothing
+<1506> nothing
+
+//<1507> nothing
+<1507> nothing
+
+//<1508> nothing
+<1508> nothing
+
+//<1509> nothing
+<1509> nothing
+
+//<1510> Hinata
+<1510> Hinata
+
+//<1511> Boy B
+<1511> Boy B
+
+//<1512> Super Horny Squad Member 1
+<1512> Super Horny Squad Member 1
+
+//<1513> Handsome-chin
+<1513> Handsome-chin
+
+//<1514> Homota
+<1514> Homota
+
+//<1515> Hina-chin
+<1515> Hina-chin
+
+//<1516> Hideki
+<1516> Hideki
+
+//<1517> 男子生徒
+<1517> 男子生徒
+
+//<1518> ？？
+<1518> ？？
+
+//<1519> 「でもそれぐらいの怪我、明日には治ってる世界だから、安心しろよ」
+<1519> 「But those wounds will disappaer when you wake up tomorrow, so don't worry.」
+
+//<1520> Otonashi
+<1520> Otonashi
+
+//<1521> Shitty Brat
+<1521> Shitty Brat
+
+//<1522> Attorney
+<1522> Attorney
+
+//<1523> Super Iffy Hottie
+<1523> Super Iffy Hottie
+
+//<1524> Lolicon
+<1524> Lolicon
+
+//<1525> Glasses Buddy
+<1525> Glasses Buddy
+
+//<1526> Japan's Mental Math Record Holder
+<1526> Japan's Mental Math Record Holder
+
+//<1527> Slasher
+<1527> Slasher
+
+//<1528> Amnesic Boy
+<1528> Amnesic Boy
+
+//<1529> Onsoku
+<1529> Onsoku
+
+//<1530> Mugen
+<1530> Mugen
+
+//<1531> Horny Samurai
+<1531> Horny Samurai
+
+//<1532> Super Horny Squad Member 1
+<1532> Super Horny Squad Member 1
+
+//<1533> Horny Boy
+<1533> Horny Boy
+
+//<1534> Ugly Yuri
+<1534> Ugly Yuri
+
+//<1535> Depussy
+<1535> Depussy
+
+//<1536> Perverted American Dog
+<1536> Perverted American Dog
+
+//<1537> Zeus
+<1537> Zeus
+
+//<1538> Hinata mark Ⅱ
+<1538> Hinata mark Ⅱ
+
+//<1539> Dung Beetle
+<1539> Dung Beetle
+
+//<1540> Mass Produced Hinata
+<1540> Mass Produced Hinata
+
+//<1541> ？？
+<1541> ？？
+
+//<1542> 「でも今日は痛いままなんだろ？」
+<1542> 「But does that mean that it'll continue to hurt today?」
+
+//<1543> nothing
+<1543> nothing
+
+//<1544> nothing
+<1544> nothing
+
+//<1545> nothing
+<1545> nothing
+
+//<1546> nothing
+<1546> nothing
+
+//<1547> nothing
+<1547> nothing
+
+//<1548> Hinata
+<1548> Hinata
+
+//<1549> Boy B
+<1549> Boy B
+
+//<1550> Super Horny Squad Member 1
+<1550> Super Horny Squad Member 1
+
+//<1551> Handsome-chin
+<1551> Handsome-chin
+
+//<1552> Homota
+<1552> Homota
+
+//<1553> Hina-chin
+<1553> Hina-chin
+
+//<1554> Hideki
+<1554> Hideki
+
+//<1555> 男子生徒
+<1555> 男子生徒
+
+//<1556> ？？
+<1556> ？？
+
+//<1557> 「だな…」
+<1557> 「Yeah…」
+
+//<1558> Otonashi
+<1558> Otonashi
+
+//<1559> Shitty Brat
+<1559> Shitty Brat
+
+//<1560> Attorney
+<1560> Attorney
+
+//<1561> Super Iffy Hottie
+<1561> Super Iffy Hottie
+
+//<1562> Lolicon
+<1562> Lolicon
+
+//<1563> Glasses Buddy
+<1563> Glasses Buddy
+
+//<1564> Japan's Mental Math Record Holder
+<1564> Japan's Mental Math Record Holder
+
+//<1565> Slasher
+<1565> Slasher
+
+//<1566> Amnesic Boy
+<1566> Amnesic Boy
+
+//<1567> Onsoku
+<1567> Onsoku
+
+//<1568> Mugen
+<1568> Mugen
+
+//<1569> Horny Samurai
+<1569> Horny Samurai
+
+//<1570> Super Horny Squad Member 1
+<1570> Super Horny Squad Member 1
+
+//<1571> Horny Boy
+<1571> Horny Boy
+
+//<1572> Ugly Yuri
+<1572> Ugly Yuri
+
+//<1573> Depussy
+<1573> Depussy
+
+//<1574> Perverted American Dog
+<1574> Perverted American Dog
+
+//<1575> Zeus
+<1575> Zeus
+
+//<1576> Hinata mark Ⅱ
+<1576> Hinata mark Ⅱ
+
+//<1577> Dung Beetle
+<1577> Dung Beetle
+
+//<1578> Mass Produced Hinata
+<1578> Mass Produced Hinata
+
+//<1579> ？？
+<1579> ？？
+
+//<1580> 「くっそ！」
+<1580> 「Damnit!」
+
+//<1581> nothing
+<1581> nothing
+
+//<1582> nothing
+<1582> nothing
+
+//<1583> nothing
+<1583> nothing
+
+//<1584> nothing
+<1584> nothing
+
+//<1585> nothing
+<1585> nothing
+
+//<1586> Matsushita
+<1586> Matsushita
+
+//<1587> 「なんだとぉーーー！？」
+<1587> 「It can't be!!!」
+
+//<1588> Otonashi
+<1588> Otonashi
+
+//<1589> Shitty Brat
+<1589> Shitty Brat
+
+//<1590> Attorney
+<1590> Attorney
+
+//<1591> Super Iffy Hottie
+<1591> Super Iffy Hottie
+
+//<1592> Lolicon
+<1592> Lolicon
+
+//<1593> Glasses Buddy
+<1593> Glasses Buddy
+
+//<1594> Japan's Mental Math Record Holder
+<1594> Japan's Mental Math Record Holder
+
+//<1595> Slasher
+<1595> Slasher
+
+//<1596> Amnesic Boy
+<1596> Amnesic Boy
+
+//<1597> Onsoku
+<1597> Onsoku
+
+//<1598> Mugen
+<1598> Mugen
+
+//<1599> Horny Samurai
+<1599> Horny Samurai
+
+//<1600> Super Horny Squad Member 1
+<1600> Super Horny Squad Member 1
+
+//<1601> Horny Boy
+<1601> Horny Boy
+
+//<1602> Ugly Yuri
+<1602> Ugly Yuri
+
+//<1603> Depussy
+<1603> Depussy
+
+//<1604> Perverted American Dog
+<1604> Perverted American Dog
+
+//<1605> Zeus
+<1605> Zeus
+
+//<1606> Hinata mark Ⅱ
+<1606> Hinata mark Ⅱ
+
+//<1607> Dung Beetle
+<1607> Dung Beetle
+
+//<1608> Mass Produced Hinata
+<1608> Mass Produced Hinata
+
+//<1609> ？？
+<1609> ？？
+
+//<1610> 「ほんと、何も得たものがない」
+<1610> 「Seriously, I didn't earn anything from this.」
+
+//<1611> nothing
+<1611> nothing
+
+//<1612> nothing
+<1612> nothing
+
+//<1613> nothing
+<1613> nothing
+
+//<1614> nothing
+<1614> nothing
+
+//<1615> nothing
+<1615> nothing
+
+//<1616> Matsushita
+<1616> Matsushita
+
+//<1617> 「それは…すまなかった…謝る」
+<1617> 「About that… I apologize… Forgive me.」
+
+//<1618> nothing
+<1618> nothing
+
+//<1619> nothing
+<1619> nothing
+
+//<1620> nothing
+<1620> nothing
+
+//<1621> nothing
+<1621> nothing
+
+//<1622> nothing
+<1622> nothing
+
+//<1623> nothing
+<1623> nothing
+
+//<1624> そう言って、両膝をつく。
+<1624> Saying that, he started kneeling.
+
+//<1625> Otonashi
+<1625> Otonashi
+
+//<1626> Shitty Brat
+<1626> Shitty Brat
+
+//<1627> Attorney
+<1627> Attorney
+
+//<1628> Super Iffy Hottie
+<1628> Super Iffy Hottie
+
+//<1629> Lolicon
+<1629> Lolicon
+
+//<1630> Glasses Buddy
+<1630> Glasses Buddy
+
+//<1631> Japan's Mental Math Record Holder
+<1631> Japan's Mental Math Record Holder
+
+//<1632> Slasher
+<1632> Slasher
+
+//<1633> Amnesic Boy
+<1633> Amnesic Boy
+
+//<1634> Onsoku
+<1634> Onsoku
+
+//<1635> Mugen
+<1635> Mugen
+
+//<1636> Horny Samurai
+<1636> Horny Samurai
+
+//<1637> Super Horny Squad Member 1
+<1637> Super Horny Squad Member 1
+
+//<1638> Horny Boy
+<1638> Horny Boy
+
+//<1639> Ugly Yuri
+<1639> Ugly Yuri
+
+//<1640> Depussy
+<1640> Depussy
+
+//<1641> Perverted American Dog
+<1641> Perverted American Dog
+
+//<1642> Zeus
+<1642> Zeus
+
+//<1643> Hinata mark Ⅱ
+<1643> Hinata mark Ⅱ
+
+//<1644> Dung Beetle
+<1644> Dung Beetle
+
+//<1645> Mass Produced Hinata
+<1645> Mass Produced Hinata
+
+//<1646> ？？
+<1646> ？？
+
+//<1647> 「いやいや、そこまでしなくてもいいからっ」
+<1647> 「No, you don't have to go that far.」
+
+//<1648> Matsushita
+<1648> Matsushita
+
+//<1649> 「今日のことは許してくれるのか？」
+<1649> 「Can you forgive me for what happened today?」
+
+//<1650> 許す
+<1650> Forgive him
+
+//<1651> 許さない
+<1651> It's unforgivable
+
+//<1652> selbtn : 
+<1652> selbtn : 
+
+//<1653> Otonashi
+<1653> Otonashi
+
+//<1654> Shitty Brat
+<1654> Shitty Brat
+
+//<1655> Attorney
+<1655> Attorney
+
+//<1656> Super Iffy Hottie
+<1656> Super Iffy Hottie
+
+//<1657> Lolicon
+<1657> Lolicon
+
+//<1658> Glasses Buddy
+<1658> Glasses Buddy
+
+//<1659> Japan's Mental Math Record Holder
+<1659> Japan's Mental Math Record Holder
+
+//<1660> Slasher
+<1660> Slasher
+
+//<1661> Amnesic Boy
+<1661> Amnesic Boy
+
+//<1662> Onsoku
+<1662> Onsoku
+
+//<1663> Mugen
+<1663> Mugen
+
+//<1664> Horny Samurai
+<1664> Horny Samurai
+
+//<1665> Super Horny Squad Member 1
+<1665> Super Horny Squad Member 1
+
+//<1666> Horny Boy
+<1666> Horny Boy
+
+//<1667> Ugly Yuri
+<1667> Ugly Yuri
+
+//<1668> Depussy
+<1668> Depussy
+
+//<1669> Perverted American Dog
+<1669> Perverted American Dog
+
+//<1670> Zeus
+<1670> Zeus
+
+//<1671> Hinata mark Ⅱ
+<1671> Hinata mark Ⅱ
+
+//<1672> Dung Beetle
+<1672> Dung Beetle
+
+//<1673> Mass Produced Hinata
+<1673> Mass Produced Hinata
+
+//<1674> ？？
+<1674> ？？
+
+//<1675> 「許すから、顔をあげてくれ」
+<1675> 「I'll forgive you, so please get up.」
+
+//<1676> nothing
+<1676> nothing
+
+//<1677> nothing
+<1677> nothing
+
+//<1678> nothing
+<1678> nothing
+
+//<1679> nothing
+<1679> nothing
+
+//<1680> nothing
+<1680> nothing
+
+//<1681> Matsushita
+<1681> Matsushita
+
+//<1682> 「ありがたいっ！」
+<1682> 「My thanks!」
+
+//<1683> nothing
+<1683> nothing
+
+//<1684> nothing
+<1684> nothing
+
+//<1685> nothing
+<1685> nothing
+
+//<1686> nothing
+<1686> nothing
+
+//<1687> nothing
+<1687> nothing
+
+//<1688> Matsushita
+<1688> Matsushita
+
+//<1689> 「では、その代わりに、お前にも柔道を教えていく」
+<1689> 「Now, as an apology, I'll teach to you too, the ways of judo.」
+
+//<1690> nothing
+<1690> nothing
+
+//<1691> nothing
+<1691> nothing
+
+//<1692> nothing
+<1692> nothing
+
+//<1693> nothing
+<1693> nothing
+
+//<1694> nothing
+<1694> nothing
+
+//<1695> えー。
+<1695> Umm.
+
+//<1696> Otonashi
+<1696> Otonashi
+
+//<1697> Shitty Brat
+<1697> Shitty Brat
+
+//<1698> Attorney
+<1698> Attorney
+
+//<1699> Super Iffy Hottie
+<1699> Super Iffy Hottie
+
+//<1700> Lolicon
+<1700> Lolicon
+
+//<1701> Glasses Buddy
+<1701> Glasses Buddy
+
+//<1702> Japan's Mental Math Record Holder
+<1702> Japan's Mental Math Record Holder
+
+//<1703> Slasher
+<1703> Slasher
+
+//<1704> Amnesic Boy
+<1704> Amnesic Boy
+
+//<1705> Onsoku
+<1705> Onsoku
+
+//<1706> Mugen
+<1706> Mugen
+
+//<1707> Horny Samurai
+<1707> Horny Samurai
+
+//<1708> Super Horny Squad Member 1
+<1708> Super Horny Squad Member 1
+
+//<1709> Horny Boy
+<1709> Horny Boy
+
+//<1710> Ugly Yuri
+<1710> Ugly Yuri
+
+//<1711> Depussy
+<1711> Depussy
+
+//<1712> Perverted American Dog
+<1712> Perverted American Dog
+
+//<1713> Zeus
+<1713> Zeus
+
+//<1714> Hinata mark Ⅱ
+<1714> Hinata mark Ⅱ
+
+//<1715> Dung Beetle
+<1715> Dung Beetle
+
+//<1716> Mass Produced Hinata
+<1716> Mass Produced Hinata
+
+//<1717> ？？
+<1717> ？？
+
+//<1718> 「そいつはちょっと…」
+<1718> 「That's a bit…」
+
+//<1719> Hinata
+<1719> Hinata
+
+//<1720> Boy B
+<1720> Boy B
+
+//<1721> Super Horny Squad Member 1
+<1721> Super Horny Squad Member 1
+
+//<1722> Handsome-chin
+<1722> Handsome-chin
+
+//<1723> Homota
+<1723> Homota
+
+//<1724> Hina-chin
+<1724> Hina-chin
+
+//<1725> Hideki
+<1725> Hideki
+
+//<1726> 男子生徒
+<1726> 男子生徒
+
+//<1727> ？？
+<1727> ？？
+
+//<1728> 「いいや、教わるべきだと思うぜ？　幹部のみんなは黒帯ぐらいには教えられてる」
+<1728> 「No, I think you should learn it. Everybody single staff member has a skill level of at least a black belt.」
+
+//<1729> Otonashi
+<1729> Otonashi
+
+//<1730> Shitty Brat
+<1730> Shitty Brat
+
+//<1731> Attorney
+<1731> Attorney
+
+//<1732> Super Iffy Hottie
+<1732> Super Iffy Hottie
+
+//<1733> Lolicon
+<1733> Lolicon
+
+//<1734> Glasses Buddy
+<1734> Glasses Buddy
+
+//<1735> Japan's Mental Math Record Holder
+<1735> Japan's Mental Math Record Holder
+
+//<1736> Slasher
+<1736> Slasher
+
+//<1737> Amnesic Boy
+<1737> Amnesic Boy
+
+//<1738> Onsoku
+<1738> Onsoku
+
+//<1739> Mugen
+<1739> Mugen
+
+//<1740> Horny Samurai
+<1740> Horny Samurai
+
+//<1741> Super Horny Squad Member 1
+<1741> Super Horny Squad Member 1
+
+//<1742> Horny Boy
+<1742> Horny Boy
+
+//<1743> Ugly Yuri
+<1743> Ugly Yuri
+
+//<1744> Depussy
+<1744> Depussy
+
+//<1745> Perverted American Dog
+<1745> Perverted American Dog
+
+//<1746> Zeus
+<1746> Zeus
+
+//<1747> Hinata mark Ⅱ
+<1747> Hinata mark Ⅱ
+
+//<1748> Dung Beetle
+<1748> Dung Beetle
+
+//<1749> Mass Produced Hinata
+<1749> Mass Produced Hinata
+
+//<1750> ？？
+<1750> ？？
+
+//<1751> 「え？　どうして？　銃渡されてんだぜ？　その必要性がわからないんだが…」
+<1751> 「Huh? Why? We already have a gun don't we? I don't really see a reason to learn judo…」
+
+//<1752> nothing
+<1752> nothing
+
+//<1753> nothing
+<1753> nothing
+
+//<1754> nothing
+<1754> nothing
+
+//<1755> nothing
+<1755> nothing
+
+//<1756> nothing
+<1756> nothing
+
+//<1757> Hinata
+<1757> Hinata
+
+//<1758> Boy B
+<1758> Boy B
+
+//<1759> Super Horny Squad Member 1
+<1759> Super Horny Squad Member 1
+
+//<1760> Handsome-chin
+<1760> Handsome-chin
+
+//<1761> Homota
+<1761> Homota
+
+//<1762> Hina-chin
+<1762> Hina-chin
+
+//<1763> Hideki
+<1763> Hideki
+
+//<1764> 男子生徒
+<1764> 男子生徒
+
+//<1765> ？？
+<1765> ？？
+
+//<1766> 「それはMatsushita五段、説明を頼むぜ」
+<1766> 「About that, Matsushita the 5th, please explain.」
+
+//<1767> nothing
+<1767> nothing
+
+//<1768> nothing
+<1768> nothing
+
+//<1769> nothing
+<1769> nothing
+
+//<1770> nothing
+<1770> nothing
+
+//<1771> nothing
+<1771> nothing
+
+//<1772> Matsushita
+<1772> Matsushita
+
+//<1773> 「お前にも、と言っただろ？　幹部のみんなは黒帯並みには教えてある」
+<1773> 「I said you too right? Every staff member has a skill level of at least a black belt.」
+
+//<1774> Otonashi
+<1774> Otonashi
+
+//<1775> Shitty Brat
+<1775> Shitty Brat
+
+//<1776> Attorney
+<1776> Attorney
+
+//<1777> Super Iffy Hottie
+<1777> Super Iffy Hottie
+
+//<1778> Lolicon
+<1778> Lolicon
+
+//<1779> Glasses Buddy
+<1779> Glasses Buddy
+
+//<1780> Japan's Mental Math Record Holder
+<1780> Japan's Mental Math Record Holder
+
+//<1781> Slasher
+<1781> Slasher
+
+//<1782> Amnesic Boy
+<1782> Amnesic Boy
+
+//<1783> Onsoku
+<1783> Onsoku
+
+//<1784> Mugen
+<1784> Mugen
+
+//<1785> Horny Samurai
+<1785> Horny Samurai
+
+//<1786> Super Horny Squad Member 1
+<1786> Super Horny Squad Member 1
+
+//<1787> Horny Boy
+<1787> Horny Boy
+
+//<1788> Ugly Yuri
+<1788> Ugly Yuri
+
+//<1789> Depussy
+<1789> Depussy
+
+//<1790> Perverted American Dog
+<1790> Perverted American Dog
+
+//<1791> Zeus
+<1791> Zeus
+
+//<1792> Hinata mark Ⅱ
+<1792> Hinata mark Ⅱ
+
+//<1793> Dung Beetle
+<1793> Dung Beetle
+
+//<1794> Mass Produced Hinata
+<1794> Mass Produced Hinata
+
+//<1795> ？？
+<1795> ？？
+
+//<1796> 「だって、銃渡されてんだぜ？　その必要性がわからないんだが…」
+<1796> 「But, we have gun don't we? I don't really see the necessity in learning judo…」
+
+//<1797> nothing
+<1797> nothing
+
+//<1798> nothing
+<1798> nothing
+
+//<1799> nothing
+<1799> nothing
+
+//<1800> nothing
+<1800> nothing
+
+//<1801> nothing
+<1801> nothing
+
+//<1802> Matsushita
+<1802> Matsushita
+
+//<1803> 「俺はいつの日か、柔道の技が必要になると信じている。特に天使の体は小柄だからな」
+<1803> 「One day, I realized the necessity of judo skills. The main reason is because Tenshi is on the petite side.」
+
+//<1804> Otonashi
+<1804> Otonashi
+
+//<1805> Shitty Brat
+<1805> Shitty Brat
+
+//<1806> Attorney
+<1806> Attorney
+
+//<1807> Super Iffy Hottie
+<1807> Super Iffy Hottie
+
+//<1808> Lolicon
+<1808> Lolicon
+
+//<1809> Glasses Buddy
+<1809> Glasses Buddy
+
+//<1810> Japan's Mental Math Record Holder
+<1810> Japan's Mental Math Record Holder
+
+//<1811> Slasher
+<1811> Slasher
+
+//<1812> Amnesic Boy
+<1812> Amnesic Boy
+
+//<1813> Onsoku
+<1813> Onsoku
+
+//<1814> Mugen
+<1814> Mugen
+
+//<1815> Horny Samurai
+<1815> Horny Samurai
+
+//<1816> Super Horny Squad Member 1
+<1816> Super Horny Squad Member 1
+
+//<1817> Horny Boy
+<1817> Horny Boy
+
+//<1818> Ugly Yuri
+<1818> Ugly Yuri
+
+//<1819> Depussy
+<1819> Depussy
+
+//<1820> Perverted American Dog
+<1820> Perverted American Dog
+
+//<1821> Zeus
+<1821> Zeus
+
+//<1822> Hinata mark Ⅱ
+<1822> Hinata mark Ⅱ
+
+//<1823> Dung Beetle
+<1823> Dung Beetle
+
+//<1824> Mass Produced Hinata
+<1824> Mass Produced Hinata
+
+//<1825> ？？
+<1825> ？？
+
+//<1826> 「小柄だと有効なのか？」
+<1826> 「Is judo more effective to smaller people?」
+
+//<1827> nothing
+<1827> nothing
+
+//<1828> nothing
+<1828> nothing
+
+//<1829> nothing
+<1829> nothing
+
+//<1830> nothing
+<1830> nothing
+
+//<1831> nothing
+<1831> nothing
+
+//<1832> Matsushita
+<1832> Matsushita
+
+//<1833> 「ああ。天使のような尋常ではない馬鹿力の持ち主でも、足を刈ってからの押さえ込みでならば、動けなくできるはずだ」
+<1833> 「Yeah. If we pin somebody from knee down on to the ground, Even Tenshi, who has unhuman strength, won't be able to move.」
+
+//<1834> Otonashi
+<1834> Otonashi
+
+//<1835> Shitty Brat
+<1835> Shitty Brat
+
+//<1836> Attorney
+<1836> Attorney
+
+//<1837> Super Iffy Hottie
+<1837> Super Iffy Hottie
+
+//<1838> Lolicon
+<1838> Lolicon
+
+//<1839> Glasses Buddy
+<1839> Glasses Buddy
+
+//<1840> Japan's Mental Math Record Holder
+<1840> Japan's Mental Math Record Holder
+
+//<1841> Slasher
+<1841> Slasher
+
+//<1842> Amnesic Boy
+<1842> Amnesic Boy
+
+//<1843> Onsoku
+<1843> Onsoku
+
+//<1844> Mugen
+<1844> Mugen
+
+//<1845> Horny Samurai
+<1845> Horny Samurai
+
+//<1846> Super Horny Squad Member 1
+<1846> Super Horny Squad Member 1
+
+//<1847> Horny Boy
+<1847> Horny Boy
+
+//<1848> Ugly Yuri
+<1848> Ugly Yuri
+
+//<1849> Depussy
+<1849> Depussy
+
+//<1850> Perverted American Dog
+<1850> Perverted American Dog
+
+//<1851> Zeus
+<1851> Zeus
+
+//<1852> Hinata mark Ⅱ
+<1852> Hinata mark Ⅱ
+
+//<1853> Dung Beetle
+<1853> Dung Beetle
+
+//<1854> Mass Produced Hinata
+<1854> Mass Produced Hinata
+
+//<1855> ？？
+<1855> ？？
+
+//<1856> 「あんな凶暴な相手にかよ…」
+<1856> 「Just how strong is she…?」
+
+//<1857> nothing
+<1857> nothing
+
+//<1858> nothing
+<1858> nothing
+
+//<1859> nothing
+<1859> nothing
+
+//<1860> nothing
+<1860> nothing
+
+//<1861> nothing
+<1861> nothing
+
+//<1862> Matsushita
+<1862> Matsushita
+
+//<1863> 「ああ。だから、気が向いたらまた来い」
+<1863> 「Exactly. So, if you change your mind, feel free to come whenever.」
+
+//<1864> Otonashi
+<1864> Otonashi
+
+//<1865> Shitty Brat
+<1865> Shitty Brat
+
+//<1866> Attorney
+<1866> Attorney
+
+//<1867> Super Iffy Hottie
+<1867> Super Iffy Hottie
+
+//<1868> Lolicon
+<1868> Lolicon
+
+//<1869> Glasses Buddy
+<1869> Glasses Buddy
+
+//<1870> Japan's Mental Math Record Holder
+<1870> Japan's Mental Math Record Holder
+
+//<1871> Slasher
+<1871> Slasher
+
+//<1872> Amnesic Boy
+<1872> Amnesic Boy
+
+//<1873> Onsoku
+<1873> Onsoku
+
+//<1874> Mugen
+<1874> Mugen
+
+//<1875> Horny Samurai
+<1875> Horny Samurai
+
+//<1876> Super Horny Squad Member 1
+<1876> Super Horny Squad Member 1
+
+//<1877> Horny Boy
+<1877> Horny Boy
+
+//<1878> Ugly Yuri
+<1878> Ugly Yuri
+
+//<1879> Depussy
+<1879> Depussy
+
+//<1880> Perverted American Dog
+<1880> Perverted American Dog
+
+//<1881> Zeus
+<1881> Zeus
+
+//<1882> Hinata mark Ⅱ
+<1882> Hinata mark Ⅱ
+
+//<1883> Dung Beetle
+<1883> Dung Beetle
+
+//<1884> Mass Produced Hinata
+<1884> Mass Produced Hinata
+
+//<1885> ？？
+<1885> ？？
+
+//<1886> 「ああ…そうさせてもらうよ…」
+<1886> 「Yeah… I'll do that…」
+
+//<1887> Otonashi
+<1887> Otonashi
+
+//<1888> Shitty Brat
+<1888> Shitty Brat
+
+//<1889> Attorney
+<1889> Attorney
+
+//<1890> Super Iffy Hottie
+<1890> Super Iffy Hottie
+
+//<1891> Lolicon
+<1891> Lolicon
+
+//<1892> Glasses Buddy
+<1892> Glasses Buddy
+
+//<1893> Japan's Mental Math Record Holder
+<1893> Japan's Mental Math Record Holder
+
+//<1894> Slasher
+<1894> Slasher
+
+//<1895> Amnesic Boy
+<1895> Amnesic Boy
+
+//<1896> Onsoku
+<1896> Onsoku
+
+//<1897> Mugen
+<1897> Mugen
+
+//<1898> Horny Samurai
+<1898> Horny Samurai
+
+//<1899> Super Horny Squad Member 1
+<1899> Super Horny Squad Member 1
+
+//<1900> Horny Boy
+<1900> Horny Boy
+
+//<1901> Ugly Yuri
+<1901> Ugly Yuri
+
+//<1902> Depussy
+<1902> Depussy
+
+//<1903> Perverted American Dog
+<1903> Perverted American Dog
+
+//<1904> Zeus
+<1904> Zeus
+
+//<1905> Hinata mark Ⅱ
+<1905> Hinata mark Ⅱ
+
+//<1906> Dung Beetle
+<1906> Dung Beetle
+
+//<1907> Mass Produced Hinata
+<1907> Mass Produced Hinata
+
+//<1908> ？？
+<1908> ？？
+
+//<1909> 「許さない」
+<1909> 「I can't forgive him.」
+
+//<1910> nothing
+<1910> nothing
+
+//<1911> nothing
+<1911> nothing
+
+//<1912> nothing
+<1912> nothing
+
+//<1913> nothing
+<1913> nothing
+
+//<1914> nothing
+<1914> nothing
+
+//<1915> Hinata
+<1915> Hinata
+
+//<1916> Boy B
+<1916> Boy B
+
+//<1917> Super Horny Squad Member 1
+<1917> Super Horny Squad Member 1
+
+//<1918> Handsome-chin
+<1918> Handsome-chin
+
+//<1919> Homota
+<1919> Homota
+
+//<1920> Hina-chin
+<1920> Hina-chin
+
+//<1921> Hideki
+<1921> Hideki
+
+//<1922> 男子生徒
+<1922> 男子生徒
+
+//<1923> ？？
+<1923> ？？
+
+//<1924> 「Oi, Shitty Brat, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+<1924> 「Oi, Shitty Brat, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+
+//<1925> nothing
+<1925> nothing
+
+//<1926> nothing
+<1926> nothing
+
+//<1927> nothing
+<1927> nothing
+
+//<1928> nothing
+<1928> nothing
+
+//<1929> nothing
+<1929> nothing
+
+//<1930> Hinata
+<1930> Hinata
+
+//<1931> Boy B
+<1931> Boy B
+
+//<1932> Super Horny Squad Member 1
+<1932> Super Horny Squad Member 1
+
+//<1933> Handsome-chin
+<1933> Handsome-chin
+
+//<1934> Homota
+<1934> Homota
+
+//<1935> Hina-chin
+<1935> Hina-chin
+
+//<1936> Hideki
+<1936> Hideki
+
+//<1937> 男子生徒
+<1937> 男子生徒
+
+//<1938> ？？
+<1938> ？？
+
+//<1939> 「Oi, Attorney, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+<1939> 「Oi, Attorney, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+
+//<1940> nothing
+<1940> nothing
+
+//<1941> nothing
+<1941> nothing
+
+//<1942> nothing
+<1942> nothing
+
+//<1943> nothing
+<1943> nothing
+
+//<1944> nothing
+<1944> nothing
+
+//<1945> Hinata
+<1945> Hinata
+
+//<1946> Boy B
+<1946> Boy B
+
+//<1947> Super Horny Squad Member 1
+<1947> Super Horny Squad Member 1
+
+//<1948> Handsome-chin
+<1948> Handsome-chin
+
+//<1949> Homota
+<1949> Homota
+
+//<1950> Hina-chin
+<1950> Hina-chin
+
+//<1951> Hideki
+<1951> Hideki
+
+//<1952> 男子生徒
+<1952> 男子生徒
+
+//<1953> ？？
+<1953> ？？
+
+//<1954> 「Oi, Super Iffy Hottie, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+<1954> 「Oi, Super Iffy Hottie, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+
+//<1955> nothing
+<1955> nothing
+
+//<1956> nothing
+<1956> nothing
+
+//<1957> nothing
+<1957> nothing
+
+//<1958> nothing
+<1958> nothing
+
+//<1959> nothing
+<1959> nothing
+
+//<1960> Hinata
+<1960> Hinata
+
+//<1961> Boy B
+<1961> Boy B
+
+//<1962> Super Horny Squad Member 1
+<1962> Super Horny Squad Member 1
+
+//<1963> Handsome-chin
+<1963> Handsome-chin
+
+//<1964> Homota
+<1964> Homota
+
+//<1965> Hina-chin
+<1965> Hina-chin
+
+//<1966> Hideki
+<1966> Hideki
+
+//<1967> 男子生徒
+<1967> 男子生徒
+
+//<1968> ？？
+<1968> ？？
+
+//<1969> 「Oi, Lolicon, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+<1969> 「Oi, Lolicon, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+
+//<1970> nothing
+<1970> nothing
+
+//<1971> nothing
+<1971> nothing
+
+//<1972> nothing
+<1972> nothing
+
+//<1973> nothing
+<1973> nothing
+
+//<1974> nothing
+<1974> nothing
+
+//<1975> Hinata
+<1975> Hinata
+
+//<1976> Boy B
+<1976> Boy B
+
+//<1977> Super Horny Squad Member 1
+<1977> Super Horny Squad Member 1
+
+//<1978> Handsome-chin
+<1978> Handsome-chin
+
+//<1979> Homota
+<1979> Homota
+
+//<1980> Hina-chin
+<1980> Hina-chin
+
+//<1981> Hideki
+<1981> Hideki
+
+//<1982> 男子生徒
+<1982> 男子生徒
+
+//<1983> ？？
+<1983> ？？
+
+//<1984> 「Oi, Glasses Buddy, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+<1984> 「Oi, Glasses Buddy, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+
+//<1985> Otonashi
+<1985> Otonashi
+
+//<1986> Shitty Brat
+<1986> Shitty Brat
+
+//<1987> Attorney
+<1987> Attorney
+
+//<1988> Super Iffy Hottie
+<1988> Super Iffy Hottie
+
+//<1989> Lolicon
+<1989> Lolicon
+
+//<1990> Glasses Buddy
+<1990> Glasses Buddy
+
+//<1991> Japan's Mental Math Record Holder
+<1991> Japan's Mental Math Record Holder
+
+//<1992> Slasher
+<1992> Slasher
+
+//<1993> Amnesic Boy
+<1993> Amnesic Boy
+
+//<1994> Onsoku
+<1994> Onsoku
+
+//<1995> Mugen
+<1995> Mugen
+
+//<1996> Horny Samurai
+<1996> Horny Samurai
+
+//<1997> Super Horny Squad Member 1
+<1997> Super Horny Squad Member 1
+
+//<1998> Horny Boy
+<1998> Horny Boy
+
+//<1999> Ugly Yuri
+<1999> Ugly Yuri
+
+//<2000> Depussy
+<2000> Depussy
+
+//<2001> Perverted American Dog
+<2001> Perverted American Dog
+
+//<2002> Zeus
+<2002> Zeus
+
+//<2003> Hinata mark Ⅱ
+<2003> Hinata mark Ⅱ
+
+//<2004> Dung Beetle
+<2004> Dung Beetle
+
+//<2005> Mass Produced Hinata
+<2005> Mass Produced Hinata
+
+//<2006> ？？
+<2006> ？？
+
+//<2007> 「悪いが、お前はGlasses Buddyではない」
+<2007> 「I'm sorry, but you're not my glasses buddy.」
+
+//<2008> nothing
+<2008> nothing
+
+//<2009> nothing
+<2009> nothing
+
+//<2010> nothing
+<2010> nothing
+
+//<2011> nothing
+<2011> nothing
+
+//<2012> nothing
+<2012> nothing
+
+//<2013> Hinata
+<2013> Hinata
+
+//<2014> Boy B
+<2014> Boy B
+
+//<2015> Super Horny Squad Member 1
+<2015> Super Horny Squad Member 1
+
+//<2016> Handsome-chin
+<2016> Handsome-chin
+
+//<2017> Homota
+<2017> Homota
+
+//<2018> Hina-chin
+<2018> Hina-chin
+
+//<2019> Hideki
+<2019> Hideki
+
+//<2020> 男子生徒
+<2020> 男子生徒
+
+//<2021> ？？
+<2021> ？？
+
+//<2022> 「お前だって、かけてねーじゃねーか！！」
+<2022> 「Even you aren't wearing them!!」
+
+//<2023> nothing
+<2023> nothing
+
+//<2024> nothing
+<2024> nothing
+
+//<2025> nothing
+<2025> nothing
+
+//<2026> nothing
+<2026> nothing
+
+//<2027> nothing
+<2027> nothing
+
+//<2028> Hinata
+<2028> Hinata
+
+//<2029> Boy B
+<2029> Boy B
+
+//<2030> Super Horny Squad Member 1
+<2030> Super Horny Squad Member 1
+
+//<2031> Handsome-chin
+<2031> Handsome-chin
+
+//<2032> Homota
+<2032> Homota
+
+//<2033> Hina-chin
+<2033> Hina-chin
+
+//<2034> Hideki
+<2034> Hideki
+
+//<2035> 男子生徒
+<2035> 男子生徒
+
+//<2036> ？？
+<2036> ？？
+{3848d} 33 // 2036
+
+//<2037> 「Oi, Japan's Mental Math Record Holderってもういちいちなげーーな！！」
+<2037> 「Oi, Japan's Mental Math Record Holder, why did you even pick this long-ass name!?」
+
+//<2038> nothing
+<2038> nothing
+
+//<2039> nothing
+<2039> nothing
+
+//<2040> nothing
+<2040> nothing
+
+//<2041> nothing
+<2041> nothing
+
+//<2042> nothing
+<2042> nothing
+
+//<2043> nothing
+<2043> nothing
+
+//<2044> nothing
+<2044> nothing
+
+//<2045> nothing
+<2045> nothing
+
+//<2046> nothing
+<2046> nothing
+
+//<2047> nothing
+<2047> nothing
+
+//<2048> Hinata
+<2048> Hinata
+
+//<2049> Boy B
+<2049> Boy B
+
+//<2050> Super Horny Squad Member 1
+<2050> Super Horny Squad Member 1
+
+//<2051> Handsome-chin
+<2051> Handsome-chin
+
+//<2052> Homota
+<2052> Homota
+
+//<2053> Hina-chin
+<2053> Hina-chin
+
+//<2054> Hideki
+<2054> Hideki
+
+//<2055> 男子生徒
+<2055> 男子生徒
+
+//<2056> ？？
+<2056> ？？
+
+//<2057> 「ともかく, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+<2057> 「Anyway, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+
+//<2058> nothing
+<2058> nothing
+
+//<2059> nothing
+<2059> nothing
+
+//<2060> nothing
+<2060> nothing
+
+//<2061> nothing
+<2061> nothing
+
+//<2062> nothing
+<2062> nothing
+
+//<2063> Hinata
+<2063> Hinata
+
+//<2064> Boy B
+<2064> Boy B
+
+//<2065> Super Horny Squad Member 1
+<2065> Super Horny Squad Member 1
+
+//<2066> Handsome-chin
+<2066> Handsome-chin
+
+//<2067> Homota
+<2067> Homota
+
+//<2068> Hina-chin
+<2068> Hina-chin
+
+//<2069> Hideki
+<2069> Hideki
+
+//<2070> 男子生徒
+<2070> 男子生徒
+
+//<2071> ？？
+<2071> ？？
+
+//<2072> 「Oi, Slasher, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+<2072> 「Oi, Slasher, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+
+//<2073> nothing
+<2073> nothing
+
+//<2074> nothing
+<2074> nothing
+
+//<2075> nothing
+<2075> nothing
+
+//<2076> nothing
+<2076> nothing
+
+//<2077> nothing
+<2077> nothing
+
+//<2078> Hinata
+<2078> Hinata
+
+//<2079> Boy B
+<2079> Boy B
+
+//<2080> Super Horny Squad Member 1
+<2080> Super Horny Squad Member 1
+
+//<2081> Handsome-chin
+<2081> Handsome-chin
+
+//<2082> Homota
+<2082> Homota
+
+//<2083> Hina-chin
+<2083> Hina-chin
+
+//<2084> Hideki
+<2084> Hideki
+
+//<2085> 男子生徒
+<2085> 男子生徒
+
+//<2086> ？？
+<2086> ？？
+
+//<2087> 「Oi, Amnesic Boy, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+<2087> 「Oi, Amnesic Boy, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+
+//<2088> nothing
+<2088> nothing
+
+//<2089> nothing
+<2089> nothing
+
+//<2090> nothing
+<2090> nothing
+
+//<2091> nothing
+<2091> nothing
+
+//<2092> nothing
+<2092> nothing
+
+//<2093> Hinata
+<2093> Hinata
+
+//<2094> Boy B
+<2094> Boy B
+
+//<2095> Super Horny Squad Member 1
+<2095> Super Horny Squad Member 1
+
+//<2096> Handsome-chin
+<2096> Handsome-chin
+
+//<2097> Homota
+<2097> Homota
+
+//<2098> Hina-chin
+<2098> Hina-chin
+
+//<2099> Hideki
+<2099> Hideki
+
+//<2100> 男子生徒
+<2100> 男子生徒
+
+//<2101> ？？
+<2101> ？？
+
+//<2102> 「Oi, Onsoku, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+<2102> 「Oi, Onsoku, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+
+//<2103> Otonashi
+<2103> Otonashi
+
+//<2104> Shitty Brat
+<2104> Shitty Brat
+
+//<2105> Attorney
+<2105> Attorney
+
+//<2106> Super Iffy Hottie
+<2106> Super Iffy Hottie
+
+//<2107> Lolicon
+<2107> Lolicon
+
+//<2108> Glasses Buddy
+<2108> Glasses Buddy
+
+//<2109> Japan's Mental Math Record Holder
+<2109> Japan's Mental Math Record Holder
+
+//<2110> Slasher
+<2110> Slasher
+
+//<2111> Amnesic Boy
+<2111> Amnesic Boy
+
+//<2112> Onsoku
+<2112> Onsoku
+
+//<2113> Mugen
+<2113> Mugen
+
+//<2114> Horny Samurai
+<2114> Horny Samurai
+
+//<2115> Super Horny Squad Member 1
+<2115> Super Horny Squad Member 1
+
+//<2116> Horny Boy
+<2116> Horny Boy
+
+//<2117> Ugly Yuri
+<2117> Ugly Yuri
+
+//<2118> Depussy
+<2118> Depussy
+
+//<2119> Perverted American Dog
+<2119> Perverted American Dog
+
+//<2120> Zeus
+<2120> Zeus
+
+//<2121> Hinata mark Ⅱ
+<2121> Hinata mark Ⅱ
+
+//<2122> Dung Beetle
+<2122> Dung Beetle
+
+//<2123> Mass Produced Hinata
+<2123> Mass Produced Hinata
+
+//<2124> ？？
+<2124> ？？
+
+//<2125> 「Onsokuだけに、見切りも速いんだ」
+<2125> 「I'm Onsoku, so I'm quick at giving up as well.」
+
+//<2126> nothing
+<2126> nothing
+
+//<2127> nothing
+<2127> nothing
+
+//<2128> nothing
+<2128> nothing
+
+//<2129> nothing
+<2129> nothing
+
+//<2130> nothing
+<2130> nothing
+
+//<2131> Hinata
+<2131> Hinata
+
+//<2132> Boy B
+<2132> Boy B
+
+//<2133> Super Horny Squad Member 1
+<2133> Super Horny Squad Member 1
+
+//<2134> Handsome-chin
+<2134> Handsome-chin
+
+//<2135> Homota
+<2135> Homota
+
+//<2136> Hina-chin
+<2136> Hina-chin
+
+//<2137> Hideki
+<2137> Hideki
+
+//<2138> 男子生徒
+<2138> 男子生徒
+
+//<2139> ？？
+<2139> ？？
+
+//<2140> 「何様のつもりだよ！」
+<2140> 「Whose thoughts are those!?」
+
+//<2141> nothing
+<2141> nothing
+
+//<2142> nothing
+<2142> nothing
+
+//<2143> nothing
+<2143> nothing
+
+//<2144> nothing
+<2144> nothing
+
+//<2145> nothing
+<2145> nothing
+
+//<2146> Hinata
+<2146> Hinata
+
+//<2147> Boy B
+<2147> Boy B
+
+//<2148> Super Horny Squad Member 1
+<2148> Super Horny Squad Member 1
+
+//<2149> Handsome-chin
+<2149> Handsome-chin
+
+//<2150> Homota
+<2150> Homota
+
+//<2151> Hina-chin
+<2151> Hina-chin
+
+//<2152> Hideki
+<2152> Hideki
+
+//<2153> 男子生徒
+<2153> 男子生徒
+
+//<2154> ？？
+<2154> ？？
+
+//<2155> 「Oi, Mugen, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+<2155> 「Oi, Mugen, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+
+//<2156> nothing
+<2156> nothing
+
+//<2157> nothing
+<2157> nothing
+
+//<2158> nothing
+<2158> nothing
+
+//<2159> nothing
+<2159> nothing
+
+//<2160> nothing
+<2160> nothing
+
+//<2161> Hinata
+<2161> Hinata
+
+//<2162> Boy B
+<2162> Boy B
+
+//<2163> Super Horny Squad Member 1
+<2163> Super Horny Squad Member 1
+
+//<2164> Handsome-chin
+<2164> Handsome-chin
+
+//<2165> Homota
+<2165> Homota
+
+//<2166> Hina-chin
+<2166> Hina-chin
+
+//<2167> Hideki
+<2167> Hideki
+
+//<2168> 男子生徒
+<2168> 男子生徒
+
+//<2169> ？？
+<2169> ？？
+
+//<2170> 「Oi, Otonashi, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+<2170> 「Oi, Otonashi, your senior's down on his knees. You're getting way too easily influenced by the flow, even for a newcomer.」
+
+//<2171> それは確かに…。
+<2171> Certainly, I might have been a little bit harsh…
+
+//<2172> nothing
+<2172> nothing
+
+//<2173> nothing
+<2173> nothing
+
+//<2174> nothing
+<2174> nothing
+
+//<2175> nothing
+<2175> nothing
+
+//<2176> nothing
+<2176> nothing
+
+//<2177> nothing
+<2177> nothing
+
+//<2178> Otonashi
+<2178> Otonashi
+
+//<2179> Shitty Brat
+<2179> Shitty Brat
+
+//<2180> Attorney
+<2180> Attorney
+
+//<2181> Super Iffy Hottie
+<2181> Super Iffy Hottie
+
+//<2182> Lolicon
+<2182> Lolicon
+
+//<2183> Glasses Buddy
+<2183> Glasses Buddy
+
+//<2184> Japan's Mental Math Record Holder
+<2184> Japan's Mental Math Record Holder
+
+//<2185> Slasher
+<2185> Slasher
+
+//<2186> Amnesic Boy
+<2186> Amnesic Boy
+
+//<2187> Onsoku
+<2187> Onsoku
+
+//<2188> Mugen
+<2188> Mugen
+
+//<2189> Horny Samurai
+<2189> Horny Samurai
+
+//<2190> Super Horny Squad Member 1
+<2190> Super Horny Squad Member 1
+
+//<2191> Horny Boy
+<2191> Horny Boy
+
+//<2192> Ugly Yuri
+<2192> Ugly Yuri
+
+//<2193> Depussy
+<2193> Depussy
+
+//<2194> Perverted American Dog
+<2194> Perverted American Dog
+
+//<2195> Zeus
+<2195> Zeus
+
+//<2196> Hinata mark Ⅱ
+<2196> Hinata mark Ⅱ
+
+//<2197> Dung Beetle
+<2197> Dung Beetle
+
+//<2198> Mass Produced Hinata
+<2198> Mass Produced Hinata
+
+//<2199> ？？
+<2199> ？？
+
+//<2200> 「わり、いい気になりすぎていたな…」
+<2200> 「Sorry, I just got caught up in the mood…」
+
+//<2201> Matsushita
+<2201> Matsushita
+
+//<2202> 「では許してくれるのか」
+<2202> 「Then are you forgiving me?」
+
+//<2203> Matsushita
+<2203> Matsushita
+
+//<2204> 「ふぅーー…そうか…」
+<2204> 「Phew… That's how it is, huh…?」
+
+//<2205> nothing
+<2205> nothing
+
+//<2206> nothing
+<2206> nothing
+
+//<2207> nothing
+<2207> nothing
+
+//<2208> nothing
+<2208> nothing
+
+//<2209> nothing
+<2209> nothing
+
+//<2210> Matsushita
+<2210> Matsushita
+
+//<2211> 「ならもう二度とここに来ないようにな…また思わず投げてしまいかねない…」
+<2211> 「Then please don't come here again… I might throw you without realizing…」
+
+//<2212> 立ち上がり、寂しげにそう告げる。
+<2212> As he stood up, he spoke those lonely words.
+
+//<2213> 本当にこれでよかったのだろうか…。
+<2213> Is this really ok…?
+
+//<2214> でも実際、地面に叩きつけられた肩がものすごく痛い。
+<2214> But my shoulders which were pinned down on the ground are in extreme pain.
+
+//<2215> 毎回こんな目に遭わされるのはごめんだ…。
+<2215> I would rather not experience this every time I meet with this guy…
+
+//<2216> Otonashi
+<2216> Otonashi
+
+//<2217> Shitty Brat
+<2217> Shitty Brat
+
+//<2218> Attorney
+<2218> Attorney
+
+//<2219> Super Iffy Hottie
+<2219> Super Iffy Hottie
+
+//<2220> Lolicon
+<2220> Lolicon
+
+//<2221> Glasses Buddy
+<2221> Glasses Buddy
+
+//<2222> Japan's Mental Math Record Holder
+<2222> Japan's Mental Math Record Holder
+
+//<2223> Slasher
+<2223> Slasher
+
+//<2224> Amnesic Boy
+<2224> Amnesic Boy
+
+//<2225> Onsoku
+<2225> Onsoku
+
+//<2226> Mugen
+<2226> Mugen
+
+//<2227> Horny Samurai
+<2227> Horny Samurai
+
+//<2228> Super Horny Squad Member 1
+<2228> Super Horny Squad Member 1
+
+//<2229> Horny Boy
+<2229> Horny Boy
+
+//<2230> Ugly Yuri
+<2230> Ugly Yuri
+
+//<2231> Depussy
+<2231> Depussy
+
+//<2232> Perverted American Dog
+<2232> Perverted American Dog
+
+//<2233> Zeus
+<2233> Zeus
+
+//<2234> Hinata mark Ⅱ
+<2234> Hinata mark Ⅱ
+
+//<2235> Dung Beetle
+<2235> Dung Beetle
+
+//<2236> Mass Produced Hinata
+<2236> Mass Produced Hinata
+
+//<2237> ？？
+<2237> ？？
+
+//<2238> 「ああ、じゃあな」
+<2238> 「Yeah, see ya.」
+
+//<2239> nothing
+<2239> nothing
+
+//<2240> nothing
+<2240> nothing
+
+//<2241> nothing
+<2241> nothing
+
+//<2242> nothing
+<2242> nothing
+
+//<2243> nothing
+<2243> nothing
+
+//<2244> nothing
+<2244> nothing
+
+//<2245> そう言い残し、立ち去った。
+<2245> Leaving those words, I left.
+
+//<2246> 森を後にし、降りていく。
+<2246> I went down the slope of the forest.
+
+//<2247> 歩を進めるたびに、左肩に痛みが走る。
+<2247> Each time I continued down the path, my left shoulders pain exponentially increased.
+
+//<2248> dummy
+<2248> dummy
+
+//<2249> bg_kuro
+<2249> bg_kuro
+
+//<2250> ep04_bg009
+<2250> ep04_bg009
+
+//<2251> ep04_bg008
+<2251> ep04_bg008
+
+//<2252> mt0304
+<2252> mt0304
+
+//<2253> hn0102
+<2253> hn0102
+
+//<2254> mt0101
+<2254> mt0101
+
+//<2255> hn0402
+<2255> hn0402
+
+//<2256> mt0202
+<2256> mt0202
+
+//<2257> mt0202
+<2257> mt0202
+
+//<2258> mt0202
+<2258> mt0202
+
+//<2259> mt0202
+<2259> mt0202
+
+//<2260> mt0202
+<2260> mt0202
+
+//<2261> mt0208
+<2261> mt0208
+
+//<2262> hn0403
+<2262> hn0403
+
+//<2263> hn0202
+<2263> hn0202
+
+//<2264> mt0202
+<2264> mt0202
+
+//<2265> mt0202
+<2265> mt0202
+
+//<2266> mt0202
+<2266> mt0202
+
+//<2267> mt0202
+<2267> mt0202
+
+//<2268> mt0202
+<2268> mt0202
+
+//<2269> mt0202
+<2269> mt0202
+
+//<2270> mt0203
+<2270> mt0203
+
+//<2271> bg_kuro
+<2271> bg_kuro
+
+//<2272> ep04_bg009
+<2272> ep04_bg009
+
+//<2273> ep04_bg008
+<2273> ep04_bg008
+
+//<2274> mt0304_01
+<2274> mt0304_01
+
+//<2275> mt0304
+<2275> mt0304
+
+//<2276> mt0301
+<2276> mt0301
+
+//<2277> mt0201
+<2277> mt0201
+
+//<2278> mt0201
+<2278> mt0201
+
+//<2279> mt0201
+<2279> mt0201
+
+//<2280> mt0201
+<2280> mt0201
+
+//<2281> mt0201
+<2281> mt0201
+
+//<2282> mt0206
+<2282> mt0206
+
+//<2283> mt0203
+<2283> mt0203
+
+//<2284> mt0201
+<2284> mt0201
+
+//<2285> mt0201
+<2285> mt0201
+
+//<2286> mt0201
+<2286> mt0201
+
+//<2287> mt0201
+<2287> mt0201
+
+//<2288> mt0201
+<2288> mt0201
+
+//<2289> mt0206
+<2289> mt0206
+
+//<2290> mt0201
+<2290> mt0201
+
+//<2291> mt0102
+<2291> mt0102
+
+//<2292> bg_kuro
+<2292> bg_kuro
+
+//<2293> ep04_bg008
+<2293> ep04_bg008
+
+//<2294> mt0304
+<2294> mt0304
+
+//<2295> mt0108
+<2295> mt0108
+
+//<2296> mt0101
+<2296> mt0101
+
+//<2297> mt0102
+<2297> mt0102
+
+//<2298> mt0203
+<2298> mt0203
+
+//<2299> mt0303
+<2299> mt0303
+
+//<2300> mt0301
+<2300> mt0301
+
+//<2301> mt0203
+<2301> mt0203
+
+//<2302> mt0203
+<2302> mt0203
+
+//<2303> mt0203
+<2303> mt0203
+
+//<2304> mt0203
+<2304> mt0203
+
+//<2305> mt0203
+<2305> mt0203
+
+//<2306> mt0206
+<2306> mt0206
+
+//<2307> mt0203
+<2307> mt0203
+
+//<2308> mt0203
+<2308> mt0203
+
+//<2309> mt0203
+<2309> mt0203
+
+//<2310> mt0203
+<2310> mt0203
+
+//<2311> mt0203
+<2311> mt0203
+
+//<2312> mt0203
+<2312> mt0203
+
+//<2313> mt0206
+<2313> mt0206
+
+//<2314> mt0201
+<2314> mt0201
+
+//<2315> mt0202
+<2315> mt0202
+
+//<2316> mt0202
+<2316> mt0202
+
+//<2317> mt0201
+<2317> mt0201
+
+//<2318> m114
+<2318> m114
+
+//<2319> mt0104
+<2319> mt0104
+
+//<2320> mt0304
+<2320> mt0304
+
+//<2321> hn0201
+<2321> hn0201
+
+//<2322> hn0104
+<2322> hn0104
+
+//<2323> sys_bk_selline00
+<2323> sys_bk_selline00
+
+//<2324> evmt_0101
+<2324> evmt_0101
+
+//<2325> evmt_0101
+<2325> evmt_0101
+
+//<2326> ep04_bg008
+<2326> ep04_bg008
+
+//<2327> mt0304
+<2327> mt0304
+
+//<2328> sys_bk_selline00
+<2328> sys_bk_selline00
+
+//<2329> evmt_0101
+<2329> evmt_0101
+
+//<2330> ep04_bg008
+<2330> ep04_bg008
+
+//<2331> mt0104
+<2331> mt0104
+
+//<2332> sys_bk_selline00
+<2332> sys_bk_selline00
+
+//<2333> hn0504
+<2333> hn0504
+
+//<2334> mt0406
+<2334> mt0406
+
+//<2335> hn0407
+<2335> hn0407
+
+//<2336> ep04_bg040
+<2336> ep04_bg040
+
+//<2337> ep04_bg008
+<2337> ep04_bg008
+
+//<2338> m104
+<2338> m104
+
+//<2339> hn0404
+<2339> hn0404
+
+//<2340> mt0202
+<2340> mt0202
+
+//<2341> mt0104
+<2341> mt0104
+
+//<2342> mt0202
+<2342> mt0202
+
+//<2343> mt0105
+<2343> mt0105
+
+//<2344> mt0204_01
+<2344> mt0204_01
+
+//<2345> mt0105_04
+<2345> mt0105_04
+
+//<2346> mt020400a0
+<2346> mt020400a0
+
+//<2347> bs3_mt0105_04
+<2347> bs3_mt0105_04
+
+//<2348> bs2_mt0204_0200a0
+<2348> bs2_mt0204_0200a0
+
+//<2349> hn0306
+<2349> hn0306
+
+//<2350> mt0105_04
+<2350> mt0105_04
+
+//<2351> hn0306
+<2351> hn0306
+
+//<2352> mt0105_04
+<2352> mt0105_04
+
+//<2353> hn0308
+<2353> hn0308
+
+//<2354> mt0105_04
+<2354> mt0105_04
+
+//<2355> hn0102
+<2355> hn0102
+
+//<2356> hn0101
+<2356> hn0101
+
+//<2357> bs3_mt0105_04
+<2357> bs3_mt0105_04
+
+//<2358> bs2_mt0106
+<2358> bs2_mt0106
+
+//<2359> mt0106
+<2359> mt0106
+
+//<2360> sys_bk_selline00
+<2360> sys_bk_selline00
+
+//<2361> mt0102
+<2361> mt0102
+
+//<2362> mt0203
+<2362> mt0203
+
+//<2363> mt0202
+<2363> mt0202
+
+//<2364> hn0103
+<2364> hn0103
+
+//<2365> hn0102
+<2365> hn0102
+
+//<2366> mt0302
+<2366> mt0302
+
+//<2367> mt0402
+<2367> mt0402
+
+//<2368> mt0401
+<2368> mt0401
+
+//<2369> mt0102
+<2369> mt0102
+
+//<2370> hn0208
+<2370> hn0208
+
+//<2371> hn0208
+<2371> hn0208
+
+//<2372> hn0208
+<2372> hn0208
+
+//<2373> hn0208
+<2373> hn0208
+
+//<2374> hn0208
+<2374> hn0208
+
+//<2375> hn0306
+<2375> hn0306
+
+//<2376> hn0209
+<2376> hn0209
+
+//<2377> hn0306
+<2377> hn0306
+
+//<2378> hn0208
+<2378> hn0208
+
+//<2379> hn0208
+<2379> hn0208
+
+//<2380> hn0208
+<2380> hn0208
+
+//<2381> hn0208
+<2381> hn0208
+
+//<2382> hn0306
+<2382> hn0306
+
+//<2383> hn0208
+<2383> hn0208
+
+//<2384> hn0208
+<2384> hn0208
+
+//<2385> mt0106
+<2385> mt0106
+
+//<2386> mt0106
+<2386> mt0106
+
+//<2387> mt0106
+<2387> mt0106
+
+//<2388> ep04_bg009
+<2388> ep04_bg009
+
+//<2389> bg_kuro
+<2389> bg_kuro
+

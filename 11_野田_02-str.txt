@@ -1,0 +1,1142 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> nothing
+<0000> nothing
+
+//<0001> nothing
+<0001> nothing
+
+//<0002> nothing
+<0002> nothing
+
+//<0003> nothing
+<0003> nothing
+
+//<0004> nothing
+<0004> nothing
+
+//<0005> Noda
+<0005> Noda
+
+//<0006> 男Ｆ
+<0006> 男Ｆ
+
+//<0007> Handsome-tits
+<0007> Handsome-tits
+
+//<0008> 男
+<0008> 男
+
+//<0009> ？？
+<0009> ？？
+
+//<0010> 「懲りずにまた来たか…」
+<0010> 「Haven't you learned your lesson…?」
+
+//<0011> Otonashi
+<0011> Otonashi
+
+//<0012> クソ坊主
+<0012> クソ坊主
+
+//<0013> 代理人
+<0013> 代理人
+
+//<0014> 微妙すぎるイケメン
+<0014> 微妙すぎるイケメン
+
+//<0015> ロリコン
+<0015> ロリコン
+
+//<0016> メガネ仲間
+<0016> メガネ仲間
+
+//<0017> 暗算日本記録保持者
+<0017> 暗算日本記録保持者
+
+//<0018> 通り魔
+<0018> 通り魔
+
+//<0019> 記憶ナシ男
+<0019> 記憶ナシ男
+
+//<0020> 音速
+<0020> 音速
+
+//<0021> 無限
+<0021> 無限
+
+//<0022> Horny Samurai
+<0022> Horny Samurai
+
+//<0023> Super Horny Squad Member 1
+<0023> Super Horny Squad Member 1
+
+//<0024> Horny Boy
+<0024> Horny Boy
+
+//<0025> Ugly Yuri
+<0025> Ugly Yuri
+
+//<0026> Depussy
+<0026> Depussy
+
+//<0027> Perverted American Dog
+<0027> Perverted American Dog
+
+//<0028> Zeus
+<0028> Zeus
+
+//<0029> Hinata mark Ⅱ
+<0029> Hinata mark Ⅱ
+
+//<0030> Dung Beetle
+<0030> Dung Beetle
+
+//<0031> Mass Produced Hinata
+<0031> Mass Produced Hinata
+
+//<0032> ？？
+<0032> ？？
+
+//<0033> 「ああ、リベンジだ…」
+<0033> 「Yeah, this is my revenge…」
+
+//<0034> nothing
+<0034> nothing
+
+//<0035> nothing
+<0035> nothing
+
+//<0036> nothing
+<0036> nothing
+
+//<0037> nothing
+<0037> nothing
+
+//<0038> nothing
+<0038> nothing
+
+//<0039> Noda
+<0039> Noda
+
+//<0040> 男Ｆ
+<0040> 男Ｆ
+
+//<0041> Handsome-tits
+<0041> Handsome-tits
+
+//<0042> 男
+<0042> 男
+
+//<0043> ？？
+<0043> ？？
+
+//<0044> 「お前の得物は、あそこに置いてある」
+<0044> 「Your weapon is over there.」
+
+//<0045> nothing
+<0045> nothing
+
+//<0046> nothing
+<0046> nothing
+
+//<0047> nothing
+<0047> nothing
+
+//<0048> nothing
+<0048> nothing
+
+//<0049> nothing
+<0049> nothing
+
+//<0050> Noda
+<0050> Noda
+
+//<0051> 男Ｆ
+<0051> 男Ｆ
+
+//<0052> Handsome-tits
+<0052> Handsome-tits
+
+//<0053> 男
+<0053> 男
+
+//<0054> ？？
+<0054> ？？
+
+//<0055> 「ん?」
+<0055> 「Hmm?」
+
+//<0056> Otonashi
+<0056> Otonashi
+
+//<0057> クソ坊主
+<0057> クソ坊主
+
+//<0058> 代理人
+<0058> 代理人
+
+//<0059> 微妙すぎるイケメン
+<0059> 微妙すぎるイケメン
+
+//<0060> ロリコン
+<0060> ロリコン
+
+//<0061> メガネ仲間
+<0061> メガネ仲間
+
+//<0062> 暗算日本記録保持者
+<0062> 暗算日本記録保持者
+
+//<0063> 通り魔
+<0063> 通り魔
+
+//<0064> 記憶ナシ男
+<0064> 記憶ナシ男
+
+//<0065> 音速
+<0065> 音速
+
+//<0066> 無限
+<0066> 無限
+
+//<0067> Horny Samurai
+<0067> Horny Samurai
+
+//<0068> Super Horny Squad Member 1
+<0068> Super Horny Squad Member 1
+
+//<0069> Horny Boy
+<0069> Horny Boy
+
+//<0070> Ugly Yuri
+<0070> Ugly Yuri
+
+//<0071> Depussy
+<0071> Depussy
+
+//<0072> Perverted American Dog
+<0072> Perverted American Dog
+
+//<0073> Zeus
+<0073> Zeus
+
+//<0074> Hinata mark Ⅱ
+<0074> Hinata mark Ⅱ
+
+//<0075> Dung Beetle
+<0075> Dung Beetle
+
+//<0076> Mass Produced Hinata
+<0076> Mass Produced Hinata
+
+//<0077> ？？
+<0077> ？？
+
+//<0078> 「よう、また来てみた」
+<0078> 「Yo, I came here again.」
+
+//<0079> 勝負を挑む
+<0079> Challenge him
+
+//<0080> 特訓を眺める
+<0080> Watch him train
+
+//<0081> selbtn : 
+<0081> selbtn : 
+
+//<0082> Otonashi
+<0082> Otonashi
+
+//<0083> クソ坊主
+<0083> クソ坊主
+
+//<0084> 代理人
+<0084> 代理人
+
+//<0085> 微妙すぎるイケメン
+<0085> 微妙すぎるイケメン
+
+//<0086> ロリコン
+<0086> ロリコン
+
+//<0087> メガネ仲間
+<0087> メガネ仲間
+
+//<0088> 暗算日本記録保持者
+<0088> 暗算日本記録保持者
+
+//<0089> 通り魔
+<0089> 通り魔
+
+//<0090> 記憶ナシ男
+<0090> 記憶ナシ男
+
+//<0091> 音速
+<0091> 音速
+
+//<0092> 無限
+<0092> 無限
+
+//<0093> Horny Samurai
+<0093> Horny Samurai
+
+//<0094> Super Horny Squad Member 1
+<0094> Super Horny Squad Member 1
+
+//<0095> Horny Boy
+<0095> Horny Boy
+
+//<0096> Ugly Yuri
+<0096> Ugly Yuri
+
+//<0097> Depussy
+<0097> Depussy
+
+//<0098> Perverted American Dog
+<0098> Perverted American Dog
+
+//<0099> Zeus
+<0099> Zeus
+
+//<0100> Hinata mark Ⅱ
+<0100> Hinata mark Ⅱ
+
+//<0101> Dung Beetle
+<0101> Dung Beetle
+
+//<0102> Mass Produced Hinata
+<0102> Mass Produced Hinata
+
+//<0103> ？？
+<0103> ？？
+
+//<0104> 「手合わせをたのむ」
+<0104> 「Please have a duel with me.」
+
+//<0105> nothing
+<0105> nothing
+
+//<0106> nothing
+<0106> nothing
+
+//<0107> nothing
+<0107> nothing
+
+//<0108> nothing
+<0108> nothing
+
+//<0109> nothing
+<0109> nothing
+
+//<0110> Noda
+<0110> Noda
+
+//<0111> 男Ｆ
+<0111> 男Ｆ
+
+//<0112> Handsome-tits
+<0112> Handsome-tits
+
+//<0113> 男
+<0113> 男
+
+//<0114> ？？
+<0114> ？？
+
+//<0115> 「ほう」
+<0115> 「Hoh?」
+
+//<0116> Otonashi
+<0116> Otonashi
+
+//<0117> クソ坊主
+<0117> クソ坊主
+
+//<0118> 代理人
+<0118> 代理人
+
+//<0119> 微妙すぎるイケメン
+<0119> 微妙すぎるイケメン
+
+//<0120> ロリコン
+<0120> ロリコン
+
+//<0121> メガネ仲間
+<0121> メガネ仲間
+
+//<0122> 暗算日本記録保持者
+<0122> 暗算日本記録保持者
+
+//<0123> 通り魔
+<0123> 通り魔
+
+//<0124> 記憶ナシ男
+<0124> 記憶ナシ男
+
+//<0125> 音速
+<0125> 音速
+
+//<0126> 無限
+<0126> 無限
+
+//<0127> Horny Samurai
+<0127> Horny Samurai
+
+//<0128> Super Horny Squad Member 1
+<0128> Super Horny Squad Member 1
+
+//<0129> Horny Boy
+<0129> Horny Boy
+
+//<0130> Ugly Yuri
+<0130> Ugly Yuri
+
+//<0131> Depussy
+<0131> Depussy
+
+//<0132> Perverted American Dog
+<0132> Perverted American Dog
+
+//<0133> Zeus
+<0133> Zeus
+
+//<0134> Hinata mark Ⅱ
+<0134> Hinata mark Ⅱ
+
+//<0135> Dung Beetle
+<0135> Dung Beetle
+
+//<0136> Mass Produced Hinata
+<0136> Mass Produced Hinata
+
+//<0137> ？？
+<0137> ？？
+
+//<0138> 「自分の力量を確かめたいんだ」
+<0138> 「I want to check my own strength.」
+
+//<0139> nothing
+<0139> nothing
+
+//<0140> nothing
+<0140> nothing
+
+//<0141> nothing
+<0141> nothing
+
+//<0142> nothing
+<0142> nothing
+
+//<0143> nothing
+<0143> nothing
+
+//<0144> Noda
+<0144> Noda
+
+//<0145> 男Ｆ
+<0145> 男Ｆ
+
+//<0146> Handsome-tits
+<0146> Handsome-tits
+
+//<0147> 男
+<0147> 男
+
+//<0148> ？？
+<0148> ？？
+
+//<0149> 「そうか…なら準備をしよう」
+<0149> 「I see… If that's the case, prepare yourself.」
+
+//<0150> nothing
+<0150> nothing
+
+//<0151> nothing
+<0151> nothing
+
+//<0152> nothing
+<0152> nothing
+
+//<0153> nothing
+<0153> nothing
+
+//<0154> nothing
+<0154> nothing
+
+//<0155> Nodaが一度居なくなり、再び戻ってきた。でかい巾着袋を引きずりながら。
+<0155> Noda disappeared for a while, and appeared again with a large bag.
+
+//<0156> nothing
+<0156> nothing
+
+//<0157> nothing
+<0157> nothing
+
+//<0158> nothing
+<0158> nothing
+
+//<0159> nothing
+<0159> nothing
+
+//<0160> nothing
+<0160> nothing
+
+//<0161> Noda
+<0161> Noda
+
+//<0162> 男Ｆ
+<0162> 男Ｆ
+
+//<0163> Handsome-tits
+<0163> Handsome-tits
+
+//<0164> 男
+<0164> 男
+
+//<0165> ？？
+<0165> ？？
+
+//<0166> 「ほらっ、これらから得物を選べ」
+<0166> 「Here, have your choice.」
+
+//<0167> 巾着袋から武器を取り出し、ぼとりぼとりと地面に投げていく。
+<0167> Taking out the weapons from the bag, he threw it on the ground.
+
+//<0168> nothing
+<0168> nothing
+
+//<0169> nothing
+<0169> nothing
+
+//<0170> nothing
+<0170> nothing
+
+//<0171> nothing
+<0171> nothing
+
+//<0172> nothing
+<0172> nothing
+
+//<0173> Noda
+<0173> Noda
+
+//<0174> 男Ｆ
+<0174> 男Ｆ
+
+//<0175> Handsome-tits
+<0175> Handsome-tits
+
+//<0176> 男
+<0176> 男
+
+//<0177> ？？
+<0177> ？？
+
+//<0178> 「モーニングスター、スピア、レイピア、日本刀」
+<0178> 「Morning star, Spear, Rapier, and a katana.」
+
+//<0179> nothing
+<0179> nothing
+
+//<0180> nothing
+<0180> nothing
+
+//<0181> nothing
+<0181> nothing
+
+//<0182> nothing
+<0182> nothing
+
+//<0183> nothing
+<0183> nothing
+
+//<0184> Noda
+<0184> Noda
+
+//<0185> 男Ｆ
+<0185> 男Ｆ
+
+//<0186> Handsome-tits
+<0186> Handsome-tits
+
+//<0187> 男
+<0187> 男
+
+//<0188> ？？
+<0188> ？？
+
+//<0189> 「自信があるなら、二刀流でも構わない」
+<0189> 「If you have the confidence to, you can use two of them.」
+
+//<0190> nothing
+<0190> nothing
+
+//<0191> nothing
+<0191> nothing
+
+//<0192> nothing
+<0192> nothing
+
+//<0193> nothing
+<0193> nothing
+
+//<0194> nothing
+<0194> nothing
+
+//<0195> nothing
+<0195> nothing
+
+//<0196> なぜ西洋の武器まで揃っているんだ…。誰かが趣味で作っているのだろうか…。
+<0196> Why does he have such a wide array of weapons…? Did somebody make these as a hobby…?
+
+//<0197> この中から選ぶとしたら、日本刀しかなかった。
+<0197> I reluctantly chose the katana.
+
+//<0198> 実際手に持ち、その刃を近くに見ると、なんて受け答えをしてしまったのかと、恐怖を覚える。
+<0198> Looking at the blade closely, I couldn't imagine myself cutting him down with this.
+
+//<0199> Otonashi
+<0199> Otonashi
+
+//<0200> クソ坊主
+<0200> クソ坊主
+
+//<0201> 代理人
+<0201> 代理人
+
+//<0202> 微妙すぎるイケメン
+<0202> 微妙すぎるイケメン
+
+//<0203> ロリコン
+<0203> ロリコン
+
+//<0204> メガネ仲間
+<0204> メガネ仲間
+
+//<0205> 暗算日本記録保持者
+<0205> 暗算日本記録保持者
+
+//<0206> 通り魔
+<0206> 通り魔
+
+//<0207> 記憶ナシ男
+<0207> 記憶ナシ男
+
+//<0208> 音速
+<0208> 音速
+
+//<0209> 無限
+<0209> 無限
+
+//<0210> Horny Samurai
+<0210> Horny Samurai
+
+//<0211> Super Horny Squad Member 1
+<0211> Super Horny Squad Member 1
+
+//<0212> Horny Boy
+<0212> Horny Boy
+
+//<0213> Ugly Yuri
+<0213> Ugly Yuri
+
+//<0214> Depussy
+<0214> Depussy
+
+//<0215> Perverted American Dog
+<0215> Perverted American Dog
+
+//<0216> Zeus
+<0216> Zeus
+
+//<0217> Hinata mark Ⅱ
+<0217> Hinata mark Ⅱ
+
+//<0218> Dung Beetle
+<0218> Dung Beetle
+
+//<0219> Mass Produced Hinata
+<0219> Mass Produced Hinata
+
+//<0220> ？？
+<0220> ？？
+
+//<0221> 「おまえの特訓の姿を見ていていいか?　今後の参考にしたいんだ」
+<0221> 「Can I just watch you train? I want to take some notes.」
+
+//<0222> nothing
+<0222> nothing
+
+//<0223> nothing
+<0223> nothing
+
+//<0224> nothing
+<0224> nothing
+
+//<0225> nothing
+<0225> nothing
+
+//<0226> nothing
+<0226> nothing
+
+//<0227> Noda
+<0227> Noda
+
+//<0228> 男Ｆ
+<0228> 男Ｆ
+
+//<0229> Handsome-tits
+<0229> Handsome-tits
+
+//<0230> 男
+<0230> 男
+
+//<0231> ？？
+<0231> ？？
+
+//<0232> 「なら、見ていくといい。戦線の幹部がどれだけ努力をしているのかをな…」
+<0232> 「Then just watch. I'll show you how much power the battlefront has…」
+
+//<0233> Otonashi
+<0233> Otonashi
+
+//<0234> クソ坊主
+<0234> クソ坊主
+
+//<0235> 代理人
+<0235> 代理人
+
+//<0236> 微妙すぎるイケメン
+<0236> 微妙すぎるイケメン
+
+//<0237> ロリコン
+<0237> ロリコン
+
+//<0238> メガネ仲間
+<0238> メガネ仲間
+
+//<0239> 暗算日本記録保持者
+<0239> 暗算日本記録保持者
+
+//<0240> 通り魔
+<0240> 通り魔
+
+//<0241> 記憶ナシ男
+<0241> 記憶ナシ男
+
+//<0242> 音速
+<0242> 音速
+
+//<0243> 無限
+<0243> 無限
+
+//<0244> Horny Samurai
+<0244> Horny Samurai
+
+//<0245> Super Horny Squad Member 1
+<0245> Super Horny Squad Member 1
+
+//<0246> Horny Boy
+<0246> Horny Boy
+
+//<0247> Ugly Yuri
+<0247> Ugly Yuri
+
+//<0248> Depussy
+<0248> Depussy
+
+//<0249> Perverted American Dog
+<0249> Perverted American Dog
+
+//<0250> Zeus
+<0250> Zeus
+
+//<0251> Hinata mark Ⅱ
+<0251> Hinata mark Ⅱ
+
+//<0252> Dung Beetle
+<0252> Dung Beetle
+
+//<0253> Mass Produced Hinata
+<0253> Mass Produced Hinata
+
+//<0254> ？？
+<0254> ？？
+
+//<0255> 「ああ、ありがとう」
+<0255> 「Yeah, thanks.」
+
+//<0256> se_kazekiri3
+<0256> se_kazekiri3
+
+//<0257> しばらくハルバートを振るい続けるNodaを見ていた。
+<0257> I watched Noda as he swung his Halberd around.
+
+//<0258> 切っ先の軌跡や、突きの正確さ…どれをとっても、高度で真似できそうにない。
+<0258> The way he swings the blade… And the accuracy… This is a high-class skill that I can't possibily mimic.
+
+//<0259> Otonashi
+<0259> Otonashi
+
+//<0260> クソ坊主
+<0260> クソ坊主
+
+//<0261> 代理人
+<0261> 代理人
+
+//<0262> 微妙すぎるイケメン
+<0262> 微妙すぎるイケメン
+
+//<0263> ロリコン
+<0263> ロリコン
+
+//<0264> メガネ仲間
+<0264> メガネ仲間
+
+//<0265> 暗算日本記録保持者
+<0265> 暗算日本記録保持者
+
+//<0266> 通り魔
+<0266> 通り魔
+
+//<0267> 記憶ナシ男
+<0267> 記憶ナシ男
+
+//<0268> 音速
+<0268> 音速
+
+//<0269> 無限
+<0269> 無限
+
+//<0270> Horny Samurai
+<0270> Horny Samurai
+
+//<0271> Super Horny Squad Member 1
+<0271> Super Horny Squad Member 1
+
+//<0272> Horny Boy
+<0272> Horny Boy
+
+//<0273> Ugly Yuri
+<0273> Ugly Yuri
+
+//<0274> Depussy
+<0274> Depussy
+
+//<0275> Perverted American Dog
+<0275> Perverted American Dog
+
+//<0276> Zeus
+<0276> Zeus
+
+//<0277> Hinata mark Ⅱ
+<0277> Hinata mark Ⅱ
+
+//<0278> Dung Beetle
+<0278> Dung Beetle
+
+//<0279> Mass Produced Hinata
+<0279> Mass Produced Hinata
+
+//<0280> ？？
+<0280> ？？
+
+//<0281> (参考にしたかったけど、今の俺には無理だ…)
+<0281> (I came here to take notes, but I can't do something like that…)
+
+//<0282> 現実に少し落ち込みつつ、そっと川原を後にした。
+<0282> After realizing the reality, I left the river behind.
+
+//<0283> 上着を脱ぎ捨てる
+<0283> Take off the shirt and jacket
+
+//<0284> このままでリベンジする
+<0284> Have the revenge match like this
+
+//<0285> selbtn : 
+<0285> selbtn : 
+
+//<0286> Otonashi
+<0286> Otonashi
+
+//<0287> クソ坊主
+<0287> クソ坊主
+
+//<0288> 代理人
+<0288> 代理人
+
+//<0289> 微妙すぎるイケメン
+<0289> 微妙すぎるイケメン
+
+//<0290> ロリコン
+<0290> ロリコン
+
+//<0291> メガネ仲間
+<0291> メガネ仲間
+
+//<0292> 暗算日本記録保持者
+<0292> 暗算日本記録保持者
+
+//<0293> 通り魔
+<0293> 通り魔
+
+//<0294> 記憶ナシ男
+<0294> 記憶ナシ男
+
+//<0295> 音速
+<0295> 音速
+
+//<0296> 無限
+<0296> 無限
+
+//<0297> Horny Samurai
+<0297> Horny Samurai
+
+//<0298> Super Horny Squad Member 1
+<0298> Super Horny Squad Member 1
+
+//<0299> Horny Boy
+<0299> Horny Boy
+
+//<0300> Ugly Yuri
+<0300> Ugly Yuri
+
+//<0301> Depussy
+<0301> Depussy
+
+//<0302> Perverted American Dog
+<0302> Perverted American Dog
+
+//<0303> Zeus
+<0303> Zeus
+
+//<0304> Hinata mark Ⅱ
+<0304> Hinata mark Ⅱ
+
+//<0305> Dung Beetle
+<0305> Dung Beetle
+
+//<0306> Mass Produced Hinata
+<0306> Mass Produced Hinata
+
+//<0307> ？？
+<0307> ？？
+
+//<0308> 「ちょっと待て」
+<0308> 「Please wait a bit.」
+
+//<0309> nothing
+<0309> nothing
+
+//<0310> nothing
+<0310> nothing
+
+//<0311> nothing
+<0311> nothing
+
+//<0312> nothing
+<0312> nothing
+
+//<0313> nothing
+<0313> nothing
+
+//<0314> nothing
+<0314> nothing
+
+//<0315> 俺は上着を脱ぎ捨て、上半身裸になる。
+<0315> I took off my shirt and jacket, leaving my upper half completely naked.
+
+//<0316> Nodaに倣って、俺も上着を脱ぎ捨てる。
+<0316> I mimiced Noda and took off my shirt and jacket.
+
+//<0317> nothing
+<0317> nothing
+
+//<0318> nothing
+<0318> nothing
+
+//<0319> nothing
+<0319> nothing
+
+//<0320> nothing
+<0320> nothing
+
+//<0321> nothing
+<0321> nothing
+
+//<0322> Otonashi
+<0322> Otonashi
+
+//<0323> クソ坊主
+<0323> クソ坊主
+
+//<0324> 代理人
+<0324> 代理人
+
+//<0325> 微妙すぎるイケメン
+<0325> 微妙すぎるイケメン
+
+//<0326> ロリコン
+<0326> ロリコン
+
+//<0327> メガネ仲間
+<0327> メガネ仲間
+
+//<0328> 暗算日本記録保持者
+<0328> 暗算日本記録保持者
+
+//<0329> 通り魔
+<0329> 通り魔
+
+//<0330> 記憶ナシ男
+<0330> 記憶ナシ男
+
+//<0331> 音速
+<0331> 音速
+
+//<0332> 無限
+<0332> 無限
+
+//<0333> Horny Samurai
+<0333> Horny Samurai
+
+//<0334> Super Horny Squad Member 1
+<0334> Super Horny Squad Member 1
+
+//<0335> Horny Boy
+<0335> Horny Boy
+
+//<0336> Ugly Yuri
+<0336> Ugly Yuri
+
+//<0337> Depussy
+<0337> Depussy
+
+//<0338> Perverted American Dog
+<0338> Perverted American Dog
+
+//<0339> Zeus
+<0339> Zeus
+
+//<0340> Hinata mark Ⅱ
+<0340> Hinata mark Ⅱ
+
+//<0341> Dung Beetle
+<0341> Dung Beetle
+
+//<0342> Mass Produced Hinata
+<0342> Mass Produced Hinata
+
+//<0343> ？？
+<0343> ？？
+
+//<0344> 「よし、こい!」
+<0344> 「All right, come at me!」
+
+//<0345> nothing
+<0345> nothing
+
+//<0346> nothing
+<0346> nothing
+
+//<0347> nothing
+<0347> nothing
+
+//<0348> nothing
+<0348> nothing
+
+//<0349> nothing
+<0349> nothing
+
+//<0350> nothing
+<0350> nothing
+
+//<0351> もちろん無謀だった。勝てるはずがなかった。
+<0351> Of course, I was being rash. There's no chance in hell that I would win.
+
+//<0352> 口から吐血する…。
+<0352> I started vomiting blood…
+
+//<0353> また内臓までやられたか…。
+<0353> Were my organs hurt again…?
+
+//<0354> どうやら内臓までやられているらしい…。
+<0354> It seems like my insides were cut up as well…
+
+//<0355> よろめきながら、この場を立ち去った…。
+<0355> I staggered away from the river…
+
+//<0356> dummy
+<0356> dummy
+
+//<0357> bg_kuro
+<0357> bg_kuro
+
+//<0358> ep04_bg022
+<0358> ep04_bg022
+
+//<0359> m121
+<0359> m121
+
+//<0360> nd0205
+<0360> nd0205
+
+//<0361> nd0305
+<0361> nd0305
+
+//<0362> nd0301
+<0362> nd0301
+
+//<0363> sys_bk_selline00
+<0363> sys_bk_selline00
+
+//<0364> m121
+<0364> m121
+
+//<0365> nd0304
+<0365> nd0304
+
+//<0366> nd0305
+<0366> nd0305
+
+//<0367> bg_kuro
+<0367> bg_kuro
+
+//<0368> nd0101
+<0368> nd0101
+
+//<0369> nd0209
+<0369> nd0209
+
+//<0370> nd0201_02
+<0370> nd0201_02
+
+//<0371> nd0202
+<0371> nd0202
+
+//<0372> nd0308
+<0372> nd0308
+
+//<0373> ep04_bg047
+<0373> ep04_bg047
+
+//<0374> sys_bk_selline00
+<0374> sys_bk_selline00
+
+//<0375> nd0305_01
+<0375> nd0305_01
+
+//<0376> bs3_nd0505_01
+<0376> bs3_nd0505_01
+
+//<0377> bs3_nd0404_05
+<0377> bs3_nd0404_05
+
+//<0378> bg_kuro
+<0378> bg_kuro
+

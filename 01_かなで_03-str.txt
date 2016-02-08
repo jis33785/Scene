@@ -1,0 +1,4319 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> こんなに受け続けていて、大丈夫なのだろうか…
+<0000> Is it really ok to be taking classes like this…?
+
+//<0001> いつ消えるかわからないぞ。
+<0001> I might disappear because of this.
+
+//<0002> でも…
+<0002> But…
+
+//<0003> Otonashi
+<0003> Otonashi
+
+//<0004> クソ坊主
+<0004> クソ坊主
+
+//<0005> 代理人
+<0005> 代理人
+
+//<0006> 微妙すぎるイケメン
+<0006> 微妙すぎるイケメン
+
+//<0007> ロリコン
+<0007> ロリコン
+
+//<0008> メガネ仲間
+<0008> メガネ仲間
+
+//<0009> 暗算日本記録保持者
+<0009> 暗算日本記録保持者
+
+//<0010> 通り魔
+<0010> 通り魔
+
+//<0011> 記憶ナシ男
+<0011> 記憶ナシ男
+
+//<0012> 音速
+<0012> 音速
+
+//<0013> 無限
+<0013> 無限
+
+//<0014> Horny Samurai
+<0014> Horny Samurai
+
+//<0015> Super Horny Squad Member 1
+<0015> Super Horny Squad Member 1
+
+//<0016> Horny Boy
+<0016> Horny Boy
+
+//<0017> Ugri Yuri
+<0017> Ugri Yuri
+
+//<0018> Depussy
+<0018> Depussy
+
+//<0019> Perverted American Dog
+<0019> Perverted American Dog
+
+//<0020> Zeus
+<0020> Zeus
+
+//<0021> Hinata mark Ⅱ
+<0021> Hinata mark Ⅱ
+
+//<0022> Dung Beetle
+<0022> Dung Beetle
+
+//<0023> Mass Produced Hinata
+<0023> Mass Produced Hinata
+
+//<0024> ？？
+<0024> ？？
+
+//<0025> 「わかった。受ける」
+<0025> 「Fine. I'll go.」
+
+//<0026> nothing
+<0026> nothing
+
+//<0027> nothing
+<0027> nothing
+
+//<0028> nothing
+<0028> nothing
+
+//<0029> nothing
+<0029> nothing
+
+//<0030> nothing
+<0030> nothing
+
+//<0031> Tenshi
+<0031> Tenshi
+
+//<0032> Kanade
+<0032> Kanade
+
+//<0033> 女生徒
+<0033> 女生徒
+
+//<0034> ？？
+<0034> ？？
+
+//<0035> 「すごいわ、あなた…」
+<0035> 「You're amazing…」
+
+//<0036> Otonashi
+<0036> Otonashi
+
+//<0037> クソ坊主
+<0037> クソ坊主
+
+//<0038> 代理人
+<0038> 代理人
+
+//<0039> 微妙すぎるイケメン
+<0039> 微妙すぎるイケメン
+
+//<0040> ロリコン
+<0040> ロリコン
+
+//<0041> メガネ仲間
+<0041> メガネ仲間
+
+//<0042> 暗算日本記録保持者
+<0042> 暗算日本記録保持者
+
+//<0043> 通り魔
+<0043> 通り魔
+
+//<0044> 記憶ナシ男
+<0044> 記憶ナシ男
+
+//<0045> 音速
+<0045> 音速
+
+//<0046> 無限
+<0046> 無限
+
+//<0047> Horny Samurai
+<0047> Horny Samurai
+
+//<0048> Super Horny Squad Member 1
+<0048> Super Horny Squad Member 1
+
+//<0049> Horny Boy
+<0049> Horny Boy
+
+//<0050> Ugri Yuri
+<0050> Ugri Yuri
+
+//<0051> Depussy
+<0051> Depussy
+
+//<0052> Perverted American Dog
+<0052> Perverted American Dog
+
+//<0053> Zeus
+<0053> Zeus
+
+//<0054> Hinata mark Ⅱ
+<0054> Hinata mark Ⅱ
+
+//<0055> Dung Beetle
+<0055> Dung Beetle
+
+//<0056> Mass Produced Hinata
+<0056> Mass Produced Hinata
+
+//<0057> ？？
+<0057> ？？
+
+//<0058> 「だから、驚くなって」
+<0058> 「I told you, stop being so surprised.」
+
+//<0059> そういや、明日が作戦の日。
+<0059> Now that I think of it, tomorrow's the operation day.
+
+//<0060> なのに、俺はTenshiの言いなりになって、授業を受けている。
+<0060> But I'm following Tenshi's orders, and taking classes.
+
+//<0061> 戦線にもTenshiにも、どちらに対しても後ろめたいものを感じる。
+<0061> I felt like I was betraying both Tenshi and the battlefront.
+
+//<0062> 戦線は、記憶を失っている俺にとって唯一の居場所だ。それは間違いない。
+<0062> The battlefront is the place where I, who lost his memories, belong to. There's no denying that.
+
+//<0063> ならTenshiは?
+<0063> Then, how about Tenshi?
+
+//<0064> ここに来る人間の生前の記憶は凄惨なものだ。
+<0064> All of the people that come here had harsh lives.
+
+//<0065> Yuriの生前を聞いた限り、その事実に間違いはないのだろう。
+<0065> After hearing about Yuri's life, I figured that that's the truth.
+
+//<0066> だったら、俺も似たようなものに違いない。
+<0066> Which means, I must've lived a similar life.
+
+//<0067> じゃあ、それを思い出した時、俺も戦線のみんなのように、そんな人生を強いた神に復讐をしたくなるかもしれない。
+<0067> Then, when I remember my past, I might seek revenge against God like other members of the battlefront.
+
+//<0068> 消されることを真っ向から否定するかもしれない。
+<0068> I might resist disappearing from this world.
+
+//<0069> 白
+<0069> 白
+{1cab} 0a // 0069
+
+//<0070> nothing
+<0070> nothing
+
+//<0071> nothing
+<0071> nothing
+
+//<0072> nothing
+<0072> nothing
+
+//<0073> nothing
+<0073> nothing
+
+//<0074> nothing
+<0074> nothing
+
+//<0075> Tenshi
+<0075> Tenshi
+
+//<0076> Kanade
+<0076> Kanade
+
+//<0077> 女生徒
+<0077> 女生徒
+
+//<0078> ？？
+<0078> ？？
+
+//<0079> 「ここに来る人たちは、まともな青春を送れず、辛い人生だった人ばかり」
+<0079> All the people that come here are people who couldn't enjoy their youth, and lived a hard life.」
+
+//<0080> Tenshiはそう言っていた。
+<0080> Tenshi told me that.
+
+//<0081> 俺を戦線から引き離すための甘言なのか?
+<0081> Was she just saying that to take me away from the battlefront?
+
+//<0082> その言葉を疑うことも出来るが、俺にはTenshiが嘘をついているようにはどうしても思えなかった。
+<0082> I could doubt those words, but I couldn't think that Tenshi was lying to me.
+
+//<0083> だって、あの子は馬鹿なのだから。
+<0083> Because, well, she's an idiot.
+
+//<0084> 俺を騙すなら、もっと都合の良い嘘をつくはずだ。
+<0084> If she was trying to decieve me, she would've given me a more acceptable lie.
+
+//<0085> しかし、だからと言って『はいそうですか』と受け入れられるわけじゃない。
+<0085> But I can't just go, 『Oh, really?』 and believe every single word she's saying.
+
+//<0086> 俺は戦線の一員として、神に抗う道を選んだんだ。
+<0086> I chose the path of fighting against God by joining the battlefront.
+
+//<0087> これからもYuri達と共に戦い続ける道を歩んでいくことになる。
+<0087> I would continue to walk the path of fighting side by side with the members of the battlefront.
+
+//<0088> その時Tenshiは、俺にとってどんな存在になるのだろう。
+<0088> What kind of an existance would Tenshi be to me?
+
+//<0089> 神の使いなんだから…敵だ。
+<0089> She's a servant of God, so… She's an enemy.
+
+//<0090> でも…、こうして授業を受けていれば、普通の女の子と変わりない。
+<0090> But… She's not much different from a normal girl when she's in the classroom.
+
+//<0091> 俺はどうすればいいのだろう…
+<0091> What should I do…?
+
+//<0092> se_chime
+<0092> se_chime
+
+//<0093> 授業が終わると、Tenshiが俺の席の前までやってきた。
+<0093> After class finished, Tenshi came to my seat.
+
+//<0094> 初めてのパターンだ。
+<0094> It was the first time she's done that.
+
+//<0095> Otonashi
+<0095> Otonashi
+
+//<0096> クソ坊主
+<0096> クソ坊主
+
+//<0097> 代理人
+<0097> 代理人
+
+//<0098> 微妙すぎるイケメン
+<0098> 微妙すぎるイケメン
+
+//<0099> ロリコン
+<0099> ロリコン
+
+//<0100> メガネ仲間
+<0100> メガネ仲間
+
+//<0101> 暗算日本記録保持者
+<0101> 暗算日本記録保持者
+
+//<0102> 通り魔
+<0102> 通り魔
+
+//<0103> 記憶ナシ男
+<0103> 記憶ナシ男
+
+//<0104> 音速
+<0104> 音速
+
+//<0105> 無限
+<0105> 無限
+
+//<0106> Horny Samurai
+<0106> Horny Samurai
+
+//<0107> Super Horny Squad Member 1
+<0107> Super Horny Squad Member 1
+
+//<0108> Horny Boy
+<0108> Horny Boy
+
+//<0109> Ugri Yuri
+<0109> Ugri Yuri
+
+//<0110> Depussy
+<0110> Depussy
+
+//<0111> Perverted American Dog
+<0111> Perverted American Dog
+
+//<0112> Zeus
+<0112> Zeus
+
+//<0113> Hinata mark Ⅱ
+<0113> Hinata mark Ⅱ
+
+//<0114> Dung Beetle
+<0114> Dung Beetle
+
+//<0115> Mass Produced Hinata
+<0115> Mass Produced Hinata
+
+//<0116> ？？
+<0116> ？？
+
+//<0117> 「どうした?」
+<0117> 「What do you want?」
+
+//<0118> nothing
+<0118> nothing
+
+//<0119> nothing
+<0119> nothing
+
+//<0120> nothing
+<0120> nothing
+
+//<0121> nothing
+<0121> nothing
+
+//<0122> nothing
+<0122> nothing
+
+//<0123> Tenshi
+<0123> Tenshi
+
+//<0124> Kanade
+<0124> Kanade
+
+//<0125> 女生徒
+<0125> 女生徒
+
+//<0126> ？？
+<0126> ？？
+
+//<0127> 「授業中、顔色が悪かったわ」
+<0127> 「You were looking pretty pale.」
+
+//<0128> Otonashi
+<0128> Otonashi
+
+//<0129> クソ坊主
+<0129> クソ坊主
+
+//<0130> 代理人
+<0130> 代理人
+
+//<0131> 微妙すぎるイケメン
+<0131> 微妙すぎるイケメン
+
+//<0132> ロリコン
+<0132> ロリコン
+
+//<0133> メガネ仲間
+<0133> メガネ仲間
+
+//<0134> 暗算日本記録保持者
+<0134> 暗算日本記録保持者
+
+//<0135> 通り魔
+<0135> 通り魔
+
+//<0136> 記憶ナシ男
+<0136> 記憶ナシ男
+
+//<0137> 音速
+<0137> 音速
+
+//<0138> 無限
+<0138> 無限
+
+//<0139> Horny Samurai
+<0139> Horny Samurai
+
+//<0140> Super Horny Squad Member 1
+<0140> Super Horny Squad Member 1
+
+//<0141> Horny Boy
+<0141> Horny Boy
+
+//<0142> Ugri Yuri
+<0142> Ugri Yuri
+
+//<0143> Depussy
+<0143> Depussy
+
+//<0144> Perverted American Dog
+<0144> Perverted American Dog
+
+//<0145> Zeus
+<0145> Zeus
+
+//<0146> Hinata mark Ⅱ
+<0146> Hinata mark Ⅱ
+
+//<0147> Dung Beetle
+<0147> Dung Beetle
+
+//<0148> Mass Produced Hinata
+<0148> Mass Produced Hinata
+
+//<0149> ？？
+<0149> ？？
+
+//<0150> 「え?」
+<0150> 「Huh?」
+
+//<0151> 見られていたのか…
+<0151> Was she looking at me…?
+
+//<0152> nothing
+<0152> nothing
+
+//<0153> nothing
+<0153> nothing
+
+//<0154> nothing
+<0154> nothing
+
+//<0155> nothing
+<0155> nothing
+
+//<0156> nothing
+<0156> nothing
+
+//<0157> Tenshi
+<0157> Tenshi
+
+//<0158> Kanade
+<0158> Kanade
+
+//<0159> 女生徒
+<0159> 女生徒
+
+//<0160> ？？
+<0160> ？？
+
+//<0161> 「調子が悪い?」
+<0161> 「Do you feel sick?」
+
+//<0162> Otonashi
+<0162> Otonashi
+
+//<0163> クソ坊主
+<0163> クソ坊主
+
+//<0164> 代理人
+<0164> 代理人
+
+//<0165> 微妙すぎるイケメン
+<0165> 微妙すぎるイケメン
+
+//<0166> ロリコン
+<0166> ロリコン
+
+//<0167> メガネ仲間
+<0167> メガネ仲間
+
+//<0168> 暗算日本記録保持者
+<0168> 暗算日本記録保持者
+
+//<0169> 通り魔
+<0169> 通り魔
+
+//<0170> 記憶ナシ男
+<0170> 記憶ナシ男
+
+//<0171> 音速
+<0171> 音速
+
+//<0172> 無限
+<0172> 無限
+
+//<0173> Horny Samurai
+<0173> Horny Samurai
+
+//<0174> Super Horny Squad Member 1
+<0174> Super Horny Squad Member 1
+
+//<0175> Horny Boy
+<0175> Horny Boy
+
+//<0176> Ugri Yuri
+<0176> Ugri Yuri
+
+//<0177> Depussy
+<0177> Depussy
+
+//<0178> Perverted American Dog
+<0178> Perverted American Dog
+
+//<0179> Zeus
+<0179> Zeus
+
+//<0180> Hinata mark Ⅱ
+<0180> Hinata mark Ⅱ
+
+//<0181> Dung Beetle
+<0181> Dung Beetle
+
+//<0182> Mass Produced Hinata
+<0182> Mass Produced Hinata
+
+//<0183> ？？
+<0183> ？？
+
+//<0184> 「いや、この世界で体の調子が悪くなることなんてないだろ…」
+<0184> 「You can't get sick in this world, right…?」
+
+//<0185> nothing
+<0185> nothing
+
+//<0186> nothing
+<0186> nothing
+
+//<0187> nothing
+<0187> nothing
+
+//<0188> nothing
+<0188> nothing
+
+//<0189> nothing
+<0189> nothing
+
+//<0190> Tenshi
+<0190> Tenshi
+
+//<0191> Kanade
+<0191> Kanade
+
+//<0192> 女生徒
+<0192> 女生徒
+
+//<0193> ？？
+<0193> ？？
+
+//<0194> 「一時的ならあるわ。すぐ治るけど」
+<0194> 「You can, for a short time. But it heals almost instantly.」
+
+//<0195> Otonashi
+<0195> Otonashi
+
+//<0196> クソ坊主
+<0196> クソ坊主
+
+//<0197> 代理人
+<0197> 代理人
+
+//<0198> 微妙すぎるイケメン
+<0198> 微妙すぎるイケメン
+
+//<0199> ロリコン
+<0199> ロリコン
+
+//<0200> メガネ仲間
+<0200> メガネ仲間
+
+//<0201> 暗算日本記録保持者
+<0201> 暗算日本記録保持者
+
+//<0202> 通り魔
+<0202> 通り魔
+
+//<0203> 記憶ナシ男
+<0203> 記憶ナシ男
+
+//<0204> 音速
+<0204> 音速
+
+//<0205> 無限
+<0205> 無限
+
+//<0206> Horny Samurai
+<0206> Horny Samurai
+
+//<0207> Super Horny Squad Member 1
+<0207> Super Horny Squad Member 1
+
+//<0208> Horny Boy
+<0208> Horny Boy
+
+//<0209> Ugri Yuri
+<0209> Ugri Yuri
+
+//<0210> Depussy
+<0210> Depussy
+
+//<0211> Perverted American Dog
+<0211> Perverted American Dog
+
+//<0212> Zeus
+<0212> Zeus
+
+//<0213> Hinata mark Ⅱ
+<0213> Hinata mark Ⅱ
+
+//<0214> Dung Beetle
+<0214> Dung Beetle
+
+//<0215> Mass Produced Hinata
+<0215> Mass Produced Hinata
+
+//<0216> ？？
+<0216> ？？
+
+//<0217> 「ああ、だったら、朝食ったものが悪かったんだ。気持ち悪かった」
+<0217> 「Oh, then it must be the breakfast. I was feeling sick after that.」
+
+//<0218> やっぱこいつは優しい…
+<0218> This girl is kind…
+
+//<0219> そんな奴のプライベートなエリアに侵入するのか…
+<0219> Are we invading the private area of somebody like this…?
+
+//<0220> 教えてやりたい…
+<0220> I want to tell her…
+
+//<0221> でも、それがばれた日には、俺は幹部から外されるかもしれない…
+<0221> But, if it gets found out, I might be kicked out from the battlefront…
+
+//<0222> 作戦のことを話す
+<0222> Tell her about the operation
+
+//<0223> 黙ったままにする
+<0223> Keep silent
+
+//<0224> selbtn : 
+<0224> selbtn : 
+
+//<0225> Otonashi
+<0225> Otonashi
+
+//<0226> クソ坊主
+<0226> クソ坊主
+
+//<0227> 代理人
+<0227> 代理人
+
+//<0228> 微妙すぎるイケメン
+<0228> 微妙すぎるイケメン
+
+//<0229> ロリコン
+<0229> ロリコン
+
+//<0230> メガネ仲間
+<0230> メガネ仲間
+
+//<0231> 暗算日本記録保持者
+<0231> 暗算日本記録保持者
+
+//<0232> 通り魔
+<0232> 通り魔
+
+//<0233> 記憶ナシ男
+<0233> 記憶ナシ男
+
+//<0234> 音速
+<0234> 音速
+
+//<0235> 無限
+<0235> 無限
+
+//<0236> Horny Samurai
+<0236> Horny Samurai
+
+//<0237> Super Horny Squad Member 1
+<0237> Super Horny Squad Member 1
+
+//<0238> Horny Boy
+<0238> Horny Boy
+
+//<0239> Ugri Yuri
+<0239> Ugri Yuri
+
+//<0240> Depussy
+<0240> Depussy
+
+//<0241> Perverted American Dog
+<0241> Perverted American Dog
+
+//<0242> Zeus
+<0242> Zeus
+
+//<0243> Hinata mark Ⅱ
+<0243> Hinata mark Ⅱ
+
+//<0244> Dung Beetle
+<0244> Dung Beetle
+
+//<0245> Mass Produced Hinata
+<0245> Mass Produced Hinata
+
+//<0246> ？？
+<0246> ？？
+
+//<0247> 「あのさ…明日、Tenshiエリアに侵入する…」
+<0247> 「Umm… We'll be infiltrating the Tenshi Area tomorrow…」
+
+//<0248> 思わず言ってしまった…
+<0248> I ended up telling her…
+
+//<0249> せめて宣言しておかないとフェアじゃないという、曖昧な道徳心が芽生えてしまった…
+<0249> I justified it by thinking that it was the moral thing to declare war before starting it…
+
+//<0250> nothing
+<0250> nothing
+
+//<0251> nothing
+<0251> nothing
+
+//<0252> nothing
+<0252> nothing
+
+//<0253> nothing
+<0253> nothing
+
+//<0254> nothing
+<0254> nothing
+
+//<0255> Tenshi
+<0255> Tenshi
+
+//<0256> Kanade
+<0256> Kanade
+
+//<0257> 女生徒
+<0257> 女生徒
+
+//<0258> ？？
+<0258> ？？
+
+//<0259> 「そう…ついに来るのね…」
+<0259> 「I see… So they're finally making a move…」
+
+//<0260> 彼女もそれは予期していたようだ。
+<0260> She must've been expecting us.
+
+//<0261> Otonashi
+<0261> Otonashi
+
+//<0262> クソ坊主
+<0262> クソ坊主
+
+//<0263> 代理人
+<0263> 代理人
+
+//<0264> 微妙すぎるイケメン
+<0264> 微妙すぎるイケメン
+
+//<0265> ロリコン
+<0265> ロリコン
+
+//<0266> メガネ仲間
+<0266> メガネ仲間
+
+//<0267> 暗算日本記録保持者
+<0267> 暗算日本記録保持者
+
+//<0268> 通り魔
+<0268> 通り魔
+
+//<0269> 記憶ナシ男
+<0269> 記憶ナシ男
+
+//<0270> 音速
+<0270> 音速
+
+//<0271> 無限
+<0271> 無限
+
+//<0272> Horny Samurai
+<0272> Horny Samurai
+
+//<0273> Super Horny Squad Member 1
+<0273> Super Horny Squad Member 1
+
+//<0274> Horny Boy
+<0274> Horny Boy
+
+//<0275> Ugri Yuri
+<0275> Ugri Yuri
+
+//<0276> Depussy
+<0276> Depussy
+
+//<0277> Perverted American Dog
+<0277> Perverted American Dog
+
+//<0278> Zeus
+<0278> Zeus
+
+//<0279> Hinata mark Ⅱ
+<0279> Hinata mark Ⅱ
+
+//<0280> Dung Beetle
+<0280> Dung Beetle
+
+//<0281> Mass Produced Hinata
+<0281> Mass Produced Hinata
+
+//<0282> ？？
+<0282> ？？
+
+//<0283> 「ああ…だから、注意しておけ…って俺が言うのもなんだけどさ」
+<0283> 「Yeah… Although I shouldn't be the one saying this… Just be careful.」
+
+//<0284> nothing
+<0284> nothing
+
+//<0285> nothing
+<0285> nothing
+
+//<0286> nothing
+<0286> nothing
+
+//<0287> nothing
+<0287> nothing
+
+//<0288> nothing
+<0288> nothing
+
+//<0289> Tenshi
+<0289> Tenshi
+
+//<0290> Kanade
+<0290> Kanade
+
+//<0291> 女生徒
+<0291> 女生徒
+
+//<0292> ？？
+<0292> ？？
+
+//<0293> 「万全を期する必要がありそうね」
+<0293> 「It seems that I should be prepared for the worst.」
+
+//<0294> Otonashi
+<0294> Otonashi
+
+//<0295> クソ坊主
+<0295> クソ坊主
+
+//<0296> 代理人
+<0296> 代理人
+
+//<0297> 微妙すぎるイケメン
+<0297> 微妙すぎるイケメン
+
+//<0298> ロリコン
+<0298> ロリコン
+
+//<0299> メガネ仲間
+<0299> メガネ仲間
+
+//<0300> 暗算日本記録保持者
+<0300> 暗算日本記録保持者
+
+//<0301> 通り魔
+<0301> 通り魔
+
+//<0302> 記憶ナシ男
+<0302> 記憶ナシ男
+
+//<0303> 音速
+<0303> 音速
+
+//<0304> 無限
+<0304> 無限
+
+//<0305> Horny Samurai
+<0305> Horny Samurai
+
+//<0306> Super Horny Squad Member 1
+<0306> Super Horny Squad Member 1
+
+//<0307> Horny Boy
+<0307> Horny Boy
+
+//<0308> Ugri Yuri
+<0308> Ugri Yuri
+
+//<0309> Depussy
+<0309> Depussy
+
+//<0310> Perverted American Dog
+<0310> Perverted American Dog
+
+//<0311> Zeus
+<0311> Zeus
+
+//<0312> Hinata mark Ⅱ
+<0312> Hinata mark Ⅱ
+
+//<0313> Dung Beetle
+<0313> Dung Beetle
+
+//<0314> Mass Produced Hinata
+<0314> Mass Produced Hinata
+
+//<0315> ？？
+<0315> ？？
+
+//<0316> 「ああ…こちらも時間をかけて仕込んでるからな…」
+<0316> 「Yeah… We're taking the time to perfect the operation as well…」
+
+//<0317> nothing
+<0317> nothing
+
+//<0318> nothing
+<0318> nothing
+
+//<0319> nothing
+<0319> nothing
+
+//<0320> nothing
+<0320> nothing
+
+//<0321> nothing
+<0321> nothing
+
+//<0322> Tenshi
+<0322> Tenshi
+
+//<0323> Kanade
+<0323> Kanade
+
+//<0324> 女生徒
+<0324> 女生徒
+
+//<0325> ？？
+<0325> ？？
+
+//<0326> 「そう…それは入念ね…」
+<0326> 「I see… You guys are being cautious…」
+
+//<0327> Otonashi
+<0327> Otonashi
+
+//<0328> クソ坊主
+<0328> クソ坊主
+
+//<0329> 代理人
+<0329> 代理人
+
+//<0330> 微妙すぎるイケメン
+<0330> 微妙すぎるイケメン
+
+//<0331> ロリコン
+<0331> ロリコン
+
+//<0332> メガネ仲間
+<0332> メガネ仲間
+
+//<0333> 暗算日本記録保持者
+<0333> 暗算日本記録保持者
+
+//<0334> 通り魔
+<0334> 通り魔
+
+//<0335> 記憶ナシ男
+<0335> 記憶ナシ男
+
+//<0336> 音速
+<0336> 音速
+
+//<0337> 無限
+<0337> 無限
+
+//<0338> Horny Samurai
+<0338> Horny Samurai
+
+//<0339> Super Horny Squad Member 1
+<0339> Super Horny Squad Member 1
+
+//<0340> Horny Boy
+<0340> Horny Boy
+
+//<0341> Ugri Yuri
+<0341> Ugri Yuri
+
+//<0342> Depussy
+<0342> Depussy
+
+//<0343> Perverted American Dog
+<0343> Perverted American Dog
+
+//<0344> Zeus
+<0344> Zeus
+
+//<0345> Hinata mark Ⅱ
+<0345> Hinata mark Ⅱ
+
+//<0346> Dung Beetle
+<0346> Dung Beetle
+
+//<0347> Mass Produced Hinata
+<0347> Mass Produced Hinata
+
+//<0348> ？？
+<0348> ？？
+
+//<0349> 「ああ…」
+<0349> 「Yeah…」
+
+//<0350> nothing
+<0350> nothing
+
+//<0351> nothing
+<0351> nothing
+
+//<0352> nothing
+<0352> nothing
+
+//<0353> nothing
+<0353> nothing
+
+//<0354> nothing
+<0354> nothing
+
+//<0355> Tenshi
+<0355> Tenshi
+
+//<0356> Kanade
+<0356> Kanade
+
+//<0357> 女生徒
+<0357> 女生徒
+
+//<0358> ？？
+<0358> ？？
+
+//<0359> 「ところで…」
+<0359> 「By the way…」
+
+//<0360> nothing
+<0360> nothing
+
+//<0361> nothing
+<0361> nothing
+
+//<0362> nothing
+<0362> nothing
+
+//<0363> nothing
+<0363> nothing
+
+//<0364> nothing
+<0364> nothing
+
+//<0365> Tenshi
+<0365> Tenshi
+
+//<0366> Kanade
+<0366> Kanade
+
+//<0367> 女生徒
+<0367> 女生徒
+
+//<0368> ？？
+<0368> ？？
+
+//<0369> 「Tenshiエリアってなに?」
+<0369> 「What is the Tenshi Area?」
+
+//<0370> Otonashi
+<0370> Otonashi
+
+//<0371> クソ坊主
+<0371> クソ坊主
+
+//<0372> 代理人
+<0372> 代理人
+
+//<0373> 微妙すぎるイケメン
+<0373> 微妙すぎるイケメン
+
+//<0374> ロリコン
+<0374> ロリコン
+
+//<0375> メガネ仲間
+<0375> メガネ仲間
+
+//<0376> 暗算日本記録保持者
+<0376> 暗算日本記録保持者
+
+//<0377> 通り魔
+<0377> 通り魔
+
+//<0378> 記憶ナシ男
+<0378> 記憶ナシ男
+
+//<0379> 音速
+<0379> 音速
+
+//<0380> 無限
+<0380> 無限
+
+//<0381> Horny Samurai
+<0381> Horny Samurai
+
+//<0382> Super Horny Squad Member 1
+<0382> Super Horny Squad Member 1
+
+//<0383> Horny Boy
+<0383> Horny Boy
+
+//<0384> Ugri Yuri
+<0384> Ugri Yuri
+
+//<0385> Depussy
+<0385> Depussy
+
+//<0386> Perverted American Dog
+<0386> Perverted American Dog
+
+//<0387> Zeus
+<0387> Zeus
+
+//<0388> Hinata mark Ⅱ
+<0388> Hinata mark Ⅱ
+
+//<0389> Dung Beetle
+<0389> Dung Beetle
+
+//<0390> Mass Produced Hinata
+<0390> Mass Produced Hinata
+
+//<0391> ？？
+<0391> ？？
+
+//<0392> 「えええーーーーーーー!!」
+<0392> 「WHAT THE HELL!!」
+
+//<0393> まるで話が通じていなかった!!
+<0393> I wasn't getting through at all!!
+
+//<0394> Otonashi
+<0394> Otonashi
+
+//<0395> クソ坊主
+<0395> クソ坊主
+
+//<0396> 代理人
+<0396> 代理人
+
+//<0397> 微妙すぎるイケメン
+<0397> 微妙すぎるイケメン
+
+//<0398> ロリコン
+<0398> ロリコン
+
+//<0399> メガネ仲間
+<0399> メガネ仲間
+
+//<0400> 暗算日本記録保持者
+<0400> 暗算日本記録保持者
+
+//<0401> 通り魔
+<0401> 通り魔
+
+//<0402> 記憶ナシ男
+<0402> 記憶ナシ男
+
+//<0403> 音速
+<0403> 音速
+
+//<0404> 無限
+<0404> 無限
+
+//<0405> Horny Samurai
+<0405> Horny Samurai
+
+//<0406> Super Horny Squad Member 1
+<0406> Super Horny Squad Member 1
+
+//<0407> Horny Boy
+<0407> Horny Boy
+
+//<0408> Ugri Yuri
+<0408> Ugri Yuri
+
+//<0409> Depussy
+<0409> Depussy
+
+//<0410> Perverted American Dog
+<0410> Perverted American Dog
+
+//<0411> Zeus
+<0411> Zeus
+
+//<0412> Hinata mark Ⅱ
+<0412> Hinata mark Ⅱ
+
+//<0413> Dung Beetle
+<0413> Dung Beetle
+
+//<0414> Mass Produced Hinata
+<0414> Mass Produced Hinata
+
+//<0415> ？？
+<0415> ？？
+
+//<0416> 「あるだろ、Tenshiエリアってのが」
+<0416> 「Isn't there something called a Tenshi Area?」
+
+//<0417> nothing
+<0417> nothing
+
+//<0418> nothing
+<0418> nothing
+
+//<0419> nothing
+<0419> nothing
+
+//<0420> nothing
+<0420> nothing
+
+//<0421> nothing
+<0421> nothing
+
+//<0422> Tenshi
+<0422> Tenshi
+
+//<0423> Kanade
+<0423> Kanade
+
+//<0424> 女生徒
+<0424> 女生徒
+
+//<0425> ？？
+<0425> ？？
+
+//<0426> 「初耳」
+<0426> 「I never heard of it.」
+
+//<0427> Otonashi
+<0427> Otonashi
+
+//<0428> クソ坊主
+<0428> クソ坊主
+
+//<0429> 代理人
+<0429> 代理人
+
+//<0430> 微妙すぎるイケメン
+<0430> 微妙すぎるイケメン
+
+//<0431> ロリコン
+<0431> ロリコン
+
+//<0432> メガネ仲間
+<0432> メガネ仲間
+
+//<0433> 暗算日本記録保持者
+<0433> 暗算日本記録保持者
+
+//<0434> 通り魔
+<0434> 通り魔
+
+//<0435> 記憶ナシ男
+<0435> 記憶ナシ男
+
+//<0436> 音速
+<0436> 音速
+
+//<0437> 無限
+<0437> 無限
+
+//<0438> Horny Samurai
+<0438> Horny Samurai
+
+//<0439> Super Horny Squad Member 1
+<0439> Super Horny Squad Member 1
+
+//<0440> Horny Boy
+<0440> Horny Boy
+
+//<0441> Ugri Yuri
+<0441> Ugri Yuri
+
+//<0442> Depussy
+<0442> Depussy
+
+//<0443> Perverted American Dog
+<0443> Perverted American Dog
+
+//<0444> Zeus
+<0444> Zeus
+
+//<0445> Hinata mark Ⅱ
+<0445> Hinata mark Ⅱ
+
+//<0446> Dung Beetle
+<0446> Dung Beetle
+
+//<0447> Mass Produced Hinata
+<0447> Mass Produced Hinata
+
+//<0448> ？？
+<0448> ？？
+
+//<0449> 「えー!?　ないの!?　Tenshiエリアって場所がどこかにあんだろ!?」
+<0449> 「What!? There isn't!? A place called Tenshi Area exists somewhere, right!?」
+
+//<0450> nothing
+<0450> nothing
+
+//<0451> nothing
+<0451> nothing
+
+//<0452> nothing
+<0452> nothing
+
+//<0453> nothing
+<0453> nothing
+
+//<0454> nothing
+<0454> nothing
+
+//<0455> Tenshi
+<0455> Tenshi
+
+//<0456> Kanade
+<0456> Kanade
+
+//<0457> 女生徒
+<0457> 女生徒
+
+//<0458> ？？
+<0458> ？？
+
+//<0459> 「そんなものないわ」
+<0459> 「There isn't anything like that.」
+
+//<0460> Otonashi
+<0460> Otonashi
+
+//<0461> クソ坊主
+<0461> クソ坊主
+
+//<0462> 代理人
+<0462> 代理人
+
+//<0463> 微妙すぎるイケメン
+<0463> 微妙すぎるイケメン
+
+//<0464> ロリコン
+<0464> ロリコン
+
+//<0465> メガネ仲間
+<0465> メガネ仲間
+
+//<0466> 暗算日本記録保持者
+<0466> 暗算日本記録保持者
+
+//<0467> 通り魔
+<0467> 通り魔
+
+//<0468> 記憶ナシ男
+<0468> 記憶ナシ男
+
+//<0469> 音速
+<0469> 音速
+
+//<0470> 無限
+<0470> 無限
+
+//<0471> Horny Samurai
+<0471> Horny Samurai
+
+//<0472> Super Horny Squad Member 1
+<0472> Super Horny Squad Member 1
+
+//<0473> Horny Boy
+<0473> Horny Boy
+
+//<0474> Ugri Yuri
+<0474> Ugri Yuri
+
+//<0475> Depussy
+<0475> Depussy
+
+//<0476> Perverted American Dog
+<0476> Perverted American Dog
+
+//<0477> Zeus
+<0477> Zeus
+
+//<0478> Hinata mark Ⅱ
+<0478> Hinata mark Ⅱ
+
+//<0479> Dung Beetle
+<0479> Dung Beetle
+
+//<0480> Mass Produced Hinata
+<0480> Mass Produced Hinata
+
+//<0481> ？？
+<0481> ？？
+
+//<0482> 「えええぇぇーーーー!!」
+<0482> 「What the hell!!」
+
+//<0483> nothing
+<0483> nothing
+
+//<0484> nothing
+<0484> nothing
+
+//<0485> nothing
+<0485> nothing
+
+//<0486> nothing
+<0486> nothing
+
+//<0487> nothing
+<0487> nothing
+
+//<0488> Tenshi
+<0488> Tenshi
+
+//<0489> Kanade
+<0489> Kanade
+
+//<0490> 女生徒
+<0490> 女生徒
+
+//<0491> ？？
+<0491> ？？
+
+//<0492> 「何をそんなに驚いてるの?」
+<0492> 「Why are you so surprised?」
+
+//<0493> Otonashi
+<0493> Otonashi
+
+//<0494> クソ坊主
+<0494> クソ坊主
+
+//<0495> 代理人
+<0495> 代理人
+
+//<0496> 微妙すぎるイケメン
+<0496> 微妙すぎるイケメン
+
+//<0497> ロリコン
+<0497> ロリコン
+
+//<0498> メガネ仲間
+<0498> メガネ仲間
+
+//<0499> 暗算日本記録保持者
+<0499> 暗算日本記録保持者
+
+//<0500> 通り魔
+<0500> 通り魔
+
+//<0501> 記憶ナシ男
+<0501> 記憶ナシ男
+
+//<0502> 音速
+<0502> 音速
+
+//<0503> 無限
+<0503> 無限
+
+//<0504> Horny Samurai
+<0504> Horny Samurai
+
+//<0505> Super Horny Squad Member 1
+<0505> Super Horny Squad Member 1
+
+//<0506> Horny Boy
+<0506> Horny Boy
+
+//<0507> Ugri Yuri
+<0507> Ugri Yuri
+
+//<0508> Depussy
+<0508> Depussy
+
+//<0509> Perverted American Dog
+<0509> Perverted American Dog
+
+//<0510> Zeus
+<0510> Zeus
+
+//<0511> Hinata mark Ⅱ
+<0511> Hinata mark Ⅱ
+
+//<0512> Dung Beetle
+<0512> Dung Beetle
+
+//<0513> Mass Produced Hinata
+<0513> Mass Produced Hinata
+
+//<0514> ？？
+<0514> ？？
+
+//<0515> 「お前、すごいところに住んでるんだろ!?」
+<0515> 「You live in somewhere amazing, don't you!?」
+
+//<0516> nothing
+<0516> nothing
+
+//<0517> nothing
+<0517> nothing
+
+//<0518> nothing
+<0518> nothing
+
+//<0519> nothing
+<0519> nothing
+
+//<0520> nothing
+<0520> nothing
+
+//<0521> Tenshi
+<0521> Tenshi
+
+//<0522> Kanade
+<0522> Kanade
+
+//<0523> 女生徒
+<0523> 女生徒
+
+//<0524> ？？
+<0524> ？？
+
+//<0525> 「女子寮の一室だけど」
+<0525> 「I live in a room in the girls' dormitory.」
+
+//<0526> Otonashi
+<0526> Otonashi
+
+//<0527> クソ坊主
+<0527> クソ坊主
+
+//<0528> 代理人
+<0528> 代理人
+
+//<0529> 微妙すぎるイケメン
+<0529> 微妙すぎるイケメン
+
+//<0530> ロリコン
+<0530> ロリコン
+
+//<0531> メガネ仲間
+<0531> メガネ仲間
+
+//<0532> 暗算日本記録保持者
+<0532> 暗算日本記録保持者
+
+//<0533> 通り魔
+<0533> 通り魔
+
+//<0534> 記憶ナシ男
+<0534> 記憶ナシ男
+
+//<0535> 音速
+<0535> 音速
+
+//<0536> 無限
+<0536> 無限
+
+//<0537> Horny Samurai
+<0537> Horny Samurai
+
+//<0538> Super Horny Squad Member 1
+<0538> Super Horny Squad Member 1
+
+//<0539> Horny Boy
+<0539> Horny Boy
+
+//<0540> Ugri Yuri
+<0540> Ugri Yuri
+
+//<0541> Depussy
+<0541> Depussy
+
+//<0542> Perverted American Dog
+<0542> Perverted American Dog
+
+//<0543> Zeus
+<0543> Zeus
+
+//<0544> Hinata mark Ⅱ
+<0544> Hinata mark Ⅱ
+
+//<0545> Dung Beetle
+<0545> Dung Beetle
+
+//<0546> Mass Produced Hinata
+<0546> Mass Produced Hinata
+
+//<0547> ？？
+<0547> ？？
+
+//<0548> 「えええええぇぇーーー!!」
+<0548> 「Whaaaaat!?」
+
+//<0549> nothing
+<0549> nothing
+
+//<0550> nothing
+<0550> nothing
+
+//<0551> nothing
+<0551> nothing
+
+//<0552> nothing
+<0552> nothing
+
+//<0553> nothing
+<0553> nothing
+
+//<0554> Tenshi
+<0554> Tenshi
+
+//<0555> Kanade
+<0555> Kanade
+
+//<0556> 女生徒
+<0556> 女生徒
+
+//<0557> ？？
+<0557> ？？
+
+//<0558> 「そんな驚くようなこと?」
+<0558> 「Is that something to be surprised about?」
+
+//<0559> nothing
+<0559> nothing
+
+//<0560> nothing
+<0560> nothing
+
+//<0561> nothing
+<0561> nothing
+
+//<0562> nothing
+<0562> nothing
+
+//<0563> nothing
+<0563> nothing
+
+//<0564> Tenshi
+<0564> Tenshi
+
+//<0565> Kanade
+<0565> Kanade
+
+//<0566> 女生徒
+<0566> 女生徒
+
+//<0567> ？？
+<0567> ？？
+
+//<0568> 「ま、生徒会長という立場で、特別にひとり部屋だけど」
+<0568> 「Well, I have a room to myself, because I'm the student council president.」
+
+//<0569> いや、それはカモフラージュかもしれない…
+<0569> No, this might just be a decoy…
+
+//<0570> Tenshiエリア、そう呼ばれる場所が他にあるのだ、きっと。
+<0570> There must be a place that's called the Tenshi Area.
+
+//<0571> とにかく俺は伝えた。注意を促した。
+<0571> Anyway, I gave her information. I warned her.
+
+//<0572> 別に戦線の活動の邪魔をしたいわけでもない。
+<0572> I don't have intentions to bother the battlefront.
+
+//<0573> ここまでにしておこう。
+<0573> Let's stop here.
+
+//<0574> nothing
+<0574> nothing
+
+//<0575> nothing
+<0575> nothing
+
+//<0576> nothing
+<0576> nothing
+
+//<0577> nothing
+<0577> nothing
+
+//<0578> nothing
+<0578> nothing
+
+//<0579> Tenshi
+<0579> Tenshi
+
+//<0580> Kanade
+<0580> Kanade
+
+//<0581> 女生徒
+<0581> 女生徒
+
+//<0582> ？？
+<0582> ？？
+
+//<0583> 「そんなに気分が悪いなら、医局まで案内するわ。胃薬ぐらいならすぐ処方してもらえるはず」
+<0583> 「If you're feeling that sick, I can take you to the nurse. We can get a prescription for a stomach medicine.」
+
+//<0584> Otonashi
+<0584> Otonashi
+
+//<0585> クソ坊主
+<0585> クソ坊主
+
+//<0586> 代理人
+<0586> 代理人
+
+//<0587> 微妙すぎるイケメン
+<0587> 微妙すぎるイケメン
+
+//<0588> ロリコン
+<0588> ロリコン
+
+//<0589> メガネ仲間
+<0589> メガネ仲間
+
+//<0590> 暗算日本記録保持者
+<0590> 暗算日本記録保持者
+
+//<0591> 通り魔
+<0591> 通り魔
+
+//<0592> 記憶ナシ男
+<0592> 記憶ナシ男
+
+//<0593> 音速
+<0593> 音速
+
+//<0594> 無限
+<0594> 無限
+
+//<0595> Horny Samurai
+<0595> Horny Samurai
+
+//<0596> Super Horny Squad Member 1
+<0596> Super Horny Squad Member 1
+
+//<0597> Horny Boy
+<0597> Horny Boy
+
+//<0598> Ugri Yuri
+<0598> Ugri Yuri
+
+//<0599> Depussy
+<0599> Depussy
+
+//<0600> Perverted American Dog
+<0600> Perverted American Dog
+
+//<0601> Zeus
+<0601> Zeus
+
+//<0602> Hinata mark Ⅱ
+<0602> Hinata mark Ⅱ
+
+//<0603> Dung Beetle
+<0603> Dung Beetle
+
+//<0604> Mass Produced Hinata
+<0604> Mass Produced Hinata
+
+//<0605> ？？
+<0605> ？？
+
+//<0606> 「いやっ、そこまでではないから大丈夫!」
+<0606> 「No, the pain isn't too bad, so I'm fine!」
+
+//<0607> 今度は元気アピールに切り替える。
+<0607> I decided to appeal my healthiness this time.
+
+//<0608> nothing
+<0608> nothing
+
+//<0609> nothing
+<0609> nothing
+
+//<0610> nothing
+<0610> nothing
+
+//<0611> nothing
+<0611> nothing
+
+//<0612> nothing
+<0612> nothing
+
+//<0613> Tenshi
+<0613> Tenshi
+
+//<0614> Kanade
+<0614> Kanade
+
+//<0615> 女生徒
+<0615> 女生徒
+
+//<0616> ？？
+<0616> ？？
+
+//<0617> 「本当?」
+<0617> 「Really?」
+
+//<0618> Otonashi
+<0618> Otonashi
+
+//<0619> クソ坊主
+<0619> クソ坊主
+
+//<0620> 代理人
+<0620> 代理人
+
+//<0621> 微妙すぎるイケメン
+<0621> 微妙すぎるイケメン
+
+//<0622> ロリコン
+<0622> ロリコン
+
+//<0623> メガネ仲間
+<0623> メガネ仲間
+
+//<0624> 暗算日本記録保持者
+<0624> 暗算日本記録保持者
+
+//<0625> 通り魔
+<0625> 通り魔
+
+//<0626> 記憶ナシ男
+<0626> 記憶ナシ男
+
+//<0627> 音速
+<0627> 音速
+
+//<0628> 無限
+<0628> 無限
+
+//<0629> Horny Samurai
+<0629> Horny Samurai
+
+//<0630> Super Horny Squad Member 1
+<0630> Super Horny Squad Member 1
+
+//<0631> Horny Boy
+<0631> Horny Boy
+
+//<0632> Ugri Yuri
+<0632> Ugri Yuri
+
+//<0633> Depussy
+<0633> Depussy
+
+//<0634> Perverted American Dog
+<0634> Perverted American Dog
+
+//<0635> Zeus
+<0635> Zeus
+
+//<0636> Hinata mark Ⅱ
+<0636> Hinata mark Ⅱ
+
+//<0637> Dung Beetle
+<0637> Dung Beetle
+
+//<0638> Mass Produced Hinata
+<0638> Mass Produced Hinata
+
+//<0639> ？？
+<0639> ？？
+
+//<0640> 「ああ、ほんと。今話してる間でも、だんだん良くなってきてる」
+<0640> 「Yeah, really. It's getting better as we speak.」
+
+//<0641> nothing
+<0641> nothing
+
+//<0642> nothing
+<0642> nothing
+
+//<0643> nothing
+<0643> nothing
+
+//<0644> nothing
+<0644> nothing
+
+//<0645> nothing
+<0645> nothing
+
+//<0646> Tenshi
+<0646> Tenshi
+
+//<0647> Kanade
+<0647> Kanade
+
+//<0648> 女生徒
+<0648> 女生徒
+
+//<0649> ？？
+<0649> ？？
+
+//<0650> 「なら、いいのだけど。本当に辛い時は言ってね」
+<0650> 「Ok then. Please tell me when it starts to get worse.」
+
+//<0651> Otonashi
+<0651> Otonashi
+
+//<0652> クソ坊主
+<0652> クソ坊主
+
+//<0653> 代理人
+<0653> 代理人
+
+//<0654> 微妙すぎるイケメン
+<0654> 微妙すぎるイケメン
+
+//<0655> ロリコン
+<0655> ロリコン
+
+//<0656> メガネ仲間
+<0656> メガネ仲間
+
+//<0657> 暗算日本記録保持者
+<0657> 暗算日本記録保持者
+
+//<0658> 通り魔
+<0658> 通り魔
+
+//<0659> 記憶ナシ男
+<0659> 記憶ナシ男
+
+//<0660> 音速
+<0660> 音速
+
+//<0661> 無限
+<0661> 無限
+
+//<0662> Horny Samurai
+<0662> Horny Samurai
+
+//<0663> Super Horny Squad Member 1
+<0663> Super Horny Squad Member 1
+
+//<0664> Horny Boy
+<0664> Horny Boy
+
+//<0665> Ugri Yuri
+<0665> Ugri Yuri
+
+//<0666> Depussy
+<0666> Depussy
+
+//<0667> Perverted American Dog
+<0667> Perverted American Dog
+
+//<0668> Zeus
+<0668> Zeus
+
+//<0669> Hinata mark Ⅱ
+<0669> Hinata mark Ⅱ
+
+//<0670> Dung Beetle
+<0670> Dung Beetle
+
+//<0671> Mass Produced Hinata
+<0671> Mass Produced Hinata
+
+//<0672> ？？
+<0672> ？？
+
+//<0673> 「あ、ああ…ありがと」
+<0673> 「Yeah… Thanks.」
+
+//<0674> nothing
+<0674> nothing
+
+//<0675> nothing
+<0675> nothing
+
+//<0676> nothing
+<0676> nothing
+
+//<0677> nothing
+<0677> nothing
+
+//<0678> nothing
+<0678> nothing
+
+//<0679> nothing
+<0679> nothing
+
+//<0680> 教室を後にした。
+<0680> I left the classroom.
+
+//<0681> se_chime
+<0681> se_chime
+
+//<0682> 授業が終わる。
+<0682> Class ended.
+
+//<0683> もちろん、授業を受けたのはTenshiと会話するためだ。
+<0683> Of course, I took it to talk with Tenshi.
+
+//<0684> その前に立つ。
+<0684> I stood in front of her.
+
+//<0685> nothing
+<0685> nothing
+
+//<0686> nothing
+<0686> nothing
+
+//<0687> nothing
+<0687> nothing
+
+//<0688> nothing
+<0688> nothing
+
+//<0689> nothing
+<0689> nothing
+
+//<0690> Tenshi
+<0690> Tenshi
+
+//<0691> Kanade
+<0691> Kanade
+
+//<0692> 女生徒
+<0692> 女生徒
+
+//<0693> ？？
+<0693> ？？
+
+//<0694> 「…?　またお話?」
+<0694> 「…?　Do you want to talk again?」
+
+//<0695> Otonashi
+<0695> Otonashi
+
+//<0696> クソ坊主
+<0696> クソ坊主
+
+//<0697> 代理人
+<0697> 代理人
+
+//<0698> 微妙すぎるイケメン
+<0698> 微妙すぎるイケメン
+
+//<0699> ロリコン
+<0699> ロリコン
+
+//<0700> メガネ仲間
+<0700> メガネ仲間
+
+//<0701> 暗算日本記録保持者
+<0701> 暗算日本記録保持者
+
+//<0702> 通り魔
+<0702> 通り魔
+
+//<0703> 記憶ナシ男
+<0703> 記憶ナシ男
+
+//<0704> 音速
+<0704> 音速
+
+//<0705> 無限
+<0705> 無限
+
+//<0706> Horny Samurai
+<0706> Horny Samurai
+
+//<0707> Super Horny Squad Member 1
+<0707> Super Horny Squad Member 1
+
+//<0708> Horny Boy
+<0708> Horny Boy
+
+//<0709> Ugri Yuri
+<0709> Ugri Yuri
+
+//<0710> Depussy
+<0710> Depussy
+
+//<0711> Perverted American Dog
+<0711> Perverted American Dog
+
+//<0712> Zeus
+<0712> Zeus
+
+//<0713> Hinata mark Ⅱ
+<0713> Hinata mark Ⅱ
+
+//<0714> Dung Beetle
+<0714> Dung Beetle
+
+//<0715> Mass Produced Hinata
+<0715> Mass Produced Hinata
+
+//<0716> ？？
+<0716> ？？
+
+//<0717> 「ああ。この学園の外には何がある?」
+<0717> 「Yes. What is the outside of this school like?」
+
+//<0718> nothing
+<0718> nothing
+
+//<0719> nothing
+<0719> nothing
+
+//<0720> nothing
+<0720> nothing
+
+//<0721> nothing
+<0721> nothing
+
+//<0722> nothing
+<0722> nothing
+
+//<0723> Tenshi
+<0723> Tenshi
+
+//<0724> Kanade
+<0724> Kanade
+
+//<0725> 女生徒
+<0725> 女生徒
+
+//<0726> ？？
+<0726> ？？
+
+//<0727> 「何もないわ」
+<0727> 「There is nothing there.」
+
+//<0728> Otonashi
+<0728> Otonashi
+
+//<0729> クソ坊主
+<0729> クソ坊主
+
+//<0730> 代理人
+<0730> 代理人
+
+//<0731> 微妙すぎるイケメン
+<0731> 微妙すぎるイケメン
+
+//<0732> ロリコン
+<0732> ロリコン
+
+//<0733> メガネ仲間
+<0733> メガネ仲間
+
+//<0734> 暗算日本記録保持者
+<0734> 暗算日本記録保持者
+
+//<0735> 通り魔
+<0735> 通り魔
+
+//<0736> 記憶ナシ男
+<0736> 記憶ナシ男
+
+//<0737> 音速
+<0737> 音速
+
+//<0738> 無限
+<0738> 無限
+
+//<0739> Horny Samurai
+<0739> Horny Samurai
+
+//<0740> Super Horny Squad Member 1
+<0740> Super Horny Squad Member 1
+
+//<0741> Horny Boy
+<0741> Horny Boy
+
+//<0742> Ugri Yuri
+<0742> Ugri Yuri
+
+//<0743> Depussy
+<0743> Depussy
+
+//<0744> Perverted American Dog
+<0744> Perverted American Dog
+
+//<0745> Zeus
+<0745> Zeus
+
+//<0746> Hinata mark Ⅱ
+<0746> Hinata mark Ⅱ
+
+//<0747> Dung Beetle
+<0747> Dung Beetle
+
+//<0748> Mass Produced Hinata
+<0748> Mass Produced Hinata
+
+//<0749> ？？
+<0749> ？？
+
+//<0750> 「でも神が居るとしたら、それこそこの学園の外に居るんじゃないか?」
+<0750> 「But if there really is God, wouldn't he be outside of this school?」
+
+//<0751> nothing
+<0751> nothing
+
+//<0752> nothing
+<0752> nothing
+
+//<0753> nothing
+<0753> nothing
+
+//<0754> nothing
+<0754> nothing
+
+//<0755> nothing
+<0755> nothing
+
+//<0756> Tenshi
+<0756> Tenshi
+
+//<0757> Kanade
+<0757> Kanade
+
+//<0758> 女生徒
+<0758> 女生徒
+
+//<0759> ？？
+<0759> ？？
+
+//<0760> 「あなたがそう思うならそうかもしれないわね」
+<0760> 「If you think that way, that might be true.」
+
+//<0761> Otonashi
+<0761> Otonashi
+
+//<0762> クソ坊主
+<0762> クソ坊主
+
+//<0763> 代理人
+<0763> 代理人
+
+//<0764> 微妙すぎるイケメン
+<0764> 微妙すぎるイケメン
+
+//<0765> ロリコン
+<0765> ロリコン
+
+//<0766> メガネ仲間
+<0766> メガネ仲間
+
+//<0767> 暗算日本記録保持者
+<0767> 暗算日本記録保持者
+
+//<0768> 通り魔
+<0768> 通り魔
+
+//<0769> 記憶ナシ男
+<0769> 記憶ナシ男
+
+//<0770> 音速
+<0770> 音速
+
+//<0771> 無限
+<0771> 無限
+
+//<0772> Horny Samurai
+<0772> Horny Samurai
+
+//<0773> Super Horny Squad Member 1
+<0773> Super Horny Squad Member 1
+
+//<0774> Horny Boy
+<0774> Horny Boy
+
+//<0775> Ugri Yuri
+<0775> Ugri Yuri
+
+//<0776> Depussy
+<0776> Depussy
+
+//<0777> Perverted American Dog
+<0777> Perverted American Dog
+
+//<0778> Zeus
+<0778> Zeus
+
+//<0779> Hinata mark Ⅱ
+<0779> Hinata mark Ⅱ
+
+//<0780> Dung Beetle
+<0780> Dung Beetle
+
+//<0781> Mass Produced Hinata
+<0781> Mass Produced Hinata
+
+//<0782> ？？
+<0782> ？？
+
+//<0783> 「例えばさ、宇宙の外には何があると思う?」
+<0783> 「Let's see, what do you think exists outside of our universe?」
+
+//<0784> nothing
+<0784> nothing
+
+//<0785> nothing
+<0785> nothing
+
+//<0786> nothing
+<0786> nothing
+
+//<0787> nothing
+<0787> nothing
+
+//<0788> nothing
+<0788> nothing
+
+//<0789> Tenshi
+<0789> Tenshi
+
+//<0790> Kanade
+<0790> Kanade
+
+//<0791> 女生徒
+<0791> 女生徒
+
+//<0792> ？？
+<0792> ？？
+
+//<0793> 「さあ。考えたこともないわ」
+<0793> 「I don't know. I haven't thought about it.」
+
+//<0794> Otonashi
+<0794> Otonashi
+
+//<0795> クソ坊主
+<0795> クソ坊主
+
+//<0796> 代理人
+<0796> 代理人
+
+//<0797> 微妙すぎるイケメン
+<0797> 微妙すぎるイケメン
+
+//<0798> ロリコン
+<0798> ロリコン
+
+//<0799> メガネ仲間
+<0799> メガネ仲間
+
+//<0800> 暗算日本記録保持者
+<0800> 暗算日本記録保持者
+
+//<0801> 通り魔
+<0801> 通り魔
+
+//<0802> 記憶ナシ男
+<0802> 記憶ナシ男
+
+//<0803> 音速
+<0803> 音速
+
+//<0804> 無限
+<0804> 無限
+
+//<0805> Horny Samurai
+<0805> Horny Samurai
+
+//<0806> Super Horny Squad Member 1
+<0806> Super Horny Squad Member 1
+
+//<0807> Horny Boy
+<0807> Horny Boy
+
+//<0808> Ugri Yuri
+<0808> Ugri Yuri
+
+//<0809> Depussy
+<0809> Depussy
+
+//<0810> Perverted American Dog
+<0810> Perverted American Dog
+
+//<0811> Zeus
+<0811> Zeus
+
+//<0812> Hinata mark Ⅱ
+<0812> Hinata mark Ⅱ
+
+//<0813> Dung Beetle
+<0813> Dung Beetle
+
+//<0814> Mass Produced Hinata
+<0814> Mass Produced Hinata
+
+//<0815> ？？
+<0815> ？？
+
+//<0816> 「じゃあ、宇宙は膨張し続けてるってのは?」
+<0816> 「Then, have you thought about how the universe constantly expands?」
+
+//<0817> nothing
+<0817> nothing
+
+//<0818> nothing
+<0818> nothing
+
+//<0819> nothing
+<0819> nothing
+
+//<0820> nothing
+<0820> nothing
+
+//<0821> nothing
+<0821> nothing
+
+//<0822> Tenshi
+<0822> Tenshi
+
+//<0823> Kanade
+<0823> Kanade
+
+//<0824> 女生徒
+<0824> 女生徒
+
+//<0825> ？？
+<0825> ？？
+
+//<0826> 「それは知ってる」
+<0826> 「I know about that.」
+
+//<0827> Otonashi
+<0827> Otonashi
+
+//<0828> クソ坊主
+<0828> クソ坊主
+
+//<0829> 代理人
+<0829> 代理人
+
+//<0830> 微妙すぎるイケメン
+<0830> 微妙すぎるイケメン
+
+//<0831> ロリコン
+<0831> ロリコン
+
+//<0832> メガネ仲間
+<0832> メガネ仲間
+
+//<0833> 暗算日本記録保持者
+<0833> 暗算日本記録保持者
+
+//<0834> 通り魔
+<0834> 通り魔
+
+//<0835> 記憶ナシ男
+<0835> 記憶ナシ男
+
+//<0836> 音速
+<0836> 音速
+
+//<0837> 無限
+<0837> 無限
+
+//<0838> Horny Samurai
+<0838> Horny Samurai
+
+//<0839> Super Horny Squad Member 1
+<0839> Super Horny Squad Member 1
+
+//<0840> Horny Boy
+<0840> Horny Boy
+
+//<0841> Ugri Yuri
+<0841> Ugri Yuri
+
+//<0842> Depussy
+<0842> Depussy
+
+//<0843> Perverted American Dog
+<0843> Perverted American Dog
+
+//<0844> Zeus
+<0844> Zeus
+
+//<0845> Hinata mark Ⅱ
+<0845> Hinata mark Ⅱ
+
+//<0846> Dung Beetle
+<0846> Dung Beetle
+
+//<0847> Mass Produced Hinata
+<0847> Mass Produced Hinata
+
+//<0848> ？？
+<0848> ？？
+
+//<0849> 「よし。なら、膨張し続けるために宇宙の外には空間があるってことになるんじゃないか?」
+<0849> 「Ok. Then look at it this way. If the universe is constantly expanding, doesn't that mean that there is an empty space outside of the universe?」
+
+//<0850> nothing
+<0850> nothing
+
+//<0851> nothing
+<0851> nothing
+
+//<0852> nothing
+<0852> nothing
+
+//<0853> nothing
+<0853> nothing
+
+//<0854> nothing
+<0854> nothing
+
+//<0855> Tenshi
+<0855> Tenshi
+
+//<0856> Kanade
+<0856> Kanade
+
+//<0857> 女生徒
+<0857> 女生徒
+
+//<0858> ？？
+<0858> ？？
+
+//<0859> 「そうかもしれないわね」
+<0859> 「That might be true.」
+
+//<0860> Otonashi
+<0860> Otonashi
+
+//<0861> クソ坊主
+<0861> クソ坊主
+
+//<0862> 代理人
+<0862> 代理人
+
+//<0863> 微妙すぎるイケメン
+<0863> 微妙すぎるイケメン
+
+//<0864> ロリコン
+<0864> ロリコン
+
+//<0865> メガネ仲間
+<0865> メガネ仲間
+
+//<0866> 暗算日本記録保持者
+<0866> 暗算日本記録保持者
+
+//<0867> 通り魔
+<0867> 通り魔
+
+//<0868> 記憶ナシ男
+<0868> 記憶ナシ男
+
+//<0869> 音速
+<0869> 音速
+
+//<0870> 無限
+<0870> 無限
+
+//<0871> Horny Samurai
+<0871> Horny Samurai
+
+//<0872> Super Horny Squad Member 1
+<0872> Super Horny Squad Member 1
+
+//<0873> Horny Boy
+<0873> Horny Boy
+
+//<0874> Ugri Yuri
+<0874> Ugri Yuri
+
+//<0875> Depussy
+<0875> Depussy
+
+//<0876> Perverted American Dog
+<0876> Perverted American Dog
+
+//<0877> Zeus
+<0877> Zeus
+
+//<0878> Hinata mark Ⅱ
+<0878> Hinata mark Ⅱ
+
+//<0879> Dung Beetle
+<0879> Dung Beetle
+
+//<0880> Mass Produced Hinata
+<0880> Mass Produced Hinata
+
+//<0881> ？？
+<0881> ？？
+
+//<0882> 「そこには何もないと言い切れるか?」
+<0882> 「Can you say for certain that there is nothing in there?」
+
+//<0883> nothing
+<0883> nothing
+
+//<0884> nothing
+<0884> nothing
+
+//<0885> nothing
+<0885> nothing
+
+//<0886> nothing
+<0886> nothing
+
+//<0887> nothing
+<0887> nothing
+
+//<0888> Tenshi
+<0888> Tenshi
+
+//<0889> Kanade
+<0889> Kanade
+
+//<0890> 女生徒
+<0890> 女生徒
+
+//<0891> ？？
+<0891> ？？
+
+//<0892> 「言い切れないわね」
+<0892> 「I can't say it with certain.」
+
+//<0893> Otonashi
+<0893> Otonashi
+
+//<0894> クソ坊主
+<0894> クソ坊主
+
+//<0895> 代理人
+<0895> 代理人
+
+//<0896> 微妙すぎるイケメン
+<0896> 微妙すぎるイケメン
+
+//<0897> ロリコン
+<0897> ロリコン
+
+//<0898> メガネ仲間
+<0898> メガネ仲間
+
+//<0899> 暗算日本記録保持者
+<0899> 暗算日本記録保持者
+
+//<0900> 通り魔
+<0900> 通り魔
+
+//<0901> 記憶ナシ男
+<0901> 記憶ナシ男
+
+//<0902> 音速
+<0902> 音速
+
+//<0903> 無限
+<0903> 無限
+
+//<0904> Horny Samurai
+<0904> Horny Samurai
+
+//<0905> Super Horny Squad Member 1
+<0905> Super Horny Squad Member 1
+
+//<0906> Horny Boy
+<0906> Horny Boy
+
+//<0907> Ugri Yuri
+<0907> Ugri Yuri
+
+//<0908> Depussy
+<0908> Depussy
+
+//<0909> Perverted American Dog
+<0909> Perverted American Dog
+
+//<0910> Zeus
+<0910> Zeus
+
+//<0911> Hinata mark Ⅱ
+<0911> Hinata mark Ⅱ
+
+//<0912> Dung Beetle
+<0912> Dung Beetle
+
+//<0913> Mass Produced Hinata
+<0913> Mass Produced Hinata
+
+//<0914> ？？
+<0914> ？？
+
+//<0915> 「それと同じ。だから、この学園の外には何もないとは言い切れない」
+<0915> 「This is the same thing. According to what you just said, you can't declare that there is nothing outside of this school.」
+
+//<0916> nothing
+<0916> nothing
+
+//<0917> nothing
+<0917> nothing
+
+//<0918> nothing
+<0918> nothing
+
+//<0919> nothing
+<0919> nothing
+
+//<0920> nothing
+<0920> nothing
+
+//<0921> Tenshi
+<0921> Tenshi
+
+//<0922> Kanade
+<0922> Kanade
+
+//<0923> 女生徒
+<0923> 女生徒
+
+//<0924> ？？
+<0924> ？？
+
+//<0925> 「そうね」
+<0925> 「I guess.」
+
+//<0926> 白
+<0926> 白
+{18767} 0a // 0926
+
+//<0927> nothing
+<0927> nothing
+
+//<0928> nothing
+<0928> nothing
+
+//<0929> nothing
+<0929> nothing
+
+//<0930> nothing
+<0930> nothing
+
+//<0931> nothing
+<0931> nothing
+
+//<0932> Yuri
+<0932> Yuri
+
+//<0933> 女生徒
+<0933> 女生徒
+
+//<0934> ？？
+<0934> ？？
+
+//<0935> 「正門も後門もなし。森に囲まれていて、さらに深く進むと壁で高く閉ざされている」
+<0935> 「There are no front or back doors, and the school is surrounded by a forest. Even if we go into the deeper parts of the forest, there is a high wall blocking our way.」
+
+//<0936> Otonashi
+<0936> Otonashi
+
+//<0937> クソ坊主
+<0937> クソ坊主
+
+//<0938> 代理人
+<0938> 代理人
+
+//<0939> 微妙すぎるイケメン
+<0939> 微妙すぎるイケメン
+
+//<0940> ロリコン
+<0940> ロリコン
+
+//<0941> メガネ仲間
+<0941> メガネ仲間
+
+//<0942> 暗算日本記録保持者
+<0942> 暗算日本記録保持者
+
+//<0943> 通り魔
+<0943> 通り魔
+
+//<0944> 記憶ナシ男
+<0944> 記憶ナシ男
+
+//<0945> 音速
+<0945> 音速
+
+//<0946> 無限
+<0946> 無限
+
+//<0947> Horny Samurai
+<0947> Horny Samurai
+
+//<0948> Super Horny Squad Member 1
+<0948> Super Horny Squad Member 1
+
+//<0949> Horny Boy
+<0949> Horny Boy
+
+//<0950> Ugri Yuri
+<0950> Ugri Yuri
+
+//<0951> Depussy
+<0951> Depussy
+
+//<0952> Perverted American Dog
+<0952> Perverted American Dog
+
+//<0953> Zeus
+<0953> Zeus
+
+//<0954> Hinata mark Ⅱ
+<0954> Hinata mark Ⅱ
+
+//<0955> Dung Beetle
+<0955> Dung Beetle
+
+//<0956> Mass Produced Hinata
+<0956> Mass Produced Hinata
+
+//<0957> ？？
+<0957> ？？
+
+//<0958> 「出られないってことか?」
+<0958> 「Does that mean you can't go out?」
+
+//<0959> nothing
+<0959> nothing
+
+//<0960> nothing
+<0960> nothing
+
+//<0961> nothing
+<0961> nothing
+
+//<0962> nothing
+<0962> nothing
+
+//<0963> nothing
+<0963> nothing
+
+//<0964> Yuri
+<0964> Yuri
+
+//<0965> 女生徒
+<0965> 女生徒
+
+//<0966> ？？
+<0966> ？？
+
+//<0967> 「そうね。壁に対してハンマーを使っても傷つけるのが精一杯。杭も差せないから足場を作って登ることも不可能」
+<0967> 「I guess so. Even if we hammered the wall, all we could get was a dent. We couldn't even put stakes in for a foothold, so it's impossible to climb the wall.」
+
+//<0968> nothing
+<0968> nothing
+
+//<0969> nothing
+<0969> nothing
+
+//<0970> nothing
+<0970> nothing
+
+//<0971> nothing
+<0971> nothing
+
+//<0972> nothing
+<0972> nothing
+
+//<0973> Otonashi
+<0973> Otonashi
+
+//<0974> クソ坊主
+<0974> クソ坊主
+
+//<0975> 代理人
+<0975> 代理人
+
+//<0976> 微妙すぎるイケメン
+<0976> 微妙すぎるイケメン
+
+//<0977> ロリコン
+<0977> ロリコン
+
+//<0978> メガネ仲間
+<0978> メガネ仲間
+
+//<0979> 暗算日本記録保持者
+<0979> 暗算日本記録保持者
+
+//<0980> 通り魔
+<0980> 通り魔
+
+//<0981> 記憶ナシ男
+<0981> 記憶ナシ男
+
+//<0982> 音速
+<0982> 音速
+
+//<0983> 無限
+<0983> 無限
+
+//<0984> Horny Samurai
+<0984> Horny Samurai
+
+//<0985> Super Horny Squad Member 1
+<0985> Super Horny Squad Member 1
+
+//<0986> Horny Boy
+<0986> Horny Boy
+
+//<0987> Ugri Yuri
+<0987> Ugri Yuri
+
+//<0988> Depussy
+<0988> Depussy
+
+//<0989> Perverted American Dog
+<0989> Perverted American Dog
+
+//<0990> Zeus
+<0990> Zeus
+
+//<0991> Hinata mark Ⅱ
+<0991> Hinata mark Ⅱ
+
+//<0992> Dung Beetle
+<0992> Dung Beetle
+
+//<0993> Mass Produced Hinata
+<0993> Mass Produced Hinata
+
+//<0994> ？？
+<0994> ？？
+
+//<0995> 「あの壁は越えられないって聞いたけど、方法はいくらだってある」
+<0995> 「I heard that they couldn't climb the wall, but there are endless ways to get out of here.」
+
+//<0996> nothing
+<0996> nothing
+
+//<0997> nothing
+<0997> nothing
+
+//<0998> nothing
+<0998> nothing
+
+//<0999> nothing
+<0999> nothing
+
+//<1000> nothing
+<1000> nothing
+
+//<1001> Tenshi
+<1001> Tenshi
+
+//<1002> Kanade
+<1002> Kanade
+
+//<1003> 女生徒
+<1003> 女生徒
+
+//<1004> ？？
+<1004> ？？
+
+//<1005> 「たとえば?」
+<1005> 「For example?」
+
+//<1006> Otonashi
+<1006> Otonashi
+
+//<1007> クソ坊主
+<1007> クソ坊主
+
+//<1008> 代理人
+<1008> 代理人
+
+//<1009> 微妙すぎるイケメン
+<1009> 微妙すぎるイケメン
+
+//<1010> ロリコン
+<1010> ロリコン
+
+//<1011> メガネ仲間
+<1011> メガネ仲間
+
+//<1012> 暗算日本記録保持者
+<1012> 暗算日本記録保持者
+
+//<1013> 通り魔
+<1013> 通り魔
+
+//<1014> 記憶ナシ男
+<1014> 記憶ナシ男
+
+//<1015> 音速
+<1015> 音速
+
+//<1016> 無限
+<1016> 無限
+
+//<1017> Horny Samurai
+<1017> Horny Samurai
+
+//<1018> Super Horny Squad Member 1
+<1018> Super Horny Squad Member 1
+
+//<1019> Horny Boy
+<1019> Horny Boy
+
+//<1020> Ugri Yuri
+<1020> Ugri Yuri
+
+//<1021> Depussy
+<1021> Depussy
+
+//<1022> Perverted American Dog
+<1022> Perverted American Dog
+
+//<1023> Zeus
+<1023> Zeus
+
+//<1024> Hinata mark Ⅱ
+<1024> Hinata mark Ⅱ
+
+//<1025> Dung Beetle
+<1025> Dung Beetle
+
+//<1026> Mass Produced Hinata
+<1026> Mass Produced Hinata
+
+//<1027> ？？
+<1027> ？？
+
+//<1028> 「地道に森の木を切って、組み上げていけばいい」
+<1028> 「We can cut down the trees in the forest, and stack them up.」
+
+//<1029> Otonashi
+<1029> Otonashi
+
+//<1030> クソ坊主
+<1030> クソ坊主
+
+//<1031> 代理人
+<1031> 代理人
+
+//<1032> 微妙すぎるイケメン
+<1032> 微妙すぎるイケメン
+
+//<1033> ロリコン
+<1033> ロリコン
+
+//<1034> メガネ仲間
+<1034> メガネ仲間
+
+//<1035> 暗算日本記録保持者
+<1035> 暗算日本記録保持者
+
+//<1036> 通り魔
+<1036> 通り魔
+
+//<1037> 記憶ナシ男
+<1037> 記憶ナシ男
+
+//<1038> 音速
+<1038> 音速
+
+//<1039> 無限
+<1039> 無限
+
+//<1040> Horny Samurai
+<1040> Horny Samurai
+
+//<1041> Super Horny Squad Member 1
+<1041> Super Horny Squad Member 1
+
+//<1042> Horny Boy
+<1042> Horny Boy
+
+//<1043> Ugri Yuri
+<1043> Ugri Yuri
+
+//<1044> Depussy
+<1044> Depussy
+
+//<1045> Perverted American Dog
+<1045> Perverted American Dog
+
+//<1046> Zeus
+<1046> Zeus
+
+//<1047> Hinata mark Ⅱ
+<1047> Hinata mark Ⅱ
+
+//<1048> Dung Beetle
+<1048> Dung Beetle
+
+//<1049> Mass Produced Hinata
+<1049> Mass Produced Hinata
+
+//<1050> ？？
+<1050> ？？
+
+//<1051> 「永遠に時間があるなら、いつか壁を越えるに足る高さになる」
+<1051> 「Time is infinite here, so some day, we would be able to get a tower tall enough to go over the wall.」
+
+//<1052> nothing
+<1052> nothing
+
+//<1053> nothing
+<1053> nothing
+
+//<1054> nothing
+<1054> nothing
+
+//<1055> nothing
+<1055> nothing
+
+//<1056> nothing
+<1056> nothing
+
+//<1057> Tenshi
+<1057> Tenshi
+
+//<1058> Kanade
+<1058> Kanade
+
+//<1059> 女生徒
+<1059> 女生徒
+
+//<1060> ？？
+<1060> ？？
+
+//<1061> 「そうね」
+<1061> 「Maybe.」
+
+//<1062> Otonashi
+<1062> Otonashi
+
+//<1063> クソ坊主
+<1063> クソ坊主
+
+//<1064> 代理人
+<1064> 代理人
+
+//<1065> 微妙すぎるイケメン
+<1065> 微妙すぎるイケメン
+
+//<1066> ロリコン
+<1066> ロリコン
+
+//<1067> メガネ仲間
+<1067> メガネ仲間
+
+//<1068> 暗算日本記録保持者
+<1068> 暗算日本記録保持者
+
+//<1069> 通り魔
+<1069> 通り魔
+
+//<1070> 記憶ナシ男
+<1070> 記憶ナシ男
+
+//<1071> 音速
+<1071> 音速
+
+//<1072> 無限
+<1072> 無限
+
+//<1073> Horny Samurai
+<1073> Horny Samurai
+
+//<1074> Super Horny Squad Member 1
+<1074> Super Horny Squad Member 1
+
+//<1075> Horny Boy
+<1075> Horny Boy
+
+//<1076> Ugri Yuri
+<1076> Ugri Yuri
+
+//<1077> Depussy
+<1077> Depussy
+
+//<1078> Perverted American Dog
+<1078> Perverted American Dog
+
+//<1079> Zeus
+<1079> Zeus
+
+//<1080> Hinata mark Ⅱ
+<1080> Hinata mark Ⅱ
+
+//<1081> Dung Beetle
+<1081> Dung Beetle
+
+//<1082> Mass Produced Hinata
+<1082> Mass Produced Hinata
+
+//<1083> ？？
+<1083> ？？
+
+//<1084> 「そうしたら、ここから出られる」
+<1084> 「If we can do that, we can get out of here.」
+
+//<1085> nothing
+<1085> nothing
+
+//<1086> nothing
+<1086> nothing
+
+//<1087> nothing
+<1087> nothing
+
+//<1088> nothing
+<1088> nothing
+
+//<1089> nothing
+<1089> nothing
+
+//<1090> Tenshi
+<1090> Tenshi
+
+//<1091> Kanade
+<1091> Kanade
+
+//<1092> 女生徒
+<1092> 女生徒
+
+//<1093> ？？
+<1093> ？？
+
+//<1094> 「そうかもしれないわね」
+<1094> 「That might be true.」
+
+//<1095> Otonashi
+<1095> Otonashi
+
+//<1096> クソ坊主
+<1096> クソ坊主
+
+//<1097> 代理人
+<1097> 代理人
+
+//<1098> 微妙すぎるイケメン
+<1098> 微妙すぎるイケメン
+
+//<1099> ロリコン
+<1099> ロリコン
+
+//<1100> メガネ仲間
+<1100> メガネ仲間
+
+//<1101> 暗算日本記録保持者
+<1101> 暗算日本記録保持者
+
+//<1102> 通り魔
+<1102> 通り魔
+
+//<1103> 記憶ナシ男
+<1103> 記憶ナシ男
+
+//<1104> 音速
+<1104> 音速
+
+//<1105> 無限
+<1105> 無限
+
+//<1106> Horny Samurai
+<1106> Horny Samurai
+
+//<1107> Super Horny Squad Member 1
+<1107> Super Horny Squad Member 1
+
+//<1108> Horny Boy
+<1108> Horny Boy
+
+//<1109> Ugri Yuri
+<1109> Ugri Yuri
+
+//<1110> Depussy
+<1110> Depussy
+
+//<1111> Perverted American Dog
+<1111> Perverted American Dog
+
+//<1112> Zeus
+<1112> Zeus
+
+//<1113> Hinata mark Ⅱ
+<1113> Hinata mark Ⅱ
+
+//<1114> Dung Beetle
+<1114> Dung Beetle
+
+//<1115> Mass Produced Hinata
+<1115> Mass Produced Hinata
+
+//<1116> ？？
+<1116> ？？
+
+//<1117> 「そこには神が居るかもしれないし…」
+<1117> 「God might be in there…」
+
+//<1118> Otonashi
+<1118> Otonashi
+
+//<1119> クソ坊主
+<1119> クソ坊主
+
+//<1120> 代理人
+<1120> 代理人
+
+//<1121> 微妙すぎるイケメン
+<1121> 微妙すぎるイケメン
+
+//<1122> ロリコン
+<1122> ロリコン
+
+//<1123> メガネ仲間
+<1123> メガネ仲間
+
+//<1124> 暗算日本記録保持者
+<1124> 暗算日本記録保持者
+
+//<1125> 通り魔
+<1125> 通り魔
+
+//<1126> 記憶ナシ男
+<1126> 記憶ナシ男
+
+//<1127> 音速
+<1127> 音速
+
+//<1128> 無限
+<1128> 無限
+
+//<1129> Horny Samurai
+<1129> Horny Samurai
+
+//<1130> Super Horny Squad Member 1
+<1130> Super Horny Squad Member 1
+
+//<1131> Horny Boy
+<1131> Horny Boy
+
+//<1132> Ugri Yuri
+<1132> Ugri Yuri
+
+//<1133> Depussy
+<1133> Depussy
+
+//<1134> Perverted American Dog
+<1134> Perverted American Dog
+
+//<1135> Zeus
+<1135> Zeus
+
+//<1136> Hinata mark Ⅱ
+<1136> Hinata mark Ⅱ
+
+//<1137> Dung Beetle
+<1137> Dung Beetle
+
+//<1138> Mass Produced Hinata
+<1138> Mass Produced Hinata
+
+//<1139> ？？
+<1139> ？？
+
+//<1140> 「もしかしたら死後の世界から抜け出すイコール、生き返ることかもしれない」
+<1140> 「Since we're getting out of the afterlife, there is a possibility that we might come back to life.」
+
+//<1141> nothing
+<1141> nothing
+
+//<1142> nothing
+<1142> nothing
+
+//<1143> nothing
+<1143> nothing
+
+//<1144> nothing
+<1144> nothing
+
+//<1145> nothing
+<1145> nothing
+
+//<1146> Tenshi
+<1146> Tenshi
+
+//<1147> Kanade
+<1147> Kanade
+
+//<1148> 女生徒
+<1148> 女生徒
+
+//<1149> ？？
+<1149> ？？
+
+//<1150> 「現世ではすでに灰よ?」
+<1150> 「But we're already ashes in the real world.」
+
+//<1151> Otonashi
+<1151> Otonashi
+
+//<1152> クソ坊主
+<1152> クソ坊主
+
+//<1153> 代理人
+<1153> 代理人
+
+//<1154> 微妙すぎるイケメン
+<1154> 微妙すぎるイケメン
+
+//<1155> ロリコン
+<1155> ロリコン
+
+//<1156> メガネ仲間
+<1156> メガネ仲間
+
+//<1157> 暗算日本記録保持者
+<1157> 暗算日本記録保持者
+
+//<1158> 通り魔
+<1158> 通り魔
+
+//<1159> 記憶ナシ男
+<1159> 記憶ナシ男
+
+//<1160> 音速
+<1160> 音速
+
+//<1161> 無限
+<1161> 無限
+
+//<1162> Horny Samurai
+<1162> Horny Samurai
+
+//<1163> Super Horny Squad Member 1
+<1163> Super Horny Squad Member 1
+
+//<1164> Horny Boy
+<1164> Horny Boy
+
+//<1165> Ugri Yuri
+<1165> Ugri Yuri
+
+//<1166> Depussy
+<1166> Depussy
+
+//<1167> Perverted American Dog
+<1167> Perverted American Dog
+
+//<1168> Zeus
+<1168> Zeus
+
+//<1169> Hinata mark Ⅱ
+<1169> Hinata mark Ⅱ
+
+//<1170> Dung Beetle
+<1170> Dung Beetle
+
+//<1171> Mass Produced Hinata
+<1171> Mass Produced Hinata
+
+//<1172> ？？
+<1172> ？？
+
+//<1173> 「そりゃ時間が巻き戻るんだよ」
+<1173> 「Who knows, time might be rewinded.」
+
+//<1174> nothing
+<1174> nothing
+
+//<1175> nothing
+<1175> nothing
+
+//<1176> nothing
+<1176> nothing
+
+//<1177> nothing
+<1177> nothing
+
+//<1178> nothing
+<1178> nothing
+
+//<1179> Tenshi
+<1179> Tenshi
+
+//<1180> Kanade
+<1180> Kanade
+
+//<1181> 女生徒
+<1181> 女生徒
+
+//<1182> ？？
+<1182> ？？
+
+//<1183> 「都合のいい話ね」
+<1183> 「What a convenient world.」
+
+//<1184> Otonashi
+<1184> Otonashi
+
+//<1185> クソ坊主
+<1185> クソ坊主
+
+//<1186> 代理人
+<1186> 代理人
+
+//<1187> 微妙すぎるイケメン
+<1187> 微妙すぎるイケメン
+
+//<1188> ロリコン
+<1188> ロリコン
+
+//<1189> メガネ仲間
+<1189> メガネ仲間
+
+//<1190> 暗算日本記録保持者
+<1190> 暗算日本記録保持者
+
+//<1191> 通り魔
+<1191> 通り魔
+
+//<1192> 記憶ナシ男
+<1192> 記憶ナシ男
+
+//<1193> 音速
+<1193> 音速
+
+//<1194> 無限
+<1194> 無限
+
+//<1195> Horny Samurai
+<1195> Horny Samurai
+
+//<1196> Super Horny Squad Member 1
+<1196> Super Horny Squad Member 1
+
+//<1197> Horny Boy
+<1197> Horny Boy
+
+//<1198> Ugri Yuri
+<1198> Ugri Yuri
+
+//<1199> Depussy
+<1199> Depussy
+
+//<1200> Perverted American Dog
+<1200> Perverted American Dog
+
+//<1201> Zeus
+<1201> Zeus
+
+//<1202> Hinata mark Ⅱ
+<1202> Hinata mark Ⅱ
+
+//<1203> Dung Beetle
+<1203> Dung Beetle
+
+//<1204> Mass Produced Hinata
+<1204> Mass Produced Hinata
+
+//<1205> ？？
+<1205> ？？
+
+//<1206> 「それぐらいの見返りがあったっていいだろう」
+<1206> 「He should give us a reward of that level.」
+
+//<1207> Otonashi
+<1207> Otonashi
+
+//<1208> クソ坊主
+<1208> クソ坊主
+
+//<1209> 代理人
+<1209> 代理人
+
+//<1210> 微妙すぎるイケメン
+<1210> 微妙すぎるイケメン
+
+//<1211> ロリコン
+<1211> ロリコン
+
+//<1212> メガネ仲間
+<1212> メガネ仲間
+
+//<1213> 暗算日本記録保持者
+<1213> 暗算日本記録保持者
+
+//<1214> 通り魔
+<1214> 通り魔
+
+//<1215> 記憶ナシ男
+<1215> 記憶ナシ男
+
+//<1216> 音速
+<1216> 音速
+
+//<1217> 無限
+<1217> 無限
+
+//<1218> Horny Samurai
+<1218> Horny Samurai
+
+//<1219> Super Horny Squad Member 1
+<1219> Super Horny Squad Member 1
+
+//<1220> Horny Boy
+<1220> Horny Boy
+
+//<1221> Ugri Yuri
+<1221> Ugri Yuri
+
+//<1222> Depussy
+<1222> Depussy
+
+//<1223> Perverted American Dog
+<1223> Perverted American Dog
+
+//<1224> Zeus
+<1224> Zeus
+
+//<1225> Hinata mark Ⅱ
+<1225> Hinata mark Ⅱ
+
+//<1226> Dung Beetle
+<1226> Dung Beetle
+
+//<1227> Mass Produced Hinata
+<1227> Mass Produced Hinata
+
+//<1228> ？？
+<1228> ？？
+
+//<1229> 「何か特別なことが起きるに違いない」
+<1229> 「I have a feeling something special will start soon.」
+
+//<1230> nothing
+<1230> nothing
+
+//<1231> nothing
+<1231> nothing
+
+//<1232> nothing
+<1232> nothing
+
+//<1233> nothing
+<1233> nothing
+
+//<1234> nothing
+<1234> nothing
+
+//<1235> Tenshi
+<1235> Tenshi
+
+//<1236> Kanade
+<1236> Kanade
+
+//<1237> 女生徒
+<1237> 女生徒
+
+//<1238> ？？
+<1238> ？？
+
+//<1239> 「そ」
+<1239> 「OK.」
+
+//<1240> Otonashi
+<1240> Otonashi
+
+//<1241> クソ坊主
+<1241> クソ坊主
+
+//<1242> 代理人
+<1242> 代理人
+
+//<1243> 微妙すぎるイケメン
+<1243> 微妙すぎるイケメン
+
+//<1244> ロリコン
+<1244> ロリコン
+
+//<1245> メガネ仲間
+<1245> メガネ仲間
+
+//<1246> 暗算日本記録保持者
+<1246> 暗算日本記録保持者
+
+//<1247> 通り魔
+<1247> 通り魔
+
+//<1248> 記憶ナシ男
+<1248> 記憶ナシ男
+
+//<1249> 音速
+<1249> 音速
+
+//<1250> 無限
+<1250> 無限
+
+//<1251> Horny Samurai
+<1251> Horny Samurai
+
+//<1252> Super Horny Squad Member 1
+<1252> Super Horny Squad Member 1
+
+//<1253> Horny Boy
+<1253> Horny Boy
+
+//<1254> Ugri Yuri
+<1254> Ugri Yuri
+
+//<1255> Depussy
+<1255> Depussy
+
+//<1256> Perverted American Dog
+<1256> Perverted American Dog
+
+//<1257> Zeus
+<1257> Zeus
+
+//<1258> Hinata mark Ⅱ
+<1258> Hinata mark Ⅱ
+
+//<1259> Dung Beetle
+<1259> Dung Beetle
+
+//<1260> Mass Produced Hinata
+<1260> Mass Produced Hinata
+
+//<1261> ？？
+<1261> ？？
+
+//<1262> 「試してみる価値はあると思う」
+<1262> 「I think there's value in giving it a try.」
+
+//<1263> nothing
+<1263> nothing
+
+//<1264> nothing
+<1264> nothing
+
+//<1265> nothing
+<1265> nothing
+
+//<1266> nothing
+<1266> nothing
+
+//<1267> nothing
+<1267> nothing
+
+//<1268> Tenshi
+<1268> Tenshi
+
+//<1269> Kanade
+<1269> Kanade
+
+//<1270> 女生徒
+<1270> 女生徒
+
+//<1271> ？？
+<1271> ？？
+
+//<1272> 「やるの?」
+<1272> 「Are you going to?」
+
+//<1273> Otonashi
+<1273> Otonashi
+
+//<1274> クソ坊主
+<1274> クソ坊主
+
+//<1275> 代理人
+<1275> 代理人
+
+//<1276> 微妙すぎるイケメン
+<1276> 微妙すぎるイケメン
+
+//<1277> ロリコン
+<1277> ロリコン
+
+//<1278> メガネ仲間
+<1278> メガネ仲間
+
+//<1279> 暗算日本記録保持者
+<1279> 暗算日本記録保持者
+
+//<1280> 通り魔
+<1280> 通り魔
+
+//<1281> 記憶ナシ男
+<1281> 記憶ナシ男
+
+//<1282> 音速
+<1282> 音速
+
+//<1283> 無限
+<1283> 無限
+
+//<1284> Horny Samurai
+<1284> Horny Samurai
+
+//<1285> Super Horny Squad Member 1
+<1285> Super Horny Squad Member 1
+
+//<1286> Horny Boy
+<1286> Horny Boy
+
+//<1287> Ugri Yuri
+<1287> Ugri Yuri
+
+//<1288> Depussy
+<1288> Depussy
+
+//<1289> Perverted American Dog
+<1289> Perverted American Dog
+
+//<1290> Zeus
+<1290> Zeus
+
+//<1291> Hinata mark Ⅱ
+<1291> Hinata mark Ⅱ
+
+//<1292> Dung Beetle
+<1292> Dung Beetle
+
+//<1293> Mass Produced Hinata
+<1293> Mass Produced Hinata
+
+//<1294> ？？
+<1294> ？？
+
+//<1295> 「いつか、気が向いたらな」
+<1295> 「Some day, when I feel like it.」
+
+//<1296> nothing
+<1296> nothing
+
+//<1297> nothing
+<1297> nothing
+
+//<1298> nothing
+<1298> nothing
+
+//<1299> nothing
+<1299> nothing
+
+//<1300> nothing
+<1300> nothing
+
+//<1301> Tenshi
+<1301> Tenshi
+
+//<1302> Kanade
+<1302> Kanade
+
+//<1303> 女生徒
+<1303> 女生徒
+
+//<1304> ？？
+<1304> ？？
+
+//<1305> 「だったら止めるわ」
+<1305> 「Then don't.」
+
+//<1306> Otonashi
+<1306> Otonashi
+
+//<1307> クソ坊主
+<1307> クソ坊主
+
+//<1308> 代理人
+<1308> 代理人
+
+//<1309> 微妙すぎるイケメン
+<1309> 微妙すぎるイケメン
+
+//<1310> ロリコン
+<1310> ロリコン
+
+//<1311> メガネ仲間
+<1311> メガネ仲間
+
+//<1312> 暗算日本記録保持者
+<1312> 暗算日本記録保持者
+
+//<1313> 通り魔
+<1313> 通り魔
+
+//<1314> 記憶ナシ男
+<1314> 記憶ナシ男
+
+//<1315> 音速
+<1315> 音速
+
+//<1316> 無限
+<1316> 無限
+
+//<1317> Horny Samurai
+<1317> Horny Samurai
+
+//<1318> Super Horny Squad Member 1
+<1318> Super Horny Squad Member 1
+
+//<1319> Horny Boy
+<1319> Horny Boy
+
+//<1320> Ugri Yuri
+<1320> Ugri Yuri
+
+//<1321> Depussy
+<1321> Depussy
+
+//<1322> Perverted American Dog
+<1322> Perverted American Dog
+
+//<1323> Zeus
+<1323> Zeus
+
+//<1324> Hinata mark Ⅱ
+<1324> Hinata mark Ⅱ
+
+//<1325> Dung Beetle
+<1325> Dung Beetle
+
+//<1326> Mass Produced Hinata
+<1326> Mass Produced Hinata
+
+//<1327> ？？
+<1327> ？？
+
+//<1328> 「どうして」
+<1328> 「Why?」
+
+//<1329> nothing
+<1329> nothing
+
+//<1330> nothing
+<1330> nothing
+
+//<1331> nothing
+<1331> nothing
+
+//<1332> nothing
+<1332> nothing
+
+//<1333> nothing
+<1333> nothing
+
+//<1334> Tenshi
+<1334> Tenshi
+
+//<1335> Kanade
+<1335> Kanade
+
+//<1336> 女生徒
+<1336> 女生徒
+
+//<1337> ？？
+<1337> ？？
+
+//<1338> 「だって、あの壁を越えるほどの木を伐採するなんて、環境破壊じゃない」
+<1338> 「Well, if you're planning to cut down enough trees to go over that wall, you would be destroying our environment.」
+
+//<1339> Otonashi
+<1339> Otonashi
+
+//<1340> クソ坊主
+<1340> クソ坊主
+
+//<1341> 代理人
+<1341> 代理人
+
+//<1342> 微妙すぎるイケメン
+<1342> 微妙すぎるイケメン
+
+//<1343> ロリコン
+<1343> ロリコン
+
+//<1344> メガネ仲間
+<1344> メガネ仲間
+
+//<1345> 暗算日本記録保持者
+<1345> 暗算日本記録保持者
+
+//<1346> 通り魔
+<1346> 通り魔
+
+//<1347> 記憶ナシ男
+<1347> 記憶ナシ男
+
+//<1348> 音速
+<1348> 音速
+
+//<1349> 無限
+<1349> 無限
+
+//<1350> Horny Samurai
+<1350> Horny Samurai
+
+//<1351> Super Horny Squad Member 1
+<1351> Super Horny Squad Member 1
+
+//<1352> Horny Boy
+<1352> Horny Boy
+
+//<1353> Ugri Yuri
+<1353> Ugri Yuri
+
+//<1354> Depussy
+<1354> Depussy
+
+//<1355> Perverted American Dog
+<1355> Perverted American Dog
+
+//<1356> Zeus
+<1356> Zeus
+
+//<1357> Hinata mark Ⅱ
+<1357> Hinata mark Ⅱ
+
+//<1358> Dung Beetle
+<1358> Dung Beetle
+
+//<1359> Mass Produced Hinata
+<1359> Mass Produced Hinata
+
+//<1360> ？？
+<1360> ？？
+
+//<1361> 「じゃ、やる時はひっそりとやるよ」
+<1361> 「Then I'll do it stealthily.」
+
+//<1362> nothing
+<1362> nothing
+
+//<1363> nothing
+<1363> nothing
+
+//<1364> nothing
+<1364> nothing
+
+//<1365> nothing
+<1365> nothing
+
+//<1366> nothing
+<1366> nothing
+
+//<1367> Tenshi
+<1367> Tenshi
+
+//<1368> Kanade
+<1368> Kanade
+
+//<1369> 女生徒
+<1369> 女生徒
+
+//<1370> ？？
+<1370> ？？
+
+//<1371> 「そ」
+<1371> 「Then go ahead.」
+
+//<1372> 味気ない返事。
+<1372> A dry answer.
+
+//<1373> nothing
+<1373> nothing
+
+//<1374> nothing
+<1374> nothing
+
+//<1375> nothing
+<1375> nothing
+
+//<1376> nothing
+<1376> nothing
+
+//<1377> nothing
+<1377> nothing
+
+//<1378> nothing
+<1378> nothing
+
+//<1379> 教室を後にした。
+<1379> I left the classroom.
+
+//<1380> dummy
+<1380> dummy
+
+//<1381> m204
+<1381> m204
+
+//<1382> kn0905
+<1382> kn0905
+
+//<1383> bg_kuro
+<1383> bg_kuro
+
+//<1384> ep88_bg016
+<1384> ep88_bg016
+
+//<1385> m127
+<1385> m127
+
+//<1386> bg_siro
+<1386> bg_siro
+
+//<1387> ep06_bg008
+<1387> ep06_bg008
+
+//<1388> kn0901
+<1388> kn0901
+
+//<1389> bg_siro
+<1389> bg_siro
+
+//<1390> ep88_bg016
+<1390> ep88_bg016
+
+//<1391> bg_kuro
+<1391> bg_kuro
+
+//<1392> kn0101
+<1392> kn0101
+
+//<1393> kn0102_08
+<1393> kn0102_08
+
+//<1394> kn0101
+<1394> kn0101
+
+//<1395> sys_bk_selline00
+<1395> sys_bk_selline00
+
+//<1396> kn0901
+<1396> kn0901
+
+//<1397> kn0909
+<1397> kn0909
+
+//<1398> kn0901_05
+<1398> kn0901_05
+
+//<1399> kn0901
+<1399> kn0901
+
+//<1400> kn0901_05
+<1400> kn0901_05
+
+//<1401> m118
+<1401> m118
+
+//<1402> kn0901
+<1402> kn0901
+
+//<1403> kn0901_05
+<1403> kn0901_05
+
+//<1404> kn0101
+<1404> kn0101
+
+//<1405> kn0101_08
+<1405> kn0101_08
+
+//<1406> kn0102_08
+<1406> kn0102_08
+
+//<1407> kn0101
+<1407> kn0101
+
+//<1408> kn0101_08
+<1408> kn0101_08
+
+//<1409> kn0102_01
+<1409> kn0102_01
+
+//<1410> kn0101
+<1410> kn0101
+
+//<1411> m127
+<1411> m127
+
+//<1412> kn0101
+<1412> kn0101
+
+//<1413> kn0101_08
+<1413> kn0101_08
+
+//<1414> kn0101
+<1414> kn0101
+
+//<1415> kn0901
+<1415> kn0901
+
+//<1416> kn0901_05
+<1416> kn0901_05
+
+//<1417> kn0901
+<1417> kn0901
+
+//<1418> kn0901_05
+<1418> kn0901_05
+
+//<1419> kn0901
+<1419> kn0901
+
+//<1420> bg_siro
+<1420> bg_siro
+
+//<1421> ep88_bg002
+<1421> ep88_bg002
+
+//<1422> yr0109
+<1422> yr0109
+
+//<1423> yr0509
+<1423> yr0509
+
+//<1424> bg_siro
+<1424> bg_siro
+{19c84} 0a // 1424
+
+//<1425> ep88_bg016
+<1425> ep88_bg016
+
+//<1426> kn0901
+<1426> kn0901
+
+//<1427> kn0901_05
+<1427> kn0901_05
+
+//<1428> kn0909
+<1428> kn0909
+
+//<1429> kn0901
+<1429> kn0901
+
+//<1430> kn0901_05
+<1430> kn0901_05
+
+//<1431> kn0901
+<1431> kn0901
+
+//<1432> kn0909
+<1432> kn0909
+
+//<1433> kn0901_05
+<1433> kn0901_05
+
+//<1434> kn0901
+<1434> kn0901
+
+//<1435> kn0101_08
+<1435> kn0101_08
+
+//<1436> kn0101
+<1436> kn0101
+

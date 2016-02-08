@@ -1,0 +1,12634 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> 一旦寮に戻り、ジャージに着替える。
+<0000> Returning to the dorm, we changed to our jerseys.
+
+//<0001> ジャージに着替えて、トレーニングの準備をする。
+<0001> Having changed into our jerseys, we started the preparation for the training.
+
+//<0002> nothing
+<0002> nothing
+
+//<0003> nothing
+<0003> nothing
+
+//<0004> nothing
+<0004> nothing
+
+//<0005> nothing
+<0005> nothing
+
+//<0006> nothing
+<0006> nothing
+
+//<0007> Hinata
+<0007> Hinata
+
+//<0008> 男Ｂ
+<0008> 男Ｂ
+
+//<0009> Super Horny Squad Leader
+<0009> Super Horny Squad Leader
+
+//<0010> Handsome-chin
+<0010> Handsome-chin
+
+//<0011> Homota
+<0011> Homota
+
+//<0012> Hina-chin
+<0012> Hina-chin
+
+//<0013> Hideki
+<0013> Hideki
+
+//<0014> 男子生徒
+<0014> 男子生徒
+
+//<0015> ？？
+<0015> ？？
+
+//<0016> 「とりあえず、Horny Boy、ストレッチだ」
+<0016> 「We'll start with a stretch, Horny Boy.」
+
+//<0017> Hinata
+<0017> Hinata
+
+//<0018> 男Ｂ
+<0018> 男Ｂ
+
+//<0019> Super Horny Squad Leader
+<0019> Super Horny Squad Leader
+
+//<0020> Handsome-chin
+<0020> Handsome-chin
+
+//<0021> Homota
+<0021> Homota
+
+//<0022> Hina-chin
+<0022> Hina-chin
+
+//<0023> Hideki
+<0023> Hideki
+
+//<0024> 男子生徒
+<0024> 男子生徒
+
+//<0025> ？？
+<0025> ？？
+
+//<0026> 「とりあえず、Otonashi、ストレッチだ」
+<0026> 「We'll start with a stretch, Otonashi.」
+
+//<0027> nothing
+<0027> nothing
+
+//<0028> nothing
+<0028> nothing
+
+//<0029> nothing
+<0029> nothing
+
+//<0030> nothing
+<0030> nothing
+
+//<0031> nothing
+<0031> nothing
+
+//<0032> nothing
+<0032> nothing
+
+//<0033> Hinataに倣い、ストレッチをする。
+<0033> I imitated Hinata's stretching.
+
+//<0034> nothing
+<0034> nothing
+
+//<0035> nothing
+<0035> nothing
+
+//<0036> nothing
+<0036> nothing
+
+//<0037> nothing
+<0037> nothing
+
+//<0038> nothing
+<0038> nothing
+
+//<0039> Hinata
+<0039> Hinata
+
+//<0040> 男Ｂ
+<0040> 男Ｂ
+
+//<0041> Super Horny Squad Leader
+<0041> Super Horny Squad Leader
+
+//<0042> Handsome-chin
+<0042> Handsome-chin
+
+//<0043> Homota
+<0043> Homota
+
+//<0044> Hina-chin
+<0044> Hina-chin
+
+//<0045> Hideki
+<0045> Hideki
+
+//<0046> 男子生徒
+<0046> 男子生徒
+
+//<0047> ？？
+<0047> ？？
+
+//<0048> 「次はペアストレッチって奴だ。ふたりだとこれが出来るから便利でいいぜ」
+<0048> 「Next up is called the pair stretch. It's handy because we can both do it together.」
+
+//<0049> nothing
+<0049> nothing
+
+//<0050> nothing
+<0050> nothing
+
+//<0051> nothing
+<0051> nothing
+
+//<0052> nothing
+<0052> nothing
+
+//<0053> nothing
+<0053> nothing
+
+//<0054> Hinata
+<0054> Hinata
+
+//<0055> 男Ｂ
+<0055> 男Ｂ
+
+//<0056> Super Horny Squad Leader
+<0056> Super Horny Squad Leader
+
+//<0057> Handsome-chin
+<0057> Handsome-chin
+
+//<0058> Homota
+<0058> Homota
+
+//<0059> Hina-chin
+<0059> Hina-chin
+
+//<0060> Hideki
+<0060> Hideki
+
+//<0061> 男子生徒
+<0061> 男子生徒
+
+//<0062> ？？
+<0062> ？？
+
+//<0063> 「ほら、こいよ」
+<0063> 「Ok, come to me.」
+
+//<0064> nothing
+<0064> nothing
+
+//<0065> nothing
+<0065> nothing
+
+//<0066> nothing
+<0066> nothing
+
+//<0067> nothing
+<0067> nothing
+
+//<0068> nothing
+<0068> nothing
+
+//<0069> nothing
+<0069> nothing
+
+//<0070> Hinataが背中を見せて構える。
+<0070> Hinata faced his back towards me.
+
+//<0071> Otonashi
+<0071> Otonashi
+
+//<0072> クソ坊主
+<0072> クソ坊主
+
+//<0073> 代理人
+<0073> 代理人
+
+//<0074> 微妙すぎるイケメン
+<0074> 微妙すぎるイケメン
+
+//<0075> ロリコン
+<0075> ロリコン
+
+//<0076> メガネ仲間
+<0076> メガネ仲間
+
+//<0077> 暗算日本記録保持者
+<0077> 暗算日本記録保持者
+
+//<0078> 通り魔
+<0078> 通り魔
+
+//<0079> 記憶ナシ男
+<0079> 記憶ナシ男
+
+//<0080> 音速
+<0080> 音速
+
+//<0081> 無限
+<0081> 無限
+
+//<0082> Horny Samurai
+<0082> Horny Samurai
+
+//<0083> Super Horny Squad Member 1
+<0083> Super Horny Squad Member 1
+
+//<0084> Horny Boy
+<0084> Horny Boy
+
+//<0085> Ugly Yuri
+<0085> Ugly Yuri
+
+//<0086> Depussy
+<0086> Depussy
+
+//<0087> Perverted American Dog
+<0087> Perverted American Dog
+
+//<0088> Zeus
+<0088> Zeus
+
+//<0089> Hinata mark II
+<0089> Hinata mark II
+
+//<0090> Dung Beetle
+<0090> Dung Beetle
+
+//<0091> Mass Produced Hinata
+<0091> Mass Produced Hinata
+
+//<0092> ？？
+<0092> ？？
+
+//<0093> 「………」
+<0093> 「………」
+
+//<0094> nothing
+<0094> nothing
+
+//<0095> nothing
+<0095> nothing
+
+//<0096> nothing
+<0096> nothing
+
+//<0097> nothing
+<0097> nothing
+
+//<0098> nothing
+<0098> nothing
+
+//<0099> Hinata
+<0099> Hinata
+
+//<0100> 男Ｂ
+<0100> 男Ｂ
+
+//<0101> Super Horny Squad Leader
+<0101> Super Horny Squad Leader
+
+//<0102> Handsome-chin
+<0102> Handsome-chin
+
+//<0103> Homota
+<0103> Homota
+
+//<0104> Hina-chin
+<0104> Hina-chin
+
+//<0105> Hideki
+<0105> Hideki
+
+//<0106> 男子生徒
+<0106> 男子生徒
+
+//<0107> ？？
+<0107> ？？
+
+//<0108> 「何小難しい顔で考えてんだよ、背中合わせになるんだよ」
+<0108> 「What are you daydreaming about? C'mon, let's join backs.」
+
+//<0109> Otonashi
+<0109> Otonashi
+
+//<0110> クソ坊主
+<0110> クソ坊主
+
+//<0111> 代理人
+<0111> 代理人
+
+//<0112> 微妙すぎるイケメン
+<0112> 微妙すぎるイケメン
+
+//<0113> ロリコン
+<0113> ロリコン
+
+//<0114> メガネ仲間
+<0114> メガネ仲間
+
+//<0115> 暗算日本記録保持者
+<0115> 暗算日本記録保持者
+
+//<0116> 通り魔
+<0116> 通り魔
+
+//<0117> 記憶ナシ男
+<0117> 記憶ナシ男
+
+//<0118> 音速
+<0118> 音速
+
+//<0119> 無限
+<0119> 無限
+
+//<0120> Horny Samurai
+<0120> Horny Samurai
+
+//<0121> Super Horny Squad Member 1
+<0121> Super Horny Squad Member 1
+
+//<0122> Horny Boy
+<0122> Horny Boy
+
+//<0123> Ugly Yuri
+<0123> Ugly Yuri
+
+//<0124> Depussy
+<0124> Depussy
+
+//<0125> Perverted American Dog
+<0125> Perverted American Dog
+
+//<0126> Zeus
+<0126> Zeus
+
+//<0127> Hinata mark II
+<0127> Hinata mark II
+
+//<0128> Dung Beetle
+<0128> Dung Beetle
+
+//<0129> Mass Produced Hinata
+<0129> Mass Produced Hinata
+
+//<0130> ？？
+<0130> ？？
+
+//<0131> 「………」
+<0131> 「………」
+
+//<0132> nothing
+<0132> nothing
+
+//<0133> nothing
+<0133> nothing
+
+//<0134> nothing
+<0134> nothing
+
+//<0135> nothing
+<0135> nothing
+
+//<0136> nothing
+<0136> nothing
+
+//<0137> Hinata
+<0137> Hinata
+
+//<0138> 男Ｂ
+<0138> 男Ｂ
+
+//<0139> Super Horny Squad Leader
+<0139> Super Horny Squad Leader
+
+//<0140> Handsome-chin
+<0140> Handsome-chin
+
+//<0141> Homota
+<0141> Homota
+
+//<0142> Hina-chin
+<0142> Hina-chin
+
+//<0143> Hideki
+<0143> Hideki
+
+//<0144> 男子生徒
+<0144> 男子生徒
+
+//<0145> ？？
+<0145> ？？
+
+//<0146> 「早く来いよ!」
+<0146> 「We don't have all day you know!?」
+
+//<0147> Otonashi
+<0147> Otonashi
+
+//<0148> クソ坊主
+<0148> クソ坊主
+
+//<0149> 代理人
+<0149> 代理人
+
+//<0150> 微妙すぎるイケメン
+<0150> 微妙すぎるイケメン
+
+//<0151> ロリコン
+<0151> ロリコン
+
+//<0152> メガネ仲間
+<0152> メガネ仲間
+
+//<0153> 暗算日本記録保持者
+<0153> 暗算日本記録保持者
+
+//<0154> 通り魔
+<0154> 通り魔
+
+//<0155> 記憶ナシ男
+<0155> 記憶ナシ男
+
+//<0156> 音速
+<0156> 音速
+
+//<0157> 無限
+<0157> 無限
+
+//<0158> Horny Samurai
+<0158> Horny Samurai
+
+//<0159> Super Horny Squad Member 1
+<0159> Super Horny Squad Member 1
+
+//<0160> Horny Boy
+<0160> Horny Boy
+
+//<0161> Ugly Yuri
+<0161> Ugly Yuri
+
+//<0162> Depussy
+<0162> Depussy
+
+//<0163> Perverted American Dog
+<0163> Perverted American Dog
+
+//<0164> Zeus
+<0164> Zeus
+
+//<0165> Hinata mark II
+<0165> Hinata mark II
+
+//<0166> Dung Beetle
+<0166> Dung Beetle
+
+//<0167> Mass Produced Hinata
+<0167> Mass Produced Hinata
+
+//<0168> ？？
+<0168> ？？
+
+//<0169> 「あ、ああ…」
+<0169> 「Ah, yeah…」
+
+//<0170> nothing
+<0170> nothing
+
+//<0171> nothing
+<0171> nothing
+
+//<0172> nothing
+<0172> nothing
+
+//<0173> nothing
+<0173> nothing
+
+//<0174> nothing
+<0174> nothing
+
+//<0175> nothing
+<0175> nothing
+
+//<0176> 何をさせられるのか不安だが、言われるまま背中合わせに立つ。
+<0176> I'm nervous about what he'll make me do, but I decided to stand back-to-back with him.
+
+//<0177> bs3_
+<0177> bs3_
+
+//<0178> nothing
+<0178> nothing
+
+//<0179> nothing
+<0179> nothing
+
+//<0180> nothing
+<0180> nothing
+
+//<0181> nothing
+<0181> nothing
+
+//<0182> nothing
+<0182> nothing
+
+//<0183> 後ろからそっと抱きつく。Hinataの体は温かかった。
+<0183> As our backs gently touched with each other, I could feel Hinata's warmth.
+
+//<0184> Otonashi
+<0184> Otonashi
+
+//<0185> クソ坊主
+<0185> クソ坊主
+
+//<0186> 代理人
+<0186> 代理人
+
+//<0187> 微妙すぎるイケメン
+<0187> 微妙すぎるイケメン
+
+//<0188> ロリコン
+<0188> ロリコン
+
+//<0189> メガネ仲間
+<0189> メガネ仲間
+
+//<0190> 暗算日本記録保持者
+<0190> 暗算日本記録保持者
+
+//<0191> 通り魔
+<0191> 通り魔
+
+//<0192> 記憶ナシ男
+<0192> 記憶ナシ男
+
+//<0193> 音速
+<0193> 音速
+
+//<0194> 無限
+<0194> 無限
+
+//<0195> Horny Samurai
+<0195> Horny Samurai
+
+//<0196> Super Horny Squad Member 1
+<0196> Super Horny Squad Member 1
+
+//<0197> Horny Boy
+<0197> Horny Boy
+
+//<0198> Ugly Yuri
+<0198> Ugly Yuri
+
+//<0199> Depussy
+<0199> Depussy
+
+//<0200> Perverted American Dog
+<0200> Perverted American Dog
+
+//<0201> Zeus
+<0201> Zeus
+
+//<0202> Hinata mark II
+<0202> Hinata mark II
+
+//<0203> Dung Beetle
+<0203> Dung Beetle
+
+//<0204> Mass Produced Hinata
+<0204> Mass Produced Hinata
+
+//<0205> ？？
+<0205> ？？
+
+//<0206> 「………」
+<0206> 「………」
+
+//<0207> nothing
+<0207> nothing
+
+//<0208> nothing
+<0208> nothing
+
+//<0209> nothing
+<0209> nothing
+
+//<0210> nothing
+<0210> nothing
+
+//<0211> nothing
+<0211> nothing
+
+//<0212> Hinata
+<0212> Hinata
+
+//<0213> 男Ｂ
+<0213> 男Ｂ
+
+//<0214> Super Horny Squad Leader
+<0214> Super Horny Squad Leader
+
+//<0215> Handsome-chin
+<0215> Handsome-chin
+
+//<0216> Homota
+<0216> Homota
+
+//<0217> Hina-chin
+<0217> Hina-chin
+
+//<0218> Hideki
+<0218> Hideki
+
+//<0219> 男子生徒
+<0219> 男子生徒
+
+//<0220> ？？
+<0220> ？？
+
+//<0221> 「なにやってんだ、お前…?」
+<0221> 「What in the world are you doing…?」
+
+//<0222> none
+<0222> none
+
+//<0223> nothing
+<0223> nothing
+
+//<0224> 
+<0224> 
+
+//<0225> 
+<0225> 
+
+//<0226> nothing
+<0226> nothing
+
+//<0227> bs
+<0227> bs
+
+//<0228> _
+<0228> _
+
+//<0229> nothing
+<0229> nothing
+
+//<0230> nothing
+<0230> nothing
+
+//<0231> nothing
+<0231> nothing
+
+//<0232> nothing
+<0232> nothing
+
+//<0233> nothing
+<0233> nothing
+
+//<0234> Otonashi
+<0234> Otonashi
+
+//<0235> クソ坊主
+<0235> クソ坊主
+
+//<0236> 代理人
+<0236> 代理人
+
+//<0237> 微妙すぎるイケメン
+<0237> 微妙すぎるイケメン
+
+//<0238> ロリコン
+<0238> ロリコン
+
+//<0239> メガネ仲間
+<0239> メガネ仲間
+
+//<0240> 暗算日本記録保持者
+<0240> 暗算日本記録保持者
+
+//<0241> 通り魔
+<0241> 通り魔
+
+//<0242> 記憶ナシ男
+<0242> 記憶ナシ男
+
+//<0243> 音速
+<0243> 音速
+
+//<0244> 無限
+<0244> 無限
+
+//<0245> Horny Samurai
+<0245> Horny Samurai
+
+//<0246> Super Horny Squad Member 1
+<0246> Super Horny Squad Member 1
+
+//<0247> Horny Boy
+<0247> Horny Boy
+
+//<0248> Ugly Yuri
+<0248> Ugly Yuri
+
+//<0249> Depussy
+<0249> Depussy
+
+//<0250> Perverted American Dog
+<0250> Perverted American Dog
+
+//<0251> Zeus
+<0251> Zeus
+
+//<0252> Hinata mark II
+<0252> Hinata mark II
+
+//<0253> Dung Beetle
+<0253> Dung Beetle
+
+//<0254> Mass Produced Hinata
+<0254> Mass Produced Hinata
+
+//<0255> ？？
+<0255> ？？
+
+//<0256> 「え?　こうじゃなかったか?」
+<0256> 「Huh? Isn't this it?」
+
+//<0257> 
+<0257> 
+
+//<0258> nothing
+<0258> nothing
+
+//<0259> nothing
+<0259> nothing
+
+//<0260> nothing
+<0260> nothing
+
+//<0261> nothing
+<0261> nothing
+
+//<0262> nothing
+<0262> nothing
+
+//<0263> Hinata
+<0263> Hinata
+
+//<0264> 男Ｂ
+<0264> 男Ｂ
+
+//<0265> Super Horny Squad Leader
+<0265> Super Horny Squad Leader
+
+//<0266> Handsome-chin
+<0266> Handsome-chin
+
+//<0267> Homota
+<0267> Homota
+
+//<0268> Hina-chin
+<0268> Hina-chin
+
+//<0269> Hideki
+<0269> Hideki
+
+//<0270> 男子生徒
+<0270> 男子生徒
+
+//<0271> ？？
+<0271> ？？
+
+//<0272> 「そんなストレッチ、存在しねーよっ!!　逆!　背中合わせ!!」
+<0272> 「That kind of stretching doesn't exist! Turn around!! Stand back to back!!」
+
+//<0273> nothing
+<0273> nothing
+
+//<0274> nothing
+<0274> nothing
+
+//<0275> nothing
+<0275> nothing
+
+//<0276> nothing
+<0276> nothing
+
+//<0277> nothing
+<0277> nothing
+
+//<0278> nothing
+<0278> nothing
+
+//<0279> 渋々、背中合わせに立つ。
+<0279> I reluctantly joined our backs.
+
+//<0280> Otonashi
+<0280> Otonashi
+
+//<0281> クソ坊主
+<0281> クソ坊主
+
+//<0282> 代理人
+<0282> 代理人
+
+//<0283> 微妙すぎるイケメン
+<0283> 微妙すぎるイケメン
+
+//<0284> ロリコン
+<0284> ロリコン
+
+//<0285> メガネ仲間
+<0285> メガネ仲間
+
+//<0286> 暗算日本記録保持者
+<0286> 暗算日本記録保持者
+
+//<0287> 通り魔
+<0287> 通り魔
+
+//<0288> 記憶ナシ男
+<0288> 記憶ナシ男
+
+//<0289> 音速
+<0289> 音速
+
+//<0290> 無限
+<0290> 無限
+
+//<0291> Horny Samurai
+<0291> Horny Samurai
+
+//<0292> Super Horny Squad Member 1
+<0292> Super Horny Squad Member 1
+
+//<0293> Horny Boy
+<0293> Horny Boy
+
+//<0294> Ugly Yuri
+<0294> Ugly Yuri
+
+//<0295> Depussy
+<0295> Depussy
+
+//<0296> Perverted American Dog
+<0296> Perverted American Dog
+
+//<0297> Zeus
+<0297> Zeus
+
+//<0298> Hinata mark II
+<0298> Hinata mark II
+
+//<0299> Dung Beetle
+<0299> Dung Beetle
+
+//<0300> Mass Produced Hinata
+<0300> Mass Produced Hinata
+
+//<0301> ？？
+<0301> ？？
+
+//<0302> 「え?」
+<0302> 「Huh?」
+
+//<0303> Hinata
+<0303> Hinata
+
+//<0304> 男Ｂ
+<0304> 男Ｂ
+
+//<0305> Super Horny Squad Leader
+<0305> Super Horny Squad Leader
+
+//<0306> Handsome-chin
+<0306> Handsome-chin
+
+//<0307> Homota
+<0307> Homota
+
+//<0308> Hina-chin
+<0308> Hina-chin
+
+//<0309> Hideki
+<0309> Hideki
+
+//<0310> 男子生徒
+<0310> 男子生徒
+
+//<0311> ？？
+<0311> ？？
+
+//<0312> 「背中合わせになるんだよ」
+<0312> 「We have to stand back to back.」
+
+//<0313> 言われるまま、背中合わせに立つ。
+<0313> I stood back to back as he told me to.
+
+//<0314> Hinataが俺の手首を掴み、腕を上げさせた。
+<0314> Hinata grabbed my wrist, and lifted my arms up.
+
+//<0315> そのまま俺を背中に乗せるようにして、背筋を伸ばしていく…。
+<0315> He put my arms behind my back, which stretched my spine muscles…
+
+//<0316> 俺の頭が落ちるくらい、Hinataが深く屈んだので、背筋、肩、腕が悲鳴を上げている。
+<0316> Hinata started to crouch until my head stooped, which made my back, shoulders, and arms screen out in pain.
+
+//<0317> Otonashi
+<0317> Otonashi
+
+//<0318> クソ坊主
+<0318> クソ坊主
+
+//<0319> 代理人
+<0319> 代理人
+
+//<0320> 微妙すぎるイケメン
+<0320> 微妙すぎるイケメン
+
+//<0321> ロリコン
+<0321> ロリコン
+
+//<0322> メガネ仲間
+<0322> メガネ仲間
+
+//<0323> 暗算日本記録保持者
+<0323> 暗算日本記録保持者
+
+//<0324> 通り魔
+<0324> 通り魔
+
+//<0325> 記憶ナシ男
+<0325> 記憶ナシ男
+
+//<0326> 音速
+<0326> 音速
+
+//<0327> 無限
+<0327> 無限
+
+//<0328> Horny Samurai
+<0328> Horny Samurai
+
+//<0329> Super Horny Squad Member 1
+<0329> Super Horny Squad Member 1
+
+//<0330> Horny Boy
+<0330> Horny Boy
+
+//<0331> Ugly Yuri
+<0331> Ugly Yuri
+
+//<0332> Depussy
+<0332> Depussy
+
+//<0333> Perverted American Dog
+<0333> Perverted American Dog
+
+//<0334> Zeus
+<0334> Zeus
+
+//<0335> Hinata mark II
+<0335> Hinata mark II
+
+//<0336> Dung Beetle
+<0336> Dung Beetle
+
+//<0337> Mass Produced Hinata
+<0337> Mass Produced Hinata
+
+//<0338> ？？
+<0338> ？？
+
+//<0339> 「イツツ…」
+<0339> 「Ow…」
+
+//<0340> Hinata
+<0340> Hinata
+
+//<0341> 男Ｂ
+<0341> 男Ｂ
+
+//<0342> Super Horny Squad Leader
+<0342> Super Horny Squad Leader
+
+//<0343> Handsome-chin
+<0343> Handsome-chin
+
+//<0344> Homota
+<0344> Homota
+
+//<0345> Hina-chin
+<0345> Hina-chin
+
+//<0346> Hideki
+<0346> Hideki
+
+//<0347> 男子生徒
+<0347> 男子生徒
+
+//<0348> ？？
+<0348> ？？
+
+//<0349> 「これぐらいがいいんだよ」
+<0349> 「This much is fine.」
+
+//<0350> 痛いが、Hinataがそう言うなら、耐えられる。
+<0350> It hurt, but since Hinata said so, I had to endure it.
+
+//<0351> Hinataが立ち上がり、地面に戻った。
+<0351> Hinata got back up on his feet.
+
+//<0352> Hinata
+<0352> Hinata
+
+//<0353> 男Ｂ
+<0353> 男Ｂ
+
+//<0354> Super Horny Squad Leader
+<0354> Super Horny Squad Leader
+
+//<0355> Handsome-chin
+<0355> Handsome-chin
+
+//<0356> Homota
+<0356> Homota
+
+//<0357> Hina-chin
+<0357> Hina-chin
+
+//<0358> Hideki
+<0358> Hideki
+
+//<0359> 男子生徒
+<0359> 男子生徒
+
+//<0360> ？？
+<0360> ？？
+
+//<0361> 「次は逆ー、Horny Boy、持ち上げてくれ」
+<0361> 「You'll be doing it for me this time, Horny Boy. Get up.」
+
+//<0362> Hinata
+<0362> Hinata
+
+//<0363> 男Ｂ
+<0363> 男Ｂ
+
+//<0364> Super Horny Squad Leader
+<0364> Super Horny Squad Leader
+
+//<0365> Handsome-chin
+<0365> Handsome-chin
+
+//<0366> Homota
+<0366> Homota
+
+//<0367> Hina-chin
+<0367> Hina-chin
+
+//<0368> Hideki
+<0368> Hideki
+
+//<0369> 男子生徒
+<0369> 男子生徒
+
+//<0370> ？？
+<0370> ？？
+
+//<0371> 「次は逆ー、Otonashi持ち上げてくれ」
+<0371> 「You'll be doing it for me this time, Otonashi. Get up.」
+
+//<0372> 今度は俺がHinataの手首をつかみ、上体を屈めていく。
+<0372> This time, I grabbed Hinata's wrist, and bent his upper body.
+
+//<0373> Hinata
+<0373> Hinata
+
+//<0374> 男Ｂ
+<0374> 男Ｂ
+
+//<0375> Super Horny Squad Leader
+<0375> Super Horny Squad Leader
+
+//<0376> Handsome-chin
+<0376> Handsome-chin
+
+//<0377> Homota
+<0377> Homota
+
+//<0378> Hina-chin
+<0378> Hina-chin
+
+//<0379> Hideki
+<0379> Hideki
+
+//<0380> 男子生徒
+<0380> 男子生徒
+
+//<0381> ？？
+<0381> ？？
+
+//<0382> 「もっと深くてもいいぞー」
+<0382> 「You can go further.」
+
+//<0383> 頭を下げ、腰を後ろに突き出すようにして、Hinataの背筋を伸ばす。
+<0383> I pulled his hips, and stretched Hinata's spines.
+
+//<0384> Hinata
+<0384> Hinata
+
+//<0385> 男Ｂ
+<0385> 男Ｂ
+
+//<0386> Super Horny Squad Leader
+<0386> Super Horny Squad Leader
+
+//<0387> Handsome-chin
+<0387> Handsome-chin
+
+//<0388> Homota
+<0388> Homota
+
+//<0389> Hina-chin
+<0389> Hina-chin
+
+//<0390> Hideki
+<0390> Hideki
+
+//<0391> 男子生徒
+<0391> 男子生徒
+
+//<0392> ？？
+<0392> ？？
+
+//<0393> 「よし、いい感じだ。下ろしてくれ」
+<0393> 「Ok, this feels good. Let go of me.」
+
+//<0394> 力を抜く。
+<0394> 力を抜く。
+
+//<0395> Otonashi
+<0395> Otonashi
+
+//<0396> クソ坊主
+<0396> クソ坊主
+
+//<0397> 代理人
+<0397> 代理人
+
+//<0398> 微妙すぎるイケメン
+<0398> 微妙すぎるイケメン
+
+//<0399> ロリコン
+<0399> ロリコン
+
+//<0400> メガネ仲間
+<0400> メガネ仲間
+
+//<0401> 暗算日本記録保持者
+<0401> 暗算日本記録保持者
+
+//<0402> 通り魔
+<0402> 通り魔
+
+//<0403> 記憶ナシ男
+<0403> 記憶ナシ男
+
+//<0404> 音速
+<0404> 音速
+
+//<0405> 無限
+<0405> 無限
+
+//<0406> Horny Samurai
+<0406> Horny Samurai
+
+//<0407> Super Horny Squad Member 1
+<0407> Super Horny Squad Member 1
+
+//<0408> Horny Boy
+<0408> Horny Boy
+
+//<0409> Ugly Yuri
+<0409> Ugly Yuri
+
+//<0410> Depussy
+<0410> Depussy
+
+//<0411> Perverted American Dog
+<0411> Perverted American Dog
+
+//<0412> Zeus
+<0412> Zeus
+
+//<0413> Hinata mark II
+<0413> Hinata mark II
+
+//<0414> Dung Beetle
+<0414> Dung Beetle
+
+//<0415> Mass Produced Hinata
+<0415> Mass Produced Hinata
+
+//<0416> ？？
+<0416> ？？
+
+//<0417> 「ふんっ!」
+<0417> 「Hmm!」
+
+//<0418> nothing
+<0418> nothing
+
+//<0419> nothing
+<0419> nothing
+
+//<0420> nothing
+<0420> nothing
+
+//<0421> nothing
+<0421> nothing
+
+//<0422> nothing
+<0422> nothing
+
+//<0423> 頭を思い切り下げ、腰を後ろに突き出すようにして、Hinataの背筋を伸ばすそうとするが、あまりの勢いにHinataを投げる形になった。
+<0423> I lowered his head with all my might, and pulled his hips to stretch Hinata's back, but I ended up throwing him with all my might.
+
+//<0424> nothing
+<0424> nothing
+
+//<0425> nothing
+<0425> nothing
+
+//<0426> nothing
+<0426> nothing
+
+//<0427> nothing
+<0427> nothing
+
+//<0428> nothing
+<0428> nothing
+
+//<0429> se_headdamage
+<0429> se_headdamage
+
+//<0430> 手を掴んでいるので、頭から落ちる。ごちん、と音がした。
+<0430> I was holding his hand, so he felt head-first. I could hear something hard hit the floor.
+
+//<0431> ………。
+<0431> ………
+
+//<0432> ……。
+<0432> ……
+
+//<0433> しばらく動かない…。
+<0433> He's not moving at all…
+
+//<0434> nothing
+<0434> nothing
+
+//<0435> nothing
+<0435> nothing
+
+//<0436> nothing
+<0436> nothing
+
+//<0437> nothing
+<0437> nothing
+
+//<0438> nothing
+<0438> nothing
+
+//<0439> Hinata
+<0439> Hinata
+
+//<0440> 男Ｂ
+<0440> 男Ｂ
+
+//<0441> Super Horny Squad Leader
+<0441> Super Horny Squad Leader
+
+//<0442> Handsome-chin
+<0442> Handsome-chin
+
+//<0443> Homota
+<0443> Homota
+
+//<0444> Hina-chin
+<0444> Hina-chin
+
+//<0445> Hideki
+<0445> Hideki
+
+//<0446> 男子生徒
+<0446> 男子生徒
+
+//<0447> ？？
+<0447> ？？
+
+//<0448> 「やりすぎぃーーー!!」
+<0448> 「Too far!!」
+
+//<0449> 復活すると共に、激しくツッコんできた。
+<0449> As he revived, he gave a furious retort.
+
+//<0450> nothing
+<0450> nothing
+
+//<0451> nothing
+<0451> nothing
+
+//<0452> nothing
+<0452> nothing
+
+//<0453> nothing
+<0453> nothing
+
+//<0454> nothing
+<0454> nothing
+
+//<0455> Hinata
+<0455> Hinata
+
+//<0456> 男Ｂ
+<0456> 男Ｂ
+
+//<0457> Super Horny Squad Leader
+<0457> Super Horny Squad Leader
+
+//<0458> Handsome-chin
+<0458> Handsome-chin
+
+//<0459> Homota
+<0459> Homota
+
+//<0460> Hina-chin
+<0460> Hina-chin
+
+//<0461> Hideki
+<0461> Hideki
+
+//<0462> 男子生徒
+<0462> 男子生徒
+
+//<0463> ？？
+<0463> ？？
+
+//<0464> 「Even though it's a world where we don't die, it still hurts, so think about a human's limits before you do something, Horny Boy!」
+<0464> 「Even though it's a world where we don't die, it still hurts, so think about a human's limits before you do something, Horny Boy!」
+
+//<0465> nothing
+<0465> nothing
+
+//<0466> nothing
+<0466> nothing
+
+//<0467> nothing
+<0467> nothing
+
+//<0468> nothing
+<0468> nothing
+
+//<0469> nothing
+<0469> nothing
+
+//<0470> Hinata
+<0470> Hinata
+
+//<0471> 男Ｂ
+<0471> 男Ｂ
+
+//<0472> Super Horny Squad Leader
+<0472> Super Horny Squad Leader
+
+//<0473> Handsome-chin
+<0473> Handsome-chin
+
+//<0474> Homota
+<0474> Homota
+
+//<0475> Hina-chin
+<0475> Hina-chin
+
+//<0476> Hideki
+<0476> Hideki
+
+//<0477> 男子生徒
+<0477> 男子生徒
+
+//<0478> ？？
+<0478> ？？
+
+//<0479> 「Even though it's a world where we don't die, it still hurts, so think about a human's limits before you do something, Otonashi!」
+<0479> 「Even though it's a world where we don't die, it still hurts, so think about a human's limits before you do something, Otonashi!」
+
+//<0480> Otonashi
+<0480> Otonashi
+
+//<0481> クソ坊主
+<0481> クソ坊主
+
+//<0482> 代理人
+<0482> 代理人
+
+//<0483> 微妙すぎるイケメン
+<0483> 微妙すぎるイケメン
+
+//<0484> ロリコン
+<0484> ロリコン
+
+//<0485> メガネ仲間
+<0485> メガネ仲間
+
+//<0486> 暗算日本記録保持者
+<0486> 暗算日本記録保持者
+
+//<0487> 通り魔
+<0487> 通り魔
+
+//<0488> 記憶ナシ男
+<0488> 記憶ナシ男
+
+//<0489> 音速
+<0489> 音速
+
+//<0490> 無限
+<0490> 無限
+
+//<0491> Horny Samurai
+<0491> Horny Samurai
+
+//<0492> Super Horny Squad Member 1
+<0492> Super Horny Squad Member 1
+
+//<0493> Horny Boy
+<0493> Horny Boy
+
+//<0494> Ugly Yuri
+<0494> Ugly Yuri
+
+//<0495> Depussy
+<0495> Depussy
+
+//<0496> Perverted American Dog
+<0496> Perverted American Dog
+
+//<0497> Zeus
+<0497> Zeus
+
+//<0498> Hinata mark II
+<0498> Hinata mark II
+
+//<0499> Dung Beetle
+<0499> Dung Beetle
+
+//<0500> Mass Produced Hinata
+<0500> Mass Produced Hinata
+
+//<0501> ？？
+<0501> ？？
+
+//<0502> 「わりぃ」
+<0502> 「My bad.」
+
+//<0503> nothing
+<0503> nothing
+
+//<0504> nothing
+<0504> nothing
+
+//<0505> nothing
+<0505> nothing
+
+//<0506> nothing
+<0506> nothing
+
+//<0507> nothing
+<0507> nothing
+
+//<0508> Hinata
+<0508> Hinata
+
+//<0509> 男Ｂ
+<0509> 男Ｂ
+
+//<0510> Super Horny Squad Leader
+<0510> Super Horny Squad Leader
+
+//<0511> Handsome-chin
+<0511> Handsome-chin
+
+//<0512> Homota
+<0512> Homota
+
+//<0513> Hina-chin
+<0513> Hina-chin
+
+//<0514> Hideki
+<0514> Hideki
+
+//<0515> 男子生徒
+<0515> 男子生徒
+
+//<0516> ？？
+<0516> ？？
+
+//<0517> 「じゃあ、ランニングいくぞー」
+<0517> 「Then, let's go for a jog.」
+
+//<0518> Otonashi
+<0518> Otonashi
+
+//<0519> クソ坊主
+<0519> クソ坊主
+
+//<0520> 代理人
+<0520> 代理人
+
+//<0521> 微妙すぎるイケメン
+<0521> 微妙すぎるイケメン
+
+//<0522> ロリコン
+<0522> ロリコン
+
+//<0523> メガネ仲間
+<0523> メガネ仲間
+
+//<0524> 暗算日本記録保持者
+<0524> 暗算日本記録保持者
+
+//<0525> 通り魔
+<0525> 通り魔
+
+//<0526> 記憶ナシ男
+<0526> 記憶ナシ男
+
+//<0527> 音速
+<0527> 音速
+
+//<0528> 無限
+<0528> 無限
+
+//<0529> Horny Samurai
+<0529> Horny Samurai
+
+//<0530> Super Horny Squad Member 1
+<0530> Super Horny Squad Member 1
+
+//<0531> Horny Boy
+<0531> Horny Boy
+
+//<0532> Ugly Yuri
+<0532> Ugly Yuri
+
+//<0533> Depussy
+<0533> Depussy
+
+//<0534> Perverted American Dog
+<0534> Perverted American Dog
+
+//<0535> Zeus
+<0535> Zeus
+
+//<0536> Hinata mark II
+<0536> Hinata mark II
+
+//<0537> Dung Beetle
+<0537> Dung Beetle
+
+//<0538> Mass Produced Hinata
+<0538> Mass Produced Hinata
+
+//<0539> ？？
+<0539> ？？
+
+//<0540> 「ああ」
+<0540> 「Ok.」
+
+//<0541> se_run_ground
+<0541> se_run_ground
+
+//<0542> Hinataの後について、野球場を走る。
+<0542> I followed Hinata and started to jog around the baseball field.
+
+//<0543> かなり速いピッチだ。
+<0543> He had a faster pace than me.
+
+//<0544> それでも黙々と走り続けた。
+<0544> But I continued running without a word.
+
+//<0545> Otonashi
+<0545> Otonashi
+
+//<0546> クソ坊主
+<0546> クソ坊主
+
+//<0547> 代理人
+<0547> 代理人
+
+//<0548> 微妙すぎるイケメン
+<0548> 微妙すぎるイケメン
+
+//<0549> ロリコン
+<0549> ロリコン
+
+//<0550> メガネ仲間
+<0550> メガネ仲間
+
+//<0551> 暗算日本記録保持者
+<0551> 暗算日本記録保持者
+
+//<0552> 通り魔
+<0552> 通り魔
+
+//<0553> 記憶ナシ男
+<0553> 記憶ナシ男
+
+//<0554> 音速
+<0554> 音速
+
+//<0555> 無限
+<0555> 無限
+
+//<0556> Horny Samurai
+<0556> Horny Samurai
+
+//<0557> Super Horny Squad Member 1
+<0557> Super Horny Squad Member 1
+
+//<0558> Horny Boy
+<0558> Horny Boy
+
+//<0559> Ugly Yuri
+<0559> Ugly Yuri
+
+//<0560> Depussy
+<0560> Depussy
+
+//<0561> Perverted American Dog
+<0561> Perverted American Dog
+
+//<0562> Zeus
+<0562> Zeus
+
+//<0563> Hinata mark II
+<0563> Hinata mark II
+
+//<0564> Dung Beetle
+<0564> Dung Beetle
+
+//<0565> Mass Produced Hinata
+<0565> Mass Produced Hinata
+
+//<0566> ？？
+<0566> ？？
+
+//<0567> (あれ?)
+<0567> (Huh?)
+
+//<0568> Otonashi
+<0568> Otonashi
+
+//<0569> クソ坊主
+<0569> クソ坊主
+
+//<0570> 代理人
+<0570> 代理人
+
+//<0571> 微妙すぎるイケメン
+<0571> 微妙すぎるイケメン
+
+//<0572> ロリコン
+<0572> ロリコン
+
+//<0573> メガネ仲間
+<0573> メガネ仲間
+
+//<0574> 暗算日本記録保持者
+<0574> 暗算日本記録保持者
+
+//<0575> 通り魔
+<0575> 通り魔
+
+//<0576> 記憶ナシ男
+<0576> 記憶ナシ男
+
+//<0577> 音速
+<0577> 音速
+
+//<0578> 無限
+<0578> 無限
+
+//<0579> Horny Samurai
+<0579> Horny Samurai
+
+//<0580> Super Horny Squad Member 1
+<0580> Super Horny Squad Member 1
+
+//<0581> Horny Boy
+<0581> Horny Boy
+
+//<0582> Ugly Yuri
+<0582> Ugly Yuri
+
+//<0583> Depussy
+<0583> Depussy
+
+//<0584> Perverted American Dog
+<0584> Perverted American Dog
+
+//<0585> Zeus
+<0585> Zeus
+
+//<0586> Hinata mark II
+<0586> Hinata mark II
+
+//<0587> Dung Beetle
+<0587> Dung Beetle
+
+//<0588> Mass Produced Hinata
+<0588> Mass Produced Hinata
+
+//<0589> ？？
+<0589> ？？
+
+//<0590> 「はっ…!　はっ…!」
+<0590> 「Haa…!　Haa…!」
+
+//<0591> 五周もしたところで、息が上がってきた。
+<0591> Even before I completed 5 laps, I started gasping for air.
+
+//<0592> Hinataの背中が離れていく…。
+<0592> Hinata was getting further away from me…
+
+//<0593> それに気づいてHinataが戻ってくる。
+<0593> Hinata noticed my condition, and came running back to me.
+
+//<0594> nothing
+<0594> nothing
+
+//<0595> nothing
+<0595> nothing
+
+//<0596> nothing
+<0596> nothing
+
+//<0597> nothing
+<0597> nothing
+
+//<0598> nothing
+<0598> nothing
+
+//<0599> Hinata
+<0599> Hinata
+
+//<0600> 男Ｂ
+<0600> 男Ｂ
+
+//<0601> Super Horny Squad Leader
+<0601> Super Horny Squad Leader
+
+//<0602> Handsome-chin
+<0602> Handsome-chin
+
+//<0603> Homota
+<0603> Homota
+
+//<0604> Hina-chin
+<0604> Hina-chin
+
+//<0605> Hideki
+<0605> Hideki
+
+//<0606> 男子生徒
+<0606> 男子生徒
+
+//<0607> ？？
+<0607> ？？
+
+//<0608> 「もう、お前は休んでろ。俺はまだまだ走るから」
+<0608> 「You can rest for a bit. I can still run some more.」
+
+//<0609> Otonashi
+<0609> Otonashi
+
+//<0610> クソ坊主
+<0610> クソ坊主
+
+//<0611> 代理人
+<0611> 代理人
+
+//<0612> 微妙すぎるイケメン
+<0612> 微妙すぎるイケメン
+
+//<0613> ロリコン
+<0613> ロリコン
+
+//<0614> メガネ仲間
+<0614> メガネ仲間
+
+//<0615> 暗算日本記録保持者
+<0615> 暗算日本記録保持者
+
+//<0616> 通り魔
+<0616> 通り魔
+
+//<0617> 記憶ナシ男
+<0617> 記憶ナシ男
+
+//<0618> 音速
+<0618> 音速
+
+//<0619> 無限
+<0619> 無限
+
+//<0620> Horny Samurai
+<0620> Horny Samurai
+
+//<0621> Super Horny Squad Member 1
+<0621> Super Horny Squad Member 1
+
+//<0622> Horny Boy
+<0622> Horny Boy
+
+//<0623> Ugly Yuri
+<0623> Ugly Yuri
+
+//<0624> Depussy
+<0624> Depussy
+
+//<0625> Perverted American Dog
+<0625> Perverted American Dog
+
+//<0626> Zeus
+<0626> Zeus
+
+//<0627> Hinata mark II
+<0627> Hinata mark II
+
+//<0628> Dung Beetle
+<0628> Dung Beetle
+
+//<0629> Mass Produced Hinata
+<0629> Mass Produced Hinata
+
+//<0630> ？？
+<0630> ？？
+
+//<0631> 「ああ…」
+<0631> 「Ok…」
+
+//<0632> nothing
+<0632> nothing
+
+//<0633> nothing
+<0633> nothing
+
+//<0634> nothing
+<0634> nothing
+
+//<0635> nothing
+<0635> nothing
+
+//<0636> nothing
+<0636> nothing
+
+//<0637> nothing
+<0637> nothing
+
+//<0638> Otonashi
+<0638> Otonashi
+
+//<0639> クソ坊主
+<0639> クソ坊主
+
+//<0640> 代理人
+<0640> 代理人
+
+//<0641> 微妙すぎるイケメン
+<0641> 微妙すぎるイケメン
+
+//<0642> ロリコン
+<0642> ロリコン
+
+//<0643> メガネ仲間
+<0643> メガネ仲間
+
+//<0644> 暗算日本記録保持者
+<0644> 暗算日本記録保持者
+
+//<0645> 通り魔
+<0645> 通り魔
+
+//<0646> 記憶ナシ男
+<0646> 記憶ナシ男
+
+//<0647> 音速
+<0647> 音速
+
+//<0648> 無限
+<0648> 無限
+
+//<0649> Horny Samurai
+<0649> Horny Samurai
+
+//<0650> Super Horny Squad Member 1
+<0650> Super Horny Squad Member 1
+
+//<0651> Horny Boy
+<0651> Horny Boy
+
+//<0652> Ugly Yuri
+<0652> Ugly Yuri
+
+//<0653> Depussy
+<0653> Depussy
+
+//<0654> Perverted American Dog
+<0654> Perverted American Dog
+
+//<0655> Zeus
+<0655> Zeus
+
+//<0656> Hinata mark II
+<0656> Hinata mark II
+
+//<0657> Dung Beetle
+<0657> Dung Beetle
+
+//<0658> Mass Produced Hinata
+<0658> Mass Produced Hinata
+
+//<0659> ？？
+<0659> ？？
+
+//<0660> (この体力の無さ…どんな生前だったんだ…)
+<0660> (I have no stamina whatsoever… What kind of life did I live…?)
+
+//<0661> Hinataが走り終えた。
+<0661> Hinata stopped running.
+
+//<0662> nothing
+<0662> nothing
+
+//<0663> nothing
+<0663> nothing
+
+//<0664> nothing
+<0664> nothing
+
+//<0665> nothing
+<0665> nothing
+
+//<0666> nothing
+<0666> nothing
+
+//<0667> Hinata
+<0667> Hinata
+
+//<0668> 男Ｂ
+<0668> 男Ｂ
+
+//<0669> Super Horny Squad Leader
+<0669> Super Horny Squad Leader
+
+//<0670> Handsome-chin
+<0670> Handsome-chin
+
+//<0671> Homota
+<0671> Homota
+
+//<0672> Hina-chin
+<0672> Hina-chin
+
+//<0673> Hideki
+<0673> Hideki
+
+//<0674> 男子生徒
+<0674> 男子生徒
+
+//<0675> ？？
+<0675> ？？
+
+//<0676> 「十分休めただろ?」
+<0676> 「Are you ready to go now?」
+
+//<0677> Otonashi
+<0677> Otonashi
+
+//<0678> クソ坊主
+<0678> クソ坊主
+
+//<0679> 代理人
+<0679> 代理人
+
+//<0680> 微妙すぎるイケメン
+<0680> 微妙すぎるイケメン
+
+//<0681> ロリコン
+<0681> ロリコン
+
+//<0682> メガネ仲間
+<0682> メガネ仲間
+
+//<0683> 暗算日本記録保持者
+<0683> 暗算日本記録保持者
+
+//<0684> 通り魔
+<0684> 通り魔
+
+//<0685> 記憶ナシ男
+<0685> 記憶ナシ男
+
+//<0686> 音速
+<0686> 音速
+
+//<0687> 無限
+<0687> 無限
+
+//<0688> Horny Samurai
+<0688> Horny Samurai
+
+//<0689> Super Horny Squad Member 1
+<0689> Super Horny Squad Member 1
+
+//<0690> Horny Boy
+<0690> Horny Boy
+
+//<0691> Ugly Yuri
+<0691> Ugly Yuri
+
+//<0692> Depussy
+<0692> Depussy
+
+//<0693> Perverted American Dog
+<0693> Perverted American Dog
+
+//<0694> Zeus
+<0694> Zeus
+
+//<0695> Hinata mark II
+<0695> Hinata mark II
+
+//<0696> Dung Beetle
+<0696> Dung Beetle
+
+//<0697> Mass Produced Hinata
+<0697> Mass Produced Hinata
+
+//<0698> ？？
+<0698> ？？
+
+//<0699> 「ああ」
+<0699> 「Yeah.」
+
+//<0700> nothing
+<0700> nothing
+
+//<0701> nothing
+<0701> nothing
+
+//<0702> nothing
+<0702> nothing
+
+//<0703> nothing
+<0703> nothing
+
+//<0704> nothing
+<0704> nothing
+
+//<0705> Hinata
+<0705> Hinata
+
+//<0706> 男Ｂ
+<0706> 男Ｂ
+
+//<0707> Super Horny Squad Leader
+<0707> Super Horny Squad Leader
+
+//<0708> Handsome-chin
+<0708> Handsome-chin
+
+//<0709> Homota
+<0709> Homota
+
+//<0710> Hina-chin
+<0710> Hina-chin
+
+//<0711> Hideki
+<0711> Hideki
+
+//<0712> 男子生徒
+<0712> 男子生徒
+
+//<0713> ？？
+<0713> ？？
+
+//<0714> 「よし、次は筋トレいくかー。やっぱふたり居ると便利だぜ」
+<0714> 「Ok. Next up is muscle training. Having two surely is convenient.」
+
+//<0715> Otonashi
+<0715> Otonashi
+
+//<0716> クソ坊主
+<0716> クソ坊主
+
+//<0717> 代理人
+<0717> 代理人
+
+//<0718> 微妙すぎるイケメン
+<0718> 微妙すぎるイケメン
+
+//<0719> ロリコン
+<0719> ロリコン
+
+//<0720> メガネ仲間
+<0720> メガネ仲間
+
+//<0721> 暗算日本記録保持者
+<0721> 暗算日本記録保持者
+
+//<0722> 通り魔
+<0722> 通り魔
+
+//<0723> 記憶ナシ男
+<0723> 記憶ナシ男
+
+//<0724> 音速
+<0724> 音速
+
+//<0725> 無限
+<0725> 無限
+
+//<0726> Horny Samurai
+<0726> Horny Samurai
+
+//<0727> Super Horny Squad Member 1
+<0727> Super Horny Squad Member 1
+
+//<0728> Horny Boy
+<0728> Horny Boy
+
+//<0729> Ugly Yuri
+<0729> Ugly Yuri
+
+//<0730> Depussy
+<0730> Depussy
+
+//<0731> Perverted American Dog
+<0731> Perverted American Dog
+
+//<0732> Zeus
+<0732> Zeus
+
+//<0733> Hinata mark II
+<0733> Hinata mark II
+
+//<0734> Dung Beetle
+<0734> Dung Beetle
+
+//<0735> Mass Produced Hinata
+<0735> Mass Produced Hinata
+
+//<0736> ？？
+<0736> ？？
+
+//<0737> 「どうして?」
+<0737> 「Why?」
+
+//<0738> nothing
+<0738> nothing
+
+//<0739> nothing
+<0739> nothing
+
+//<0740> nothing
+<0740> nothing
+
+//<0741> nothing
+<0741> nothing
+
+//<0742> nothing
+<0742> nothing
+
+//<0743> Hinata
+<0743> Hinata
+
+//<0744> 男Ｂ
+<0744> 男Ｂ
+
+//<0745> Super Horny Squad Leader
+<0745> Super Horny Squad Leader
+
+//<0746> Handsome-chin
+<0746> Handsome-chin
+
+//<0747> Homota
+<0747> Homota
+
+//<0748> Hina-chin
+<0748> Hina-chin
+
+//<0749> Hideki
+<0749> Hideki
+
+//<0750> 男子生徒
+<0750> 男子生徒
+
+//<0751> ？？
+<0751> ？？
+
+//<0752> 「腹筋、背筋をする時、お互い足を押さえられるじゃないか」
+<0752> 「Well, when we do sit ups or stretch our backs, we stretch each other's legs, right?」
+
+//<0753> Otonashi
+<0753> Otonashi
+
+//<0754> クソ坊主
+<0754> クソ坊主
+
+//<0755> 代理人
+<0755> 代理人
+
+//<0756> 微妙すぎるイケメン
+<0756> 微妙すぎるイケメン
+
+//<0757> ロリコン
+<0757> ロリコン
+
+//<0758> メガネ仲間
+<0758> メガネ仲間
+
+//<0759> 暗算日本記録保持者
+<0759> 暗算日本記録保持者
+
+//<0760> 通り魔
+<0760> 通り魔
+
+//<0761> 記憶ナシ男
+<0761> 記憶ナシ男
+
+//<0762> 音速
+<0762> 音速
+
+//<0763> 無限
+<0763> 無限
+
+//<0764> Horny Samurai
+<0764> Horny Samurai
+
+//<0765> Super Horny Squad Member 1
+<0765> Super Horny Squad Member 1
+
+//<0766> Horny Boy
+<0766> Horny Boy
+
+//<0767> Ugly Yuri
+<0767> Ugly Yuri
+
+//<0768> Depussy
+<0768> Depussy
+
+//<0769> Perverted American Dog
+<0769> Perverted American Dog
+
+//<0770> Zeus
+<0770> Zeus
+
+//<0771> Hinata mark II
+<0771> Hinata mark II
+
+//<0772> Dung Beetle
+<0772> Dung Beetle
+
+//<0773> Mass Produced Hinata
+<0773> Mass Produced Hinata
+
+//<0774> ？？
+<0774> ？？
+
+//<0775> 「確かに…」
+<0775> 「I guess so…」
+
+//<0776> nothing
+<0776> nothing
+
+//<0777> nothing
+<0777> nothing
+
+//<0778> nothing
+<0778> nothing
+
+//<0779> nothing
+<0779> nothing
+
+//<0780> nothing
+<0780> nothing
+
+//<0781> Hinata
+<0781> Hinata
+
+//<0782> 男Ｂ
+<0782> 男Ｂ
+
+//<0783> Super Horny Squad Leader
+<0783> Super Horny Squad Leader
+
+//<0784> Handsome-chin
+<0784> Handsome-chin
+
+//<0785> Homota
+<0785> Homota
+
+//<0786> Hina-chin
+<0786> Hina-chin
+
+//<0787> Hideki
+<0787> Hideki
+
+//<0788> 男子生徒
+<0788> 男子生徒
+
+//<0789> ？？
+<0789> ？？
+
+//<0790> 「よし、まずお前が先に俺の足を押さえてくれ」
+<0790> 「Ok, grab my ankles. I'll do my sit-ups.」
+
+//<0791> nothing
+<0791> nothing
+
+//<0792> nothing
+<0792> nothing
+
+//<0793> nothing
+<0793> nothing
+
+//<0794> nothing
+<0794> nothing
+
+//<0795> nothing
+<0795> nothing
+
+//<0796> nothing
+<0796> nothing
+
+//<0797> そう言って、Hinataが仰向きに寝る。
+<0797> After saying that, Hinata laid down on the ground.
+
+//<0798> その両足首を押さえる。
+<0798> I grabbed both of his ankles.
+
+//<0799> Hinata
+<0799> Hinata
+
+//<0800> 男Ｂ
+<0800> 男Ｂ
+
+//<0801> Super Horny Squad Leader
+<0801> Super Horny Squad Leader
+
+//<0802> Handsome-chin
+<0802> Handsome-chin
+
+//<0803> Homota
+<0803> Homota
+
+//<0804> Hina-chin
+<0804> Hina-chin
+
+//<0805> Hideki
+<0805> Hideki
+
+//<0806> 男子生徒
+<0806> 男子生徒
+
+//<0807> ？？
+<0807> ？？
+
+//<0808> 「いっち!　にっ!」
+<0808> 「One! Two!」
+
+//<0809> Hinataの腹筋が始まる。
+<0809> Hinata started his sit-ups.
+
+//<0810> Hinata
+<0810> Hinata
+
+//<0811> 男Ｂ
+<0811> 男Ｂ
+
+//<0812> Super Horny Squad Leader
+<0812> Super Horny Squad Leader
+
+//<0813> Handsome-chin
+<0813> Handsome-chin
+
+//<0814> Homota
+<0814> Homota
+
+//<0815> Hina-chin
+<0815> Hina-chin
+
+//<0816> Hideki
+<0816> Hideki
+
+//<0817> 男子生徒
+<0817> 男子生徒
+
+//<0818> ？？
+<0818> ？？
+
+//<0819> 「百!　はーっ、お仕舞い!」
+<0819> 「One hundred! Haa, that's good enough!!」
+
+//<0820> nothing
+<0820> nothing
+
+//<0821> nothing
+<0821> nothing
+
+//<0822> nothing
+<0822> nothing
+
+//<0823> nothing
+<0823> nothing
+
+//<0824> nothing
+<0824> nothing
+
+//<0825> Otonashi
+<0825> Otonashi
+
+//<0826> クソ坊主
+<0826> クソ坊主
+
+//<0827> 代理人
+<0827> 代理人
+
+//<0828> 微妙すぎるイケメン
+<0828> 微妙すぎるイケメン
+
+//<0829> ロリコン
+<0829> ロリコン
+
+//<0830> メガネ仲間
+<0830> メガネ仲間
+
+//<0831> 暗算日本記録保持者
+<0831> 暗算日本記録保持者
+
+//<0832> 通り魔
+<0832> 通り魔
+
+//<0833> 記憶ナシ男
+<0833> 記憶ナシ男
+
+//<0834> 音速
+<0834> 音速
+
+//<0835> 無限
+<0835> 無限
+
+//<0836> Horny Samurai
+<0836> Horny Samurai
+
+//<0837> Super Horny Squad Member 1
+<0837> Super Horny Squad Member 1
+
+//<0838> Horny Boy
+<0838> Horny Boy
+
+//<0839> Ugly Yuri
+<0839> Ugly Yuri
+
+//<0840> Depussy
+<0840> Depussy
+
+//<0841> Perverted American Dog
+<0841> Perverted American Dog
+
+//<0842> Zeus
+<0842> Zeus
+
+//<0843> Hinata mark II
+<0843> Hinata mark II
+
+//<0844> Dung Beetle
+<0844> Dung Beetle
+
+//<0845> Mass Produced Hinata
+<0845> Mass Produced Hinata
+
+//<0846> ？？
+<0846> ？？
+
+//<0847> 「お前すげーな…」
+<0847> 「You're amazing…」
+
+//<0848> nothing
+<0848> nothing
+
+//<0849> nothing
+<0849> nothing
+
+//<0850> nothing
+<0850> nothing
+
+//<0851> nothing
+<0851> nothing
+
+//<0852> nothing
+<0852> nothing
+
+//<0853> Hinata
+<0853> Hinata
+
+//<0854> 男Ｂ
+<0854> 男Ｂ
+
+//<0855> Super Horny Squad Leader
+<0855> Super Horny Squad Leader
+
+//<0856> Handsome-chin
+<0856> Handsome-chin
+
+//<0857> Homota
+<0857> Homota
+
+//<0858> Hina-chin
+<0858> Hina-chin
+
+//<0859> Hideki
+<0859> Hideki
+
+//<0860> 男子生徒
+<0860> 男子生徒
+
+//<0861> ？？
+<0861> ？？
+
+//<0862> 「戦線のメンバーやってたら、これぐらいなんてことなくなるよ」
+<0862> 「When you're a member of the battlefront, this much is nothing.」
+
+//<0863> Otonashi
+<0863> Otonashi
+
+//<0864> クソ坊主
+<0864> クソ坊主
+
+//<0865> 代理人
+<0865> 代理人
+
+//<0866> 微妙すぎるイケメン
+<0866> 微妙すぎるイケメン
+
+//<0867> ロリコン
+<0867> ロリコン
+
+//<0868> メガネ仲間
+<0868> メガネ仲間
+
+//<0869> 暗算日本記録保持者
+<0869> 暗算日本記録保持者
+
+//<0870> 通り魔
+<0870> 通り魔
+
+//<0871> 記憶ナシ男
+<0871> 記憶ナシ男
+
+//<0872> 音速
+<0872> 音速
+
+//<0873> 無限
+<0873> 無限
+
+//<0874> Horny Samurai
+<0874> Horny Samurai
+
+//<0875> Super Horny Squad Member 1
+<0875> Super Horny Squad Member 1
+
+//<0876> Horny Boy
+<0876> Horny Boy
+
+//<0877> Ugly Yuri
+<0877> Ugly Yuri
+
+//<0878> Depussy
+<0878> Depussy
+
+//<0879> Perverted American Dog
+<0879> Perverted American Dog
+
+//<0880> Zeus
+<0880> Zeus
+
+//<0881> Hinata mark II
+<0881> Hinata mark II
+
+//<0882> Dung Beetle
+<0882> Dung Beetle
+
+//<0883> Mass Produced Hinata
+<0883> Mass Produced Hinata
+
+//<0884> ？？
+<0884> ？？
+
+//<0885> 「それだけ筋力が必要だということか…」
+<0885> 「Do you need that much muscular strength…?」
+
+//<0886> nothing
+<0886> nothing
+
+//<0887> nothing
+<0887> nothing
+
+//<0888> nothing
+<0888> nothing
+
+//<0889> nothing
+<0889> nothing
+
+//<0890> nothing
+<0890> nothing
+
+//<0891> Hinata
+<0891> Hinata
+
+//<0892> 男Ｂ
+<0892> 男Ｂ
+
+//<0893> Super Horny Squad Leader
+<0893> Super Horny Squad Leader
+
+//<0894> Handsome-chin
+<0894> Handsome-chin
+
+//<0895> Homota
+<0895> Homota
+
+//<0896> Hina-chin
+<0896> Hina-chin
+
+//<0897> Hideki
+<0897> Hideki
+
+//<0898> 男子生徒
+<0898> 男子生徒
+
+//<0899> ？？
+<0899> ？？
+
+//<0900> 「基本銃撃戦だが、銃を撃つためには、筋力も必要となってくる」
+<0900> 「We might use guns as our major weapon, but we need strength to shoot as well.」
+
+//<0901> nothing
+<0901> nothing
+
+//<0902> nothing
+<0902> nothing
+
+//<0903> nothing
+<0903> nothing
+
+//<0904> nothing
+<0904> nothing
+
+//<0905> nothing
+<0905> nothing
+
+//<0906> Hinata
+<0906> Hinata
+
+//<0907> 男Ｂ
+<0907> 男Ｂ
+
+//<0908> Super Horny Squad Leader
+<0908> Super Horny Squad Leader
+
+//<0909> Handsome-chin
+<0909> Handsome-chin
+
+//<0910> Homota
+<0910> Homota
+
+//<0911> Hina-chin
+<0911> Hina-chin
+
+//<0912> Hideki
+<0912> Hideki
+
+//<0913> 男子生徒
+<0913> 男子生徒
+
+//<0914> ？？
+<0914> ？？
+
+//<0915> 「それ以外に、突発で発動するオペレーションでもな。鍛えておくにこしたことはない」
+<0915> 「Other than that, there are operations where we have to move a lot. You might as well train yourself.」
+
+//<0916> nothing
+<0916> nothing
+
+//<0917> nothing
+<0917> nothing
+
+//<0918> nothing
+<0918> nothing
+
+//<0919> nothing
+<0919> nothing
+
+//<0920> nothing
+<0920> nothing
+
+//<0921> Hinata
+<0921> Hinata
+
+//<0922> 男Ｂ
+<0922> 男Ｂ
+
+//<0923> Super Horny Squad Leader
+<0923> Super Horny Squad Leader
+
+//<0924> Handsome-chin
+<0924> Handsome-chin
+
+//<0925> Homota
+<0925> Homota
+
+//<0926> Hina-chin
+<0926> Hina-chin
+
+//<0927> Hideki
+<0927> Hideki
+
+//<0928> 男子生徒
+<0928> 男子生徒
+
+//<0929> ？？
+<0929> ？？
+
+//<0930> 「次はHorny Boyの番だ」
+<0930> 「Next is your turn.」
+
+//<0931> Hinata
+<0931> Hinata
+
+//<0932> 男Ｂ
+<0932> 男Ｂ
+
+//<0933> Super Horny Squad Leader
+<0933> Super Horny Squad Leader
+
+//<0934> Handsome-chin
+<0934> Handsome-chin
+
+//<0935> Homota
+<0935> Homota
+
+//<0936> Hina-chin
+<0936> Hina-chin
+
+//<0937> Hideki
+<0937> Hideki
+
+//<0938> 男子生徒
+<0938> 男子生徒
+
+//<0939> ？？
+<0939> ？？
+
+//<0940> 「じゃ、次はOtonashiだ」
+<0940> 「Now it's your turn.」
+
+//<0941> Otonashi
+<0941> Otonashi
+
+//<0942> クソ坊主
+<0942> クソ坊主
+
+//<0943> 代理人
+<0943> 代理人
+
+//<0944> 微妙すぎるイケメン
+<0944> 微妙すぎるイケメン
+
+//<0945> ロリコン
+<0945> ロリコン
+
+//<0946> メガネ仲間
+<0946> メガネ仲間
+
+//<0947> 暗算日本記録保持者
+<0947> 暗算日本記録保持者
+
+//<0948> 通り魔
+<0948> 通り魔
+
+//<0949> 記憶ナシ男
+<0949> 記憶ナシ男
+
+//<0950> 音速
+<0950> 音速
+
+//<0951> 無限
+<0951> 無限
+
+//<0952> Horny Samurai
+<0952> Horny Samurai
+
+//<0953> Super Horny Squad Member 1
+<0953> Super Horny Squad Member 1
+
+//<0954> Horny Boy
+<0954> Horny Boy
+
+//<0955> Ugly Yuri
+<0955> Ugly Yuri
+
+//<0956> Depussy
+<0956> Depussy
+
+//<0957> Perverted American Dog
+<0957> Perverted American Dog
+
+//<0958> Zeus
+<0958> Zeus
+
+//<0959> Hinata mark II
+<0959> Hinata mark II
+
+//<0960> Dung Beetle
+<0960> Dung Beetle
+
+//<0961> Mass Produced Hinata
+<0961> Mass Produced Hinata
+
+//<0962> ？？
+<0962> ？？
+
+//<0963> 「わかった…」
+<0963> 「Got it…」
+
+//<0964> nothing
+<0964> nothing
+
+//<0965> nothing
+<0965> nothing
+
+//<0966> nothing
+<0966> nothing
+
+//<0967> nothing
+<0967> nothing
+
+//<0968> nothing
+<0968> nothing
+
+//<0969> nothing
+<0969> nothing
+
+//<0970> 俺はたった２０回で、音を上げる。
+<0970> I started grunting after only 20 sit-ups.
+
+//<0971> nothing
+<0971> nothing
+
+//<0972> nothing
+<0972> nothing
+
+//<0973> nothing
+<0973> nothing
+
+//<0974> nothing
+<0974> nothing
+
+//<0975> nothing
+<0975> nothing
+
+//<0976> Hinata
+<0976> Hinata
+
+//<0977> 男Ｂ
+<0977> 男Ｂ
+
+//<0978> Super Horny Squad Leader
+<0978> Super Horny Squad Leader
+
+//<0979> Handsome-chin
+<0979> Handsome-chin
+
+//<0980> Homota
+<0980> Homota
+
+//<0981> Hina-chin
+<0981> Hina-chin
+
+//<0982> Hideki
+<0982> Hideki
+
+//<0983> 男子生徒
+<0983> 男子生徒
+
+//<0984> ？？
+<0984> ？？
+
+//<0985> 「３０回はいって欲しいところだな…」
+<0985> 「You can't even do 30 reps…?」
+
+//<0986> Otonashi
+<0986> Otonashi
+
+//<0987> クソ坊主
+<0987> クソ坊主
+
+//<0988> 代理人
+<0988> 代理人
+
+//<0989> 微妙すぎるイケメン
+<0989> 微妙すぎるイケメン
+
+//<0990> ロリコン
+<0990> ロリコン
+
+//<0991> メガネ仲間
+<0991> メガネ仲間
+
+//<0992> 暗算日本記録保持者
+<0992> 暗算日本記録保持者
+
+//<0993> 通り魔
+<0993> 通り魔
+
+//<0994> 記憶ナシ男
+<0994> 記憶ナシ男
+
+//<0995> 音速
+<0995> 音速
+
+//<0996> 無限
+<0996> 無限
+
+//<0997> Horny Samurai
+<0997> Horny Samurai
+
+//<0998> Super Horny Squad Member 1
+<0998> Super Horny Squad Member 1
+
+//<0999> Horny Boy
+<0999> Horny Boy
+
+//<1000> Ugly Yuri
+<1000> Ugly Yuri
+
+//<1001> Depussy
+<1001> Depussy
+
+//<1002> Perverted American Dog
+<1002> Perverted American Dog
+
+//<1003> Zeus
+<1003> Zeus
+
+//<1004> Hinata mark II
+<1004> Hinata mark II
+
+//<1005> Dung Beetle
+<1005> Dung Beetle
+
+//<1006> Mass Produced Hinata
+<1006> Mass Produced Hinata
+
+//<1007> ？？
+<1007> ？？
+
+//<1008> 「………」
+<1008> 「………」
+
+//<1009> 情けなさを思い知る…。
+<1009> I'm completely ashamed of myself…
+
+//<1010> Otonashi
+<1010> Otonashi
+
+//<1011> クソ坊主
+<1011> クソ坊主
+
+//<1012> 代理人
+<1012> 代理人
+
+//<1013> 微妙すぎるイケメン
+<1013> 微妙すぎるイケメン
+
+//<1014> ロリコン
+<1014> ロリコン
+
+//<1015> メガネ仲間
+<1015> メガネ仲間
+
+//<1016> 暗算日本記録保持者
+<1016> 暗算日本記録保持者
+
+//<1017> 通り魔
+<1017> 通り魔
+
+//<1018> 記憶ナシ男
+<1018> 記憶ナシ男
+
+//<1019> 音速
+<1019> 音速
+
+//<1020> 無限
+<1020> 無限
+
+//<1021> Horny Samurai
+<1021> Horny Samurai
+
+//<1022> Super Horny Squad Member 1
+<1022> Super Horny Squad Member 1
+
+//<1023> Horny Boy
+<1023> Horny Boy
+
+//<1024> Ugly Yuri
+<1024> Ugly Yuri
+
+//<1025> Depussy
+<1025> Depussy
+
+//<1026> Perverted American Dog
+<1026> Perverted American Dog
+
+//<1027> Zeus
+<1027> Zeus
+
+//<1028> Hinata mark II
+<1028> Hinata mark II
+
+//<1029> Dung Beetle
+<1029> Dung Beetle
+
+//<1030> Mass Produced Hinata
+<1030> Mass Produced Hinata
+
+//<1031> ？？
+<1031> ？？
+
+//<1032> (Hinataを前に、なんてざまだ!!)
+<1032> (What a disgrace! And I was in front of Hinata as well!!)
+
+//<1033> nothing
+<1033> nothing
+
+//<1034> nothing
+<1034> nothing
+
+//<1035> nothing
+<1035> nothing
+
+//<1036> nothing
+<1036> nothing
+
+//<1037> nothing
+<1037> nothing
+
+//<1038> Hinata
+<1038> Hinata
+
+//<1039> 男Ｂ
+<1039> 男Ｂ
+
+//<1040> Super Horny Squad Leader
+<1040> Super Horny Squad Leader
+
+//<1041> Handsome-chin
+<1041> Handsome-chin
+
+//<1042> Homota
+<1042> Homota
+
+//<1043> Hina-chin
+<1043> Hina-chin
+
+//<1044> Hideki
+<1044> Hideki
+
+//<1045> 男子生徒
+<1045> 男子生徒
+
+//<1046> ？？
+<1046> ？？
+
+//<1047> 「次は背筋だ。また押さえてくれ」
+<1047> 「Next up is our backs. Let's stretch them again.」
+
+//<1048> nothing
+<1048> nothing
+
+//<1049> nothing
+<1049> nothing
+
+//<1050> nothing
+<1050> nothing
+
+//<1051> nothing
+<1051> nothing
+
+//<1052> nothing
+<1052> nothing
+
+//<1053> nothing
+<1053> nothing
+
+//<1054> 地味な筋トレが続くも、俺は幹部としてまだまだなんだと痛感させられた…。
+<1054> 地味な筋トレが続くも、俺は幹部としてまだまだなんだと痛感させられた…。
+
+//<1055> トレーニングを切り上げて、ジャージから制服に着替える。
+<1055> トレーニングを切り上げて、ジャージから制服に着替える。
+
+//<1056> 腹もいい具合に減ってきたので、Hinataと一緒に学食に向かった。
+<1056> 腹もいい具合に減ってきたので、Hinataと一緒に学食に向かった。
+
+//<1057> nothing
+<1057> nothing
+
+//<1058> nothing
+<1058> nothing
+
+//<1059> nothing
+<1059> nothing
+
+//<1060> nothing
+<1060> nothing
+
+//<1061> nothing
+<1061> nothing
+
+//<1062> Hinata
+<1062> Hinata
+
+//<1063> 男Ｂ
+<1063> 男Ｂ
+
+//<1064> Super Horny Squad Leader
+<1064> Super Horny Squad Leader
+
+//<1065> Handsome-chin
+<1065> Handsome-chin
+
+//<1066> Homota
+<1066> Homota
+
+//<1067> Hina-chin
+<1067> Hina-chin
+
+//<1068> Hideki
+<1068> Hideki
+
+//<1069> 男子生徒
+<1069> 男子生徒
+
+//<1070> ？？
+<1070> ？？
+
+//<1071> 「さて、昼飯のお時間だ。美味しいご飯を食べて元気になってくれ」
+<1071> 「さて、昼飯のお時間だ。美味しいご飯を食べて元気になってくれ」
+
+//<1072> Otonashi
+<1072> Otonashi
+
+//<1073> クソ坊主
+<1073> クソ坊主
+
+//<1074> 代理人
+<1074> 代理人
+
+//<1075> 微妙すぎるイケメン
+<1075> 微妙すぎるイケメン
+
+//<1076> ロリコン
+<1076> ロリコン
+
+//<1077> メガネ仲間
+<1077> メガネ仲間
+
+//<1078> 暗算日本記録保持者
+<1078> 暗算日本記録保持者
+
+//<1079> 通り魔
+<1079> 通り魔
+
+//<1080> 記憶ナシ男
+<1080> 記憶ナシ男
+
+//<1081> 音速
+<1081> 音速
+
+//<1082> 無限
+<1082> 無限
+
+//<1083> Horny Samurai
+<1083> Horny Samurai
+
+//<1084> Super Horny Squad Member 1
+<1084> Super Horny Squad Member 1
+
+//<1085> Horny Boy
+<1085> Horny Boy
+
+//<1086> Ugly Yuri
+<1086> Ugly Yuri
+
+//<1087> Depussy
+<1087> Depussy
+
+//<1088> Perverted American Dog
+<1088> Perverted American Dog
+
+//<1089> Zeus
+<1089> Zeus
+
+//<1090> Hinata mark II
+<1090> Hinata mark II
+
+//<1091> Dung Beetle
+<1091> Dung Beetle
+
+//<1092> Mass Produced Hinata
+<1092> Mass Produced Hinata
+
+//<1093> ？？
+<1093> ？？
+
+//<1094> 「俺、金も食券もないんだが…」
+<1094> 「俺、金も食券もないんだが…」
+
+//<1095> nothing
+<1095> nothing
+
+//<1096> nothing
+<1096> nothing
+
+//<1097> nothing
+<1097> nothing
+
+//<1098> nothing
+<1098> nothing
+
+//<1099> nothing
+<1099> nothing
+
+//<1100> Hinata
+<1100> Hinata
+
+//<1101> 男Ｂ
+<1101> 男Ｂ
+
+//<1102> Super Horny Squad Leader
+<1102> Super Horny Squad Leader
+
+//<1103> Handsome-chin
+<1103> Handsome-chin
+
+//<1104> Homota
+<1104> Homota
+
+//<1105> Hina-chin
+<1105> Hina-chin
+
+//<1106> Hideki
+<1106> Hideki
+
+//<1107> 男子生徒
+<1107> 男子生徒
+
+//<1108> ？？
+<1108> ？？
+
+//<1109> 「ああ、そうだったな」
+<1109> 「ああ、そうだったな」
+
+//<1110> Otonashi
+<1110> Otonashi
+
+//<1111> クソ坊主
+<1111> クソ坊主
+
+//<1112> 代理人
+<1112> 代理人
+
+//<1113> 微妙すぎるイケメン
+<1113> 微妙すぎるイケメン
+
+//<1114> ロリコン
+<1114> ロリコン
+
+//<1115> メガネ仲間
+<1115> メガネ仲間
+
+//<1116> 暗算日本記録保持者
+<1116> 暗算日本記録保持者
+
+//<1117> 通り魔
+<1117> 通り魔
+
+//<1118> 記憶ナシ男
+<1118> 記憶ナシ男
+
+//<1119> 音速
+<1119> 音速
+
+//<1120> 無限
+<1120> 無限
+
+//<1121> Horny Samurai
+<1121> Horny Samurai
+
+//<1122> Super Horny Squad Member 1
+<1122> Super Horny Squad Member 1
+
+//<1123> Horny Boy
+<1123> Horny Boy
+
+//<1124> Ugly Yuri
+<1124> Ugly Yuri
+
+//<1125> Depussy
+<1125> Depussy
+
+//<1126> Perverted American Dog
+<1126> Perverted American Dog
+
+//<1127> Zeus
+<1127> Zeus
+
+//<1128> Hinata mark II
+<1128> Hinata mark II
+
+//<1129> Dung Beetle
+<1129> Dung Beetle
+
+//<1130> Mass Produced Hinata
+<1130> Mass Produced Hinata
+
+//<1131> ？？
+<1131> ？？
+
+//<1132> 「悪いな、奢ってもらって」
+<1132> 「悪いな、奢ってもらって」
+
+//<1133> 昼食はHinataがごちそうしてくれることになった。
+<1133> 昼食はHinataがごちそうしてくれることになった。
+
+//<1134> トレーニングを手伝ってくれたお礼らしいので、遠慮なく厚意を受け取ることにする。
+<1134> トレーニングを手伝ってくれたお礼らしいので、遠慮なく厚意を受け取ることにする。
+
+//<1135> nothing
+<1135> nothing
+
+//<1136> nothing
+<1136> nothing
+
+//<1137> nothing
+<1137> nothing
+
+//<1138> nothing
+<1138> nothing
+
+//<1139> nothing
+<1139> nothing
+
+//<1140> Hinata
+<1140> Hinata
+
+//<1141> 男Ｂ
+<1141> 男Ｂ
+
+//<1142> Super Horny Squad Leader
+<1142> Super Horny Squad Leader
+
+//<1143> Handsome-chin
+<1143> Handsome-chin
+
+//<1144> Homota
+<1144> Homota
+
+//<1145> Hina-chin
+<1145> Hina-chin
+
+//<1146> Hideki
+<1146> Hideki
+
+//<1147> 男子生徒
+<1147> 男子生徒
+
+//<1148> ？？
+<1148> ？？
+
+//<1149> 「問題ない。ついてこいよ」
+<1149> 「問題ない。ついてこいよ」
+
+//<1150> se_gaya
+<1150> se_gaya
+
+//<1151> nothing
+<1151> nothing
+
+//<1152> nothing
+<1152> nothing
+
+//<1153> nothing
+<1153> nothing
+
+//<1154> nothing
+<1154> nothing
+
+//<1155> nothing
+<1155> nothing
+
+//<1156> Hinata
+<1156> Hinata
+
+//<1157> 男Ｂ
+<1157> 男Ｂ
+
+//<1158> Super Horny Squad Leader
+<1158> Super Horny Squad Leader
+
+//<1159> Handsome-chin
+<1159> Handsome-chin
+
+//<1160> Homota
+<1160> Homota
+
+//<1161> Hina-chin
+<1161> Hina-chin
+
+//<1162> Hideki
+<1162> Hideki
+
+//<1163> 男子生徒
+<1163> 男子生徒
+
+//<1164> ？？
+<1164> ？？
+
+//<1165> 「食券はランダムで決めるぜ?」
+<1165> 「食券はランダムで決めるぜ?」
+
+//<1166> nothing
+<1166> nothing
+
+//<1167> nothing
+<1167> nothing
+
+//<1168> nothing
+<1168> nothing
+
+//<1169> nothing
+<1169> nothing
+
+//<1170> nothing
+<1170> nothing
+
+//<1171> Hinataがポケットを探る。
+<1171> Hinataがポケットを探る。
+
+//<1172> nothing
+<1172> nothing
+
+//<1173> nothing
+<1173> nothing
+
+//<1174> nothing
+<1174> nothing
+
+//<1175> nothing
+<1175> nothing
+
+//<1176> nothing
+<1176> nothing
+
+//<1177> Hinata
+<1177> Hinata
+
+//<1178> 男Ｂ
+<1178> 男Ｂ
+
+//<1179> Super Horny Squad Leader
+<1179> Super Horny Squad Leader
+
+//<1180> Handsome-chin
+<1180> Handsome-chin
+
+//<1181> Homota
+<1181> Homota
+
+//<1182> Hina-chin
+<1182> Hina-chin
+
+//<1183> Hideki
+<1183> Hideki
+
+//<1184> 男子生徒
+<1184> 男子生徒
+
+//<1185> ？？
+<1185> ？？
+
+//<1186> 「まず、俺はこれだぁ!」
+<1186> 「まず、俺はこれだぁ!」
+
+//<1187> nothing
+<1187> nothing
+
+//<1188> nothing
+<1188> nothing
+
+//<1189> nothing
+<1189> nothing
+
+//<1190> nothing
+<1190> nothing
+
+//<1191> nothing
+<1191> nothing
+
+//<1192> 食券を摘まみ上げた。
+<1192> 食券を摘まみ上げた。
+
+//<1193> nothing
+<1193> nothing
+
+//<1194> nothing
+<1194> nothing
+
+//<1195> nothing
+<1195> nothing
+
+//<1196> nothing
+<1196> nothing
+
+//<1197> nothing
+<1197> nothing
+
+//<1198> Hinata
+<1198> Hinata
+
+//<1199> 男Ｂ
+<1199> 男Ｂ
+
+//<1200> Super Horny Squad Leader
+<1200> Super Horny Squad Leader
+
+//<1201> Handsome-chin
+<1201> Handsome-chin
+
+//<1202> Homota
+<1202> Homota
+
+//<1203> Hina-chin
+<1203> Hina-chin
+
+//<1204> Hideki
+<1204> Hideki
+
+//<1205> 男子生徒
+<1205> 男子生徒
+
+//<1206> ？？
+<1206> ？？
+
+//<1207> 「おろしチキンカツ定食、よっしゃあぁぁーー!!」
+<1207> 「おろしチキンカツ定食、よっしゃあぁぁーー!!」
+
+//<1208> nothing
+<1208> nothing
+
+//<1209> nothing
+<1209> nothing
+
+//<1210> nothing
+<1210> nothing
+
+//<1211> nothing
+<1211> nothing
+
+//<1212> nothing
+<1212> nothing
+
+//<1213> Hinata
+<1213> Hinata
+
+//<1214> 男Ｂ
+<1214> 男Ｂ
+
+//<1215> Super Horny Squad Leader
+<1215> Super Horny Squad Leader
+
+//<1216> Handsome-chin
+<1216> Handsome-chin
+
+//<1217> Homota
+<1217> Homota
+
+//<1218> Hina-chin
+<1218> Hina-chin
+
+//<1219> Hideki
+<1219> Hideki
+
+//<1220> 男子生徒
+<1220> 男子生徒
+
+//<1221> ？？
+<1221> ？？
+
+//<1222> 「次はHorny Boy、お前の食券だぜ。いくぞ…」
+<1222> 「次はHorny Boy、お前の食券だぜ。いくぞ…」
+
+//<1223> Hinata
+<1223> Hinata
+
+//<1224> 男Ｂ
+<1224> 男Ｂ
+
+//<1225> Super Horny Squad Leader
+<1225> Super Horny Squad Leader
+
+//<1226> Handsome-chin
+<1226> Handsome-chin
+
+//<1227> Homota
+<1227> Homota
+
+//<1228> Hina-chin
+<1228> Hina-chin
+
+//<1229> Hideki
+<1229> Hideki
+
+//<1230> 男子生徒
+<1230> 男子生徒
+
+//<1231> ？？
+<1231> ？？
+
+//<1232> 「次はOtonashi、お前の食券だぜ。いくぞ…」
+<1232> 「次はOtonashi、お前の食券だぜ。いくぞ…」
+
+//<1233> Otonashi
+<1233> Otonashi
+
+//<1234> クソ坊主
+<1234> クソ坊主
+
+//<1235> 代理人
+<1235> 代理人
+
+//<1236> 微妙すぎるイケメン
+<1236> 微妙すぎるイケメン
+
+//<1237> ロリコン
+<1237> ロリコン
+
+//<1238> メガネ仲間
+<1238> メガネ仲間
+
+//<1239> 暗算日本記録保持者
+<1239> 暗算日本記録保持者
+
+//<1240> 通り魔
+<1240> 通り魔
+
+//<1241> 記憶ナシ男
+<1241> 記憶ナシ男
+
+//<1242> 音速
+<1242> 音速
+
+//<1243> 無限
+<1243> 無限
+
+//<1244> Horny Samurai
+<1244> Horny Samurai
+
+//<1245> Super Horny Squad Member 1
+<1245> Super Horny Squad Member 1
+
+//<1246> Horny Boy
+<1246> Horny Boy
+
+//<1247> Ugly Yuri
+<1247> Ugly Yuri
+
+//<1248> Depussy
+<1248> Depussy
+
+//<1249> Perverted American Dog
+<1249> Perverted American Dog
+
+//<1250> Zeus
+<1250> Zeus
+
+//<1251> Hinata mark II
+<1251> Hinata mark II
+
+//<1252> Dung Beetle
+<1252> Dung Beetle
+
+//<1253> Mass Produced Hinata
+<1253> Mass Produced Hinata
+
+//<1254> ？？
+<1254> ？？
+
+//<1255> 「ああ」
+<1255> 「ああ」
+
+//<1256> nothing
+<1256> nothing
+
+//<1257> nothing
+<1257> nothing
+
+//<1258> nothing
+<1258> nothing
+
+//<1259> nothing
+<1259> nothing
+
+//<1260> nothing
+<1260> nothing
+
+//<1261> 再びポケットを探る。
+<1261> 再びポケットを探る。
+
+//<1262> nothing
+<1262> nothing
+
+//<1263> nothing
+<1263> nothing
+
+//<1264> nothing
+<1264> nothing
+
+//<1265> nothing
+<1265> nothing
+
+//<1266> nothing
+<1266> nothing
+
+//<1267> Hinata
+<1267> Hinata
+
+//<1268> 男Ｂ
+<1268> 男Ｂ
+
+//<1269> Super Horny Squad Leader
+<1269> Super Horny Squad Leader
+
+//<1270> Handsome-chin
+<1270> Handsome-chin
+
+//<1271> Homota
+<1271> Homota
+
+//<1272> Hina-chin
+<1272> Hina-chin
+
+//<1273> Hideki
+<1273> Hideki
+
+//<1274> 男子生徒
+<1274> 男子生徒
+
+//<1275> ？？
+<1275> ？？
+
+//<1276> 「お前はこれだぁ!」
+<1276> 「お前はこれだぁ!」
+
+//<1277> Otonashi
+<1277> Otonashi
+
+//<1278> クソ坊主
+<1278> クソ坊主
+
+//<1279> 代理人
+<1279> 代理人
+
+//<1280> 微妙すぎるイケメン
+<1280> 微妙すぎるイケメン
+
+//<1281> ロリコン
+<1281> ロリコン
+
+//<1282> メガネ仲間
+<1282> メガネ仲間
+
+//<1283> 暗算日本記録保持者
+<1283> 暗算日本記録保持者
+
+//<1284> 通り魔
+<1284> 通り魔
+
+//<1285> 記憶ナシ男
+<1285> 記憶ナシ男
+
+//<1286> 音速
+<1286> 音速
+
+//<1287> 無限
+<1287> 無限
+
+//<1288> Horny Samurai
+<1288> Horny Samurai
+
+//<1289> Super Horny Squad Member 1
+<1289> Super Horny Squad Member 1
+
+//<1290> Horny Boy
+<1290> Horny Boy
+
+//<1291> Ugly Yuri
+<1291> Ugly Yuri
+
+//<1292> Depussy
+<1292> Depussy
+
+//<1293> Perverted American Dog
+<1293> Perverted American Dog
+
+//<1294> Zeus
+<1294> Zeus
+
+//<1295> Hinata mark II
+<1295> Hinata mark II
+
+//<1296> Dung Beetle
+<1296> Dung Beetle
+
+//<1297> Mass Produced Hinata
+<1297> Mass Produced Hinata
+
+//<1298> ？？
+<1298> ？？
+
+//<1299> 「なんだ?」
+<1299> 「なんだ?」
+
+//<1300> nothing
+<1300> nothing
+
+//<1301> nothing
+<1301> nothing
+
+//<1302> nothing
+<1302> nothing
+
+//<1303> nothing
+<1303> nothing
+
+//<1304> nothing
+<1304> nothing
+
+//<1305> Hinata
+<1305> Hinata
+
+//<1306> 男Ｂ
+<1306> 男Ｂ
+
+//<1307> Super Horny Squad Leader
+<1307> Super Horny Squad Leader
+
+//<1308> Handsome-chin
+<1308> Handsome-chin
+
+//<1309> Homota
+<1309> Homota
+
+//<1310> Hina-chin
+<1310> Hina-chin
+
+//<1311> Hideki
+<1311> Hideki
+
+//<1312> 男子生徒
+<1312> 男子生徒
+
+//<1313> ？？
+<1313> ？？
+{24d9f} 33 // 1313
+
+//<1314> 「えーと、ゴーヤチャンプルー定食ーー!!」
+<1314> 「えーと、ゴーヤチャンプルー定食ーー!!」
+
+//<1315> nothing
+<1315> nothing
+
+//<1316> nothing
+<1316> nothing
+
+//<1317> nothing
+<1317> nothing
+
+//<1318> nothing
+<1318> nothing
+
+//<1319> nothing
+<1319> nothing
+
+//<1320> Otonashi
+<1320> Otonashi
+
+//<1321> クソ坊主
+<1321> クソ坊主
+
+//<1322> 代理人
+<1322> 代理人
+
+//<1323> 微妙すぎるイケメン
+<1323> 微妙すぎるイケメン
+
+//<1324> ロリコン
+<1324> ロリコン
+
+//<1325> メガネ仲間
+<1325> メガネ仲間
+
+//<1326> 暗算日本記録保持者
+<1326> 暗算日本記録保持者
+
+//<1327> 通り魔
+<1327> 通り魔
+
+//<1328> 記憶ナシ男
+<1328> 記憶ナシ男
+
+//<1329> 音速
+<1329> 音速
+
+//<1330> 無限
+<1330> 無限
+
+//<1331> Horny Samurai
+<1331> Horny Samurai
+
+//<1332> Super Horny Squad Member 1
+<1332> Super Horny Squad Member 1
+
+//<1333> Horny Boy
+<1333> Horny Boy
+
+//<1334> Ugly Yuri
+<1334> Ugly Yuri
+
+//<1335> Depussy
+<1335> Depussy
+
+//<1336> Perverted American Dog
+<1336> Perverted American Dog
+
+//<1337> Zeus
+<1337> Zeus
+
+//<1338> Hinata mark II
+<1338> Hinata mark II
+
+//<1339> Dung Beetle
+<1339> Dung Beetle
+
+//<1340> Mass Produced Hinata
+<1340> Mass Produced Hinata
+
+//<1341> ？？
+<1341> ？？
+
+//<1342> 「すげーメニューがあるんだな…」
+<1342> 「すげーメニューがあるんだな…」
+
+//<1343> nothing
+<1343> nothing
+
+//<1344> nothing
+<1344> nothing
+
+//<1345> nothing
+<1345> nothing
+
+//<1346> nothing
+<1346> nothing
+
+//<1347> nothing
+<1347> nothing
+
+//<1348> nothing
+<1348> nothing
+
+//<1349> カウンターに食券を差し出し、受け渡し口に並ぶ。
+<1349> カウンターに食券を差し出し、受け渡し口に並ぶ。
+
+//<1350> 食堂のおばさん
+<1350> 食堂のおばさん
+
+//<1351> 「はいよー、ゴーヤチャンプルー定食とおろしチキンカツ定食ー」
+<1351> 「はいよー、ゴーヤチャンプルー定食とおろしチキンカツ定食ー」
+
+//<1352> 出てきた盆を持って、テーブルに向かい合って座る。
+<1352> 出てきた盆を持って、テーブルに向かい合って座る。
+
+//<1353> nothing
+<1353> nothing
+
+//<1354> nothing
+<1354> nothing
+
+//<1355> nothing
+<1355> nothing
+
+//<1356> nothing
+<1356> nothing
+
+//<1357> nothing
+<1357> nothing
+
+//<1358> 目の前のおろしチキンカツ定食がすごく美味そうに思える…。
+<1358> 目の前のおろしチキンカツ定食がすごく美味そうに思える…。
+
+//<1359> nothing
+<1359> nothing
+
+//<1360> nothing
+<1360> nothing
+
+//<1361> nothing
+<1361> nothing
+
+//<1362> nothing
+<1362> nothing
+
+//<1363> nothing
+<1363> nothing
+
+//<1364> Hinata
+<1364> Hinata
+
+//<1365> 男Ｂ
+<1365> 男Ｂ
+
+//<1366> Super Horny Squad Leader
+<1366> Super Horny Squad Leader
+
+//<1367> Handsome-chin
+<1367> Handsome-chin
+
+//<1368> Homota
+<1368> Homota
+
+//<1369> Hina-chin
+<1369> Hina-chin
+
+//<1370> Hideki
+<1370> Hideki
+
+//<1371> 男子生徒
+<1371> 男子生徒
+
+//<1372> ？？
+<1372> ？？
+
+//<1373> 「どうした?　ゴーヤが苦手だったり?」
+<1373> 「どうした?　ゴーヤが苦手だったり?」
+
+//<1374> Otonashi
+<1374> Otonashi
+
+//<1375> クソ坊主
+<1375> クソ坊主
+
+//<1376> 代理人
+<1376> 代理人
+
+//<1377> 微妙すぎるイケメン
+<1377> 微妙すぎるイケメン
+
+//<1378> ロリコン
+<1378> ロリコン
+
+//<1379> メガネ仲間
+<1379> メガネ仲間
+
+//<1380> 暗算日本記録保持者
+<1380> 暗算日本記録保持者
+
+//<1381> 通り魔
+<1381> 通り魔
+
+//<1382> 記憶ナシ男
+<1382> 記憶ナシ男
+
+//<1383> 音速
+<1383> 音速
+
+//<1384> 無限
+<1384> 無限
+
+//<1385> Horny Samurai
+<1385> Horny Samurai
+
+//<1386> Super Horny Squad Member 1
+<1386> Super Horny Squad Member 1
+
+//<1387> Horny Boy
+<1387> Horny Boy
+
+//<1388> Ugly Yuri
+<1388> Ugly Yuri
+
+//<1389> Depussy
+<1389> Depussy
+
+//<1390> Perverted American Dog
+<1390> Perverted American Dog
+
+//<1391> Zeus
+<1391> Zeus
+
+//<1392> Hinata mark II
+<1392> Hinata mark II
+
+//<1393> Dung Beetle
+<1393> Dung Beetle
+
+//<1394> Mass Produced Hinata
+<1394> Mass Produced Hinata
+
+//<1395> ？？
+<1395> ？？
+
+//<1396> 「記憶喪失だし、食べてみないことにはわからない…」
+<1396> 「記憶喪失だし、食べてみないことにはわからない…」
+
+//<1397> nothing
+<1397> nothing
+
+//<1398> nothing
+<1398> nothing
+
+//<1399> nothing
+<1399> nothing
+
+//<1400> nothing
+<1400> nothing
+
+//<1401> nothing
+<1401> nothing
+
+//<1402> Hinata
+<1402> Hinata
+
+//<1403> 男Ｂ
+<1403> 男Ｂ
+
+//<1404> Super Horny Squad Leader
+<1404> Super Horny Squad Leader
+
+//<1405> Handsome-chin
+<1405> Handsome-chin
+
+//<1406> Homota
+<1406> Homota
+
+//<1407> Hina-chin
+<1407> Hina-chin
+
+//<1408> Hideki
+<1408> Hideki
+
+//<1409> 男子生徒
+<1409> 男子生徒
+
+//<1410> ？？
+<1410> ？？
+
+//<1411> 「だろーな。では頂きます」
+<1411> 「だろーな。では頂きます」
+
+//<1412> Otonashi
+<1412> Otonashi
+
+//<1413> クソ坊主
+<1413> クソ坊主
+
+//<1414> 代理人
+<1414> 代理人
+
+//<1415> 微妙すぎるイケメン
+<1415> 微妙すぎるイケメン
+
+//<1416> ロリコン
+<1416> ロリコン
+
+//<1417> メガネ仲間
+<1417> メガネ仲間
+
+//<1418> 暗算日本記録保持者
+<1418> 暗算日本記録保持者
+
+//<1419> 通り魔
+<1419> 通り魔
+
+//<1420> 記憶ナシ男
+<1420> 記憶ナシ男
+
+//<1421> 音速
+<1421> 音速
+
+//<1422> 無限
+<1422> 無限
+
+//<1423> Horny Samurai
+<1423> Horny Samurai
+
+//<1424> Super Horny Squad Member 1
+<1424> Super Horny Squad Member 1
+
+//<1425> Horny Boy
+<1425> Horny Boy
+
+//<1426> Ugly Yuri
+<1426> Ugly Yuri
+
+//<1427> Depussy
+<1427> Depussy
+
+//<1428> Perverted American Dog
+<1428> Perverted American Dog
+
+//<1429> Zeus
+<1429> Zeus
+
+//<1430> Hinata mark II
+<1430> Hinata mark II
+
+//<1431> Dung Beetle
+<1431> Dung Beetle
+
+//<1432> Mass Produced Hinata
+<1432> Mass Produced Hinata
+
+//<1433> ？？
+<1433> ？？
+
+//<1434> 「頂きます」
+<1434> 「頂きます」
+
+//<1435> nothing
+<1435> nothing
+
+//<1436> nothing
+<1436> nothing
+
+//<1437> nothing
+<1437> nothing
+
+//<1438> nothing
+<1438> nothing
+
+//<1439> nothing
+<1439> nothing
+
+//<1440> nothing
+<1440> nothing
+
+//<1441> まずゴーヤだけを食べてみる。
+<1441> まずゴーヤだけを食べてみる。
+
+//<1442> この味は…。
+<1442> この味は…。
+
+//<1443> Otonashi
+<1443> Otonashi
+
+//<1444> クソ坊主
+<1444> クソ坊主
+
+//<1445> 代理人
+<1445> 代理人
+
+//<1446> 微妙すぎるイケメン
+<1446> 微妙すぎるイケメン
+
+//<1447> ロリコン
+<1447> ロリコン
+
+//<1448> メガネ仲間
+<1448> メガネ仲間
+
+//<1449> 暗算日本記録保持者
+<1449> 暗算日本記録保持者
+
+//<1450> 通り魔
+<1450> 通り魔
+
+//<1451> 記憶ナシ男
+<1451> 記憶ナシ男
+
+//<1452> 音速
+<1452> 音速
+
+//<1453> 無限
+<1453> 無限
+
+//<1454> Horny Samurai
+<1454> Horny Samurai
+
+//<1455> Super Horny Squad Member 1
+<1455> Super Horny Squad Member 1
+
+//<1456> Horny Boy
+<1456> Horny Boy
+
+//<1457> Ugly Yuri
+<1457> Ugly Yuri
+
+//<1458> Depussy
+<1458> Depussy
+
+//<1459> Perverted American Dog
+<1459> Perverted American Dog
+
+//<1460> Zeus
+<1460> Zeus
+
+//<1461> Hinata mark II
+<1461> Hinata mark II
+
+//<1462> Dung Beetle
+<1462> Dung Beetle
+
+//<1463> Mass Produced Hinata
+<1463> Mass Produced Hinata
+
+//<1464> ？？
+<1464> ？？
+
+//<1465> 「苦っ!」
+<1465> 「苦っ!」
+
+//<1466> nothing
+<1466> nothing
+
+//<1467> nothing
+<1467> nothing
+
+//<1468> nothing
+<1468> nothing
+
+//<1469> nothing
+<1469> nothing
+
+//<1470> nothing
+<1470> nothing
+
+//<1471> Hinata
+<1471> Hinata
+
+//<1472> 男Ｂ
+<1472> 男Ｂ
+
+//<1473> Super Horny Squad Leader
+<1473> Super Horny Squad Leader
+
+//<1474> Handsome-chin
+<1474> Handsome-chin
+
+//<1475> Homota
+<1475> Homota
+
+//<1476> Hina-chin
+<1476> Hina-chin
+
+//<1477> Hideki
+<1477> Hideki
+
+//<1478> 男子生徒
+<1478> 男子生徒
+
+//<1479> ？？
+<1479> ？？
+
+//<1480> 「え?　苦手か?」
+<1480> 「え?　苦手か?」
+
+//<1481> Otonashi
+<1481> Otonashi
+
+//<1482> クソ坊主
+<1482> クソ坊主
+
+//<1483> 代理人
+<1483> 代理人
+
+//<1484> 微妙すぎるイケメン
+<1484> 微妙すぎるイケメン
+
+//<1485> ロリコン
+<1485> ロリコン
+
+//<1486> メガネ仲間
+<1486> メガネ仲間
+
+//<1487> 暗算日本記録保持者
+<1487> 暗算日本記録保持者
+
+//<1488> 通り魔
+<1488> 通り魔
+
+//<1489> 記憶ナシ男
+<1489> 記憶ナシ男
+
+//<1490> 音速
+<1490> 音速
+
+//<1491> 無限
+<1491> 無限
+
+//<1492> Horny Samurai
+<1492> Horny Samurai
+
+//<1493> Super Horny Squad Member 1
+<1493> Super Horny Squad Member 1
+
+//<1494> Horny Boy
+<1494> Horny Boy
+
+//<1495> Ugly Yuri
+<1495> Ugly Yuri
+
+//<1496> Depussy
+<1496> Depussy
+
+//<1497> Perverted American Dog
+<1497> Perverted American Dog
+
+//<1498> Zeus
+<1498> Zeus
+
+//<1499> Hinata mark II
+<1499> Hinata mark II
+
+//<1500> Dung Beetle
+<1500> Dung Beetle
+
+//<1501> Mass Produced Hinata
+<1501> Mass Produced Hinata
+
+//<1502> ？？
+<1502> ？？
+
+//<1503> 「いや、これぐらいなら大丈夫だ…」
+<1503> 「いや、これぐらいなら大丈夫だ…」
+
+//<1504> nothing
+<1504> nothing
+
+//<1505> nothing
+<1505> nothing
+
+//<1506> nothing
+<1506> nothing
+
+//<1507> nothing
+<1507> nothing
+
+//<1508> nothing
+<1508> nothing
+
+//<1509> nothing
+<1509> nothing
+
+//<1510> 記憶にない味だったが、黙々と食べる。
+<1510> 記憶にない味だったが、黙々と食べる。
+
+//<1511> nothing
+<1511> nothing
+
+//<1512> nothing
+<1512> nothing
+
+//<1513> nothing
+<1513> nothing
+
+//<1514> nothing
+<1514> nothing
+
+//<1515> nothing
+<1515> nothing
+
+//<1516> Hinata
+<1516> Hinata
+
+//<1517> 男Ｂ
+<1517> 男Ｂ
+
+//<1518> Super Horny Squad Leader
+<1518> Super Horny Squad Leader
+
+//<1519> Handsome-chin
+<1519> Handsome-chin
+
+//<1520> Homota
+<1520> Homota
+
+//<1521> Hina-chin
+<1521> Hina-chin
+
+//<1522> Hideki
+<1522> Hideki
+
+//<1523> 男子生徒
+<1523> 男子生徒
+
+//<1524> ？？
+<1524> ？？
+
+//<1525> 「お前、昨日のトルネードで拾った食券、一枚だけだろ」
+<1525> 「お前、昨日のトルネードで拾った食券、一枚だけだろ」
+
+//<1526> Otonashi
+<1526> Otonashi
+
+//<1527> クソ坊主
+<1527> クソ坊主
+
+//<1528> 代理人
+<1528> 代理人
+
+//<1529> 微妙すぎるイケメン
+<1529> 微妙すぎるイケメン
+
+//<1530> ロリコン
+<1530> ロリコン
+
+//<1531> メガネ仲間
+<1531> メガネ仲間
+
+//<1532> 暗算日本記録保持者
+<1532> 暗算日本記録保持者
+
+//<1533> 通り魔
+<1533> 通り魔
+
+//<1534> 記憶ナシ男
+<1534> 記憶ナシ男
+
+//<1535> 音速
+<1535> 音速
+
+//<1536> 無限
+<1536> 無限
+
+//<1537> Horny Samurai
+<1537> Horny Samurai
+
+//<1538> Super Horny Squad Member 1
+<1538> Super Horny Squad Member 1
+
+//<1539> Horny Boy
+<1539> Horny Boy
+
+//<1540> Ugly Yuri
+<1540> Ugly Yuri
+
+//<1541> Depussy
+<1541> Depussy
+
+//<1542> Perverted American Dog
+<1542> Perverted American Dog
+
+//<1543> Zeus
+<1543> Zeus
+
+//<1544> Hinata mark II
+<1544> Hinata mark II
+
+//<1545> Dung Beetle
+<1545> Dung Beetle
+
+//<1546> Mass Produced Hinata
+<1546> Mass Produced Hinata
+
+//<1547> ？？
+<1547> ？？
+
+//<1548> 「ああ」
+<1548> 「ああ」
+
+//<1549> nothing
+<1549> nothing
+
+//<1550> nothing
+<1550> nothing
+
+//<1551> nothing
+<1551> nothing
+
+//<1552> nothing
+<1552> nothing
+
+//<1553> nothing
+<1553> nothing
+
+//<1554> Hinata
+<1554> Hinata
+
+//<1555> 男Ｂ
+<1555> 男Ｂ
+
+//<1556> Super Horny Squad Leader
+<1556> Super Horny Squad Leader
+
+//<1557> Handsome-chin
+<1557> Handsome-chin
+
+//<1558> Homota
+<1558> Homota
+
+//<1559> Hina-chin
+<1559> Hina-chin
+
+//<1560> Hideki
+<1560> Hideki
+
+//<1561> 男子生徒
+<1561> 男子生徒
+
+//<1562> ？？
+<1562> ？？
+
+//<1563> 「いつでも好きに食えるように、ほら、やるよ」
+<1563> 「いつでも好きに食えるように、ほら、やるよ」
+
+//<1564> nothing
+<1564> nothing
+
+//<1565> nothing
+<1565> nothing
+
+//<1566> nothing
+<1566> nothing
+
+//<1567> nothing
+<1567> nothing
+
+//<1568> nothing
+<1568> nothing
+
+//<1569> nothing
+<1569> nothing
+
+//<1570> ポケットから適当に食券を俺の手のひらにばらばらと載せてくれる。
+<1570> ポケットから適当に食券を俺の手のひらにばらばらと載せてくれる。
+
+//<1571> Otonashi
+<1571> Otonashi
+
+//<1572> クソ坊主
+<1572> クソ坊主
+
+//<1573> 代理人
+<1573> 代理人
+
+//<1574> 微妙すぎるイケメン
+<1574> 微妙すぎるイケメン
+
+//<1575> ロリコン
+<1575> ロリコン
+
+//<1576> メガネ仲間
+<1576> メガネ仲間
+
+//<1577> 暗算日本記録保持者
+<1577> 暗算日本記録保持者
+
+//<1578> 通り魔
+<1578> 通り魔
+
+//<1579> 記憶ナシ男
+<1579> 記憶ナシ男
+
+//<1580> 音速
+<1580> 音速
+
+//<1581> 無限
+<1581> 無限
+
+//<1582> Horny Samurai
+<1582> Horny Samurai
+
+//<1583> Super Horny Squad Member 1
+<1583> Super Horny Squad Member 1
+
+//<1584> Horny Boy
+<1584> Horny Boy
+
+//<1585> Ugly Yuri
+<1585> Ugly Yuri
+
+//<1586> Depussy
+<1586> Depussy
+
+//<1587> Perverted American Dog
+<1587> Perverted American Dog
+
+//<1588> Zeus
+<1588> Zeus
+
+//<1589> Hinata mark II
+<1589> Hinata mark II
+
+//<1590> Dung Beetle
+<1590> Dung Beetle
+
+//<1591> Mass Produced Hinata
+<1591> Mass Produced Hinata
+
+//<1592> ？？
+<1592> ？？
+
+//<1593> 「ありがたい」
+<1593> 「ありがたい」
+
+//<1594> nothing
+<1594> nothing
+
+//<1595> nothing
+<1595> nothing
+
+//<1596> nothing
+<1596> nothing
+
+//<1597> nothing
+<1597> nothing
+
+//<1598> nothing
+<1598> nothing
+
+//<1599> Hinata
+<1599> Hinata
+
+//<1600> 男Ｂ
+<1600> 男Ｂ
+
+//<1601> Super Horny Squad Leader
+<1601> Super Horny Squad Leader
+
+//<1602> Handsome-chin
+<1602> Handsome-chin
+
+//<1603> Homota
+<1603> Homota
+
+//<1604> Hina-chin
+<1604> Hina-chin
+
+//<1605> Hideki
+<1605> Hideki
+
+//<1606> 男子生徒
+<1606> 男子生徒
+
+//<1607> ？？
+<1607> ？？
+
+//<1608> 「次のトルネードでは、ちゃんとたくさん拾えよ」
+<1608> 「次のトルネードでは、ちゃんとたくさん拾えよ」
+
+//<1609> Otonashi
+<1609> Otonashi
+
+//<1610> クソ坊主
+<1610> クソ坊主
+
+//<1611> 代理人
+<1611> 代理人
+
+//<1612> 微妙すぎるイケメン
+<1612> 微妙すぎるイケメン
+
+//<1613> ロリコン
+<1613> ロリコン
+
+//<1614> メガネ仲間
+<1614> メガネ仲間
+
+//<1615> 暗算日本記録保持者
+<1615> 暗算日本記録保持者
+
+//<1616> 通り魔
+<1616> 通り魔
+
+//<1617> 記憶ナシ男
+<1617> 記憶ナシ男
+
+//<1618> 音速
+<1618> 音速
+
+//<1619> 無限
+<1619> 無限
+
+//<1620> Horny Samurai
+<1620> Horny Samurai
+
+//<1621> Super Horny Squad Member 1
+<1621> Super Horny Squad Member 1
+
+//<1622> Horny Boy
+<1622> Horny Boy
+
+//<1623> Ugly Yuri
+<1623> Ugly Yuri
+
+//<1624> Depussy
+<1624> Depussy
+
+//<1625> Perverted American Dog
+<1625> Perverted American Dog
+
+//<1626> Zeus
+<1626> Zeus
+
+//<1627> Hinata mark II
+<1627> Hinata mark II
+
+//<1628> Dung Beetle
+<1628> Dung Beetle
+
+//<1629> Mass Produced Hinata
+<1629> Mass Produced Hinata
+
+//<1630> ？？
+<1630> ？？
+
+//<1631> 「ああ」
+<1631> 「ああ」
+
+//<1632> nothing
+<1632> nothing
+
+//<1633> nothing
+<1633> nothing
+
+//<1634> nothing
+<1634> nothing
+
+//<1635> nothing
+<1635> nothing
+
+//<1636> nothing
+<1636> nothing
+
+//<1637> nothing
+<1637> nothing
+
+//<1638> Otonashi
+<1638> Otonashi
+
+//<1639> クソ坊主
+<1639> クソ坊主
+
+//<1640> 代理人
+<1640> 代理人
+
+//<1641> 微妙すぎるイケメン
+<1641> 微妙すぎるイケメン
+
+//<1642> ロリコン
+<1642> ロリコン
+
+//<1643> メガネ仲間
+<1643> メガネ仲間
+
+//<1644> 暗算日本記録保持者
+<1644> 暗算日本記録保持者
+
+//<1645> 通り魔
+<1645> 通り魔
+
+//<1646> 記憶ナシ男
+<1646> 記憶ナシ男
+
+//<1647> 音速
+<1647> 音速
+
+//<1648> 無限
+<1648> 無限
+
+//<1649> Horny Samurai
+<1649> Horny Samurai
+
+//<1650> Super Horny Squad Member 1
+<1650> Super Horny Squad Member 1
+
+//<1651> Horny Boy
+<1651> Horny Boy
+
+//<1652> Ugly Yuri
+<1652> Ugly Yuri
+
+//<1653> Depussy
+<1653> Depussy
+
+//<1654> Perverted American Dog
+<1654> Perverted American Dog
+
+//<1655> Zeus
+<1655> Zeus
+
+//<1656> Hinata mark II
+<1656> Hinata mark II
+
+//<1657> Dung Beetle
+<1657> Dung Beetle
+
+//<1658> Mass Produced Hinata
+<1658> Mass Produced Hinata
+
+//<1659> ？？
+<1659> ？？
+
+//<1660> 「なあ、他の連中はどうしてるんだ?」
+<1660> 「なあ、他の連中はどうしてるんだ?」
+
+//<1661> 食べながら、訊いてみる。
+<1661> 食べながら、訊いてみる。
+
+//<1662> nothing
+<1662> nothing
+
+//<1663> nothing
+<1663> nothing
+
+//<1664> nothing
+<1664> nothing
+
+//<1665> nothing
+<1665> nothing
+
+//<1666> nothing
+<1666> nothing
+
+//<1667> Hinata
+<1667> Hinata
+
+//<1668> 男Ｂ
+<1668> 男Ｂ
+
+//<1669> Super Horny Squad Leader
+<1669> Super Horny Squad Leader
+
+//<1670> Handsome-chin
+<1670> Handsome-chin
+
+//<1671> Homota
+<1671> Homota
+
+//<1672> Hina-chin
+<1672> Hina-chin
+
+//<1673> Hideki
+<1673> Hideki
+
+//<1674> 男子生徒
+<1674> 男子生徒
+
+//<1675> ？？
+<1675> ？？
+
+//<1676> 「他の幹部か?」
+<1676> 「他の幹部か?」
+
+//<1677> Otonashi
+<1677> Otonashi
+
+//<1678> クソ坊主
+<1678> クソ坊主
+
+//<1679> 代理人
+<1679> 代理人
+
+//<1680> 微妙すぎるイケメン
+<1680> 微妙すぎるイケメン
+
+//<1681> ロリコン
+<1681> ロリコン
+
+//<1682> メガネ仲間
+<1682> メガネ仲間
+
+//<1683> 暗算日本記録保持者
+<1683> 暗算日本記録保持者
+
+//<1684> 通り魔
+<1684> 通り魔
+
+//<1685> 記憶ナシ男
+<1685> 記憶ナシ男
+
+//<1686> 音速
+<1686> 音速
+
+//<1687> 無限
+<1687> 無限
+
+//<1688> Horny Samurai
+<1688> Horny Samurai
+
+//<1689> Super Horny Squad Member 1
+<1689> Super Horny Squad Member 1
+
+//<1690> Horny Boy
+<1690> Horny Boy
+
+//<1691> Ugly Yuri
+<1691> Ugly Yuri
+
+//<1692> Depussy
+<1692> Depussy
+
+//<1693> Perverted American Dog
+<1693> Perverted American Dog
+
+//<1694> Zeus
+<1694> Zeus
+
+//<1695> Hinata mark II
+<1695> Hinata mark II
+
+//<1696> Dung Beetle
+<1696> Dung Beetle
+
+//<1697> Mass Produced Hinata
+<1697> Mass Produced Hinata
+
+//<1698> ？？
+<1698> ？？
+
+//<1699> 「ああ…苦っ!」
+<1699> 「ああ…苦っ!」
+
+//<1700> 噛む度にゴーヤの苦みが口の中に広がっていく。
+<1700> 噛む度にゴーヤの苦みが口の中に広がっていく。
+
+//<1701> nothing
+<1701> nothing
+
+//<1702> nothing
+<1702> nothing
+
+//<1703> nothing
+<1703> nothing
+
+//<1704> nothing
+<1704> nothing
+
+//<1705> nothing
+<1705> nothing
+
+//<1706> Hinata
+<1706> Hinata
+
+//<1707> 男Ｂ
+<1707> 男Ｂ
+
+//<1708> Super Horny Squad Leader
+<1708> Super Horny Squad Leader
+
+//<1709> Handsome-chin
+<1709> Handsome-chin
+
+//<1710> Homota
+<1710> Homota
+
+//<1711> Hina-chin
+<1711> Hina-chin
+
+//<1712> Hideki
+<1712> Hideki
+
+//<1713> 男子生徒
+<1713> 男子生徒
+
+//<1714> ？？
+<1714> ？？
+
+//<1715> 「そうだなあ…松下五段は森で柔道の特訓。柔道を習いたいなら松下五段を探すんだな」
+<1715> 「そうだなあ…松下五段は森で柔道の特訓。柔道を習いたいなら松下五段を探すんだな」
+
+//<1716> Otonashi
+<1716> Otonashi
+
+//<1717> クソ坊主
+<1717> クソ坊主
+
+//<1718> 代理人
+<1718> 代理人
+
+//<1719> 微妙すぎるイケメン
+<1719> 微妙すぎるイケメン
+
+//<1720> ロリコン
+<1720> ロリコン
+
+//<1721> メガネ仲間
+<1721> メガネ仲間
+
+//<1722> 暗算日本記録保持者
+<1722> 暗算日本記録保持者
+
+//<1723> 通り魔
+<1723> 通り魔
+
+//<1724> 記憶ナシ男
+<1724> 記憶ナシ男
+
+//<1725> 音速
+<1725> 音速
+
+//<1726> 無限
+<1726> 無限
+
+//<1727> Horny Samurai
+<1727> Horny Samurai
+
+//<1728> Super Horny Squad Member 1
+<1728> Super Horny Squad Member 1
+
+//<1729> Horny Boy
+<1729> Horny Boy
+
+//<1730> Ugly Yuri
+<1730> Ugly Yuri
+
+//<1731> Depussy
+<1731> Depussy
+
+//<1732> Perverted American Dog
+<1732> Perverted American Dog
+
+//<1733> Zeus
+<1733> Zeus
+
+//<1734> Hinata mark II
+<1734> Hinata mark II
+
+//<1735> Dung Beetle
+<1735> Dung Beetle
+
+//<1736> Mass Produced Hinata
+<1736> Mass Produced Hinata
+
+//<1737> ？？
+<1737> ？？
+
+//<1738> (…苦っ)
+<1738> (…苦っ)
+
+//<1739> nothing
+<1739> nothing
+
+//<1740> nothing
+<1740> nothing
+
+//<1741> nothing
+<1741> nothing
+
+//<1742> nothing
+<1742> nothing
+
+//<1743> nothing
+<1743> nothing
+
+//<1744> Hinata
+<1744> Hinata
+
+//<1745> 男Ｂ
+<1745> 男Ｂ
+
+//<1746> Super Horny Squad Leader
+<1746> Super Horny Squad Leader
+
+//<1747> Handsome-chin
+<1747> Handsome-chin
+
+//<1748> Homota
+<1748> Homota
+
+//<1749> Hina-chin
+<1749> Hina-chin
+
+//<1750> Hideki
+<1750> Hideki
+
+//<1751> 男子生徒
+<1751> 男子生徒
+
+//<1752> ？？
+<1752> ？？
+
+//<1753> 「椎名はレアキャラで、訓練している姿もほとんど見かけない。見つけたら、すぐ教えを請うことだな。情けない話だがあいつが戦線で一番強い」
+<1753> 「椎名はレアキャラで、訓練している姿もほとんど見かけない。見つけたら、すぐ教えを請うことだな。情けない話だがあいつが戦線で一番強い」
+
+//<1754> Otonashi
+<1754> Otonashi
+
+//<1755> クソ坊主
+<1755> クソ坊主
+
+//<1756> 代理人
+<1756> 代理人
+
+//<1757> 微妙すぎるイケメン
+<1757> 微妙すぎるイケメン
+
+//<1758> ロリコン
+<1758> ロリコン
+
+//<1759> メガネ仲間
+<1759> メガネ仲間
+
+//<1760> 暗算日本記録保持者
+<1760> 暗算日本記録保持者
+
+//<1761> 通り魔
+<1761> 通り魔
+
+//<1762> 記憶ナシ男
+<1762> 記憶ナシ男
+
+//<1763> 音速
+<1763> 音速
+
+//<1764> 無限
+<1764> 無限
+
+//<1765> Horny Samurai
+<1765> Horny Samurai
+
+//<1766> Super Horny Squad Member 1
+<1766> Super Horny Squad Member 1
+
+//<1767> Horny Boy
+<1767> Horny Boy
+
+//<1768> Ugly Yuri
+<1768> Ugly Yuri
+
+//<1769> Depussy
+<1769> Depussy
+
+//<1770> Perverted American Dog
+<1770> Perverted American Dog
+
+//<1771> Zeus
+<1771> Zeus
+
+//<1772> Hinata mark II
+<1772> Hinata mark II
+
+//<1773> Dung Beetle
+<1773> Dung Beetle
+
+//<1774> Mass Produced Hinata
+<1774> Mass Produced Hinata
+
+//<1775> ？？
+<1775> ？？
+
+//<1776> (…苦ーっ!)
+<1776> (…苦ーっ!)
+
+//<1777> nothing
+<1777> nothing
+
+//<1778> nothing
+<1778> nothing
+
+//<1779> nothing
+<1779> nothing
+
+//<1780> nothing
+<1780> nothing
+
+//<1781> nothing
+<1781> nothing
+
+//<1782> Hinata
+<1782> Hinata
+
+//<1783> 男Ｂ
+<1783> 男Ｂ
+
+//<1784> Super Horny Squad Leader
+<1784> Super Horny Squad Leader
+
+//<1785> Handsome-chin
+<1785> Handsome-chin
+
+//<1786> Homota
+<1786> Homota
+
+//<1787> Hina-chin
+<1787> Hina-chin
+
+//<1788> Hideki
+<1788> Hideki
+
+//<1789> 男子生徒
+<1789> 男子生徒
+
+//<1790> ？？
+<1790> ？？
+
+//<1791> 「ＴＫは校内のどこかでひたすら踊ってる。頼めばダンスを教えてくれるぜ?　戦いにはまったく関係ないスキルだけどな」
+<1791> 「ＴＫは校内のどこかでひたすら踊ってる。頼めばダンスを教えてくれるぜ?　戦いにはまったく関係ないスキルだけどな」
+
+//<1792> Otonashi
+<1792> Otonashi
+
+//<1793> クソ坊主
+<1793> クソ坊主
+
+//<1794> 代理人
+<1794> 代理人
+
+//<1795> 微妙すぎるイケメン
+<1795> 微妙すぎるイケメン
+
+//<1796> ロリコン
+<1796> ロリコン
+
+//<1797> メガネ仲間
+<1797> メガネ仲間
+
+//<1798> 暗算日本記録保持者
+<1798> 暗算日本記録保持者
+
+//<1799> 通り魔
+<1799> 通り魔
+
+//<1800> 記憶ナシ男
+<1800> 記憶ナシ男
+
+//<1801> 音速
+<1801> 音速
+
+//<1802> 無限
+<1802> 無限
+
+//<1803> Horny Samurai
+<1803> Horny Samurai
+
+//<1804> Super Horny Squad Member 1
+<1804> Super Horny Squad Member 1
+
+//<1805> Horny Boy
+<1805> Horny Boy
+
+//<1806> Ugly Yuri
+<1806> Ugly Yuri
+
+//<1807> Depussy
+<1807> Depussy
+
+//<1808> Perverted American Dog
+<1808> Perverted American Dog
+
+//<1809> Zeus
+<1809> Zeus
+
+//<1810> Hinata mark II
+<1810> Hinata mark II
+
+//<1811> Dung Beetle
+<1811> Dung Beetle
+
+//<1812> Mass Produced Hinata
+<1812> Mass Produced Hinata
+
+//<1813> ？？
+<1813> ？？
+
+//<1814> (…苦ーーっ!)
+<1814> (…苦ーーっ!)
+
+//<1815> nothing
+<1815> nothing
+
+//<1816> nothing
+<1816> nothing
+
+//<1817> nothing
+<1817> nothing
+
+//<1818> nothing
+<1818> nothing
+
+//<1819> nothing
+<1819> nothing
+
+//<1820> Hinata
+<1820> Hinata
+
+//<1821> 男Ｂ
+<1821> 男Ｂ
+
+//<1822> Super Horny Squad Leader
+<1822> Super Horny Squad Leader
+
+//<1823> Handsome-chin
+<1823> Handsome-chin
+
+//<1824> Homota
+<1824> Homota
+
+//<1825> Hina-chin
+<1825> Hina-chin
+
+//<1826> Hideki
+<1826> Hideki
+
+//<1827> 男子生徒
+<1827> 男子生徒
+
+//<1828> ？？
+<1828> ？？
+
+//<1829> 「高松は知的な外見だけど馬鹿だから、何もしてないだろう。精々眼鏡を磨いているだけだ。話すと馬鹿がうつるぞ」
+<1829> 「高松は知的な外見だけど馬鹿だから、何もしてないだろう。精々眼鏡を磨いているだけだ。話すと馬鹿がうつるぞ」
+
+//<1830> Otonashi
+<1830> Otonashi
+
+//<1831> クソ坊主
+<1831> クソ坊主
+
+//<1832> 代理人
+<1832> 代理人
+
+//<1833> 微妙すぎるイケメン
+<1833> 微妙すぎるイケメン
+
+//<1834> ロリコン
+<1834> ロリコン
+
+//<1835> メガネ仲間
+<1835> メガネ仲間
+
+//<1836> 暗算日本記録保持者
+<1836> 暗算日本記録保持者
+
+//<1837> 通り魔
+<1837> 通り魔
+
+//<1838> 記憶ナシ男
+<1838> 記憶ナシ男
+
+//<1839> 音速
+<1839> 音速
+
+//<1840> 無限
+<1840> 無限
+
+//<1841> Horny Samurai
+<1841> Horny Samurai
+
+//<1842> Super Horny Squad Member 1
+<1842> Super Horny Squad Member 1
+
+//<1843> Horny Boy
+<1843> Horny Boy
+
+//<1844> Ugly Yuri
+<1844> Ugly Yuri
+
+//<1845> Depussy
+<1845> Depussy
+
+//<1846> Perverted American Dog
+<1846> Perverted American Dog
+
+//<1847> Zeus
+<1847> Zeus
+
+//<1848> Hinata mark II
+<1848> Hinata mark II
+
+//<1849> Dung Beetle
+<1849> Dung Beetle
+
+//<1850> Mass Produced Hinata
+<1850> Mass Produced Hinata
+
+//<1851> ？？
+<1851> ？？
+
+//<1852> (…苦ーーーっ!)
+<1852> (…苦ーーーっ!)
+
+//<1853> nothing
+<1853> nothing
+
+//<1854> nothing
+<1854> nothing
+
+//<1855> nothing
+<1855> nothing
+
+//<1856> nothing
+<1856> nothing
+
+//<1857> nothing
+<1857> nothing
+
+//<1858> Hinata
+<1858> Hinata
+
+//<1859> 男Ｂ
+<1859> 男Ｂ
+
+//<1860> Super Horny Squad Leader
+<1860> Super Horny Squad Leader
+
+//<1861> Handsome-chin
+<1861> Handsome-chin
+
+//<1862> Homota
+<1862> Homota
+
+//<1863> Hina-chin
+<1863> Hina-chin
+
+//<1864> Hideki
+<1864> Hideki
+
+//<1865> 男子生徒
+<1865> 男子生徒
+
+//<1866> ？？
+<1866> ？？
+
+//<1867> 「ガルデモは午後は基本、ひたすら練習。午前中は岩沢が空き教室で作曲や作詞をしているが、あまり邪魔すんなよ?」
+<1867> 「ガルデモは午後は基本、ひたすら練習。午前中は岩沢が空き教室で作曲や作詞をしているが、あまり邪魔すんなよ?」
+
+//<1868> Otonashi
+<1868> Otonashi
+
+//<1869> クソ坊主
+<1869> クソ坊主
+
+//<1870> 代理人
+<1870> 代理人
+
+//<1871> 微妙すぎるイケメン
+<1871> 微妙すぎるイケメン
+
+//<1872> ロリコン
+<1872> ロリコン
+
+//<1873> メガネ仲間
+<1873> メガネ仲間
+
+//<1874> 暗算日本記録保持者
+<1874> 暗算日本記録保持者
+
+//<1875> 通り魔
+<1875> 通り魔
+
+//<1876> 記憶ナシ男
+<1876> 記憶ナシ男
+
+//<1877> 音速
+<1877> 音速
+
+//<1878> 無限
+<1878> 無限
+
+//<1879> Horny Samurai
+<1879> Horny Samurai
+
+//<1880> Super Horny Squad Member 1
+<1880> Super Horny Squad Member 1
+
+//<1881> Horny Boy
+<1881> Horny Boy
+
+//<1882> Ugly Yuri
+<1882> Ugly Yuri
+
+//<1883> Depussy
+<1883> Depussy
+
+//<1884> Perverted American Dog
+<1884> Perverted American Dog
+
+//<1885> Zeus
+<1885> Zeus
+
+//<1886> Hinata mark II
+<1886> Hinata mark II
+
+//<1887> Dung Beetle
+<1887> Dung Beetle
+
+//<1888> Mass Produced Hinata
+<1888> Mass Produced Hinata
+
+//<1889> ？？
+<1889> ？？
+
+//<1890> (…苦ーーーーっ!)
+<1890> (…苦ーーーーっ!)
+
+//<1891> nothing
+<1891> nothing
+
+//<1892> nothing
+<1892> nothing
+
+//<1893> nothing
+<1893> nothing
+
+//<1894> nothing
+<1894> nothing
+
+//<1895> nothing
+<1895> nothing
+
+//<1896> Hinata
+<1896> Hinata
+
+//<1897> 男Ｂ
+<1897> 男Ｂ
+
+//<1898> Super Horny Squad Leader
+<1898> Super Horny Squad Leader
+
+//<1899> Handsome-chin
+<1899> Handsome-chin
+
+//<1900> Homota
+<1900> Homota
+
+//<1901> Hina-chin
+<1901> Hina-chin
+
+//<1902> Hideki
+<1902> Hideki
+
+//<1903> 男子生徒
+<1903> 男子生徒
+
+//<1904> ？？
+<1904> ？？
+
+//<1905> 「野田はほっとけ」
+<1905> 「野田はほっとけ」
+
+//<1906> Otonashi
+<1906> Otonashi
+
+//<1907> クソ坊主
+<1907> クソ坊主
+
+//<1908> 代理人
+<1908> 代理人
+
+//<1909> 微妙すぎるイケメン
+<1909> 微妙すぎるイケメン
+
+//<1910> ロリコン
+<1910> ロリコン
+
+//<1911> メガネ仲間
+<1911> メガネ仲間
+
+//<1912> 暗算日本記録保持者
+<1912> 暗算日本記録保持者
+
+//<1913> 通り魔
+<1913> 通り魔
+
+//<1914> 記憶ナシ男
+<1914> 記憶ナシ男
+
+//<1915> 音速
+<1915> 音速
+
+//<1916> 無限
+<1916> 無限
+
+//<1917> Horny Samurai
+<1917> Horny Samurai
+
+//<1918> Super Horny Squad Member 1
+<1918> Super Horny Squad Member 1
+
+//<1919> Horny Boy
+<1919> Horny Boy
+
+//<1920> Ugly Yuri
+<1920> Ugly Yuri
+
+//<1921> Depussy
+<1921> Depussy
+
+//<1922> Perverted American Dog
+<1922> Perverted American Dog
+
+//<1923> Zeus
+<1923> Zeus
+
+//<1924> Hinata mark II
+<1924> Hinata mark II
+
+//<1925> Dung Beetle
+<1925> Dung Beetle
+
+//<1926> Mass Produced Hinata
+<1926> Mass Produced Hinata
+
+//<1927> ？？
+<1927> ？？
+
+//<1928> (…苦ーーーーーっ!)
+<1928> (…苦ーーーーーっ!)
+
+//<1929> nothing
+<1929> nothing
+
+//<1930> nothing
+<1930> nothing
+
+//<1931> nothing
+<1931> nothing
+
+//<1932> nothing
+<1932> nothing
+
+//<1933> nothing
+<1933> nothing
+
+//<1934> Hinata
+<1934> Hinata
+
+//<1935> 男Ｂ
+<1935> 男Ｂ
+
+//<1936> Super Horny Squad Leader
+<1936> Super Horny Squad Leader
+
+//<1937> Handsome-chin
+<1937> Handsome-chin
+
+//<1938> Homota
+<1938> Homota
+
+//<1939> Hina-chin
+<1939> Hina-chin
+
+//<1940> Hideki
+<1940> Hideki
+
+//<1941> 男子生徒
+<1941> 男子生徒
+
+//<1942> ？？
+<1942> ？？
+
+//<1943> 「と、こんなところだ」
+<1943> 「と、こんなところだ」
+
+//<1944> Otonashi
+<1944> Otonashi
+
+//<1945> クソ坊主
+<1945> クソ坊主
+
+//<1946> 代理人
+<1946> 代理人
+
+//<1947> 微妙すぎるイケメン
+<1947> 微妙すぎるイケメン
+
+//<1948> ロリコン
+<1948> ロリコン
+
+//<1949> メガネ仲間
+<1949> メガネ仲間
+
+//<1950> 暗算日本記録保持者
+<1950> 暗算日本記録保持者
+
+//<1951> 通り魔
+<1951> 通り魔
+
+//<1952> 記憶ナシ男
+<1952> 記憶ナシ男
+
+//<1953> 音速
+<1953> 音速
+
+//<1954> 無限
+<1954> 無限
+
+//<1955> Horny Samurai
+<1955> Horny Samurai
+
+//<1956> Super Horny Squad Member 1
+<1956> Super Horny Squad Member 1
+
+//<1957> Horny Boy
+<1957> Horny Boy
+
+//<1958> Ugly Yuri
+<1958> Ugly Yuri
+
+//<1959> Depussy
+<1959> Depussy
+
+//<1960> Perverted American Dog
+<1960> Perverted American Dog
+
+//<1961> Zeus
+<1961> Zeus
+
+//<1962> Hinata mark II
+<1962> Hinata mark II
+
+//<1963> Dung Beetle
+<1963> Dung Beetle
+
+//<1964> Mass Produced Hinata
+<1964> Mass Produced Hinata
+
+//<1965> ？？
+<1965> ？？
+
+//<1966> 「…か、幹部っていっても、色々なのが居るんだなぁ…苦っ!」
+<1966> 「…か、幹部っていっても、色々なのが居るんだなぁ…苦っ!」
+
+//<1967> ゴーヤの苦さに気を取られていて、Hinataの言葉に集中できなかった。
+<1967> ゴーヤの苦さに気を取られていて、Hinataの言葉に集中できなかった。
+
+//<1968> 昼食後、Hinataに連れられて午後の特訓に向かっていると…。
+<1968> 昼食後、Hinataに連れられて午後の特訓に向かっていると…。
+
+//<1969> 天使
+<1969> 天使
+
+//<1970> かなで
+<1970> かなで
+
+//<1971> 女生徒
+<1971> 女生徒
+
+//<1972> ？？
+<1972> ？？
+
+//<1973> 「何してるの、もうすぐ授業よ?」
+<1973> 「何してるの、もうすぐ授業よ?」
+
+//<1974> nothing
+<1974> nothing
+
+//<1975> nothing
+<1975> nothing
+
+//<1976> nothing
+<1976> nothing
+
+//<1977> nothing
+<1977> nothing
+
+//<1978> nothing
+<1978> nothing
+
+//<1979> 出た!　天使だ!
+<1979> 出た!　天使だ!
+
+//<1980> Hinata
+<1980> Hinata
+
+//<1981> 男Ｂ
+<1981> 男Ｂ
+
+//<1982> Super Horny Squad Leader
+<1982> Super Horny Squad Leader
+
+//<1983> Handsome-chin
+<1983> Handsome-chin
+
+//<1984> Homota
+<1984> Homota
+
+//<1985> Hina-chin
+<1985> Hina-chin
+
+//<1986> Hideki
+<1986> Hideki
+
+//<1987> 男子生徒
+<1987> 男子生徒
+
+//<1988> ？？
+<1988> ？？
+
+//<1989> 「全力でとんずらするぞ!　１０分しのげ!!」
+<1989> 「全力でとんずらするぞ!　１０分しのげ!!」
+
+//<1990> Hinataについて、走る。
+<1990> Hinataについて、走る。
+
+//<1991> 頻繁に腕時計を見ていたが、なんの意味があるのだろうか。
+<1991> 頻繁に腕時計を見ていたが、なんの意味があるのだろうか。
+
+//<1992> Hinataがようやく足を止める。
+<1992> Hinataがようやく足を止める。
+
+//<1993> nothing
+<1993> nothing
+
+//<1994> nothing
+<1994> nothing
+
+//<1995> nothing
+<1995> nothing
+
+//<1996> nothing
+<1996> nothing
+
+//<1997> nothing
+<1997> nothing
+
+//<1998> Hinata
+<1998> Hinata
+
+//<1999> 男Ｂ
+<1999> 男Ｂ
+
+//<2000> Super Horny Squad Leader
+<2000> Super Horny Squad Leader
+
+//<2001> Handsome-chin
+<2001> Handsome-chin
+
+//<2002> Homota
+<2002> Homota
+
+//<2003> Hina-chin
+<2003> Hina-chin
+
+//<2004> Hideki
+<2004> Hideki
+
+//<2005> 男子生徒
+<2005> 男子生徒
+
+//<2006> ？？
+<2006> ？？
+
+//<2007> 「よし、もう大丈夫だっ」
+<2007> 「よし、もう大丈夫だっ」
+
+//<2008> Otonashi
+<2008> Otonashi
+
+//<2009> クソ坊主
+<2009> クソ坊主
+
+//<2010> 代理人
+<2010> 代理人
+
+//<2011> 微妙すぎるイケメン
+<2011> 微妙すぎるイケメン
+
+//<2012> ロリコン
+<2012> ロリコン
+
+//<2013> メガネ仲間
+<2013> メガネ仲間
+
+//<2014> 暗算日本記録保持者
+<2014> 暗算日本記録保持者
+
+//<2015> 通り魔
+<2015> 通り魔
+
+//<2016> 記憶ナシ男
+<2016> 記憶ナシ男
+
+//<2017> 音速
+<2017> 音速
+
+//<2018> 無限
+<2018> 無限
+
+//<2019> Horny Samurai
+<2019> Horny Samurai
+
+//<2020> Super Horny Squad Member 1
+<2020> Super Horny Squad Member 1
+
+//<2021> Horny Boy
+<2021> Horny Boy
+
+//<2022> Ugly Yuri
+<2022> Ugly Yuri
+
+//<2023> Depussy
+<2023> Depussy
+
+//<2024> Perverted American Dog
+<2024> Perverted American Dog
+
+//<2025> Zeus
+<2025> Zeus
+
+//<2026> Hinata mark II
+<2026> Hinata mark II
+
+//<2027> Dung Beetle
+<2027> Dung Beetle
+
+//<2028> Mass Produced Hinata
+<2028> Mass Produced Hinata
+
+//<2029> ？？
+<2029> ？？
+
+//<2030> 「はぁ…はぁ…」
+<2030> 「はぁ…はぁ…」
+
+//<2031> ついていくのに必死だった…。
+<2031> ついていくのに必死だった…。
+
+//<2032> Otonashi
+<2032> Otonashi
+
+//<2033> クソ坊主
+<2033> クソ坊主
+
+//<2034> 代理人
+<2034> 代理人
+
+//<2035> 微妙すぎるイケメン
+<2035> 微妙すぎるイケメン
+
+//<2036> ロリコン
+<2036> ロリコン
+
+//<2037> メガネ仲間
+<2037> メガネ仲間
+
+//<2038> 暗算日本記録保持者
+<2038> 暗算日本記録保持者
+
+//<2039> 通り魔
+<2039> 通り魔
+
+//<2040> 記憶ナシ男
+<2040> 記憶ナシ男
+
+//<2041> 音速
+<2041> 音速
+
+//<2042> 無限
+<2042> 無限
+
+//<2043> Horny Samurai
+<2043> Horny Samurai
+
+//<2044> Super Horny Squad Member 1
+<2044> Super Horny Squad Member 1
+
+//<2045> Horny Boy
+<2045> Horny Boy
+
+//<2046> Ugly Yuri
+<2046> Ugly Yuri
+
+//<2047> Depussy
+<2047> Depussy
+
+//<2048> Perverted American Dog
+<2048> Perverted American Dog
+
+//<2049> Zeus
+<2049> Zeus
+
+//<2050> Hinata mark II
+<2050> Hinata mark II
+
+//<2051> Dung Beetle
+<2051> Dung Beetle
+
+//<2052> Mass Produced Hinata
+<2052> Mass Produced Hinata
+
+//<2053> ？？
+<2053> ？？
+
+//<2054> 「はぁ…もう…追ってはこないのか…」
+<2054> 「はぁ…もう…追ってはこないのか…」
+
+//<2055> nothing
+<2055> nothing
+
+//<2056> nothing
+<2056> nothing
+
+//<2057> nothing
+<2057> nothing
+
+//<2058> nothing
+<2058> nothing
+
+//<2059> nothing
+<2059> nothing
+
+//<2060> Hinata
+<2060> Hinata
+
+//<2061> 男Ｂ
+<2061> 男Ｂ
+
+//<2062> Super Horny Squad Leader
+<2062> Super Horny Squad Leader
+
+//<2063> Handsome-chin
+<2063> Handsome-chin
+
+//<2064> Homota
+<2064> Homota
+
+//<2065> Hina-chin
+<2065> Hina-chin
+
+//<2066> Hideki
+<2066> Hideki
+
+//<2067> 男子生徒
+<2067> 男子生徒
+
+//<2068> ？？
+<2068> ？？
+
+//<2069> 「ああ。天使は授業をさぼる生徒の指導猶予として１０分だけ遅れても許されることになってるからな」
+<2069> 「ああ。天使は授業をさぼる生徒の指導猶予として１０分だけ遅れても許されることになってるからな」
+
+//<2070> だから、あれだけ時間を気にしていたのか…。
+<2070> だから、あれだけ時間を気にしていたのか…。
+
+//<2071> しかし、あれだけ全力疾走した直後にも関わらず、Hinataは平然と話した。
+<2071> しかし、あれだけ全力疾走した直後にも関わらず、Hinataは平然と話した。
+
+//<2072> それに対して、俺は座り込みたいぐらいで、ほんと惨めなほどに体力がない…。
+<2072> それに対して、俺は座り込みたいぐらいで、ほんと惨めなほどに体力がない…。
+
+//<2073> nothing
+<2073> nothing
+
+//<2074> 
+<2074> 
+
+//<2075> 
+<2075> 
+
+//<2076> nothing
+<2076> nothing
+
+//<2077> Otonashi
+<2077> Otonashi
+
+//<2078> クソ坊主
+<2078> クソ坊主
+
+//<2079> 代理人
+<2079> 代理人
+
+//<2080> 微妙すぎるイケメン
+<2080> 微妙すぎるイケメン
+
+//<2081> ロリコン
+<2081> ロリコン
+
+//<2082> メガネ仲間
+<2082> メガネ仲間
+
+//<2083> 暗算日本記録保持者
+<2083> 暗算日本記録保持者
+
+//<2084> 通り魔
+<2084> 通り魔
+
+//<2085> 記憶ナシ男
+<2085> 記憶ナシ男
+
+//<2086> 音速
+<2086> 音速
+
+//<2087> 無限
+<2087> 無限
+
+//<2088> Horny Samurai
+<2088> Horny Samurai
+
+//<2089> Super Horny Squad Member 1
+<2089> Super Horny Squad Member 1
+
+//<2090> Horny Boy
+<2090> Horny Boy
+
+//<2091> Ugly Yuri
+<2091> Ugly Yuri
+
+//<2092> Depussy
+<2092> Depussy
+
+//<2093> Perverted American Dog
+<2093> Perverted American Dog
+
+//<2094> Zeus
+<2094> Zeus
+
+//<2095> Hinata mark II
+<2095> Hinata mark II
+
+//<2096> Dung Beetle
+<2096> Dung Beetle
+
+//<2097> Mass Produced Hinata
+<2097> Mass Produced Hinata
+
+//<2098> ？？
+<2098> ？？
+
+//<2099> 「こんな場所があったのか…」
+<2099> 「こんな場所があったのか…」
+
+//<2100> Hinata
+<2100> Hinata
+
+//<2101> 男Ｂ
+<2101> 男Ｂ
+
+//<2102> Super Horny Squad Leader
+<2102> Super Horny Squad Leader
+
+//<2103> Handsome-chin
+<2103> Handsome-chin
+
+//<2104> Homota
+<2104> Homota
+
+//<2105> Hina-chin
+<2105> Hina-chin
+
+//<2106> Hideki
+<2106> Hideki
+
+//<2107> 男子生徒
+<2107> 男子生徒
+
+//<2108> ？？
+<2108> ？？
+
+//<2109> 「ああ、俺たちはいつもここで銃の練習をしている」
+<2109> 「ああ、俺たちはいつもここで銃の練習をしている」
+
+//<2110> nothing
+<2110> nothing
+
+//<2111> nothing
+<2111> nothing
+
+//<2112> nothing
+<2112> nothing
+
+//<2113> nothing
+<2113> nothing
+
+//<2114> nothing
+<2114> nothing
+
+//<2115> 先客が居た。高松だ。
+<2115> 先客が居た。高松だ。
+
+//<2116> nothing
+<2116> nothing
+
+//<2117> nothing
+<2117> nothing
+
+//<2118> nothing
+<2118> nothing
+
+//<2119> nothing
+<2119> nothing
+
+//<2120> nothing
+<2120> nothing
+
+//<2121> 高松
+<2121> 高松
+
+//<2122> 「これはこれは。おふたりで銃の練習ですか。仲よさそうですね」
+<2122> 「これはこれは。おふたりで銃の練習ですか。仲よさそうですね」
+
+//<2123> Otonashi
+<2123> Otonashi
+
+//<2124> クソ坊主
+<2124> クソ坊主
+
+//<2125> 代理人
+<2125> 代理人
+
+//<2126> 微妙すぎるイケメン
+<2126> 微妙すぎるイケメン
+
+//<2127> ロリコン
+<2127> ロリコン
+
+//<2128> メガネ仲間
+<2128> メガネ仲間
+
+//<2129> 暗算日本記録保持者
+<2129> 暗算日本記録保持者
+
+//<2130> 通り魔
+<2130> 通り魔
+
+//<2131> 記憶ナシ男
+<2131> 記憶ナシ男
+
+//<2132> 音速
+<2132> 音速
+
+//<2133> 無限
+<2133> 無限
+
+//<2134> Horny Samurai
+<2134> Horny Samurai
+
+//<2135> Super Horny Squad Member 1
+<2135> Super Horny Squad Member 1
+
+//<2136> Horny Boy
+<2136> Horny Boy
+
+//<2137> Ugly Yuri
+<2137> Ugly Yuri
+
+//<2138> Depussy
+<2138> Depussy
+
+//<2139> Perverted American Dog
+<2139> Perverted American Dog
+
+//<2140> Zeus
+<2140> Zeus
+
+//<2141> Hinata mark II
+<2141> Hinata mark II
+
+//<2142> Dung Beetle
+<2142> Dung Beetle
+
+//<2143> Mass Produced Hinata
+<2143> Mass Produced Hinata
+
+//<2144> ？？
+<2144> ？？
+
+//<2145> 「恐いこと言うなよ…」
+<2145> 「恐いこと言うなよ…」
+
+//<2146> Hinata
+<2146> Hinata
+
+//<2147> 男Ｂ
+<2147> 男Ｂ
+
+//<2148> Super Horny Squad Leader
+<2148> Super Horny Squad Leader
+
+//<2149> Handsome-chin
+<2149> Handsome-chin
+
+//<2150> Homota
+<2150> Homota
+
+//<2151> Hina-chin
+<2151> Hina-chin
+
+//<2152> Hideki
+<2152> Hideki
+
+//<2153> 男子生徒
+<2153> 男子生徒
+
+//<2154> ？？
+<2154> ？？
+
+//<2155> 「え?　どーして!?」
+<2155> 「え?　どーして!?」
+
+//<2156> Otonashi
+<2156> Otonashi
+
+//<2157> クソ坊主
+<2157> クソ坊主
+
+//<2158> 代理人
+<2158> 代理人
+
+//<2159> 微妙すぎるイケメン
+<2159> 微妙すぎるイケメン
+
+//<2160> ロリコン
+<2160> ロリコン
+
+//<2161> メガネ仲間
+<2161> メガネ仲間
+
+//<2162> 暗算日本記録保持者
+<2162> 暗算日本記録保持者
+
+//<2163> 通り魔
+<2163> 通り魔
+
+//<2164> 記憶ナシ男
+<2164> 記憶ナシ男
+
+//<2165> 音速
+<2165> 音速
+
+//<2166> 無限
+<2166> 無限
+
+//<2167> Horny Samurai
+<2167> Horny Samurai
+
+//<2168> Super Horny Squad Member 1
+<2168> Super Horny Squad Member 1
+
+//<2169> Horny Boy
+<2169> Horny Boy
+
+//<2170> Ugly Yuri
+<2170> Ugly Yuri
+
+//<2171> Depussy
+<2171> Depussy
+
+//<2172> Perverted American Dog
+<2172> Perverted American Dog
+
+//<2173> Zeus
+<2173> Zeus
+
+//<2174> Hinata mark II
+<2174> Hinata mark II
+
+//<2175> Dung Beetle
+<2175> Dung Beetle
+
+//<2176> Mass Produced Hinata
+<2176> Mass Produced Hinata
+
+//<2177> ？？
+<2177> ？？
+
+//<2178> 「いや…お前がホモだから」
+<2178> 「いや…お前がホモだから」
+
+//<2179> nothing
+<2179> nothing
+
+//<2180> nothing
+<2180> nothing
+
+//<2181> nothing
+<2181> nothing
+
+//<2182> nothing
+<2182> nothing
+
+//<2183> Hinata
+<2183> Hinata
+
+//<2184> 男Ｂ
+<2184> 男Ｂ
+
+//<2185> Super Horny Squad Leader
+<2185> Super Horny Squad Leader
+
+//<2186> Handsome-chin
+<2186> Handsome-chin
+
+//<2187> Homota
+<2187> Homota
+
+//<2188> Hina-chin
+<2188> Hina-chin
+
+//<2189> Hideki
+<2189> Hideki
+
+//<2190> 男子生徒
+<2190> 男子生徒
+
+//<2191> ？？
+<2191> ？？
+
+//<2192> 「だから、ちっっがーーーーーうっ!!」
+<2192> 「だから、ちっっがーーーーーうっ!!」
+
+//<2193> nothing
+<2193> nothing
+
+//<2194> nothing
+<2194> nothing
+
+//<2195> nothing
+<2195> nothing
+
+//<2196> nothing
+<2196> nothing
+
+//<2197> nothing
+<2197> nothing
+
+//<2198> 高松
+<2198> 高松
+
+//<2199> 「火のない所に、なになにってやつですよ」
+<2199> 「火のない所に、なになにってやつですよ」
+
+//<2200> Otonashi
+<2200> Otonashi
+
+//<2201> クソ坊主
+<2201> クソ坊主
+
+//<2202> 代理人
+<2202> 代理人
+
+//<2203> 微妙すぎるイケメン
+<2203> 微妙すぎるイケメン
+
+//<2204> ロリコン
+<2204> ロリコン
+
+//<2205> メガネ仲間
+<2205> メガネ仲間
+
+//<2206> 暗算日本記録保持者
+<2206> 暗算日本記録保持者
+
+//<2207> 通り魔
+<2207> 通り魔
+
+//<2208> 記憶ナシ男
+<2208> 記憶ナシ男
+
+//<2209> 音速
+<2209> 音速
+
+//<2210> 無限
+<2210> 無限
+
+//<2211> Horny Samurai
+<2211> Horny Samurai
+
+//<2212> Super Horny Squad Member 1
+<2212> Super Horny Squad Member 1
+
+//<2213> Horny Boy
+<2213> Horny Boy
+
+//<2214> Ugly Yuri
+<2214> Ugly Yuri
+
+//<2215> Depussy
+<2215> Depussy
+
+//<2216> Perverted American Dog
+<2216> Perverted American Dog
+
+//<2217> Zeus
+<2217> Zeus
+
+//<2218> Hinata mark II
+<2218> Hinata mark II
+
+//<2219> Dung Beetle
+<2219> Dung Beetle
+
+//<2220> Mass Produced Hinata
+<2220> Mass Produced Hinata
+
+//<2221> ？？
+<2221> ？？
+
+//<2222> 「お前、やっぱり…!」
+<2222> 「お前、やっぱり…!」
+
+//<2223> nothing
+<2223> nothing
+
+//<2224> nothing
+<2224> nothing
+
+//<2225> nothing
+<2225> nothing
+
+//<2226> nothing
+<2226> nothing
+
+//<2227> nothing
+<2227> nothing
+
+//<2228> Hinata
+<2228> Hinata
+
+//<2229> 男Ｂ
+<2229> 男Ｂ
+
+//<2230> Super Horny Squad Leader
+<2230> Super Horny Squad Leader
+
+//<2231> Handsome-chin
+<2231> Handsome-chin
+
+//<2232> Homota
+<2232> Homota
+
+//<2233> Hina-chin
+<2233> Hina-chin
+
+//<2234> Hideki
+<2234> Hideki
+
+//<2235> 男子生徒
+<2235> 男子生徒
+
+//<2236> ？？
+<2236> ？？
+
+//<2237> 「ホモじゃねぇーー!!」
+<2237> 「ホモじゃねぇーー!!」
+
+//<2238> この必死さが余計に疑わしく思える…。
+<2238> この必死さが余計に疑わしく思える…。
+
+//<2239> nothing
+<2239> nothing
+
+//<2240> nothing
+<2240> nothing
+
+//<2241> nothing
+<2241> nothing
+
+//<2242> nothing
+<2242> nothing
+
+//<2243> nothing
+<2243> nothing
+
+//<2244> Hinata
+<2244> Hinata
+
+//<2245> 男Ｂ
+<2245> 男Ｂ
+
+//<2246> Super Horny Squad Leader
+<2246> Super Horny Squad Leader
+
+//<2247> Handsome-chin
+<2247> Handsome-chin
+
+//<2248> Homota
+<2248> Homota
+
+//<2249> Hina-chin
+<2249> Hina-chin
+
+//<2250> Hideki
+<2250> Hideki
+
+//<2251> 男子生徒
+<2251> 男子生徒
+
+//<2252> ？？
+<2252> ？？
+
+//<2253> 「Otonashi、ぜってー違うからなっ」
+<2253> 「Otonashi、ぜってー違うからなっ」
+
+//<2254> Otonashi
+<2254> Otonashi
+
+//<2255> クソ坊主
+<2255> クソ坊主
+
+//<2256> 代理人
+<2256> 代理人
+
+//<2257> 微妙すぎるイケメン
+<2257> 微妙すぎるイケメン
+
+//<2258> ロリコン
+<2258> ロリコン
+
+//<2259> メガネ仲間
+<2259> メガネ仲間
+
+//<2260> 暗算日本記録保持者
+<2260> 暗算日本記録保持者
+
+//<2261> 通り魔
+<2261> 通り魔
+
+//<2262> 記憶ナシ男
+<2262> 記憶ナシ男
+
+//<2263> 音速
+<2263> 音速
+
+//<2264> 無限
+<2264> 無限
+
+//<2265> Horny Samurai
+<2265> Horny Samurai
+
+//<2266> Super Horny Squad Member 1
+<2266> Super Horny Squad Member 1
+
+//<2267> Horny Boy
+<2267> Horny Boy
+
+//<2268> Ugly Yuri
+<2268> Ugly Yuri
+
+//<2269> Depussy
+<2269> Depussy
+
+//<2270> Perverted American Dog
+<2270> Perverted American Dog
+
+//<2271> Zeus
+<2271> Zeus
+
+//<2272> Hinata mark II
+<2272> Hinata mark II
+
+//<2273> Dung Beetle
+<2273> Dung Beetle
+
+//<2274> Mass Produced Hinata
+<2274> Mass Produced Hinata
+
+//<2275> ？？
+<2275> ？？
+
+//<2276> 「あ、ああ…」
+<2276> 「あ、ああ…」
+
+//<2277> Otonashi
+<2277> Otonashi
+
+//<2278> クソ坊主
+<2278> クソ坊主
+
+//<2279> 代理人
+<2279> 代理人
+
+//<2280> 微妙すぎるイケメン
+<2280> 微妙すぎるイケメン
+
+//<2281> ロリコン
+<2281> ロリコン
+
+//<2282> メガネ仲間
+<2282> メガネ仲間
+
+//<2283> 暗算日本記録保持者
+<2283> 暗算日本記録保持者
+
+//<2284> 通り魔
+<2284> 通り魔
+
+//<2285> 記憶ナシ男
+<2285> 記憶ナシ男
+
+//<2286> 音速
+<2286> 音速
+
+//<2287> 無限
+<2287> 無限
+
+//<2288> Horny Samurai
+<2288> Horny Samurai
+
+//<2289> Super Horny Squad Member 1
+<2289> Super Horny Squad Member 1
+
+//<2290> Horny Boy
+<2290> Horny Boy
+
+//<2291> Ugly Yuri
+<2291> Ugly Yuri
+
+//<2292> Depussy
+<2292> Depussy
+
+//<2293> Perverted American Dog
+<2293> Perverted American Dog
+
+//<2294> Zeus
+<2294> Zeus
+
+//<2295> Hinata mark II
+<2295> Hinata mark II
+
+//<2296> Dung Beetle
+<2296> Dung Beetle
+
+//<2297> Mass Produced Hinata
+<2297> Mass Produced Hinata
+
+//<2298> ？？
+<2298> ？？
+
+//<2299> 「ああ。よくしてもらってるよ」
+<2299> 「ああ。よくしてもらってるよ」
+
+//<2300> Hinata
+<2300> Hinata
+
+//<2301> 男Ｂ
+<2301> 男Ｂ
+
+//<2302> Super Horny Squad Leader
+<2302> Super Horny Squad Leader
+
+//<2303> Handsome-chin
+<2303> Handsome-chin
+
+//<2304> Homota
+<2304> Homota
+
+//<2305> Hina-chin
+<2305> Hina-chin
+
+//<2306> Hideki
+<2306> Hideki
+
+//<2307> 男子生徒
+<2307> 男子生徒
+
+//<2308> ？？
+<2308> ？？
+
+//<2309> 「おお、そう言ってもらえると嬉しいぜ」
+<2309> 「おお、そう言ってもらえると嬉しいぜ」
+
+//<2310> Hinata
+<2310> Hinata
+
+//<2311> 男Ｂ
+<2311> 男Ｂ
+
+//<2312> Super Horny Squad Leader
+<2312> Super Horny Squad Leader
+
+//<2313> Handsome-chin
+<2313> Handsome-chin
+
+//<2314> Homota
+<2314> Homota
+
+//<2315> Hina-chin
+<2315> Hina-chin
+
+//<2316> Hideki
+<2316> Hideki
+
+//<2317> 男子生徒
+<2317> 男子生徒
+
+//<2318> ？？
+<2318> ？？
+
+//<2319> 「新入りの面倒を見るのも俺の仕事さ」
+<2319> 「新入りの面倒を見るのも俺の仕事さ」
+
+//<2320> nothing
+<2320> nothing
+
+//<2321> nothing
+<2321> nothing
+
+//<2322> nothing
+<2322> nothing
+
+//<2323> nothing
+<2323> nothing
+
+//<2324> nothing
+<2324> nothing
+
+//<2325> 高松
+<2325> 高松
+
+//<2326> 「私は、これで終わりますので、少しお待ちを」
+<2326> 「私は、これで終わりますので、少しお待ちを」
+
+//<2327> nothing
+<2327> nothing
+
+//<2328> nothing
+<2328> nothing
+
+//<2329> nothing
+<2329> nothing
+
+//<2330> nothing
+<2330> nothing
+
+//<2331> nothing
+<2331> nothing
+
+//<2332> nothing
+<2332> nothing
+
+//<2333> 川縁のごつごつした岩肌の手前に学習机が並び、その上には缶コーヒーの空き缶だろうか、いくつも並んでいた。
+<2333> 川縁のごつごつした岩肌の手前に学習机が並び、その上には缶コーヒーの空き缶だろうか、いくつも並んでいた。
+
+//<2334> 高松はそれに向けて、銃を構える。
+<2334> 高松はそれに向けて、銃を構える。
+
+//<2335> se_handgun
+<2335> se_handgun
+
+//<2336> None
+<2336> None
+
+//<2337> se_shotting_can
+<2337> se_shotting_can
+
+//<2338> かぁん!
+<2338> かぁん!
+
+//<2339> se_handgun
+<2339> se_handgun
+
+//<2340> None
+<2340> None
+
+//<2341> se_shotting_can
+<2341> se_shotting_can
+
+//<2342> かぁん!
+<2342> かぁん!
+
+//<2343> se_handgun
+<2343> se_handgun
+
+//<2344> None
+<2344> None
+
+//<2345> se_shotting_can
+<2345> se_shotting_can
+
+//<2346> かぁん!
+<2346> かぁん!
+
+//<2347> se_handgun
+<2347> se_handgun
+
+//<2348> None
+<2348> None
+
+//<2349> 左から、順に缶を飛ばしていく。最後だけは外れたが、それでもすごい命中率だ…。
+<2349> 左から、順に缶を飛ばしていく。最後だけは外れたが、それでもすごい命中率だ…。
+
+//<2350> nothing
+<2350> nothing
+
+//<2351> nothing
+<2351> nothing
+
+//<2352> nothing
+<2352> nothing
+
+//<2353> nothing
+<2353> nothing
+
+//<2354> nothing
+<2354> nothing
+
+//<2355> 高松
+<2355> 高松
+
+//<2356> 「立て直してきます」
+<2356> 「立て直してきます」
+
+//<2357> nothing
+<2357> nothing
+
+//<2358> nothing
+<2358> nothing
+
+//<2359> nothing
+<2359> nothing
+
+//<2360> nothing
+<2360> nothing
+
+//<2361> nothing
+<2361> nothing
+
+//<2362> nothing
+<2362> nothing
+
+//<2363> 高松がもう一度、缶を立て直し戻ってきて、俺を見て訊く。
+<2363> 高松がもう一度、缶を立て直し戻ってきて、俺を見て訊く。
+
+//<2364> nothing
+<2364> nothing
+
+//<2365> nothing
+<2365> nothing
+
+//<2366> nothing
+<2366> nothing
+
+//<2367> nothing
+<2367> nothing
+
+//<2368> nothing
+<2368> nothing
+
+//<2369> 高松
+<2369> 高松
+
+//<2370> 「あなたが撃つんでしょう?」
+<2370> 「あなたが撃つんでしょう?」
+
+//<2371> Hinata
+<2371> Hinata
+
+//<2372> 男Ｂ
+<2372> 男Ｂ
+
+//<2373> Super Horny Squad Leader
+<2373> Super Horny Squad Leader
+
+//<2374> Handsome-chin
+<2374> Handsome-chin
+
+//<2375> Homota
+<2375> Homota
+
+//<2376> Hina-chin
+<2376> Hina-chin
+
+//<2377> Hideki
+<2377> Hideki
+
+//<2378> 男子生徒
+<2378> 男子生徒
+
+//<2379> ？？
+<2379> ？？
+
+//<2380> 「ああ、そうだ」
+<2380> 「ああ、そうだ」
+
+//<2381> 俺より先にHinataが答えていた。
+<2381> 俺より先にHinataが答えていた。
+
+//<2382> nothing
+<2382> nothing
+
+//<2383> nothing
+<2383> nothing
+
+//<2384> nothing
+<2384> nothing
+
+//<2385> nothing
+<2385> nothing
+
+//<2386> nothing
+<2386> nothing
+
+//<2387> 高松
+<2387> 高松
+
+//<2388> 「それは興味深い。見学していきます」
+<2388> 「それは興味深い。見学していきます」
+
+//<2389> nothing
+<2389> nothing
+
+//<2390> nothing
+<2390> nothing
+
+//<2391> nothing
+<2391> nothing
+
+//<2392> nothing
+<2392> nothing
+
+//<2393> nothing
+<2393> nothing
+
+//<2394> nothing
+<2394> nothing
+
+//<2395> Otonashi
+<2395> Otonashi
+
+//<2396> クソ坊主
+<2396> クソ坊主
+
+//<2397> 代理人
+<2397> 代理人
+
+//<2398> 微妙すぎるイケメン
+<2398> 微妙すぎるイケメン
+
+//<2399> ロリコン
+<2399> ロリコン
+
+//<2400> メガネ仲間
+<2400> メガネ仲間
+
+//<2401> 暗算日本記録保持者
+<2401> 暗算日本記録保持者
+
+//<2402> 通り魔
+<2402> 通り魔
+
+//<2403> 記憶ナシ男
+<2403> 記憶ナシ男
+
+//<2404> 音速
+<2404> 音速
+
+//<2405> 無限
+<2405> 無限
+
+//<2406> Horny Samurai
+<2406> Horny Samurai
+
+//<2407> Super Horny Squad Member 1
+<2407> Super Horny Squad Member 1
+
+//<2408> Horny Boy
+<2408> Horny Boy
+
+//<2409> Ugly Yuri
+<2409> Ugly Yuri
+
+//<2410> Depussy
+<2410> Depussy
+
+//<2411> Perverted American Dog
+<2411> Perverted American Dog
+
+//<2412> Zeus
+<2412> Zeus
+
+//<2413> Hinata mark II
+<2413> Hinata mark II
+
+//<2414> Dung Beetle
+<2414> Dung Beetle
+
+//<2415> Mass Produced Hinata
+<2415> Mass Produced Hinata
+
+//<2416> ？？
+<2416> ？？
+
+//<2417> (あの後で…なんてプレッシャーだ!!)
+<2417> (あの後で…なんてプレッシャーだ!!)
+
+//<2418> nothing
+<2418> nothing
+
+//<2419> nothing
+<2419> nothing
+
+//<2420> nothing
+<2420> nothing
+
+//<2421> nothing
+<2421> nothing
+
+//<2422> nothing
+<2422> nothing
+
+//<2423> Hinata
+<2423> Hinata
+
+//<2424> 男Ｂ
+<2424> 男Ｂ
+
+//<2425> Super Horny Squad Leader
+<2425> Super Horny Squad Leader
+
+//<2426> Handsome-chin
+<2426> Handsome-chin
+
+//<2427> Homota
+<2427> Homota
+
+//<2428> Hina-chin
+<2428> Hina-chin
+
+//<2429> Hideki
+<2429> Hideki
+
+//<2430> 男子生徒
+<2430> 男子生徒
+
+//<2431> ？？
+<2431> ？？
+
+//<2432> 「銃を取り出せ」
+<2432> 「銃を取り出せ」
+
+//<2433> 言われた通りに取り出す。
+<2433> 言われた通りに取り出す。
+
+//<2434> nothing
+<2434> nothing
+
+//<2435> nothing
+<2435> nothing
+
+//<2436> nothing
+<2436> nothing
+
+//<2437> nothing
+<2437> nothing
+
+//<2438> nothing
+<2438> nothing
+
+//<2439> Hinata
+<2439> Hinata
+
+//<2440> 男Ｂ
+<2440> 男Ｂ
+
+//<2441> Super Horny Squad Leader
+<2441> Super Horny Squad Leader
+
+//<2442> Handsome-chin
+<2442> Handsome-chin
+
+//<2443> Homota
+<2443> Homota
+
+//<2444> Hina-chin
+<2444> Hina-chin
+
+//<2445> Hideki
+<2445> Hideki
+
+//<2446> 男子生徒
+<2446> 男子生徒
+
+//<2447> ？？
+<2447> ？？
+
+//<2448> 「高松のように、ここから缶を狙って撃て」
+<2448> 「高松のように、ここから缶を狙って撃て」
+
+//<2449> Otonashi
+<2449> Otonashi
+
+//<2450> クソ坊主
+<2450> クソ坊主
+
+//<2451> 代理人
+<2451> 代理人
+
+//<2452> 微妙すぎるイケメン
+<2452> 微妙すぎるイケメン
+
+//<2453> ロリコン
+<2453> ロリコン
+
+//<2454> メガネ仲間
+<2454> メガネ仲間
+
+//<2455> 暗算日本記録保持者
+<2455> 暗算日本記録保持者
+
+//<2456> 通り魔
+<2456> 通り魔
+
+//<2457> 記憶ナシ男
+<2457> 記憶ナシ男
+
+//<2458> 音速
+<2458> 音速
+
+//<2459> 無限
+<2459> 無限
+
+//<2460> Horny Samurai
+<2460> Horny Samurai
+
+//<2461> Super Horny Squad Member 1
+<2461> Super Horny Squad Member 1
+
+//<2462> Horny Boy
+<2462> Horny Boy
+
+//<2463> Ugly Yuri
+<2463> Ugly Yuri
+
+//<2464> Depussy
+<2464> Depussy
+
+//<2465> Perverted American Dog
+<2465> Perverted American Dog
+
+//<2466> Zeus
+<2466> Zeus
+
+//<2467> Hinata mark II
+<2467> Hinata mark II
+
+//<2468> Dung Beetle
+<2468> Dung Beetle
+
+//<2469> Mass Produced Hinata
+<2469> Mass Produced Hinata
+
+//<2470> ？？
+<2470> ？？
+
+//<2471> 「ああ…」
+<2471> 「ああ…」
+
+//<2472> nothing
+<2472> nothing
+
+//<2473> nothing
+<2473> nothing
+
+//<2474> nothing
+<2474> nothing
+
+//<2475> nothing
+<2475> nothing
+
+//<2476> nothing
+<2476> nothing
+
+//<2477> nothing
+<2477> nothing
+
+//<2478> そのポジションに移動する。
+<2478> そのポジションに移動する。
+
+//<2479> Otonashi
+<2479> Otonashi
+
+//<2480> クソ坊主
+<2480> クソ坊主
+
+//<2481> 代理人
+<2481> 代理人
+
+//<2482> 微妙すぎるイケメン
+<2482> 微妙すぎるイケメン
+
+//<2483> ロリコン
+<2483> ロリコン
+
+//<2484> メガネ仲間
+<2484> メガネ仲間
+
+//<2485> 暗算日本記録保持者
+<2485> 暗算日本記録保持者
+
+//<2486> 通り魔
+<2486> 通り魔
+
+//<2487> 記憶ナシ男
+<2487> 記憶ナシ男
+
+//<2488> 音速
+<2488> 音速
+
+//<2489> 無限
+<2489> 無限
+
+//<2490> Horny Samurai
+<2490> Horny Samurai
+
+//<2491> Super Horny Squad Member 1
+<2491> Super Horny Squad Member 1
+
+//<2492> Horny Boy
+<2492> Horny Boy
+
+//<2493> Ugly Yuri
+<2493> Ugly Yuri
+
+//<2494> Depussy
+<2494> Depussy
+
+//<2495> Perverted American Dog
+<2495> Perverted American Dog
+
+//<2496> Zeus
+<2496> Zeus
+
+//<2497> Hinata mark II
+<2497> Hinata mark II
+
+//<2498> Dung Beetle
+<2498> Dung Beetle
+
+//<2499> Mass Produced Hinata
+<2499> Mass Produced Hinata
+
+//<2500> ？？
+<2500> ？？
+
+//<2501> (生前に撃ってるはずもないだろう…自分の感性を信じるしかない…)
+<2501> (生前に撃ってるはずもないだろう…自分の感性を信じるしかない…)
+
+//<2502> 銃を構え、照準を合わせる。
+<2502> 銃を構え、照準を合わせる。
+
+//<2503> se_handgun2
+<2503> se_handgun2
+
+//<2504> None
+<2504> None
+
+//<2505> ぱぁん!
+<2505> ぱぁん!
+
+//<2506> 撃ったが、反動を抑えきれず、天井に当たる。
+<2506> 撃ったが、反動を抑えきれず、天井に当たる。
+
+//<2507> Otonashi
+<2507> Otonashi
+
+//<2508> クソ坊主
+<2508> クソ坊主
+
+//<2509> 代理人
+<2509> 代理人
+
+//<2510> 微妙すぎるイケメン
+<2510> 微妙すぎるイケメン
+
+//<2511> ロリコン
+<2511> ロリコン
+
+//<2512> メガネ仲間
+<2512> メガネ仲間
+
+//<2513> 暗算日本記録保持者
+<2513> 暗算日本記録保持者
+
+//<2514> 通り魔
+<2514> 通り魔
+
+//<2515> 記憶ナシ男
+<2515> 記憶ナシ男
+
+//<2516> 音速
+<2516> 音速
+
+//<2517> 無限
+<2517> 無限
+
+//<2518> Horny Samurai
+<2518> Horny Samurai
+
+//<2519> Super Horny Squad Member 1
+<2519> Super Horny Squad Member 1
+
+//<2520> Horny Boy
+<2520> Horny Boy
+
+//<2521> Ugly Yuri
+<2521> Ugly Yuri
+
+//<2522> Depussy
+<2522> Depussy
+
+//<2523> Perverted American Dog
+<2523> Perverted American Dog
+
+//<2524> Zeus
+<2524> Zeus
+
+//<2525> Hinata mark II
+<2525> Hinata mark II
+
+//<2526> Dung Beetle
+<2526> Dung Beetle
+
+//<2527> Mass Produced Hinata
+<2527> Mass Produced Hinata
+
+//<2528> ？？
+<2528> ？？
+
+//<2529> (こんなに反動があるのか…)
+<2529> (こんなに反動があるのか…)
+
+//<2530> nothing
+<2530> nothing
+
+//<2531> nothing
+<2531> nothing
+
+//<2532> nothing
+<2532> nothing
+
+//<2533> nothing
+<2533> nothing
+
+//<2534> nothing
+<2534> nothing
+
+//<2535> Hinata
+<2535> Hinata
+
+//<2536> 男Ｂ
+<2536> 男Ｂ
+
+//<2537> Super Horny Squad Leader
+<2537> Super Horny Squad Leader
+
+//<2538> Handsome-chin
+<2538> Handsome-chin
+
+//<2539> Homota
+<2539> Homota
+
+//<2540> Hina-chin
+<2540> Hina-chin
+
+//<2541> Hideki
+<2541> Hideki
+
+//<2542> 男子生徒
+<2542> 男子生徒
+
+//<2543> ？？
+<2543> ？？
+
+//<2544> 「衝撃は、両腕と両肩に力を込めて、押さえ込め」
+<2544> 「衝撃は、両腕と両肩に力を込めて、押さえ込め」
+
+//<2545> Otonashi
+<2545> Otonashi
+
+//<2546> クソ坊主
+<2546> クソ坊主
+
+//<2547> 代理人
+<2547> 代理人
+
+//<2548> 微妙すぎるイケメン
+<2548> 微妙すぎるイケメン
+
+//<2549> ロリコン
+<2549> ロリコン
+
+//<2550> メガネ仲間
+<2550> メガネ仲間
+
+//<2551> 暗算日本記録保持者
+<2551> 暗算日本記録保持者
+
+//<2552> 通り魔
+<2552> 通り魔
+
+//<2553> 記憶ナシ男
+<2553> 記憶ナシ男
+
+//<2554> 音速
+<2554> 音速
+
+//<2555> 無限
+<2555> 無限
+
+//<2556> Horny Samurai
+<2556> Horny Samurai
+
+//<2557> Super Horny Squad Member 1
+<2557> Super Horny Squad Member 1
+
+//<2558> Horny Boy
+<2558> Horny Boy
+
+//<2559> Ugly Yuri
+<2559> Ugly Yuri
+
+//<2560> Depussy
+<2560> Depussy
+
+//<2561> Perverted American Dog
+<2561> Perverted American Dog
+
+//<2562> Zeus
+<2562> Zeus
+
+//<2563> Hinata mark II
+<2563> Hinata mark II
+
+//<2564> Dung Beetle
+<2564> Dung Beetle
+
+//<2565> Mass Produced Hinata
+<2565> Mass Produced Hinata
+
+//<2566> ？？
+<2566> ？？
+
+//<2567> (高松はああ見えて、それを押さえ込む筋力があるということか…)
+<2567> (高松はああ見えて、それを押さえ込む筋力があるということか…)
+
+//<2568> nothing
+<2568> nothing
+
+//<2569> nothing
+<2569> nothing
+
+//<2570> nothing
+<2570> nothing
+
+//<2571> nothing
+<2571> nothing
+
+//<2572> nothing
+<2572> nothing
+
+//<2573> Otonashi
+<2573> Otonashi
+
+//<2574> クソ坊主
+<2574> クソ坊主
+
+//<2575> 代理人
+<2575> 代理人
+
+//<2576> 微妙すぎるイケメン
+<2576> 微妙すぎるイケメン
+
+//<2577> ロリコン
+<2577> ロリコン
+
+//<2578> メガネ仲間
+<2578> メガネ仲間
+
+//<2579> 暗算日本記録保持者
+<2579> 暗算日本記録保持者
+
+//<2580> 通り魔
+<2580> 通り魔
+
+//<2581> 記憶ナシ男
+<2581> 記憶ナシ男
+
+//<2582> 音速
+<2582> 音速
+
+//<2583> 無限
+<2583> 無限
+
+//<2584> Horny Samurai
+<2584> Horny Samurai
+
+//<2585> Super Horny Squad Member 1
+<2585> Super Horny Squad Member 1
+
+//<2586> Horny Boy
+<2586> Horny Boy
+
+//<2587> Ugly Yuri
+<2587> Ugly Yuri
+
+//<2588> Depussy
+<2588> Depussy
+
+//<2589> Perverted American Dog
+<2589> Perverted American Dog
+
+//<2590> Zeus
+<2590> Zeus
+
+//<2591> Hinata mark II
+<2591> Hinata mark II
+
+//<2592> Dung Beetle
+<2592> Dung Beetle
+
+//<2593> Mass Produced Hinata
+<2593> Mass Produced Hinata
+
+//<2594> ？？
+<2594> ？？
+
+//<2595> 「わかった」
+<2595> 「わかった」
+
+//<2596> nothing
+<2596> nothing
+
+//<2597> nothing
+<2597> nothing
+
+//<2598> nothing
+<2598> nothing
+
+//<2599> nothing
+<2599> nothing
+
+//<2600> nothing
+<2600> nothing
+
+//<2601> Hinata
+<2601> Hinata
+
+//<2602> 男Ｂ
+<2602> 男Ｂ
+
+//<2603> Super Horny Squad Leader
+<2603> Super Horny Squad Leader
+
+//<2604> Handsome-chin
+<2604> Handsome-chin
+
+//<2605> Homota
+<2605> Homota
+
+//<2606> Hina-chin
+<2606> Hina-chin
+
+//<2607> Hideki
+<2607> Hideki
+
+//<2608> 男子生徒
+<2608> 男子生徒
+
+//<2609> ？？
+<2609> ？？
+
+//<2610> 「後、照門と照星はわかるか」
+<2610> 「後、照門と照星はわかるか」
+
+//<2611> Otonashi
+<2611> Otonashi
+
+//<2612> クソ坊主
+<2612> クソ坊主
+
+//<2613> 代理人
+<2613> 代理人
+
+//<2614> 微妙すぎるイケメン
+<2614> 微妙すぎるイケメン
+
+//<2615> ロリコン
+<2615> ロリコン
+
+//<2616> メガネ仲間
+<2616> メガネ仲間
+
+//<2617> 暗算日本記録保持者
+<2617> 暗算日本記録保持者
+
+//<2618> 通り魔
+<2618> 通り魔
+
+//<2619> 記憶ナシ男
+<2619> 記憶ナシ男
+
+//<2620> 音速
+<2620> 音速
+
+//<2621> 無限
+<2621> 無限
+
+//<2622> Horny Samurai
+<2622> Horny Samurai
+
+//<2623> Super Horny Squad Member 1
+<2623> Super Horny Squad Member 1
+
+//<2624> Horny Boy
+<2624> Horny Boy
+
+//<2625> Ugly Yuri
+<2625> Ugly Yuri
+
+//<2626> Depussy
+<2626> Depussy
+
+//<2627> Perverted American Dog
+<2627> Perverted American Dog
+
+//<2628> Zeus
+<2628> Zeus
+
+//<2629> Hinata mark II
+<2629> Hinata mark II
+
+//<2630> Dung Beetle
+<2630> Dung Beetle
+
+//<2631> Mass Produced Hinata
+<2631> Mass Produced Hinata
+
+//<2632> ？？
+<2632> ？？
+
+//<2633> 「いや、さっぱり」
+<2633> 「いや、さっぱり」
+
+//<2634> nothing
+<2634> nothing
+
+//<2635> nothing
+<2635> nothing
+
+//<2636> nothing
+<2636> nothing
+
+//<2637> nothing
+<2637> nothing
+
+//<2638> nothing
+<2638> nothing
+
+//<2639> Hinata
+<2639> Hinata
+
+//<2640> 男Ｂ
+<2640> 男Ｂ
+
+//<2641> Super Horny Squad Leader
+<2641> Super Horny Squad Leader
+
+//<2642> Handsome-chin
+<2642> Handsome-chin
+
+//<2643> Homota
+<2643> Homota
+
+//<2644> Hina-chin
+<2644> Hina-chin
+
+//<2645> Hideki
+<2645> Hideki
+
+//<2646> 男子生徒
+<2646> 男子生徒
+
+//<2647> ？？
+<2647> ？？
+
+//<2648> 「じゃ、俺の銃で説明する」
+<2648> 「じゃ、俺の銃で説明する」
+
+//<2649> nothing
+<2649> nothing
+
+//<2650> nothing
+<2650> nothing
+
+//<2651> nothing
+<2651> nothing
+
+//<2652> nothing
+<2652> nothing
+
+//<2653> nothing
+<2653> nothing
+
+//<2654> Hinataが自分の銃を取り出す。
+<2654> Hinataが自分の銃を取り出す。
+
+//<2655> nothing
+<2655> nothing
+
+//<2656> nothing
+<2656> nothing
+
+//<2657> nothing
+<2657> nothing
+
+//<2658> nothing
+<2658> nothing
+
+//<2659> nothing
+<2659> nothing
+
+//<2660> Hinata
+<2660> Hinata
+
+//<2661> 男Ｂ
+<2661> 男Ｂ
+
+//<2662> Super Horny Squad Leader
+<2662> Super Horny Squad Leader
+
+//<2663> Handsome-chin
+<2663> Handsome-chin
+
+//<2664> Homota
+<2664> Homota
+
+//<2665> Hina-chin
+<2665> Hina-chin
+
+//<2666> Hideki
+<2666> Hideki
+
+//<2667> 男子生徒
+<2667> 男子生徒
+
+//<2668> ？？
+<2668> ？？
+
+//<2669> 「ここが、照門」
+<2669> 「ここが、照門」
+
+//<2670> 山がふたつ並んだような突起物だ。
+<2670> 山がふたつ並んだような突起物だ。
+
+//<2671> nothing
+<2671> nothing
+
+//<2672> nothing
+<2672> nothing
+
+//<2673> nothing
+<2673> nothing
+
+//<2674> nothing
+<2674> nothing
+
+//<2675> nothing
+<2675> nothing
+
+//<2676> Hinata
+<2676> Hinata
+
+//<2677> 男Ｂ
+<2677> 男Ｂ
+
+//<2678> Super Horny Squad Leader
+<2678> Super Horny Squad Leader
+
+//<2679> Handsome-chin
+<2679> Handsome-chin
+
+//<2680> Homota
+<2680> Homota
+
+//<2681> Hina-chin
+<2681> Hina-chin
+
+//<2682> Hideki
+<2682> Hideki
+
+//<2683> 男子生徒
+<2683> 男子生徒
+
+//<2684> ？？
+<2684> ？？
+
+//<2685> 「そして、先についているここが、照星」
+<2685> 「そして、先についているここが、照星」
+
+//<2686> こちらはひとつだけの突起物。
+<2686> こちらはひとつだけの突起物。
+
+//<2687> nothing
+<2687> nothing
+
+//<2688> nothing
+<2688> nothing
+
+//<2689> nothing
+<2689> nothing
+
+//<2690> nothing
+<2690> nothing
+
+//<2691> nothing
+<2691> nothing
+
+//<2692> Hinata
+<2692> Hinata
+
+//<2693> 男Ｂ
+<2693> 男Ｂ
+
+//<2694> Super Horny Squad Leader
+<2694> Super Horny Squad Leader
+
+//<2695> Handsome-chin
+<2695> Handsome-chin
+
+//<2696> Homota
+<2696> Homota
+
+//<2697> Hina-chin
+<2697> Hina-chin
+
+//<2698> Hideki
+<2698> Hideki
+
+//<2699> 男子生徒
+<2699> 男子生徒
+
+//<2700> ？？
+<2700> ？？
+
+//<2701> 「照門の間に照星が見える角度を探せ」
+<2701> 「照門の間に照星が見える角度を探せ」
+
+//<2702> nothing
+<2702> nothing
+
+//<2703> nothing
+<2703> nothing
+
+//<2704> nothing
+<2704> nothing
+
+//<2705> nothing
+<2705> nothing
+
+//<2706> nothing
+<2706> nothing
+
+//<2707> nothing
+<2707> nothing
+
+//<2708> Otonashi
+<2708> Otonashi
+
+//<2709> クソ坊主
+<2709> クソ坊主
+
+//<2710> 代理人
+<2710> 代理人
+
+//<2711> 微妙すぎるイケメン
+<2711> 微妙すぎるイケメン
+
+//<2712> ロリコン
+<2712> ロリコン
+
+//<2713> メガネ仲間
+<2713> メガネ仲間
+
+//<2714> 暗算日本記録保持者
+<2714> 暗算日本記録保持者
+
+//<2715> 通り魔
+<2715> 通り魔
+
+//<2716> 記憶ナシ男
+<2716> 記憶ナシ男
+
+//<2717> 音速
+<2717> 音速
+
+//<2718> 無限
+<2718> 無限
+
+//<2719> Horny Samurai
+<2719> Horny Samurai
+
+//<2720> Super Horny Squad Member 1
+<2720> Super Horny Squad Member 1
+
+//<2721> Horny Boy
+<2721> Horny Boy
+
+//<2722> Ugly Yuri
+<2722> Ugly Yuri
+
+//<2723> Depussy
+<2723> Depussy
+
+//<2724> Perverted American Dog
+<2724> Perverted American Dog
+
+//<2725> Zeus
+<2725> Zeus
+
+//<2726> Hinata mark II
+<2726> Hinata mark II
+
+//<2727> Dung Beetle
+<2727> Dung Beetle
+
+//<2728> Mass Produced Hinata
+<2728> Mass Produced Hinata
+
+//<2729> ？？
+<2729> ？？
+
+//<2730> 「ああ…出来た」
+<2730> 「ああ…出来た」
+
+//<2731> Hinata
+<2731> Hinata
+
+//<2732> 男Ｂ
+<2732> 男Ｂ
+
+//<2733> Super Horny Squad Leader
+<2733> Super Horny Squad Leader
+
+//<2734> Handsome-chin
+<2734> Handsome-chin
+
+//<2735> Homota
+<2735> Homota
+
+//<2736> Hina-chin
+<2736> Hina-chin
+
+//<2737> Hideki
+<2737> Hideki
+
+//<2738> 男子生徒
+<2738> 男子生徒
+
+//<2739> ？？
+<2739> ？？
+
+//<2740> 「さらにその先の的となるコーヒー缶に焦点を合わせろ」
+<2740> 「さらにその先の的となるコーヒー缶に焦点を合わせろ」
+
+//<2741> Otonashi
+<2741> Otonashi
+
+//<2742> クソ坊主
+<2742> クソ坊主
+
+//<2743> 代理人
+<2743> 代理人
+
+//<2744> 微妙すぎるイケメン
+<2744> 微妙すぎるイケメン
+
+//<2745> ロリコン
+<2745> ロリコン
+
+//<2746> メガネ仲間
+<2746> メガネ仲間
+
+//<2747> 暗算日本記録保持者
+<2747> 暗算日本記録保持者
+
+//<2748> 通り魔
+<2748> 通り魔
+
+//<2749> 記憶ナシ男
+<2749> 記憶ナシ男
+
+//<2750> 音速
+<2750> 音速
+
+//<2751> 無限
+<2751> 無限
+
+//<2752> Horny Samurai
+<2752> Horny Samurai
+
+//<2753> Super Horny Squad Member 1
+<2753> Super Horny Squad Member 1
+
+//<2754> Horny Boy
+<2754> Horny Boy
+
+//<2755> Ugly Yuri
+<2755> Ugly Yuri
+
+//<2756> Depussy
+<2756> Depussy
+
+//<2757> Perverted American Dog
+<2757> Perverted American Dog
+
+//<2758> Zeus
+<2758> Zeus
+
+//<2759> Hinata mark II
+<2759> Hinata mark II
+
+//<2760> Dung Beetle
+<2760> Dung Beetle
+
+//<2761> Mass Produced Hinata
+<2761> Mass Produced Hinata
+
+//<2762> ？？
+<2762> ？？
+
+//<2763> 「ああ」
+<2763> 「ああ」
+
+//<2764> Hinata
+<2764> Hinata
+
+//<2765> 男Ｂ
+<2765> 男Ｂ
+
+//<2766> Super Horny Squad Leader
+<2766> Super Horny Squad Leader
+
+//<2767> Handsome-chin
+<2767> Handsome-chin
+
+//<2768> Homota
+<2768> Homota
+
+//<2769> Hina-chin
+<2769> Hina-chin
+
+//<2770> Hideki
+<2770> Hideki
+
+//<2771> 男子生徒
+<2771> 男子生徒
+
+//<2772> ？？
+<2772> ？？
+
+//<2773> 「右利きだったら、伸ばした右腕に頬を当てろ。上から見た時、直角三角形になるように」
+<2773> 「右利きだったら、伸ばした右腕に頬を当てろ。上から見た時、直角三角形になるように」
+
+//<2774> Otonashi
+<2774> Otonashi
+
+//<2775> クソ坊主
+<2775> クソ坊主
+
+//<2776> 代理人
+<2776> 代理人
+
+//<2777> 微妙すぎるイケメン
+<2777> 微妙すぎるイケメン
+
+//<2778> ロリコン
+<2778> ロリコン
+
+//<2779> メガネ仲間
+<2779> メガネ仲間
+
+//<2780> 暗算日本記録保持者
+<2780> 暗算日本記録保持者
+
+//<2781> 通り魔
+<2781> 通り魔
+
+//<2782> 記憶ナシ男
+<2782> 記憶ナシ男
+
+//<2783> 音速
+<2783> 音速
+
+//<2784> 無限
+<2784> 無限
+
+//<2785> Horny Samurai
+<2785> Horny Samurai
+
+//<2786> Super Horny Squad Member 1
+<2786> Super Horny Squad Member 1
+
+//<2787> Horny Boy
+<2787> Horny Boy
+
+//<2788> Ugly Yuri
+<2788> Ugly Yuri
+
+//<2789> Depussy
+<2789> Depussy
+
+//<2790> Perverted American Dog
+<2790> Perverted American Dog
+
+//<2791> Zeus
+<2791> Zeus
+
+//<2792> Hinata mark II
+<2792> Hinata mark II
+
+//<2793> Dung Beetle
+<2793> Dung Beetle
+
+//<2794> Mass Produced Hinata
+<2794> Mass Produced Hinata
+
+//<2795> ？？
+<2795> ？？
+
+//<2796> 「…できた」
+<2796> 「…できた」
+
+//<2797> Hinata
+<2797> Hinata
+
+//<2798> 男Ｂ
+<2798> 男Ｂ
+
+//<2799> Super Horny Squad Leader
+<2799> Super Horny Squad Leader
+
+//<2800> Handsome-chin
+<2800> Handsome-chin
+
+//<2801> Homota
+<2801> Homota
+
+//<2802> Hina-chin
+<2802> Hina-chin
+
+//<2803> Hideki
+<2803> Hideki
+
+//<2804> 男子生徒
+<2804> 男子生徒
+
+//<2805> ？？
+<2805> ？？
+
+//<2806> 「それで撃ってみろ」
+<2806> 「それで撃ってみろ」
+
+//<2807> 肩と両腕に力を込め、引き金を引く。
+<2807> 肩と両腕に力を込め、引き金を引く。
+
+//<2808> se_handgun2
+<2808> se_handgun2
+
+//<2809> None
+<2809> None
+
+//<2810> Hinata
+<2810> Hinata
+
+//<2811> 男Ｂ
+<2811> 男Ｂ
+
+//<2812> Super Horny Squad Leader
+<2812> Super Horny Squad Leader
+
+//<2813> Handsome-chin
+<2813> Handsome-chin
+
+//<2814> Homota
+<2814> Homota
+
+//<2815> Hina-chin
+<2815> Hina-chin
+
+//<2816> Hideki
+<2816> Hideki
+
+//<2817> 男子生徒
+<2817> 男子生徒
+
+//<2818> ？？
+<2818> ？？
+
+//<2819> 「惜しい!」
+<2819> 「惜しい!」
+
+//<2820> 着弾した岩肌から煙が上がる。
+<2820> 着弾した岩肌から煙が上がる。
+
+//<2821> 銃弾は缶のすぐ上だった。
+<2821> 銃弾は缶のすぐ上だった。
+
+//<2822> Otonashi
+<2822> Otonashi
+
+//<2823> クソ坊主
+<2823> クソ坊主
+
+//<2824> 代理人
+<2824> 代理人
+
+//<2825> 微妙すぎるイケメン
+<2825> 微妙すぎるイケメン
+
+//<2826> ロリコン
+<2826> ロリコン
+
+//<2827> メガネ仲間
+<2827> メガネ仲間
+
+//<2828> 暗算日本記録保持者
+<2828> 暗算日本記録保持者
+
+//<2829> 通り魔
+<2829> 通り魔
+
+//<2830> 記憶ナシ男
+<2830> 記憶ナシ男
+
+//<2831> 音速
+<2831> 音速
+
+//<2832> 無限
+<2832> 無限
+
+//<2833> Horny Samurai
+<2833> Horny Samurai
+
+//<2834> Super Horny Squad Member 1
+<2834> Super Horny Squad Member 1
+
+//<2835> Horny Boy
+<2835> Horny Boy
+
+//<2836> Ugly Yuri
+<2836> Ugly Yuri
+
+//<2837> Depussy
+<2837> Depussy
+
+//<2838> Perverted American Dog
+<2838> Perverted American Dog
+
+//<2839> Zeus
+<2839> Zeus
+
+//<2840> Hinata mark II
+<2840> Hinata mark II
+
+//<2841> Dung Beetle
+<2841> Dung Beetle
+
+//<2842> Mass Produced Hinata
+<2842> Mass Produced Hinata
+
+//<2843> ？？
+<2843> ？？
+
+//<2844> 「なんとか制御出来た…」
+<2844> 「なんとか制御出来た…」
+
+//<2845> nothing
+<2845> nothing
+
+//<2846> nothing
+<2846> nothing
+
+//<2847> nothing
+<2847> nothing
+
+//<2848> nothing
+<2848> nothing
+
+//<2849> nothing
+<2849> nothing
+
+//<2850> Otonashi
+<2850> Otonashi
+
+//<2851> クソ坊主
+<2851> クソ坊主
+
+//<2852> 代理人
+<2852> 代理人
+
+//<2853> 微妙すぎるイケメン
+<2853> 微妙すぎるイケメン
+
+//<2854> ロリコン
+<2854> ロリコン
+
+//<2855> メガネ仲間
+<2855> メガネ仲間
+
+//<2856> 暗算日本記録保持者
+<2856> 暗算日本記録保持者
+
+//<2857> 通り魔
+<2857> 通り魔
+
+//<2858> 記憶ナシ男
+<2858> 記憶ナシ男
+
+//<2859> 音速
+<2859> 音速
+
+//<2860> 無限
+<2860> 無限
+
+//<2861> Horny Samurai
+<2861> Horny Samurai
+
+//<2862> Super Horny Squad Member 1
+<2862> Super Horny Squad Member 1
+
+//<2863> Horny Boy
+<2863> Horny Boy
+
+//<2864> Ugly Yuri
+<2864> Ugly Yuri
+
+//<2865> Depussy
+<2865> Depussy
+
+//<2866> Perverted American Dog
+<2866> Perverted American Dog
+
+//<2867> Zeus
+<2867> Zeus
+
+//<2868> Hinata mark II
+<2868> Hinata mark II
+
+//<2869> Dung Beetle
+<2869> Dung Beetle
+
+//<2870> Mass Produced Hinata
+<2870> Mass Produced Hinata
+
+//<2871> ？？
+<2871> ？？
+
+//<2872> 「Hinata、お前、性癖はアレだけど、教えることがすごく上手いな…。俺もそのまま開発されていくんだろーな…」
+<2872> 「Hinata、お前、性癖はアレだけど、教えることがすごく上手いな…。俺もそのまま開発されていくんだろーな…」
+
+//<2873> nothing
+<2873> nothing
+
+//<2874> nothing
+<2874> nothing
+
+//<2875> nothing
+<2875> nothing
+
+//<2876> nothing
+<2876> nothing
+
+//<2877> nothing
+<2877> nothing
+
+//<2878> Hinata
+<2878> Hinata
+
+//<2879> 男Ｂ
+<2879> 男Ｂ
+
+//<2880> Super Horny Squad Leader
+<2880> Super Horny Squad Leader
+
+//<2881> Handsome-chin
+<2881> Handsome-chin
+
+//<2882> Homota
+<2882> Homota
+
+//<2883> Hina-chin
+<2883> Hina-chin
+
+//<2884> Hideki
+<2884> Hideki
+
+//<2885> 男子生徒
+<2885> 男子生徒
+
+//<2886> ？？
+<2886> ？？
+
+//<2887> 「は?　性癖?　開発?　なんだそりゃ?」
+<2887> 「は?　性癖?　開発?　なんだそりゃ?」
+
+//<2888> Otonashi
+<2888> Otonashi
+
+//<2889> クソ坊主
+<2889> クソ坊主
+
+//<2890> 代理人
+<2890> 代理人
+
+//<2891> 微妙すぎるイケメン
+<2891> 微妙すぎるイケメン
+
+//<2892> ロリコン
+<2892> ロリコン
+
+//<2893> メガネ仲間
+<2893> メガネ仲間
+
+//<2894> 暗算日本記録保持者
+<2894> 暗算日本記録保持者
+
+//<2895> 通り魔
+<2895> 通り魔
+
+//<2896> 記憶ナシ男
+<2896> 記憶ナシ男
+
+//<2897> 音速
+<2897> 音速
+
+//<2898> 無限
+<2898> 無限
+
+//<2899> Horny Samurai
+<2899> Horny Samurai
+
+//<2900> Super Horny Squad Member 1
+<2900> Super Horny Squad Member 1
+
+//<2901> Horny Boy
+<2901> Horny Boy
+
+//<2902> Ugly Yuri
+<2902> Ugly Yuri
+
+//<2903> Depussy
+<2903> Depussy
+
+//<2904> Perverted American Dog
+<2904> Perverted American Dog
+
+//<2905> Zeus
+<2905> Zeus
+
+//<2906> Hinata mark II
+<2906> Hinata mark II
+
+//<2907> Dung Beetle
+<2907> Dung Beetle
+
+//<2908> Mass Produced Hinata
+<2908> Mass Produced Hinata
+
+//<2909> ？？
+<2909> ？？
+
+//<2910> 「ホモだろ?」
+<2910> 「ホモだろ?」
+
+//<2911> nothing
+<2911> nothing
+
+//<2912> nothing
+<2912> nothing
+
+//<2913> nothing
+<2913> nothing
+
+//<2914> nothing
+<2914> nothing
+
+//<2915> nothing
+<2915> nothing
+
+//<2916> Hinata
+<2916> Hinata
+
+//<2917> 男Ｂ
+<2917> 男Ｂ
+
+//<2918> Super Horny Squad Leader
+<2918> Super Horny Squad Leader
+
+//<2919> Handsome-chin
+<2919> Handsome-chin
+
+//<2920> Homota
+<2920> Homota
+
+//<2921> Hina-chin
+<2921> Hina-chin
+
+//<2922> Hideki
+<2922> Hideki
+
+//<2923> 男子生徒
+<2923> 男子生徒
+
+//<2924> ？？
+<2924> ？？
+
+//<2925> 「だから、ちっがーーーう!!　って何度言わせるんだよっ!!」
+<2925> 「だから、ちっがーーーう!!　って何度言わせるんだよっ!!」
+
+//<2926> Otonashi
+<2926> Otonashi
+
+//<2927> クソ坊主
+<2927> クソ坊主
+
+//<2928> 代理人
+<2928> 代理人
+
+//<2929> 微妙すぎるイケメン
+<2929> 微妙すぎるイケメン
+
+//<2930> ロリコン
+<2930> ロリコン
+
+//<2931> メガネ仲間
+<2931> メガネ仲間
+
+//<2932> 暗算日本記録保持者
+<2932> 暗算日本記録保持者
+
+//<2933> 通り魔
+<2933> 通り魔
+
+//<2934> 記憶ナシ男
+<2934> 記憶ナシ男
+
+//<2935> 音速
+<2935> 音速
+
+//<2936> 無限
+<2936> 無限
+
+//<2937> Horny Samurai
+<2937> Horny Samurai
+
+//<2938> Super Horny Squad Member 1
+<2938> Super Horny Squad Member 1
+
+//<2939> Horny Boy
+<2939> Horny Boy
+
+//<2940> Ugly Yuri
+<2940> Ugly Yuri
+
+//<2941> Depussy
+<2941> Depussy
+
+//<2942> Perverted American Dog
+<2942> Perverted American Dog
+
+//<2943> Zeus
+<2943> Zeus
+
+//<2944> Hinata mark II
+<2944> Hinata mark II
+
+//<2945> Dung Beetle
+<2945> Dung Beetle
+
+//<2946> Mass Produced Hinata
+<2946> Mass Produced Hinata
+
+//<2947> ？？
+<2947> ？？
+
+//<2948> 「え…?　ホモじゃないのか…?」
+<2948> 「え…?　ホモじゃないのか…?」
+
+//<2949> nothing
+<2949> nothing
+
+//<2950> nothing
+<2950> nothing
+
+//<2951> nothing
+<2951> nothing
+
+//<2952> nothing
+<2952> nothing
+
+//<2953> nothing
+<2953> nothing
+
+//<2954> Hinata
+<2954> Hinata
+
+//<2955> 男Ｂ
+<2955> 男Ｂ
+
+//<2956> Super Horny Squad Leader
+<2956> Super Horny Squad Leader
+
+//<2957> Handsome-chin
+<2957> Handsome-chin
+
+//<2958> Homota
+<2958> Homota
+
+//<2959> Hina-chin
+<2959> Hina-chin
+
+//<2960> Hideki
+<2960> Hideki
+
+//<2961> 男子生徒
+<2961> 男子生徒
+
+//<2962> ？？
+<2962> ？？
+
+//<2963> 「じゃねーよっ!!」
+<2963> 「じゃねーよっ!!」
+
+//<2964> nothing
+<2964> nothing
+
+//<2965> nothing
+<2965> nothing
+
+//<2966> nothing
+<2966> nothing
+
+//<2967> nothing
+<2967> nothing
+
+//<2968> nothing
+<2968> nothing
+
+//<2969> Hinata
+<2969> Hinata
+
+//<2970> 男Ｂ
+<2970> 男Ｂ
+
+//<2971> Super Horny Squad Leader
+<2971> Super Horny Squad Leader
+
+//<2972> Handsome-chin
+<2972> Handsome-chin
+
+//<2973> Homota
+<2973> Homota
+
+//<2974> Hina-chin
+<2974> Hina-chin
+
+//<2975> Hideki
+<2975> Hideki
+
+//<2976> 男子生徒
+<2976> 男子生徒
+
+//<2977> ？？
+<2977> ？？
+
+//<2978> 「もし俺がホモでお前狙いだったら、銃の打ち方を教える前に、銃で脅して、なんかしてたんじゃねーの!?」
+<2978> 「もし俺がホモでお前狙いだったら、銃の打ち方を教える前に、銃で脅して、なんかしてたんじゃねーの!?」
+
+//<2979> 納得する
+<2979> 納得する
+
+//<2980> それすら疑う
+<2980> それすら疑う
+
+//<2981> selbtn : 
+<2981> selbtn : 
+
+//<2982> Otonashi
+<2982> Otonashi
+
+//<2983> クソ坊主
+<2983> クソ坊主
+
+//<2984> 代理人
+<2984> 代理人
+
+//<2985> 微妙すぎるイケメン
+<2985> 微妙すぎるイケメン
+
+//<2986> ロリコン
+<2986> ロリコン
+
+//<2987> メガネ仲間
+<2987> メガネ仲間
+
+//<2988> 暗算日本記録保持者
+<2988> 暗算日本記録保持者
+
+//<2989> 通り魔
+<2989> 通り魔
+
+//<2990> 記憶ナシ男
+<2990> 記憶ナシ男
+
+//<2991> 音速
+<2991> 音速
+
+//<2992> 無限
+<2992> 無限
+
+//<2993> Horny Samurai
+<2993> Horny Samurai
+
+//<2994> Super Horny Squad Member 1
+<2994> Super Horny Squad Member 1
+
+//<2995> Horny Boy
+<2995> Horny Boy
+
+//<2996> Ugly Yuri
+<2996> Ugly Yuri
+
+//<2997> Depussy
+<2997> Depussy
+
+//<2998> Perverted American Dog
+<2998> Perverted American Dog
+
+//<2999> Zeus
+<2999> Zeus
+
+//<3000> Hinata mark II
+<3000> Hinata mark II
+
+//<3001> Dung Beetle
+<3001> Dung Beetle
+
+//<3002> Mass Produced Hinata
+<3002> Mass Produced Hinata
+
+//<3003> ？？
+<3003> ？？
+
+//<3004> 「おお…なるほど、まったくその通りだ!」
+<3004> 「おお…なるほど、まったくその通りだ!」
+
+//<3005> 高松
+<3005> 高松
+
+//<3006> 「Hinataさんは、言葉がお上手ですね」
+<3006> 「Hinataさんは、言葉がお上手ですね」
+
+//<3007> nothing
+<3007> nothing
+
+//<3008> nothing
+<3008> nothing
+
+//<3009> nothing
+<3009> nothing
+
+//<3010> nothing
+<3010> nothing
+
+//<3011> nothing
+<3011> nothing
+
+//<3012> Hinata
+<3012> Hinata
+
+//<3013> 男Ｂ
+<3013> 男Ｂ
+
+//<3014> Super Horny Squad Leader
+<3014> Super Horny Squad Leader
+
+//<3015> Handsome-chin
+<3015> Handsome-chin
+
+//<3016> Homota
+<3016> Homota
+
+//<3017> Hina-chin
+<3017> Hina-chin
+
+//<3018> Hideki
+<3018> Hideki
+
+//<3019> 男子生徒
+<3019> 男子生徒
+
+//<3020> ？？
+<3020> ？？
+
+//<3021> 「だっからちがうっつーーーの!!」
+<3021> 「だっからちがうっつーーーの!!」
+
+//<3022> いきなり、高松の発言により、疑惑が再浮上する。
+<3022> いきなり、高松の発言により、疑惑が再浮上する。
+
+//<3023> Hinataはノーマルかもしれない
+<3023> Hinataはノーマルかもしれない
+
+//<3024> Hinataはホモだと確信する
+<3024> Hinataはホモだと確信する
+
+//<3025> selbtn : 
+<3025> selbtn : 
+
+//<3026> nothing
+<3026> nothing
+
+//<3027> nothing
+<3027> nothing
+
+//<3028> nothing
+<3028> nothing
+
+//<3029> nothing
+<3029> nothing
+
+//<3030> nothing
+<3030> nothing
+
+//<3031> Otonashi
+<3031> Otonashi
+
+//<3032> クソ坊主
+<3032> クソ坊主
+
+//<3033> 代理人
+<3033> 代理人
+
+//<3034> 微妙すぎるイケメン
+<3034> 微妙すぎるイケメン
+
+//<3035> ロリコン
+<3035> ロリコン
+
+//<3036> メガネ仲間
+<3036> メガネ仲間
+
+//<3037> 暗算日本記録保持者
+<3037> 暗算日本記録保持者
+
+//<3038> 通り魔
+<3038> 通り魔
+
+//<3039> 記憶ナシ男
+<3039> 記憶ナシ男
+
+//<3040> 音速
+<3040> 音速
+
+//<3041> 無限
+<3041> 無限
+
+//<3042> Horny Samurai
+<3042> Horny Samurai
+
+//<3043> Super Horny Squad Member 1
+<3043> Super Horny Squad Member 1
+
+//<3044> Horny Boy
+<3044> Horny Boy
+
+//<3045> Ugly Yuri
+<3045> Ugly Yuri
+
+//<3046> Depussy
+<3046> Depussy
+
+//<3047> Perverted American Dog
+<3047> Perverted American Dog
+
+//<3048> Zeus
+<3048> Zeus
+
+//<3049> Hinata mark II
+<3049> Hinata mark II
+
+//<3050> Dung Beetle
+<3050> Dung Beetle
+
+//<3051> Mass Produced Hinata
+<3051> Mass Produced Hinata
+
+//<3052> ？？
+<3052> ？？
+
+//<3053> 「お前はノーマルなのかもな…」
+<3053> 「お前はノーマルなのかもな…」
+
+//<3054> nothing
+<3054> nothing
+
+//<3055> nothing
+<3055> nothing
+
+//<3056> nothing
+<3056> nothing
+
+//<3057> nothing
+<3057> nothing
+
+//<3058> nothing
+<3058> nothing
+
+//<3059> Hinata
+<3059> Hinata
+
+//<3060> 男Ｂ
+<3060> 男Ｂ
+
+//<3061> Super Horny Squad Leader
+<3061> Super Horny Squad Leader
+
+//<3062> Handsome-chin
+<3062> Handsome-chin
+
+//<3063> Homota
+<3063> Homota
+
+//<3064> Hina-chin
+<3064> Hina-chin
+
+//<3065> Hideki
+<3065> Hideki
+
+//<3066> 男子生徒
+<3066> 男子生徒
+
+//<3067> ？？
+<3067> ？？
+
+//<3068> 「まあ、その気がないことがわかってくれればいいけどさ…」
+<3068> 「まあ、その気がないことがわかってくれればいいけどさ…」
+
+//<3069> Otonashi
+<3069> Otonashi
+
+//<3070> クソ坊主
+<3070> クソ坊主
+
+//<3071> 代理人
+<3071> 代理人
+
+//<3072> 微妙すぎるイケメン
+<3072> 微妙すぎるイケメン
+
+//<3073> ロリコン
+<3073> ロリコン
+
+//<3074> メガネ仲間
+<3074> メガネ仲間
+
+//<3075> 暗算日本記録保持者
+<3075> 暗算日本記録保持者
+
+//<3076> 通り魔
+<3076> 通り魔
+
+//<3077> 記憶ナシ男
+<3077> 記憶ナシ男
+
+//<3078> 音速
+<3078> 音速
+
+//<3079> 無限
+<3079> 無限
+
+//<3080> Horny Samurai
+<3080> Horny Samurai
+
+//<3081> Super Horny Squad Member 1
+<3081> Super Horny Squad Member 1
+
+//<3082> Horny Boy
+<3082> Horny Boy
+
+//<3083> Ugly Yuri
+<3083> Ugly Yuri
+
+//<3084> Depussy
+<3084> Depussy
+
+//<3085> Perverted American Dog
+<3085> Perverted American Dog
+
+//<3086> Zeus
+<3086> Zeus
+
+//<3087> Hinata mark II
+<3087> Hinata mark II
+
+//<3088> Dung Beetle
+<3088> Dung Beetle
+
+//<3089> Mass Produced Hinata
+<3089> Mass Produced Hinata
+
+//<3090> ？？
+<3090> ？？
+
+//<3091> 「…ああ」
+<3091> 「…ああ」
+
+//<3092> 頷きはするのものの、俺の中で疑惑が晴れたわけじゃない。
+<3092> 頷きはするのものの、俺の中で疑惑が晴れたわけじゃない。
+
+//<3093> 引き続き警戒は必要だろう。
+<3093> 引き続き警戒は必要だろう。
+
+//<3094> 俺はHinataをホモだと確信した。決してごまかされたりはしない。
+<3094> 俺はHinataをホモだと確信した。決してごまかされたりはしない。
+
+//<3095> 高松の言葉のほうを信じた。
+<3095> 高松の言葉のほうを信じた。
+
+//<3096> nothing
+<3096> nothing
+
+//<3097> nothing
+<3097> nothing
+
+//<3098> nothing
+<3098> nothing
+
+//<3099> nothing
+<3099> nothing
+
+//<3100> nothing
+<3100> nothing
+
+//<3101> Hinata
+<3101> Hinata
+
+//<3102> 男Ｂ
+<3102> 男Ｂ
+
+//<3103> Super Horny Squad Leader
+<3103> Super Horny Squad Leader
+
+//<3104> Handsome-chin
+<3104> Handsome-chin
+
+//<3105> Homota
+<3105> Homota
+
+//<3106> Hina-chin
+<3106> Hina-chin
+
+//<3107> Hideki
+<3107> Hideki
+
+//<3108> 男子生徒
+<3108> 男子生徒
+
+//<3109> ？？
+<3109> ？？
+
+//<3110> 「それより、今の感触を忘れないうちに、練習を続けろよ」
+<3110> 「それより、今の感触を忘れないうちに、練習を続けろよ」
+
+//<3111> Otonashi
+<3111> Otonashi
+
+//<3112> クソ坊主
+<3112> クソ坊主
+
+//<3113> 代理人
+<3113> 代理人
+
+//<3114> 微妙すぎるイケメン
+<3114> 微妙すぎるイケメン
+
+//<3115> ロリコン
+<3115> ロリコン
+
+//<3116> メガネ仲間
+<3116> メガネ仲間
+
+//<3117> 暗算日本記録保持者
+<3117> 暗算日本記録保持者
+
+//<3118> 通り魔
+<3118> 通り魔
+
+//<3119> 記憶ナシ男
+<3119> 記憶ナシ男
+
+//<3120> 音速
+<3120> 音速
+
+//<3121> 無限
+<3121> 無限
+
+//<3122> Horny Samurai
+<3122> Horny Samurai
+
+//<3123> Super Horny Squad Member 1
+<3123> Super Horny Squad Member 1
+
+//<3124> Horny Boy
+<3124> Horny Boy
+
+//<3125> Ugly Yuri
+<3125> Ugly Yuri
+
+//<3126> Depussy
+<3126> Depussy
+
+//<3127> Perverted American Dog
+<3127> Perverted American Dog
+
+//<3128> Zeus
+<3128> Zeus
+
+//<3129> Hinata mark II
+<3129> Hinata mark II
+
+//<3130> Dung Beetle
+<3130> Dung Beetle
+
+//<3131> Mass Produced Hinata
+<3131> Mass Produced Hinata
+
+//<3132> ？？
+<3132> ？？
+
+//<3133> 「ああ」
+<3133> 「ああ」
+
+//<3134> Otonashi
+<3134> Otonashi
+
+//<3135> クソ坊主
+<3135> クソ坊主
+
+//<3136> 代理人
+<3136> 代理人
+
+//<3137> 微妙すぎるイケメン
+<3137> 微妙すぎるイケメン
+
+//<3138> ロリコン
+<3138> ロリコン
+
+//<3139> メガネ仲間
+<3139> メガネ仲間
+
+//<3140> 暗算日本記録保持者
+<3140> 暗算日本記録保持者
+
+//<3141> 通り魔
+<3141> 通り魔
+
+//<3142> 記憶ナシ男
+<3142> 記憶ナシ男
+
+//<3143> 音速
+<3143> 音速
+
+//<3144> 無限
+<3144> 無限
+
+//<3145> Horny Samurai
+<3145> Horny Samurai
+
+//<3146> Super Horny Squad Member 1
+<3146> Super Horny Squad Member 1
+
+//<3147> Horny Boy
+<3147> Horny Boy
+
+//<3148> Ugly Yuri
+<3148> Ugly Yuri
+
+//<3149> Depussy
+<3149> Depussy
+
+//<3150> Perverted American Dog
+<3150> Perverted American Dog
+
+//<3151> Zeus
+<3151> Zeus
+
+//<3152> Hinata mark II
+<3152> Hinata mark II
+
+//<3153> Dung Beetle
+<3153> Dung Beetle
+
+//<3154> Mass Produced Hinata
+<3154> Mass Produced Hinata
+
+//<3155> ？？
+<3155> ？？
+
+//<3156> 「いや…そんな言葉で騙されねーぜ…」
+<3156> 「いや…そんな言葉で騙されねーぜ…」
+
+//<3157> nothing
+<3157> nothing
+
+//<3158> nothing
+<3158> nothing
+
+//<3159> nothing
+<3159> nothing
+
+//<3160> nothing
+<3160> nothing
+
+//<3161> 高松
+<3161> 高松
+
+//<3162> 「新米にしては、賢明な判断です」
+<3162> 「新米にしては、賢明な判断です」
+
+//<3163> nothing
+<3163> nothing
+
+//<3164> nothing
+<3164> nothing
+
+//<3165> nothing
+<3165> nothing
+
+//<3166> nothing
+<3166> nothing
+
+//<3167> nothing
+<3167> nothing
+
+//<3168> Hinata
+<3168> Hinata
+
+//<3169> 男Ｂ
+<3169> 男Ｂ
+
+//<3170> Super Horny Squad Leader
+<3170> Super Horny Squad Leader
+
+//<3171> Handsome-chin
+<3171> Handsome-chin
+
+//<3172> Homota
+<3172> Homota
+
+//<3173> Hina-chin
+<3173> Hina-chin
+
+//<3174> Hideki
+<3174> Hideki
+
+//<3175> 男子生徒
+<3175> 男子生徒
+
+//<3176> ？？
+<3176> ？？
+
+//<3177> 「えぇー!?　俺の言葉は信じてくれねーのっ!?」
+<3177> 「えぇー!?　俺の言葉は信じてくれねーのっ!?」
+
+//<3178> nothing
+<3178> nothing
+
+//<3179> nothing
+<3179> nothing
+
+//<3180> nothing
+<3180> nothing
+
+//<3181> nothing
+<3181> nothing
+
+//<3182> nothing
+<3182> nothing
+
+//<3183> 高松
+<3183> 高松
+
+//<3184> 「私が戦線に参加してから、あなたの浮ついた話は一度も聞いたことがありません」
+<3184> 「私が戦線に参加してから、あなたの浮ついた話は一度も聞いたことがありません」
+
+//<3185> nothing
+<3185> nothing
+
+//<3186> nothing
+<3186> nothing
+
+//<3187> nothing
+<3187> nothing
+
+//<3188> nothing
+<3188> nothing
+
+//<3189> nothing
+<3189> nothing
+
+//<3190> 高松
+<3190> 高松
+
+//<3191> 「ゆりっぺさんを始め、椎名さんにガルデモメンバー、綺麗どころはたくさん居るのにです」
+<3191> 「ゆりっぺさんを始め、椎名さんにガルデモメンバー、綺麗どころはたくさん居るのにです」
+
+//<3192> nothing
+<3192> nothing
+
+//<3193> nothing
+<3193> nothing
+
+//<3194> nothing
+<3194> nothing
+
+//<3195> nothing
+<3195> nothing
+
+//<3196> nothing
+<3196> nothing
+
+//<3197> Hinata
+<3197> Hinata
+
+//<3198> 男Ｂ
+<3198> 男Ｂ
+
+//<3199> Super Horny Squad Leader
+<3199> Super Horny Squad Leader
+
+//<3200> Handsome-chin
+<3200> Handsome-chin
+
+//<3201> Homota
+<3201> Homota
+
+//<3202> Hina-chin
+<3202> Hina-chin
+
+//<3203> Hideki
+<3203> Hideki
+
+//<3204> 男子生徒
+<3204> 男子生徒
+
+//<3205> ？？
+<3205> ？？
+
+//<3206> 「好みじゃないだけだよっ!!」
+<3206> 「好みじゃないだけだよっ!!」
+
+//<3207> nothing
+<3207> nothing
+
+//<3208> nothing
+<3208> nothing
+
+//<3209> nothing
+<3209> nothing
+
+//<3210> nothing
+<3210> nothing
+
+//<3211> nothing
+<3211> nothing
+
+//<3212> 高松
+<3212> 高松
+
+//<3213> 「ほぅ…」
+<3213> 「ほぅ…」
+
+//<3214> nothing
+<3214> nothing
+
+//<3215> nothing
+<3215> nothing
+
+//<3216> nothing
+<3216> nothing
+
+//<3217> nothing
+<3217> nothing
+
+//<3218> nothing
+<3218> nothing
+
+//<3219> 高松
+<3219> 高松
+
+//<3220> 「まあいいでしょう。今は納得しておきます」
+<3220> 「まあいいでしょう。今は納得しておきます」
+
+//<3221> nothing
+<3221> nothing
+
+//<3222> nothing
+<3222> nothing
+
+//<3223> nothing
+<3223> nothing
+
+//<3224> nothing
+<3224> nothing
+
+//<3225> nothing
+<3225> nothing
+
+//<3226> 確かにゆりは美人だ…。何十年と一緒に暮らしてきて、邪な気持ちを覚えない。それは不自然な気がした。
+<3226> 確かにゆりは美人だ…。何十年と一緒に暮らしてきて、邪な気持ちを覚えない。それは不自然な気がした。
+
+//<3227> nothing
+<3227> nothing
+
+//<3228> nothing
+<3228> nothing
+
+//<3229> nothing
+<3229> nothing
+
+//<3230> nothing
+<3230> nothing
+
+//<3231> nothing
+<3231> nothing
+
+//<3232> Otonashi
+<3232> Otonashi
+
+//<3233> クソ坊主
+<3233> クソ坊主
+
+//<3234> 代理人
+<3234> 代理人
+
+//<3235> 微妙すぎるイケメン
+<3235> 微妙すぎるイケメン
+
+//<3236> ロリコン
+<3236> ロリコン
+
+//<3237> メガネ仲間
+<3237> メガネ仲間
+
+//<3238> 暗算日本記録保持者
+<3238> 暗算日本記録保持者
+
+//<3239> 通り魔
+<3239> 通り魔
+
+//<3240> 記憶ナシ男
+<3240> 記憶ナシ男
+
+//<3241> 音速
+<3241> 音速
+
+//<3242> 無限
+<3242> 無限
+
+//<3243> Horny Samurai
+<3243> Horny Samurai
+
+//<3244> Super Horny Squad Member 1
+<3244> Super Horny Squad Member 1
+
+//<3245> Horny Boy
+<3245> Horny Boy
+
+//<3246> Ugly Yuri
+<3246> Ugly Yuri
+
+//<3247> Depussy
+<3247> Depussy
+
+//<3248> Perverted American Dog
+<3248> Perverted American Dog
+
+//<3249> Zeus
+<3249> Zeus
+
+//<3250> Hinata mark II
+<3250> Hinata mark II
+
+//<3251> Dung Beetle
+<3251> Dung Beetle
+
+//<3252> Mass Produced Hinata
+<3252> Mass Produced Hinata
+
+//<3253> ？？
+<3253> ？？
+
+//<3254> 「やっぱりホモなんだな」
+<3254> 「やっぱりホモなんだな」
+
+//<3255> nothing
+<3255> nothing
+
+//<3256> nothing
+<3256> nothing
+
+//<3257> nothing
+<3257> nothing
+
+//<3258> nothing
+<3258> nothing
+
+//<3259> nothing
+<3259> nothing
+
+//<3260> Hinata
+<3260> Hinata
+
+//<3261> 男Ｂ
+<3261> 男Ｂ
+
+//<3262> Super Horny Squad Leader
+<3262> Super Horny Squad Leader
+
+//<3263> Handsome-chin
+<3263> Handsome-chin
+
+//<3264> Homota
+<3264> Homota
+
+//<3265> Hina-chin
+<3265> Hina-chin
+
+//<3266> Hideki
+<3266> Hideki
+
+//<3267> 男子生徒
+<3267> 男子生徒
+
+//<3268> ？？
+<3268> ？？
+
+//<3269> 「もう、どっちでもいいよっ!!」
+<3269> 「もう、どっちでもいいよっ!!」
+
+//<3270> やけっぱちに答えられた。
+<3270> やけっぱちに答えられた。
+
+//<3271> nothing
+<3271> nothing
+
+//<3272> nothing
+<3272> nothing
+
+//<3273> nothing
+<3273> nothing
+
+//<3274> nothing
+<3274> nothing
+
+//<3275> nothing
+<3275> nothing
+
+//<3276> Otonashi
+<3276> Otonashi
+
+//<3277> クソ坊主
+<3277> クソ坊主
+
+//<3278> 代理人
+<3278> 代理人
+
+//<3279> 微妙すぎるイケメン
+<3279> 微妙すぎるイケメン
+
+//<3280> ロリコン
+<3280> ロリコン
+
+//<3281> メガネ仲間
+<3281> メガネ仲間
+
+//<3282> 暗算日本記録保持者
+<3282> 暗算日本記録保持者
+
+//<3283> 通り魔
+<3283> 通り魔
+
+//<3284> 記憶ナシ男
+<3284> 記憶ナシ男
+
+//<3285> 音速
+<3285> 音速
+
+//<3286> 無限
+<3286> 無限
+
+//<3287> Horny Samurai
+<3287> Horny Samurai
+
+//<3288> Super Horny Squad Member 1
+<3288> Super Horny Squad Member 1
+
+//<3289> Horny Boy
+<3289> Horny Boy
+
+//<3290> Ugly Yuri
+<3290> Ugly Yuri
+
+//<3291> Depussy
+<3291> Depussy
+
+//<3292> Perverted American Dog
+<3292> Perverted American Dog
+
+//<3293> Zeus
+<3293> Zeus
+
+//<3294> Hinata mark II
+<3294> Hinata mark II
+
+//<3295> Dung Beetle
+<3295> Dung Beetle
+
+//<3296> Mass Produced Hinata
+<3296> Mass Produced Hinata
+
+//<3297> ？？
+<3297> ？？
+
+//<3298> 「Hinata、お前は教えることがすごく上手いな…」
+<3298> 「Hinata、お前は教えることがすごく上手いな…」
+
+//<3299> nothing
+<3299> nothing
+
+//<3300> nothing
+<3300> nothing
+
+//<3301> nothing
+<3301> nothing
+
+//<3302> nothing
+<3302> nothing
+
+//<3303> nothing
+<3303> nothing
+
+//<3304> Hinata
+<3304> Hinata
+
+//<3305> 男Ｂ
+<3305> 男Ｂ
+
+//<3306> Super Horny Squad Leader
+<3306> Super Horny Squad Leader
+
+//<3307> Handsome-chin
+<3307> Handsome-chin
+
+//<3308> Homota
+<3308> Homota
+
+//<3309> Hina-chin
+<3309> Hina-chin
+
+//<3310> Hideki
+<3310> Hideki
+
+//<3311> 男子生徒
+<3311> 男子生徒
+
+//<3312> ？？
+<3312> ？？
+
+//<3313> 「そうか?」
+<3313> 「そうか?」
+
+//<3314> Otonashi
+<3314> Otonashi
+
+//<3315> クソ坊主
+<3315> クソ坊主
+
+//<3316> 代理人
+<3316> 代理人
+
+//<3317> 微妙すぎるイケメン
+<3317> 微妙すぎるイケメン
+
+//<3318> ロリコン
+<3318> ロリコン
+
+//<3319> メガネ仲間
+<3319> メガネ仲間
+
+//<3320> 暗算日本記録保持者
+<3320> 暗算日本記録保持者
+
+//<3321> 通り魔
+<3321> 通り魔
+
+//<3322> 記憶ナシ男
+<3322> 記憶ナシ男
+
+//<3323> 音速
+<3323> 音速
+
+//<3324> 無限
+<3324> 無限
+
+//<3325> Horny Samurai
+<3325> Horny Samurai
+
+//<3326> Super Horny Squad Member 1
+<3326> Super Horny Squad Member 1
+
+//<3327> Horny Boy
+<3327> Horny Boy
+
+//<3328> Ugly Yuri
+<3328> Ugly Yuri
+
+//<3329> Depussy
+<3329> Depussy
+
+//<3330> Perverted American Dog
+<3330> Perverted American Dog
+
+//<3331> Zeus
+<3331> Zeus
+
+//<3332> Hinata mark II
+<3332> Hinata mark II
+
+//<3333> Dung Beetle
+<3333> Dung Beetle
+
+//<3334> Mass Produced Hinata
+<3334> Mass Produced Hinata
+
+//<3335> ？？
+<3335> ？？
+
+//<3336> 「なんつーか…惚れるぜ…」
+<3336> 「なんつーか…惚れるぜ…」
+
+//<3337> nothing
+<3337> nothing
+
+//<3338> nothing
+<3338> nothing
+
+//<3339> nothing
+<3339> nothing
+
+//<3340> nothing
+<3340> nothing
+
+//<3341> nothing
+<3341> nothing
+
+//<3342> Hinata
+<3342> Hinata
+
+//<3343> 男Ｂ
+<3343> 男Ｂ
+
+//<3344> Super Horny Squad Leader
+<3344> Super Horny Squad Leader
+
+//<3345> Handsome-chin
+<3345> Handsome-chin
+
+//<3346> Homota
+<3346> Homota
+
+//<3347> Hina-chin
+<3347> Hina-chin
+
+//<3348> Hideki
+<3348> Hideki
+
+//<3349> 男子生徒
+<3349> 男子生徒
+
+//<3350> ？？
+<3350> ？？
+
+//<3351> 「これぐらいのことは、他の奴でも出来るぜ?　な、高松」
+<3351> 「これぐらいのことは、他の奴でも出来るぜ?　な、高松」
+
+//<3352> 高松
+<3352> 高松
+
+//<3353> 「そうですね」
+<3353> 「そうですね」
+
+//<3354> nothing
+<3354> nothing
+
+//<3355> nothing
+<3355> nothing
+
+//<3356> nothing
+<3356> nothing
+
+//<3357> nothing
+<3357> nothing
+
+//<3358> nothing
+<3358> nothing
+
+//<3359> Otonashi
+<3359> Otonashi
+
+//<3360> クソ坊主
+<3360> クソ坊主
+
+//<3361> 代理人
+<3361> 代理人
+
+//<3362> 微妙すぎるイケメン
+<3362> 微妙すぎるイケメン
+
+//<3363> ロリコン
+<3363> ロリコン
+
+//<3364> メガネ仲間
+<3364> メガネ仲間
+
+//<3365> 暗算日本記録保持者
+<3365> 暗算日本記録保持者
+
+//<3366> 通り魔
+<3366> 通り魔
+
+//<3367> 記憶ナシ男
+<3367> 記憶ナシ男
+
+//<3368> 音速
+<3368> 音速
+
+//<3369> 無限
+<3369> 無限
+
+//<3370> Horny Samurai
+<3370> Horny Samurai
+
+//<3371> Super Horny Squad Member 1
+<3371> Super Horny Squad Member 1
+
+//<3372> Horny Boy
+<3372> Horny Boy
+
+//<3373> Ugly Yuri
+<3373> Ugly Yuri
+
+//<3374> Depussy
+<3374> Depussy
+
+//<3375> Perverted American Dog
+<3375> Perverted American Dog
+
+//<3376> Zeus
+<3376> Zeus
+
+//<3377> Hinata mark II
+<3377> Hinata mark II
+
+//<3378> Dung Beetle
+<3378> Dung Beetle
+
+//<3379> Mass Produced Hinata
+<3379> Mass Produced Hinata
+
+//<3380> ？？
+<3380> ？？
+
+//<3381> 「いや、お前にしかできない。自信を持ってもいいと思う」
+<3381> 「いや、お前にしかできない。自信を持ってもいいと思う」
+
+//<3382> nothing
+<3382> nothing
+
+//<3383> nothing
+<3383> nothing
+
+//<3384> nothing
+<3384> nothing
+
+//<3385> nothing
+<3385> nothing
+
+//<3386> nothing
+<3386> nothing
+
+//<3387> Hinata
+<3387> Hinata
+
+//<3388> 男Ｂ
+<3388> 男Ｂ
+
+//<3389> Super Horny Squad Leader
+<3389> Super Horny Squad Leader
+
+//<3390> Handsome-chin
+<3390> Handsome-chin
+
+//<3391> Homota
+<3391> Homota
+
+//<3392> Hina-chin
+<3392> Hina-chin
+
+//<3393> Hideki
+<3393> Hideki
+
+//<3394> 男子生徒
+<3394> 男子生徒
+
+//<3395> ？？
+<3395> ？？
+
+//<3396> 「まだ他のメンバーと交流のないうちに、よくそこまで言い切れるな…」
+<3396> 「まだ他のメンバーと交流のないうちに、よくそこまで言い切れるな…」
+
+//<3397> Otonashi
+<3397> Otonashi
+
+//<3398> クソ坊主
+<3398> クソ坊主
+
+//<3399> 代理人
+<3399> 代理人
+
+//<3400> 微妙すぎるイケメン
+<3400> 微妙すぎるイケメン
+
+//<3401> ロリコン
+<3401> ロリコン
+
+//<3402> メガネ仲間
+<3402> メガネ仲間
+
+//<3403> 暗算日本記録保持者
+<3403> 暗算日本記録保持者
+
+//<3404> 通り魔
+<3404> 通り魔
+
+//<3405> 記憶ナシ男
+<3405> 記憶ナシ男
+
+//<3406> 音速
+<3406> 音速
+
+//<3407> 無限
+<3407> 無限
+
+//<3408> Horny Samurai
+<3408> Horny Samurai
+
+//<3409> Super Horny Squad Member 1
+<3409> Super Horny Squad Member 1
+
+//<3410> Horny Boy
+<3410> Horny Boy
+
+//<3411> Ugly Yuri
+<3411> Ugly Yuri
+
+//<3412> Depussy
+<3412> Depussy
+
+//<3413> Perverted American Dog
+<3413> Perverted American Dog
+
+//<3414> Zeus
+<3414> Zeus
+
+//<3415> Hinata mark II
+<3415> Hinata mark II
+
+//<3416> Dung Beetle
+<3416> Dung Beetle
+
+//<3417> Mass Produced Hinata
+<3417> Mass Produced Hinata
+
+//<3418> ？？
+<3418> ？？
+
+//<3419> (ん?　ちょっと引かれたか…?)
+<3419> (ん?　ちょっと引かれたか…?)
+
+//<3420> これ以上は突っ込まないでおこう…。
+<3420> これ以上は突っ込まないでおこう…。
+
+//<3421> Otonashi
+<3421> Otonashi
+
+//<3422> クソ坊主
+<3422> クソ坊主
+
+//<3423> 代理人
+<3423> 代理人
+
+//<3424> 微妙すぎるイケメン
+<3424> 微妙すぎるイケメン
+
+//<3425> ロリコン
+<3425> ロリコン
+
+//<3426> メガネ仲間
+<3426> メガネ仲間
+
+//<3427> 暗算日本記録保持者
+<3427> 暗算日本記録保持者
+
+//<3428> 通り魔
+<3428> 通り魔
+
+//<3429> 記憶ナシ男
+<3429> 記憶ナシ男
+
+//<3430> 音速
+<3430> 音速
+
+//<3431> 無限
+<3431> 無限
+
+//<3432> Horny Samurai
+<3432> Horny Samurai
+
+//<3433> Super Horny Squad Member 1
+<3433> Super Horny Squad Member 1
+
+//<3434> Horny Boy
+<3434> Horny Boy
+
+//<3435> Ugly Yuri
+<3435> Ugly Yuri
+
+//<3436> Depussy
+<3436> Depussy
+
+//<3437> Perverted American Dog
+<3437> Perverted American Dog
+
+//<3438> Zeus
+<3438> Zeus
+
+//<3439> Hinata mark II
+<3439> Hinata mark II
+
+//<3440> Dung Beetle
+<3440> Dung Beetle
+
+//<3441> Mass Produced Hinata
+<3441> Mass Produced Hinata
+
+//<3442> ？？
+<3442> ？？
+
+//<3443> 「そっか…」
+<3443> 「そっか…」
+
+//<3444> se_handgun2_3
+<3444> se_handgun2_3
+
+//<3445> 銃の練習を続けた。
+<3445> 銃の練習を続けた。
+
+//<3446> nothing
+<3446> nothing
+
+//<3447> 
+<3447> 
+
+//<3448> 
+<3448> 
+
+//<3449> nothing
+<3449> nothing
+
+//<3450> nothing
+<3450> nothing
+
+//<3451> nothing
+<3451> nothing
+
+//<3452> nothing
+<3452> nothing
+
+//<3453> nothing
+<3453> nothing
+
+//<3454> nothing
+<3454> nothing
+
+//<3455> Hinata
+<3455> Hinata
+
+//<3456> 男Ｂ
+<3456> 男Ｂ
+
+//<3457> Super Horny Squad Leader
+<3457> Super Horny Squad Leader
+
+//<3458> Handsome-chin
+<3458> Handsome-chin
+
+//<3459> Homota
+<3459> Homota
+
+//<3460> Hina-chin
+<3460> Hina-chin
+
+//<3461> Hideki
+<3461> Hideki
+
+//<3462> 男子生徒
+<3462> 男子生徒
+
+//<3463> ？？
+<3463> ？？
+
+//<3464> 「そろそろ、夕飯食っとくか」
+<3464> 「そろそろ、夕飯食っとくか」
+
+//<3465> Otonashi
+<3465> Otonashi
+
+//<3466> クソ坊主
+<3466> クソ坊主
+
+//<3467> 代理人
+<3467> 代理人
+
+//<3468> 微妙すぎるイケメン
+<3468> 微妙すぎるイケメン
+
+//<3469> ロリコン
+<3469> ロリコン
+
+//<3470> メガネ仲間
+<3470> メガネ仲間
+
+//<3471> 暗算日本記録保持者
+<3471> 暗算日本記録保持者
+
+//<3472> 通り魔
+<3472> 通り魔
+
+//<3473> 記憶ナシ男
+<3473> 記憶ナシ男
+
+//<3474> 音速
+<3474> 音速
+
+//<3475> 無限
+<3475> 無限
+
+//<3476> Horny Samurai
+<3476> Horny Samurai
+
+//<3477> Super Horny Squad Member 1
+<3477> Super Horny Squad Member 1
+
+//<3478> Horny Boy
+<3478> Horny Boy
+
+//<3479> Ugly Yuri
+<3479> Ugly Yuri
+
+//<3480> Depussy
+<3480> Depussy
+
+//<3481> Perverted American Dog
+<3481> Perverted American Dog
+
+//<3482> Zeus
+<3482> Zeus
+
+//<3483> Hinata mark II
+<3483> Hinata mark II
+
+//<3484> Dung Beetle
+<3484> Dung Beetle
+
+//<3485> Mass Produced Hinata
+<3485> Mass Produced Hinata
+
+//<3486> ？？
+<3486> ？？
+
+//<3487> 「ああ」
+<3487> 「ああ」
+
+//<3488> nothing
+<3488> nothing
+
+//<3489> nothing
+<3489> nothing
+
+//<3490> nothing
+<3490> nothing
+
+//<3491> nothing
+<3491> nothing
+
+//<3492> nothing
+<3492> nothing
+
+//<3493> Hinata
+<3493> Hinata
+
+//<3494> 男Ｂ
+<3494> 男Ｂ
+
+//<3495> Super Horny Squad Leader
+<3495> Super Horny Squad Leader
+
+//<3496> Handsome-chin
+<3496> Handsome-chin
+
+//<3497> Homota
+<3497> Homota
+
+//<3498> Hina-chin
+<3498> Hina-chin
+
+//<3499> Hideki
+<3499> Hideki
+
+//<3500> 男子生徒
+<3500> 男子生徒
+
+//<3501> ？？
+<3501> ？？
+
+//<3502> 「まず俺から引くな」
+<3502> 「まず俺から引くな」
+
+//<3503> nothing
+<3503> nothing
+
+//<3504> nothing
+<3504> nothing
+
+//<3505> nothing
+<3505> nothing
+
+//<3506> nothing
+<3506> nothing
+
+//<3507> nothing
+<3507> nothing
+
+//<3508> くじ引きのように、ポケットの中をかき混ぜ、食券を取り出す。
+<3508> くじ引きのように、ポケットの中をかき混ぜ、食券を取り出す。
+
+//<3509> nothing
+<3509> nothing
+
+//<3510> nothing
+<3510> nothing
+
+//<3511> nothing
+<3511> nothing
+
+//<3512> nothing
+<3512> nothing
+
+//<3513> nothing
+<3513> nothing
+
+//<3514> Hinata
+<3514> Hinata
+
+//<3515> 男Ｂ
+<3515> 男Ｂ
+
+//<3516> Super Horny Squad Leader
+<3516> Super Horny Squad Leader
+
+//<3517> Handsome-chin
+<3517> Handsome-chin
+
+//<3518> Homota
+<3518> Homota
+
+//<3519> Hina-chin
+<3519> Hina-chin
+
+//<3520> Hideki
+<3520> Hideki
+
+//<3521> 男子生徒
+<3521> 男子生徒
+
+//<3522> ？？
+<3522> ？？
+
+//<3523> 「よし、きたーー!!　すき焼き定食ぅーー!!」
+<3523> 「よし、きたーー!!　すき焼き定食ぅーー!!」
+
+//<3524> 実に羨ましい…。
+<3524> 実に羨ましい…。
+
+//<3525> nothing
+<3525> nothing
+
+//<3526> nothing
+<3526> nothing
+
+//<3527> nothing
+<3527> nothing
+
+//<3528> nothing
+<3528> nothing
+
+//<3529> nothing
+<3529> nothing
+
+//<3530> Hinata
+<3530> Hinata
+
+//<3531> 男Ｂ
+<3531> 男Ｂ
+
+//<3532> Super Horny Squad Leader
+<3532> Super Horny Squad Leader
+
+//<3533> Handsome-chin
+<3533> Handsome-chin
+
+//<3534> Homota
+<3534> Homota
+
+//<3535> Hina-chin
+<3535> Hina-chin
+
+//<3536> Hideki
+<3536> Hideki
+
+//<3537> 男子生徒
+<3537> 男子生徒
+
+//<3538> ？？
+<3538> ？？
+
+//<3539> 「次は、お前のな」
+<3539> 「次は、お前のな」
+
+//<3540> nothing
+<3540> nothing
+
+//<3541> nothing
+<3541> nothing
+
+//<3542> nothing
+<3542> nothing
+
+//<3543> nothing
+<3543> nothing
+
+//<3544> nothing
+<3544> nothing
+
+//<3545> またポケットの中をまさぐる。
+<3545> またポケットの中をまさぐる。
+
+//<3546> nothing
+<3546> nothing
+
+//<3547> nothing
+<3547> nothing
+
+//<3548> nothing
+<3548> nothing
+
+//<3549> nothing
+<3549> nothing
+
+//<3550> nothing
+<3550> nothing
+
+//<3551> Hinata
+<3551> Hinata
+
+//<3552> 男Ｂ
+<3552> 男Ｂ
+
+//<3553> Super Horny Squad Leader
+<3553> Super Horny Squad Leader
+
+//<3554> Handsome-chin
+<3554> Handsome-chin
+
+//<3555> Homota
+<3555> Homota
+
+//<3556> Hina-chin
+<3556> Hina-chin
+
+//<3557> Hideki
+<3557> Hideki
+
+//<3558> 男子生徒
+<3558> 男子生徒
+
+//<3559> ？？
+<3559> ？？
+
+//<3560> 「ほいっと、トムヤムカレー!」
+<3560> 「ほいっと、トムヤムカレー!」
+
+//<3561> nothing
+<3561> nothing
+
+//<3562> nothing
+<3562> nothing
+
+//<3563> nothing
+<3563> nothing
+
+//<3564> nothing
+<3564> nothing
+
+//<3565> nothing
+<3565> nothing
+
+//<3566> 食券を渡される。
+<3566> 食券を渡される。
+
+//<3567> Otonashi
+<3567> Otonashi
+
+//<3568> クソ坊主
+<3568> クソ坊主
+
+//<3569> 代理人
+<3569> 代理人
+
+//<3570> 微妙すぎるイケメン
+<3570> 微妙すぎるイケメン
+
+//<3571> ロリコン
+<3571> ロリコン
+
+//<3572> メガネ仲間
+<3572> メガネ仲間
+
+//<3573> 暗算日本記録保持者
+<3573> 暗算日本記録保持者
+
+//<3574> 通り魔
+<3574> 通り魔
+
+//<3575> 記憶ナシ男
+<3575> 記憶ナシ男
+
+//<3576> 音速
+<3576> 音速
+
+//<3577> 無限
+<3577> 無限
+
+//<3578> Horny Samurai
+<3578> Horny Samurai
+
+//<3579> Super Horny Squad Member 1
+<3579> Super Horny Squad Member 1
+
+//<3580> Horny Boy
+<3580> Horny Boy
+
+//<3581> Ugly Yuri
+<3581> Ugly Yuri
+
+//<3582> Depussy
+<3582> Depussy
+
+//<3583> Perverted American Dog
+<3583> Perverted American Dog
+
+//<3584> Zeus
+<3584> Zeus
+
+//<3585> Hinata mark II
+<3585> Hinata mark II
+
+//<3586> Dung Beetle
+<3586> Dung Beetle
+
+//<3587> Mass Produced Hinata
+<3587> Mass Produced Hinata
+
+//<3588> ？？
+<3588> ？？
+
+//<3589> 「トムヤムカレー?」
+<3589> 「トムヤムカレー?」
+
+//<3590> nothing
+<3590> nothing
+
+//<3591> nothing
+<3591> nothing
+
+//<3592> nothing
+<3592> nothing
+
+//<3593> nothing
+<3593> nothing
+
+//<3594> nothing
+<3594> nothing
+
+//<3595> Hinata
+<3595> Hinata
+
+//<3596> 男Ｂ
+<3596> 男Ｂ
+
+//<3597> Super Horny Squad Leader
+<3597> Super Horny Squad Leader
+
+//<3598> Handsome-chin
+<3598> Handsome-chin
+
+//<3599> Homota
+<3599> Homota
+
+//<3600> Hina-chin
+<3600> Hina-chin
+
+//<3601> Hideki
+<3601> Hideki
+
+//<3602> 男子生徒
+<3602> 男子生徒
+
+//<3603> ？？
+<3603> ？？
+
+//<3604> 「ああ、これも本格的で美味しいぜ?」
+<3604> 「ああ、これも本格的で美味しいぜ?」
+
+//<3605> nothing
+<3605> nothing
+
+//<3606> nothing
+<3606> nothing
+
+//<3607> nothing
+<3607> nothing
+
+//<3608> nothing
+<3608> nothing
+
+//<3609> nothing
+<3609> nothing
+
+//<3610> Hinata
+<3610> Hinata
+
+//<3611> 男Ｂ
+<3611> 男Ｂ
+
+//<3612> Super Horny Squad Leader
+<3612> Super Horny Squad Leader
+
+//<3613> Handsome-chin
+<3613> Handsome-chin
+
+//<3614> Homota
+<3614> Homota
+
+//<3615> Hina-chin
+<3615> Hina-chin
+
+//<3616> Hideki
+<3616> Hideki
+
+//<3617> 男子生徒
+<3617> 男子生徒
+
+//<3618> ？？
+<3618> ？？
+
+//<3619> 「いただきまーす」
+<3619> 「いただきまーす」
+
+//<3620> Otonashi
+<3620> Otonashi
+
+//<3621> クソ坊主
+<3621> クソ坊主
+
+//<3622> 代理人
+<3622> 代理人
+
+//<3623> 微妙すぎるイケメン
+<3623> 微妙すぎるイケメン
+
+//<3624> ロリコン
+<3624> ロリコン
+
+//<3625> メガネ仲間
+<3625> メガネ仲間
+
+//<3626> 暗算日本記録保持者
+<3626> 暗算日本記録保持者
+
+//<3627> 通り魔
+<3627> 通り魔
+
+//<3628> 記憶ナシ男
+<3628> 記憶ナシ男
+
+//<3629> 音速
+<3629> 音速
+
+//<3630> 無限
+<3630> 無限
+
+//<3631> Horny Samurai
+<3631> Horny Samurai
+
+//<3632> Super Horny Squad Member 1
+<3632> Super Horny Squad Member 1
+
+//<3633> Horny Boy
+<3633> Horny Boy
+
+//<3634> Ugly Yuri
+<3634> Ugly Yuri
+
+//<3635> Depussy
+<3635> Depussy
+
+//<3636> Perverted American Dog
+<3636> Perverted American Dog
+
+//<3637> Zeus
+<3637> Zeus
+
+//<3638> Hinata mark II
+<3638> Hinata mark II
+
+//<3639> Dung Beetle
+<3639> Dung Beetle
+
+//<3640> Mass Produced Hinata
+<3640> Mass Produced Hinata
+
+//<3641> ？？
+<3641> ？？
+
+//<3642> 「頂きます」
+<3642> 「頂きます」
+
+//<3643> nothing
+<3643> nothing
+
+//<3644> nothing
+<3644> nothing
+
+//<3645> nothing
+<3645> nothing
+
+//<3646> nothing
+<3646> nothing
+
+//<3647> nothing
+<3647> nothing
+
+//<3648> nothing
+<3648> nothing
+
+//<3649> トムヤムカレーをスプーンですくい、口に放り込み、吟味する。
+<3649> トムヤムカレーをスプーンですくい、口に放り込み、吟味する。
+
+//<3650> Otonashi
+<3650> Otonashi
+
+//<3651> クソ坊主
+<3651> クソ坊主
+
+//<3652> 代理人
+<3652> 代理人
+
+//<3653> 微妙すぎるイケメン
+<3653> 微妙すぎるイケメン
+
+//<3654> ロリコン
+<3654> ロリコン
+
+//<3655> メガネ仲間
+<3655> メガネ仲間
+
+//<3656> 暗算日本記録保持者
+<3656> 暗算日本記録保持者
+
+//<3657> 通り魔
+<3657> 通り魔
+
+//<3658> 記憶ナシ男
+<3658> 記憶ナシ男
+
+//<3659> 音速
+<3659> 音速
+
+//<3660> 無限
+<3660> 無限
+
+//<3661> Horny Samurai
+<3661> Horny Samurai
+
+//<3662> Super Horny Squad Member 1
+<3662> Super Horny Squad Member 1
+
+//<3663> Horny Boy
+<3663> Horny Boy
+
+//<3664> Ugly Yuri
+<3664> Ugly Yuri
+
+//<3665> Depussy
+<3665> Depussy
+
+//<3666> Perverted American Dog
+<3666> Perverted American Dog
+
+//<3667> Zeus
+<3667> Zeus
+
+//<3668> Hinata mark II
+<3668> Hinata mark II
+
+//<3669> Dung Beetle
+<3669> Dung Beetle
+
+//<3670> Mass Produced Hinata
+<3670> Mass Produced Hinata
+
+//<3671> ？？
+<3671> ？？
+
+//<3672> 「なんて臭さだ!!　本格的すぎるだろ!」
+<3672> 「なんて臭さだ!!　本格的すぎるだろ!」
+
+//<3673> nothing
+<3673> nothing
+
+//<3674> nothing
+<3674> nothing
+
+//<3675> nothing
+<3675> nothing
+
+//<3676> nothing
+<3676> nothing
+
+//<3677> nothing
+<3677> nothing
+
+//<3678> Hinata
+<3678> Hinata
+
+//<3679> 男Ｂ
+<3679> 男Ｂ
+
+//<3680> Super Horny Squad Leader
+<3680> Super Horny Squad Leader
+
+//<3681> Handsome-chin
+<3681> Handsome-chin
+
+//<3682> Homota
+<3682> Homota
+
+//<3683> Hina-chin
+<3683> Hina-chin
+
+//<3684> Hideki
+<3684> Hideki
+
+//<3685> 男子生徒
+<3685> 男子生徒
+
+//<3686> ？？
+<3686> ？？
+
+//<3687> 「癖は強いが慣れれば大丈夫さ」
+<3687> 「癖は強いが慣れれば大丈夫さ」
+
+//<3688> nothing
+<3688> nothing
+
+//<3689> nothing
+<3689> nothing
+
+//<3690> nothing
+<3690> nothing
+
+//<3691> nothing
+<3691> nothing
+
+//<3692> nothing
+<3692> nothing
+
+//<3693> そう言って、Hinataは生卵を絡ませたすき焼きの肉を美味しそうに食らう。実に美味しそうで交換してほしいと熱望するほどだ…。
+<3693> そう言って、Hinataは生卵を絡ませたすき焼きの肉を美味しそうに食らう。実に美味しそうで交換してほしいと熱望するほどだ…。
+
+//<3694> nothing
+<3694> nothing
+
+//<3695> nothing
+<3695> nothing
+
+//<3696> nothing
+<3696> nothing
+
+//<3697> nothing
+<3697> nothing
+
+//<3698> nothing
+<3698> nothing
+
+//<3699> Hinata
+<3699> Hinata
+
+//<3700> 男Ｂ
+<3700> 男Ｂ
+
+//<3701> Super Horny Squad Leader
+<3701> Super Horny Squad Leader
+
+//<3702> Handsome-chin
+<3702> Handsome-chin
+
+//<3703> Homota
+<3703> Homota
+
+//<3704> Hina-chin
+<3704> Hina-chin
+
+//<3705> Hideki
+<3705> Hideki
+
+//<3706> 男子生徒
+<3706> 男子生徒
+
+//<3707> ？？
+<3707> ？？
+
+//<3708> 「ん?　どうした?」
+<3708> 「ん?　どうした?」
+
+//<3709> Otonashi
+<3709> Otonashi
+
+//<3710> クソ坊主
+<3710> クソ坊主
+
+//<3711> 代理人
+<3711> 代理人
+
+//<3712> 微妙すぎるイケメン
+<3712> 微妙すぎるイケメン
+
+//<3713> ロリコン
+<3713> ロリコン
+
+//<3714> メガネ仲間
+<3714> メガネ仲間
+
+//<3715> 暗算日本記録保持者
+<3715> 暗算日本記録保持者
+
+//<3716> 通り魔
+<3716> 通り魔
+
+//<3717> 記憶ナシ男
+<3717> 記憶ナシ男
+
+//<3718> 音速
+<3718> 音速
+
+//<3719> 無限
+<3719> 無限
+
+//<3720> Horny Samurai
+<3720> Horny Samurai
+
+//<3721> Super Horny Squad Member 1
+<3721> Super Horny Squad Member 1
+
+//<3722> Horny Boy
+<3722> Horny Boy
+
+//<3723> Ugly Yuri
+<3723> Ugly Yuri
+
+//<3724> Depussy
+<3724> Depussy
+
+//<3725> Perverted American Dog
+<3725> Perverted American Dog
+
+//<3726> Zeus
+<3726> Zeus
+
+//<3727> Hinata mark II
+<3727> Hinata mark II
+
+//<3728> Dung Beetle
+<3728> Dung Beetle
+
+//<3729> Mass Produced Hinata
+<3729> Mass Produced Hinata
+
+//<3730> ？？
+<3730> ？？
+
+//<3731> 「いや…」
+<3731> 「いや…」
+
+//<3732> nothing
+<3732> nothing
+
+//<3733> nothing
+<3733> nothing
+
+//<3734> nothing
+<3734> nothing
+
+//<3735> nothing
+<3735> nothing
+
+//<3736> nothing
+<3736> nothing
+
+//<3737> Hinataがランダムにポケットから取り出した食券だ。明日には俺が食べられるかもしれない。
+<3737> Hinataがランダムにポケットから取り出した食券だ。明日には俺が食べられるかもしれない。
+
+//<3738> なので、今は黙ったままでおく。
+<3738> なので、今は黙ったままでおく。
+
+//<3739> Otonashi
+<3739> Otonashi
+
+//<3740> クソ坊主
+<3740> クソ坊主
+
+//<3741> 代理人
+<3741> 代理人
+
+//<3742> 微妙すぎるイケメン
+<3742> 微妙すぎるイケメン
+
+//<3743> ロリコン
+<3743> ロリコン
+
+//<3744> メガネ仲間
+<3744> メガネ仲間
+
+//<3745> 暗算日本記録保持者
+<3745> 暗算日本記録保持者
+
+//<3746> 通り魔
+<3746> 通り魔
+
+//<3747> 記憶ナシ男
+<3747> 記憶ナシ男
+
+//<3748> 音速
+<3748> 音速
+
+//<3749> 無限
+<3749> 無限
+
+//<3750> Horny Samurai
+<3750> Horny Samurai
+
+//<3751> Super Horny Squad Member 1
+<3751> Super Horny Squad Member 1
+
+//<3752> Horny Boy
+<3752> Horny Boy
+
+//<3753> Ugly Yuri
+<3753> Ugly Yuri
+
+//<3754> Depussy
+<3754> Depussy
+
+//<3755> Perverted American Dog
+<3755> Perverted American Dog
+
+//<3756> Zeus
+<3756> Zeus
+
+//<3757> Hinata mark II
+<3757> Hinata mark II
+
+//<3758> Dung Beetle
+<3758> Dung Beetle
+
+//<3759> Mass Produced Hinata
+<3759> Mass Produced Hinata
+
+//<3760> ？？
+<3760> ？？
+
+//<3761> 「またトムヤムカレーかよ…」
+<3761> 「またトムヤムカレーかよ…」
+
+//<3762> nothing
+<3762> nothing
+
+//<3763> nothing
+<3763> nothing
+
+//<3764> nothing
+<3764> nothing
+
+//<3765> nothing
+<3765> nothing
+
+//<3766> nothing
+<3766> nothing
+
+//<3767> Hinata
+<3767> Hinata
+
+//<3768> 男Ｂ
+<3768> 男Ｂ
+
+//<3769> Super Horny Squad Leader
+<3769> Super Horny Squad Leader
+
+//<3770> Handsome-chin
+<3770> Handsome-chin
+
+//<3771> Homota
+<3771> Homota
+
+//<3772> Hina-chin
+<3772> Hina-chin
+
+//<3773> Hideki
+<3773> Hideki
+
+//<3774> 男子生徒
+<3774> 男子生徒
+
+//<3775> ？？
+<3775> ？？
+
+//<3776> 「健康にはいいかもしれないぜ?」
+<3776> 「健康にはいいかもしれないぜ?」
+
+//<3777> Otonashi
+<3777> Otonashi
+
+//<3778> クソ坊主
+<3778> クソ坊主
+
+//<3779> 代理人
+<3779> 代理人
+
+//<3780> 微妙すぎるイケメン
+<3780> 微妙すぎるイケメン
+
+//<3781> ロリコン
+<3781> ロリコン
+
+//<3782> メガネ仲間
+<3782> メガネ仲間
+
+//<3783> 暗算日本記録保持者
+<3783> 暗算日本記録保持者
+
+//<3784> 通り魔
+<3784> 通り魔
+
+//<3785> 記憶ナシ男
+<3785> 記憶ナシ男
+
+//<3786> 音速
+<3786> 音速
+
+//<3787> 無限
+<3787> 無限
+
+//<3788> Horny Samurai
+<3788> Horny Samurai
+
+//<3789> Super Horny Squad Member 1
+<3789> Super Horny Squad Member 1
+
+//<3790> Horny Boy
+<3790> Horny Boy
+
+//<3791> Ugly Yuri
+<3791> Ugly Yuri
+
+//<3792> Depussy
+<3792> Depussy
+
+//<3793> Perverted American Dog
+<3793> Perverted American Dog
+
+//<3794> Zeus
+<3794> Zeus
+
+//<3795> Hinata mark II
+<3795> Hinata mark II
+
+//<3796> Dung Beetle
+<3796> Dung Beetle
+
+//<3797> Mass Produced Hinata
+<3797> Mass Produced Hinata
+
+//<3798> ？？
+<3798> ？？
+
+//<3799> 「確かにな…」
+<3799> 「確かにな…」
+
+//<3800> Otonashi
+<3800> Otonashi
+
+//<3801> クソ坊主
+<3801> クソ坊主
+
+//<3802> 代理人
+<3802> 代理人
+
+//<3803> 微妙すぎるイケメン
+<3803> 微妙すぎるイケメン
+
+//<3804> ロリコン
+<3804> ロリコン
+
+//<3805> メガネ仲間
+<3805> メガネ仲間
+
+//<3806> 暗算日本記録保持者
+<3806> 暗算日本記録保持者
+
+//<3807> 通り魔
+<3807> 通り魔
+
+//<3808> 記憶ナシ男
+<3808> 記憶ナシ男
+
+//<3809> 音速
+<3809> 音速
+
+//<3810> 無限
+<3810> 無限
+
+//<3811> Horny Samurai
+<3811> Horny Samurai
+
+//<3812> Super Horny Squad Member 1
+<3812> Super Horny Squad Member 1
+
+//<3813> Horny Boy
+<3813> Horny Boy
+
+//<3814> Ugly Yuri
+<3814> Ugly Yuri
+
+//<3815> Depussy
+<3815> Depussy
+
+//<3816> Perverted American Dog
+<3816> Perverted American Dog
+
+//<3817> Zeus
+<3817> Zeus
+
+//<3818> Hinata mark II
+<3818> Hinata mark II
+
+//<3819> Dung Beetle
+<3819> Dung Beetle
+
+//<3820> Mass Produced Hinata
+<3820> Mass Produced Hinata
+
+//<3821> ？？
+<3821> ？？
+
+//<3822> 「使われているハーブやスパイスは健胃・鎮痛効果があるし、高い抗酸化作用も注目されている」
+<3822> 「使われているハーブやスパイスは健胃・鎮痛効果があるし、高い抗酸化作用も注目されている」
+
+//<3823> nothing
+<3823> nothing
+
+//<3824> nothing
+<3824> nothing
+
+//<3825> nothing
+<3825> nothing
+
+//<3826> nothing
+<3826> nothing
+
+//<3827> nothing
+<3827> nothing
+
+//<3828> Otonashi
+<3828> Otonashi
+
+//<3829> クソ坊主
+<3829> クソ坊主
+
+//<3830> 代理人
+<3830> 代理人
+
+//<3831> 微妙すぎるイケメン
+<3831> 微妙すぎるイケメン
+
+//<3832> ロリコン
+<3832> ロリコン
+
+//<3833> メガネ仲間
+<3833> メガネ仲間
+
+//<3834> 暗算日本記録保持者
+<3834> 暗算日本記録保持者
+
+//<3835> 通り魔
+<3835> 通り魔
+
+//<3836> 記憶ナシ男
+<3836> 記憶ナシ男
+
+//<3837> 音速
+<3837> 音速
+
+//<3838> 無限
+<3838> 無限
+
+//<3839> Horny Samurai
+<3839> Horny Samurai
+
+//<3840> Super Horny Squad Member 1
+<3840> Super Horny Squad Member 1
+
+//<3841> Horny Boy
+<3841> Horny Boy
+
+//<3842> Ugly Yuri
+<3842> Ugly Yuri
+
+//<3843> Depussy
+<3843> Depussy
+
+//<3844> Perverted American Dog
+<3844> Perverted American Dog
+
+//<3845> Zeus
+<3845> Zeus
+
+//<3846> Hinata mark II
+<3846> Hinata mark II
+
+//<3847> Dung Beetle
+<3847> Dung Beetle
+
+//<3848> Mass Produced Hinata
+<3848> Mass Produced Hinata
+
+//<3849> ？？
+<3849> ？？
+
+//<3850> 「いってみれば漢方薬をすりつぶしてスープにしているようなものだしな」
+<3850> 「いってみれば漢方薬をすりつぶしてスープにしているようなものだしな」
+
+//<3851> Otonashi
+<3851> Otonashi
+
+//<3852> クソ坊主
+<3852> クソ坊主
+
+//<3853> 代理人
+<3853> 代理人
+
+//<3854> 微妙すぎるイケメン
+<3854> 微妙すぎるイケメン
+
+//<3855> ロリコン
+<3855> ロリコン
+
+//<3856> メガネ仲間
+<3856> メガネ仲間
+
+//<3857> 暗算日本記録保持者
+<3857> 暗算日本記録保持者
+
+//<3858> 通り魔
+<3858> 通り魔
+
+//<3859> 記憶ナシ男
+<3859> 記憶ナシ男
+
+//<3860> 音速
+<3860> 音速
+
+//<3861> 無限
+<3861> 無限
+
+//<3862> Horny Samurai
+<3862> Horny Samurai
+
+//<3863> Super Horny Squad Member 1
+<3863> Super Horny Squad Member 1
+
+//<3864> Horny Boy
+<3864> Horny Boy
+
+//<3865> Ugly Yuri
+<3865> Ugly Yuri
+
+//<3866> Depussy
+<3866> Depussy
+
+//<3867> Perverted American Dog
+<3867> Perverted American Dog
+
+//<3868> Zeus
+<3868> Zeus
+
+//<3869> Hinata mark II
+<3869> Hinata mark II
+
+//<3870> Dung Beetle
+<3870> Dung Beetle
+
+//<3871> Mass Produced Hinata
+<3871> Mass Produced Hinata
+
+//<3872> ？？
+<3872> ？？
+
+//<3873> 「そもそも、俺たちが病院で処方されているような薬だって、ハーブ、薬草の類が原料で、成分を抽出して錠剤にしているものもあり…」
+<3873> 「そもそも、俺たちが病院で処方されているような薬だって、ハーブ、薬草の類が原料で、成分を抽出して錠剤にしているものもあり…」
+
+//<3874> Hinata
+<3874> Hinata
+
+//<3875> 男Ｂ
+<3875> 男Ｂ
+
+//<3876> Super Horny Squad Leader
+<3876> Super Horny Squad Leader
+
+//<3877> Handsome-chin
+<3877> Handsome-chin
+
+//<3878> Homota
+<3878> Homota
+
+//<3879> Hina-chin
+<3879> Hina-chin
+
+//<3880> Hideki
+<3880> Hideki
+
+//<3881> 男子生徒
+<3881> 男子生徒
+
+//<3882> ？？
+<3882> ？？
+
+//<3883> 「………」
+<3883> 「………」
+
+//<3884> Otonashi
+<3884> Otonashi
+
+//<3885> クソ坊主
+<3885> クソ坊主
+
+//<3886> 代理人
+<3886> 代理人
+
+//<3887> 微妙すぎるイケメン
+<3887> 微妙すぎるイケメン
+
+//<3888> ロリコン
+<3888> ロリコン
+
+//<3889> メガネ仲間
+<3889> メガネ仲間
+
+//<3890> 暗算日本記録保持者
+<3890> 暗算日本記録保持者
+
+//<3891> 通り魔
+<3891> 通り魔
+
+//<3892> 記憶ナシ男
+<3892> 記憶ナシ男
+
+//<3893> 音速
+<3893> 音速
+
+//<3894> 無限
+<3894> 無限
+
+//<3895> Horny Samurai
+<3895> Horny Samurai
+
+//<3896> Super Horny Squad Member 1
+<3896> Super Horny Squad Member 1
+
+//<3897> Horny Boy
+<3897> Horny Boy
+
+//<3898> Ugly Yuri
+<3898> Ugly Yuri
+
+//<3899> Depussy
+<3899> Depussy
+
+//<3900> Perverted American Dog
+<3900> Perverted American Dog
+
+//<3901> Zeus
+<3901> Zeus
+
+//<3902> Hinata mark II
+<3902> Hinata mark II
+
+//<3903> Dung Beetle
+<3903> Dung Beetle
+
+//<3904> Mass Produced Hinata
+<3904> Mass Produced Hinata
+
+//<3905> ？？
+<3905> ？？
+
+//<3906> 「え、あれ?　俺、何を言ってんだ?」
+<3906> 「え、あれ?　俺、何を言ってんだ?」
+
+//<3907> nothing
+<3907> nothing
+
+//<3908> nothing
+<3908> nothing
+
+//<3909> nothing
+<3909> nothing
+
+//<3910> nothing
+<3910> nothing
+
+//<3911> nothing
+<3911> nothing
+
+//<3912> Hinata
+<3912> Hinata
+
+//<3913> 男Ｂ
+<3913> 男Ｂ
+
+//<3914> Super Horny Squad Leader
+<3914> Super Horny Squad Leader
+
+//<3915> Handsome-chin
+<3915> Handsome-chin
+
+//<3916> Homota
+<3916> Homota
+
+//<3917> Hina-chin
+<3917> Hina-chin
+
+//<3918> Hideki
+<3918> Hideki
+
+//<3919> 男子生徒
+<3919> 男子生徒
+
+//<3920> ？？
+<3920> ？？
+
+//<3921> 「記憶が戻ったのか?」
+<3921> 「記憶が戻ったのか?」
+
+//<3922> Otonashi
+<3922> Otonashi
+
+//<3923> クソ坊主
+<3923> クソ坊主
+
+//<3924> 代理人
+<3924> 代理人
+
+//<3925> 微妙すぎるイケメン
+<3925> 微妙すぎるイケメン
+
+//<3926> ロリコン
+<3926> ロリコン
+
+//<3927> メガネ仲間
+<3927> メガネ仲間
+
+//<3928> 暗算日本記録保持者
+<3928> 暗算日本記録保持者
+
+//<3929> 通り魔
+<3929> 通り魔
+
+//<3930> 記憶ナシ男
+<3930> 記憶ナシ男
+
+//<3931> 音速
+<3931> 音速
+
+//<3932> 無限
+<3932> 無限
+
+//<3933> Horny Samurai
+<3933> Horny Samurai
+
+//<3934> Super Horny Squad Member 1
+<3934> Super Horny Squad Member 1
+
+//<3935> Horny Boy
+<3935> Horny Boy
+
+//<3936> Ugly Yuri
+<3936> Ugly Yuri
+
+//<3937> Depussy
+<3937> Depussy
+
+//<3938> Perverted American Dog
+<3938> Perverted American Dog
+
+//<3939> Zeus
+<3939> Zeus
+
+//<3940> Hinata mark II
+<3940> Hinata mark II
+
+//<3941> Dung Beetle
+<3941> Dung Beetle
+
+//<3942> Mass Produced Hinata
+<3942> Mass Produced Hinata
+
+//<3943> ？？
+<3943> ？？
+
+//<3944> 「いや…そういうわけではない感じだ…」
+<3944> 「いや…そういうわけではない感じだ…」
+
+//<3945> nothing
+<3945> nothing
+
+//<3946> nothing
+<3946> nothing
+
+//<3947> nothing
+<3947> nothing
+
+//<3948> nothing
+<3948> nothing
+
+//<3949> nothing
+<3949> nothing
+
+//<3950> Hinata
+<3950> Hinata
+
+//<3951> 男Ｂ
+<3951> 男Ｂ
+
+//<3952> Super Horny Squad Leader
+<3952> Super Horny Squad Leader
+
+//<3953> Handsome-chin
+<3953> Handsome-chin
+
+//<3954> Homota
+<3954> Homota
+
+//<3955> Hina-chin
+<3955> Hina-chin
+
+//<3956> Hideki
+<3956> Hideki
+
+//<3957> 男子生徒
+<3957> 男子生徒
+
+//<3958> ？？
+<3958> ？？
+
+//<3959> 「お前、生前は薬屋の息子とかだったのかもなー」
+<3959> 「お前、生前は薬屋の息子とかだったのかもなー」
+
+//<3960> Otonashi
+<3960> Otonashi
+
+//<3961> クソ坊主
+<3961> クソ坊主
+
+//<3962> 代理人
+<3962> 代理人
+
+//<3963> 微妙すぎるイケメン
+<3963> 微妙すぎるイケメン
+
+//<3964> ロリコン
+<3964> ロリコン
+
+//<3965> メガネ仲間
+<3965> メガネ仲間
+
+//<3966> 暗算日本記録保持者
+<3966> 暗算日本記録保持者
+
+//<3967> 通り魔
+<3967> 通り魔
+
+//<3968> 記憶ナシ男
+<3968> 記憶ナシ男
+
+//<3969> 音速
+<3969> 音速
+
+//<3970> 無限
+<3970> 無限
+
+//<3971> Horny Samurai
+<3971> Horny Samurai
+
+//<3972> Super Horny Squad Member 1
+<3972> Super Horny Squad Member 1
+
+//<3973> Horny Boy
+<3973> Horny Boy
+
+//<3974> Ugly Yuri
+<3974> Ugly Yuri
+
+//<3975> Depussy
+<3975> Depussy
+
+//<3976> Perverted American Dog
+<3976> Perverted American Dog
+
+//<3977> Zeus
+<3977> Zeus
+
+//<3978> Hinata mark II
+<3978> Hinata mark II
+
+//<3979> Dung Beetle
+<3979> Dung Beetle
+
+//<3980> Mass Produced Hinata
+<3980> Mass Produced Hinata
+
+//<3981> ？？
+<3981> ？？
+
+//<3982> 「わかんねぇけど…とりあえずこればっかり食い続けたくないな…」
+<3982> 「わかんねぇけど…とりあえずこればっかり食い続けたくないな…」
+
+//<3983> この臭さには慣れる気がしない…。
+<3983> この臭さには慣れる気がしない…。
+
+//<3984> nothing
+<3984> nothing
+
+//<3985> nothing
+<3985> nothing
+
+//<3986> nothing
+<3986> nothing
+
+//<3987> nothing
+<3987> nothing
+
+//<3988> nothing
+<3988> nothing
+
+//<3989> Hinata
+<3989> Hinata
+
+//<3990> 男Ｂ
+<3990> 男Ｂ
+
+//<3991> Super Horny Squad Leader
+<3991> Super Horny Squad Leader
+
+//<3992> Handsome-chin
+<3992> Handsome-chin
+
+//<3993> Homota
+<3993> Homota
+
+//<3994> Hina-chin
+<3994> Hina-chin
+
+//<3995> Hideki
+<3995> Hideki
+
+//<3996> 男子生徒
+<3996> 男子生徒
+
+//<3997> ？？
+<3997> ？？
+
+//<3998> 「おっと、そろそろ定例会議の時間だな。本部まで行くぞ」
+<3998> 「おっと、そろそろ定例会議の時間だな。本部まで行くぞ」
+
+//<3999> Otonashi
+<3999> Otonashi
+
+//<4000> クソ坊主
+<4000> クソ坊主
+
+//<4001> 代理人
+<4001> 代理人
+
+//<4002> 微妙すぎるイケメン
+<4002> 微妙すぎるイケメン
+
+//<4003> ロリコン
+<4003> ロリコン
+
+//<4004> メガネ仲間
+<4004> メガネ仲間
+
+//<4005> 暗算日本記録保持者
+<4005> 暗算日本記録保持者
+
+//<4006> 通り魔
+<4006> 通り魔
+
+//<4007> 記憶ナシ男
+<4007> 記憶ナシ男
+
+//<4008> 音速
+<4008> 音速
+
+//<4009> 無限
+<4009> 無限
+
+//<4010> Horny Samurai
+<4010> Horny Samurai
+
+//<4011> Super Horny Squad Member 1
+<4011> Super Horny Squad Member 1
+
+//<4012> Horny Boy
+<4012> Horny Boy
+
+//<4013> Ugly Yuri
+<4013> Ugly Yuri
+
+//<4014> Depussy
+<4014> Depussy
+
+//<4015> Perverted American Dog
+<4015> Perverted American Dog
+
+//<4016> Zeus
+<4016> Zeus
+
+//<4017> Hinata mark II
+<4017> Hinata mark II
+
+//<4018> Dung Beetle
+<4018> Dung Beetle
+
+//<4019> Mass Produced Hinata
+<4019> Mass Produced Hinata
+
+//<4020> ？？
+<4020> ？？
+
+//<4021> 「ああ」
+<4021> 「ああ」
+
+//<4022> dummy
+<4022> dummy
+
+//<4023> bg_kuro
+<4023> bg_kuro
+
+//<4024> ep99_bg001
+<4024> ep99_bg001
+
+//<4025> bg_kuro
+<4025> bg_kuro
+
+//<4026> ep04_bg033
+<4026> ep04_bg033
+
+//<4027> hn0101
+<4027> hn0101
+
+//<4028> bg_kuro
+<4028> bg_kuro
+
+//<4029> hn0102
+<4029> hn0102
+
+//<4030> hn0101
+<4030> hn0101
+
+//<4031> hn0103
+<4031> hn0103
+
+//<4032> hn0305
+<4032> hn0305
+
+//<4033> m120
+<4033> m120
+{5512} 0a // 4033
+
+//<4034> hn0101
+<4034> hn0101
+
+//<4035> bs3_hn0108
+<4035> bs3_hn0108
+
+//<4036> hn0108
+<4036> hn0108
+
+//<4037> hn0108
+<4037> hn0108
+
+//<4038> hn0306
+<4038> hn0306
+
+//<4039> hn0101
+<4039> hn0101
+
+//<4040> ep04_bg047
+<4040> ep04_bg047
+
+//<4041> hn0102
+<4041> hn0102
+
+//<4042> ep04_bg033
+<4042> ep04_bg033
+
+//<4043> hn0101
+<4043> hn0101
+
+//<4044> hn0101
+<4044> hn0101
+
+//<4045> hn0102
+<4045> hn0102
+
+//<4046> bs3_hn010600d3
+<4046> bs3_hn010600d3
+
+//<4047> hn999900d5
+<4047> hn999900d5
+
+//<4048> hn060600u4
+<4048> hn060600u4
+
+//<4049> hn0305
+<4049> hn0305
+
+//<4050> hn0305
+<4050> hn0305
+
+//<4051> hn0101
+<4051> hn0101
+
+//<4052> bg_kuro
+<4052> bg_kuro
+
+//<4053> hn0104
+<4053> hn0104
+
+//<4054> bg_kuro
+<4054> bg_kuro
+
+//<4055> hn0101
+<4055> hn0101
+
+//<4056> hn0102
+<4056> hn0102
+
+//<4057> hn0103
+<4057> hn0103
+
+//<4058> hn0104
+<4058> hn0104
+
+//<4059> hn0105
+<4059> hn0105
+
+//<4060> hn0110_02
+<4060> hn0110_02
+
+//<4061> hn0102
+<4061> hn0102
+
+//<4062> hn0104
+<4062> hn0104
+
+//<4063> hn0101
+<4063> hn0101
+
+//<4064> hn0103
+<4064> hn0103
+
+//<4065> hn0102
+<4065> hn0102
+
+//<4066> hn0103
+<4066> hn0103
+
+//<4067> hn0101
+<4067> hn0101
+
+//<4068> bg_kuro
+<4068> bg_kuro
+
+//<4069> ep99_bg001
+<4069> ep99_bg001
+
+//<4070> bg_kuro
+<4070> bg_kuro
+
+//<4071> ep88_bg020
+<4071> ep88_bg020
+
+//<4072> hn0402
+<4072> hn0402
+
+//<4073> hn0401_06
+<4073> hn0401_06
+
+//<4074> hn0404
+<4074> hn0404
+
+//<4075> bg_kuro
+<4075> bg_kuro
+
+//<4076> ep05_bg047
+<4076> ep05_bg047
+
+//<4077> m119
+<4077> m119
+
+//<4078> hn0101
+<4078> hn0101
+
+//<4079> hn0408
+<4079> hn0408
+
+//<4080> hn0405
+<4080> hn0405
+
+//<4081> hn0405_07
+<4081> hn0405_07
+
+//<4082> hn0302
+<4082> hn0302
+
+//<4083> hn0402
+<4083> hn0402
+
+//<4084> hn0408
+<4084> hn0408
+
+//<4085> hn0402
+<4085> hn0402
+
+//<4086> hn0101
+<4086> hn0101
+
+//<4087> hn0302
+<4087> hn0302
+
+//<4088> ep06_bg015
+<4088> ep06_bg015
+
+//<4089> m106
+<4089> m106
+
+//<4090> hn0101
+<4090> hn0101
+
+//<4091> hn0101_07
+<4091> hn0101_07
+
+//<4092> hn0102
+<4092> hn0102
+
+//<4093> hn0107
+<4093> hn0107
+
+//<4094> hn0114
+<4094> hn0114
+
+//<4095> hn0402
+<4095> hn0402
+
+//<4096> hn0404
+<4096> hn0404
+
+//<4097> hn0114
+<4097> hn0114
+
+//<4098> hn0408
+<4098> hn0408
+
+//<4099> hn0403
+<4099> hn0403
+
+//<4100> hn0404
+<4100> hn0404
+
+//<4101> hn0408
+<4101> hn0408
+
+//<4102> hn0101
+<4102> hn0101
+
+//<4103> hn0108
+<4103> hn0108
+
+//<4104> hn0102
+<4104> hn0102
+
+//<4105> bg_kuro
+<4105> bg_kuro
+
+//<4106> bg_kuro
+<4106> bg_kuro
+
+//<4107> ep03_bg013
+<4107> ep03_bg013
+
+//<4108> kn0901
+<4108> kn0901
+
+//<4109> kn0901
+<4109> kn0901
+
+//<4110> m114
+<4110> m114
+
+//<4111> hn0105
+<4111> hn0105
+
+//<4112> bg_kuro
+<4112> bg_kuro
+
+//<4113> ep10_bg007
+<4113> ep10_bg007
+
+//<4114> m106
+<4114> m106
+
+//<4115> hn0102
+<4115> hn0102
+
+//<4116> hn0101
+<4116> hn0101
+
+//<4117> bg_kuro
+<4117> bg_kuro
+
+//<4118> ep01_bg039
+<4118> ep01_bg039
+
+//<4119> ep03_bg006
+<4119> ep03_bg006
+
+//<4120> hn0102_03
+<4120> hn0102_03
+
+//<4121> tm0101
+<4121> tm0101
+
+//<4122> tm0103
+<4122> tm0103
+
+//<4123> hn0107
+<4123> hn0107
+
+//<4124> hn0306
+<4124> hn0306
+
+//<4125> tm0106
+<4125> tm0106
+
+//<4126> tm0210_02
+<4126> tm0210_02
+
+//<4127> bs3_hn0306
+<4127> bs3_hn0306
+
+//<4128> bs3_hn0105
+<4128> bs3_hn0105
+
+//<4129> hn0102
+<4129> hn0102
+
+//<4130> hn0102
+<4130> hn0102
+
+//<4131> tm0102
+<4131> tm0102
+
+//<4132> tm0101
+<4132> tm0101
+
+//<4133> tm0102
+<4133> tm0102
+
+//<4134> hn0402
+<4134> hn0402
+
+//<4135> tm0202
+<4135> tm0202
+
+//<4136> hn0101
+<4136> hn0101
+
+//<4137> hn0104
+<4137> hn0104
+
+//<4138> hn0403
+<4138> hn0403
+
+//<4139> bs1_tm0101
+<4139> bs1_tm0101
+
+//<4140> hn
+<4140> hn
+
+//<4141> hn0101_13
+<4141> hn0101_13
+
+//<4142> hn0103
+<4142> hn0103
+
+//<4143> hn0701
+<4143> hn0701
+
+//<4144> hn0704
+<4144> hn0704
+
+//<4145> hn0703
+<4145> hn0703
+
+//<4146> hn0701
+<4146> hn0701
+
+//<4147> hn0103
+<4147> hn0103
+
+//<4148> hn0101
+<4148> hn0101
+
+//<4149> hn0404
+<4149> hn0404
+
+//<4150> hn0409
+<4150> hn0409
+
+//<4151> hn0401
+<4151> hn0401
+
+//<4152> hn0108
+<4152> hn0108
+
+//<4153> hn0606
+<4153> hn0606
+
+//<4154> hn0305
+<4154> hn0305
+
+//<4155> hn0108
+<4155> hn0108
+
+//<4156> sys_bk_selline00
+<4156> sys_bk_selline00
+
+//<4157> tm0103
+<4157> tm0103
+
+//<4158> hn0606
+<4158> hn0606
+
+//<4159> sys_bk_selline00
+<4159> sys_bk_selline00
+
+//<4160> hn
+<4160> hn
+
+//<4161> hn0209_07
+<4161> hn0209_07
+
+//<4162> hn0102
+<4162> hn0102
+
+//<4163> hn
+<4163> hn
+
+//<4164> tm0210
+<4164> tm0210
+
+//<4165> hn0306
+<4165> hn0306
+
+//<4166> tm0101
+<4166> tm0101
+
+//<4167> tm0110
+<4167> tm0110
+
+//<4168> hn0105
+<4168> hn0105
+
+//<4169> tm0301
+<4169> tm0301
+
+//<4170> tm0310
+<4170> tm0310
+
+//<4171> hn0105_09
+<4171> hn0105_09
+
+//<4172> hn
+<4172> hn
+
+//<4173> hn0610
+<4173> hn0610
+
+//<4174> hn0101
+<4174> hn0101
+
+//<4175> hn0102
+<4175> hn0102
+
+//<4176> hn0204
+<4176> hn0204
+
+//<4177> tm0102
+<4177> tm0102
+
+//<4178> hn
+<4178> hn
+
+//<4179> hn0209_07
+<4179> hn0209_07
+
+//<4180> ep04_bg047
+<4180> ep04_bg047
+
+//<4181> bg_kuro
+<4181> bg_kuro
+
+//<4182> ep03_bg006
+<4182> ep03_bg006
+
+//<4183> hn0101
+<4183> hn0101
+
+//<4184> bg_kuro
+<4184> bg_kuro
+
+//<4185> ep05_bg047
+<4185> ep05_bg047
+
+//<4186> m119
+<4186> m119
+
+//<4187> hn0101
+<4187> hn0101
+
+//<4188> hn0402
+<4188> hn0402
+
+//<4189> hn0302
+<4189> hn0302
+
+//<4190> hn0103
+<4190> hn0103
+
+//<4191> hn0402
+<4191> hn0402
+
+//<4192> hn0104
+<4192> hn0104
+
+//<4193> hn0103
+<4193> hn0103
+
+//<4194> hn0102
+<4194> hn0102
+
+//<4195> ep05_bg052
+<4195> ep05_bg052
+
+//<4196> hn0101
+<4196> hn0101
+
+//<4197> hn0104
+<4197> hn0104
+
+//<4198> hn0113_14
+<4198> hn0113_14
+
+//<4199> hn0114
+<4199> hn0114
+
+//<4200> hn0102
+<4200> hn0102
+
+//<4201> hn0104
+<4201> hn0104
+
+//<4202> hn0107
+<4202> hn0107
+
+//<4203> hn0109_07
+<4203> hn0109_07
+
+//<4204> hn0209
+<4204> hn0209
+
+//<4205> bg_kuro
+<4205> bg_kuro
+
+//<4206> ep05_bg052
+<4206> ep05_bg052
+
+//<4207> hn0104
+<4207> hn0104
+
+//<4208> bg_kuro
+<4208> bg_kuro
+

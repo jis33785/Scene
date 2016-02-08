@@ -1,0 +1,1234 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> 音無と呼ばれた
+<0000> Was named as Otonashi
+
+//<0001> 
+<0001> 
+
+//<0002> クソ坊主と呼ばれた
+<0002> Was named as Shitty Brat
+
+//<0003> 
+<0003> 
+
+//<0004> 代理人と呼ばれた
+<0004> Was named as Attorney
+
+//<0005> 
+<0005> 
+
+//<0006> 微妙すぎるイケメンと呼ばれた
+<0006> Was named as Super Iffy Hottie
+
+//<0007> 
+<0007> 
+
+//<0008> ロリコンと呼ばれた
+<0008> Was named as Lolicon
+
+//<0009> 
+<0009> 
+
+//<0010> メガネ仲間と呼ばれた
+<0010> Was named as Glasses Buddy
+
+//<0011> 
+<0011> 
+
+//<0012> 暗算日本記録保持者と呼ばれた
+<0012> Was named as JMMRH
+
+//<0013> 
+<0013> 
+
+//<0014> 通り魔と呼ばれた
+<0014> Was named as Slasher
+
+//<0015> 
+<0015> 
+
+//<0016> 記憶ナシ男と呼ばれた
+<0016> Was named as Amnesic Boy
+
+//<0017> 
+<0017> 
+
+//<0018> 音速と呼ばれた
+<0018> Was named as Onsoku
+
+//<0019> 
+<0019> 
+
+//<0020> 無限と呼ばれた
+<0020> Was named as Mugen
+
+//<0021> 
+<0021> 
+
+//<0022> ゼウスと呼ばれた
+<0022> Was named as Zeus
+
+//<0023> 
+<0023> 
+
+//<0024> 糞虫と呼ばれた
+<0024> Was named as Dung Beetle
+
+//<0025> 
+<0025> 
+
+//<0026> HinataMarkⅡと呼ばれた
+<0026> Was named as Hinata mark Ⅱ
+
+//<0027> 
+<0027> 
+
+//<0028> 量産型Hinataと呼ばれた
+<0028> Was named as Mass Produced Hinata
+
+//<0029> 
+<0029> 
+
+//<0030> ユリブサイクと呼ばれた
+<0030> Was named as Ugri Yuri
+
+//<0031> 
+<0031> 
+
+//<0032> ただのエロ少年と呼ばれた
+<0032> Was named as Horny Boy
+
+//<0033> 
+<0033> 
+
+//<0034> エロ侍と呼ばれた
+<0034> Was named as Horny Samurai
+
+//<0035> 
+<0035> 
+
+//<0036> エロエロ団ナンバー１と呼ばれた
+<0036> Was named as Super Horny Squad Leader
+
+//<0037> 
+<0037> 
+
+//<0038> アメリカンエロドッグと呼ばれた
+<0038> Was named as Perverted American Dog
+
+//<0039> 
+<0039> 
+
+//<0040> エロいのは重々承知だがと付けて貰った
+<0040> Told the others to call me Known Pervert
+
+//<0041> 
+<0041> 
+
+//<0042> Hinataのイケチン
+<0042> Saw Hinata's Handsome-chin
+
+//<0043> 
+<0043> 
+
+//<0044> Hinataをひなチンと呼んだ
+<0044> Called Hinata Hina-chin
+
+//<0045> 
+<0045> 
+
+//<0046> Hinataがゆりにボコられた
+<0046> Hinata got pummeled by Yuri
+
+//<0047> 
+<0047> 
+
+//<0048> Hinataがさらにゆりにボコられた
+<0048> Hinata got even more pummeled by Yuri
+
+//<0049> 
+<0049> 
+
+//<0050> Hinataの目をつぶした
+<0050> Crushed Hinata's eyes
+
+//<0051> 
+<0051> 
+
+//<0052> Hinataにカボスをそのまま食わせた
+<0052> Fed Carbos to Hinata
+
+//<0053> 
+<0053> 
+
+//<0054> Hinataに納豆を混ぜずに食わせた
+<0054> Fed natto without mixing it to Hinata
+
+//<0055> 
+<0055> 
+
+//<0056> Hinataの食券トラップを暴いた
+<0056> Saw through Hinata's ticket trick
+
+//<0057> 
+<0057> 
+
+//<0058> Hinata・野田との三角関係
+<0058> A love triangle with Hinata and Noda
+
+//<0059> 
+<0059> 
+
+//<0060> 野田をイケパイと呼んだ
+<0060> Called Noda Handsome-tits
+
+//<0061> 
+<0061> 
+
+//<0062> 野田とのフラグが立った
+<0062> Triggered a flag with Noda
+
+//<0063> 
+<0063> 
+
+//<0064> 野田とのフラグがすごく立った
+<0064> Triggered a sure flag with Noda
+
+//<0065> 
+<0065> 
+
+//<0066> 野田と友達になった
+<0066> Became friends with Noda
+
+//<0067> 
+<0067> 
+
+//<0068> 野田のはにかむ姿
+<0068> Saw Noda's shy side
+
+//<0069> 
+<0069> 
+
+//<0070> 野田を泣かした
+<0070> Made Noda cry
+
+//<0071> 
+<0071> 
+
+//<0072> ユイに卍固めをした
+<0072> Held Yui in a swastika lock
+
+//<0073> 
+<0073> 
+
+//<0074> ユイに音無様と言わせた
+<0074> Made Yui call me Otonashi-sama
+
+//<0075> 
+<0075> 
+
+//<0076> ユイにご主人様と言わせた
+<0076> Made Yui call me Master
+
+//<0077> 
+<0077> 
+
+//<0078> ユイにお兄ちゃんと言わせた
+<0078> Made Yui call me Onii-chan
+
+//<0079> 
+<0079> 
+
+//<0080> ゆりと喧嘩別れした
+<0080> Fought and broke up with Yuri
+
+//<0081> 
+<0081> 
+
+//<0082> ゆりを全面的に支持した
+<0082> Supported Yuri
+
+//<0083> 
+<0083> 
+
+//<0084> ゆりに襲いかかって返り討ちにあった
+<0084> Got retalliated by Yuri after running to her
+
+//<0085> 
+<0085> 
+
+//<0086> ゆりに彼氏宣言をした
+<0086> Asked Yuri out
+
+//<0087> 
+<0087> 
+
+//<0088> 神の首をゆりに渡す覚悟した
+<0088> Swore to Yuri to bring God's neck
+
+//<0089> 
+<0089> 
+
+//<0090> 神の首の制作に失敗した
+<0090> Failed in making God's neck
+
+//<0091> 
+<0091> 
+
+//<0092> 犬の格好をした
+<0092> Pretended to be a dog
+
+//<0093> 
+<0093> 
+
+//<0094> ぶよぶよラーメンの説明をした
+<0094> Explained soggy ramen noodles
+
+//<0095> 
+<0095> 
+
+//<0096> 天使がノリツッコミした
+<0096> Tenshi gave a retort
+
+//<0097> 
+<0097> 
+
+//<0098> 天使を撃ってダメージを与えた
+<0098> Shot and damaged Tenshi
+
+//<0099> 
+<0099> 
+
+//<0100> 天使が呆然としているの
+<0100> Saw Tenshi panic
+
+//<0101> 
+<0101> 
+
+//<0102> かなで・Hinataとの三角関係
+<0102> A love triangle with Kanade and Hinata
+
+//<0103> 
+<0103> 
+
+//<0104> かなで・野田との三角関係
+<0104> A love triangle with Kanade and Noda
+
+//<0105> 
+<0105> 
+
+//<0106> Matsushitaを許さなかった
+<0106> Didn't forgive Matsushita
+
+//<0107> 
+<0107> 
+
+//<0108> Matsushitaにダイエットを勧めた
+<0108> Suggested going on a diet to Matsushita
+
+//<0109> 
+<0109> 
+
+//<0110> Matsushitaが痩せた
+<0110> Matsushita lost weight
+
+//<0111> 
+<0111> 
+
+//<0112> Matsushitaはロリコンかもしれない
+<0112> Matsushita might be a lolicon
+
+//<0113> 
+<0113> 
+
+//<0114> 岩沢と間接キスをした
+<0114> Had an indirect kiss with Iwasawa
+
+//<0115> 
+<0115> 
+
+//<0116> 野球拳でまだ勝てないと悟った
+<0116> Realized that I can't win in Yakyuken
+
+//<0117> 
+<0117> 
+
+//<0118> 岩沢とひさ子のいけない想像をした
+<0118> Imagined something I shouldn't have
+
+//<0119> 
+<0119> 
+
+//<0120> ひさ子に２回連続で殴られた
+<0120> Got hit two times by Hisako
+
+//<0121> 
+<0121> 
+
+//<0122> 入江が貧乳だと知った
+<0122> Learnt that Irie's boobs are small
+
+//<0123> 
+<0123> 
+
+//<0124> 遊佐っぺ
+<0124> Saw a Yusappe
+
+//<0125> 
+<0125> 
+
+//<0126> 遊佐のかわりにOoyamaが呼びに来た
+<0126> Ooyama came to fetch me instead of Yusa
+
+//<0127> 
+<0127> 
+
+//<0128> Encountered a naked Hinata
+<0128> Encountered a naked Hinata
+
+//<0129> 
+<0129> 
+
+//<0130> Encountered a naked Matsushita
+<0130> Encountered a naked Matsushita
+
+//<0131> 
+<0131> 
+
+//<0132> Encountered a naked Fujimaki
+<0132> Encountered a naked Fujimaki
+
+//<0133> 
+<0133> 
+
+//<0134> Encountered a naked Ooyama
+<0134> Encountered a naked Ooyama
+
+//<0135> 
+<0135> 
+
+//<0136> Encountered a naked Takeyama
+<0136> Encountered a naked Takeyama
+
+//<0137> 
+<0137> 
+
+//<0138> Encountered a naked Takamatsu
+<0138> Encountered a naked Takamatsu
+
+//<0139> 
+<0139> 
+
+//<0140> 両刀使い疑惑が浮かんだ
+<0140> Had a suspicion about 
+
+//<0141> 
+<0141> 
+
+//<0142> この世界で風邪をひいた
+<0142> Caught a cold in this world
+
+//<0143> 
+<0143> 
+
+//<0144> Hinataと添い寝をした
+<0144> Slept side by side with Hinata
+
+//<0145> 
+<0145> 
+
+//<0146> 野田と添い寝をした
+<0146> Slept side by side with Noda
+
+//<0147> 
+<0147> 
+
+//<0148> ゆりに夜這いをした
+<0148> Sneaked into Yuri's bedroom
+
+//<0149> 
+<0149> 
+
+//<0150> 岩沢に夜這いをした
+<0150> Sneaked into Iwasawa's bedroom
+
+//<0151> 
+<0151> 
+
+//<0152> ひさ子に夜這いをした
+<0152> Sneaked into Hisako's bedroom
+
+//<0153> 
+<0153> 
+
+//<0154> ゆりの胸を揉んだ
+<0154> Touched Yuri's breasts
+
+//<0155> 
+<0155> 
+
+//<0156> ユイの胸を揉んだ
+<0156> Touched Yui's breasts
+
+//<0157> 
+<0157> 
+
+//<0158> ユイの尻を揉んだ
+<0158> Touched Yui's butt
+
+//<0159> 
+<0159> 
+
+//<0160> かなででＨなことを想像した
+<0160> Had a perverted fantasy about Kanade
+
+//<0161> 
+<0161> 
+
+//<0162> またかなででＨなことを想像した
+<0162> Had a perverted fantasy about Kanade again
+
+//<0163> 
+<0163> 
+
+//<0164> 試験中にカミングアウトした
+<0164> Came out of the closet during the test
+
+//<0165> 
+<0165> 
+
+//<0166> みんなの前でカミングアウトした
+<0166> Came out of the closet in front of everyone
+
+//<0167> 
+<0167> 
+
+//<0168> 百合属性をカミングアウトした
+<0168> Admitted that I like Yuri
+
+//<0169> 
+<0169> 
+
+//<0170> ロリコンをカミングアウトした
+<0170> Admitted that I'm a lolicon
+
+//<0171> 
+<0171> 
+
+//<0172> ロリコンかもしれないと思った
+<0172> Had a suspicion that I'm a lolicon
+
+//<0173> 
+<0173> 
+
+//<0174> 風呂場でSquealed and giggled like little girls in
+<0174> Squealed and giggled like little girls in the bath
+
+//<0175> 
+<0175> 
+
+//<0176> 食堂でSquealed and giggled like little girls in
+<0176> Squealed and giggled like little girls in the dining hall
+
+//<0177> 
+<0177> 
+
+//<0178> 独り立ちでSquealed and giggled like little girls in
+<0178> Squealed and giggled like a little girl alone
+
+//<0179> 
+<0179> 
+
+//<0180> 肩をぶつけ合ってSquealed and giggled like little girls in
+<0180> Squealed and giggled like little girls as we bumped shoulders
+
+//<0181> 
+<0181> 
+
+//<0182> 医学書絡みでSquealed and giggled like little girls in
+<0182> Squealed and giggled like little girls with medical books
+
+//<0183> 
+<0183> 
+
+//<0184> 感謝しつつSquealed and giggled like little girls in
+<0184> Squealed and giggled like little girls while thanking
+
+//<0185> 
+<0185> 
+
+//<0186> イケハートとSquealed and giggled like little girls in
+<0186> Squealed and giggled like little girls with Handsome Heart
+
+//<0187> 
+<0187> 
+
+//<0188> もぐもぐSquealed and giggled like little girls in
+<0188> Squealed and giggled like little girls while squirming around
+
+//<0189> 
+<0189> 
+
+//<0190> チェンジアップ習得してSquealed and giggled like little girls in
+<0190> Squealed and giggled like little girls while practicing my changeup
+
+//<0191> 
+<0191> 
+
+//<0192> 本気の思いでSquealed and giggled like little girls in
+<0192> Squealed and giggled like little girls with all my might
+
+//<0193> 
+<0193> 
+
+//<0194> 球技大会中にSquealed and giggled like little girls in
+<0194> Squealed and giggled like little girls in the ball game tournament
+
+//<0195> 
+<0195> 
+
+//<0196> くるくる回りながらSquealed and giggled like little girls in
+<0196> Squealed and giggled like little girls as we turned around and around
+
+//<0197> 
+<0197> 
+
+//<0198> ボクシングごっこでSquealed and giggled like little girls in
+<0198> Squealed and giggled like little girls while boxing
+
+//<0199> 
+<0199> 
+
+//<0200> Hinataを褒めてSquealed and giggled like little girls in
+<0200> Squealed and giggled like little girls while praising Hinata
+
+//<0201> 
+<0201> 
+
+//<0202> 噛みつきながらSquealed and giggled like little girls in
+<0202> Squealed and giggled like little girls while biting each other
+
+//<0203> 
+<0203> 
+
+//<0204> おにぎりでSquealed and giggled like little girls in
+<0204> Squealed and giggled like little girls with a rice ball
+
+//<0205> 
+<0205> 
+
+//<0206> HinataのフォローしてSquealed and giggled like little girls in
+<0206> Squealed and giggled like little girls while cheering for Hinata
+
+//<0207> 
+<0207> 
+
+//<0208> ゲップからSquealed and giggled like little girls in
+<0208> Squealed and giggled like little girls from Geppu
+
+//<0209> 
+<0209> 
+
+//<0210> クエイクなSquealed and giggled like little girls in
+<0210> Squealed and giggled like little girls with quake
+
+//<0211> 
+<0211> 
+
+//<0212> トンカツでSquealed and giggled like little girls in
+<0212> Squealed and giggled like little girls with a cutlet
+
+//<0213> 
+<0213> 
+
+//<0214> カレーとお茶を浴びながらSquealed and giggled like little girls in
+<0214> Squealed and giggled like little girls as we poured curry and tea
+
+//<0215> 
+<0215> 
+
+//<0216> 久しぶりにSquealed and giggled like little girls in
+<0216> Squealed and giggled like little girls after not doing it for a while
+
+//<0217> 
+<0217> 
+
+//<0218> トライアングル・キャッキャをした
+<0218> Did a triangle squeal
+
+//<0219> 
+<0219> 
+
+//<0220> キャッキャウフフに失敗した
+<0220> Failed to squeal and gigled like little girls
+
+//<0221> 
+<0221> 
+
+//<0222> ＮＰＣ阿部とルームメイトだった
+<0222> Became roommates with NPC Abe
+
+//<0223> 
+<0223> 
+
+//<0224> ＮＰＣ手島とルームメイトになった
+<0224> Became roommates with NPC Teshima
+
+//<0225> 
+<0225> 
+
+//<0226> ＮＰＣ山倉Became teammates with
+<0226> Became teammates with NPC Yamagura
+
+//<0227> 
+<0227> 
+
+//<0228> ＮＰＣ村田Became teammates with
+<0228> Became teammates with NPC Murata
+
+//<0229> 
+<0229> 
+
+//<0230> ＮＰＣ川相Became teammates with
+<0230> Became teammates with NPC Kawai
+
+//<0231> 
+<0231> 
+
+//<0232> ＮＰＣ鈴木Became teammates with
+<0232> Became teammates with NPC Suzuki
+
+//<0233> 
+<0233> 
+
+//<0234> ＮＰＣ高橋さんがバスケのチームに入った
+<0234> NPC Takahashi-san joined our basketball team
+
+//<0235> 
+<0235> 
+
+//<0236> 漫画を借りた
+<0236> Borrowed a manga
+
+//<0237> 
+<0237> 
+
+//<0238> 医学書を借りた
+<0238> Borrowed a medical book
+
+//<0239> 
+<0239> 
+
+//<0240> エロそうな漫画を借りた
+<0240> Borrowed a perverted manga
+
+//<0241> 
+<0241> 
+
+//<0242> 斉藤一族を読破した
+<0242> Read through Saito clan
+
+//<0243> 
+<0243> 
+
+//<0244> やるっきゃ内藤さんを読破した
+<0244> Read through Do Your Best Naitou-san
+
+//<0245> 
+<0245> 
+
+//<0246> トムヤムカレーの虜になった
+<0246> Became a slave of tom yam curry
+
+//<0247> 
+<0247> 
+
+//<0248> 肉うどんAte the
+<0248> Ate the beef udon
+
+//<0249> 
+<0249> 
+
+//<0250> トンカツ定食Ate the
+<0250> Ate the cutlet meal set
+
+//<0251> 
+<0251> 
+
+//<0252> カツカレーAte the
+<0252> Ate the cutlet curry
+
+//<0253> 
+<0253> 
+
+//<0254> 味噌カツ丼Ate the
+<0254> Ate the miso katsudon
+
+//<0255> 
+<0255> 
+
+//<0256> マルゲリータピザAte the
+<0256> Ate the margherita pizza
+
+//<0257> 
+<0257> 
+
+//<0258> 朝定食ＡAte the
+<0258> Ate the breakfast meal set A
+
+//<0259> 
+<0259> 
+
+//<0260> 朝定食ＢAte the
+<0260> Ate the breakfast meal set B
+
+//<0261> 
+<0261> 
+
+//<0262> ミックスグリル定食Ate the
+<0262> Ate the mixed grill meal set
+
+//<0263> 
+<0263> 
+
+//<0264> ステーキ＆ハンバーグコンボ定食Ate the
+<0264> Ate the steak and burger combo set
+
+//<0265> 
+<0265> 
+
+//<0266> イングリッシュマフィンAte the
+<0266> Ate the english muffin
+
+//<0267> 
+<0267> 
+
+//<0268> うどんAte the
+<0268> Ate the udon
+
+//<0269> 
+<0269> 
+
+//<0270> 皿うどんAte the
+<0270> Ate the sara udon
+
+//<0271> 
+<0271> 
+
+//<0272> 餃子定食Ate the
+<0272> Ate the gyoza meal set
+
+//<0273> 
+<0273> 
+
+//<0274> うな重Ate the
+<0274> Ate the grilled eel
+
+//<0275> 
+<0275> 
+
+//<0276> 秋刀魚塩焼き定食Ate the
+<0276> Ate the salt grilled saury meal set
+
+//<0277> 
+<0277> 
+
+//<0278> にゅうめんAte the
+<0278> Ate the nyumen
+
+//<0279> 
+<0279> 
+
+//<0280> トンテキ定食Ate the
+<0280> Ate the pork steak meal set
+
+//<0281> 
+<0281> 
+
+//<0282> トムヤムカレーAte the
+<0282> Ate the tom yam curry
+
+//<0283> 
+<0283> 
+
+//<0284> 揚げ臭豆腐定食Ate the
+<0284> Ate the fried stinky tofu meal set
+
+//<0285> 
+<0285> 
+
+//<0286> 塩ラーメンAte the
+<0286> Ate the shio ramen
+
+//<0287> 
+<0287> 
+
+//<0288> 醤油ラーメンAte the
+<0288> Ate the shoyu ramen
+
+//<0289> 
+<0289> 
+
+//<0290> 味噌ラーメンAte the
+<0290> Ate the miso ramen
+
+//<0291> 
+<0291> 
+
+//<0292> 唐揚げ定食Ate the
+<0292> Ate the karaage meal set
+
+//<0293> 
+<0293> 
+
+//<0294> オムレツセットAte the
+<0294> Ate the omelette set
+
+//<0295> 
+<0295> 
+
+//<0296> チーズインハンバーグ定食Ate the
+<0296> Ate the cheese in burger meal set
+
+//<0297> 
+<0297> 
+
+//<0298> ＢＬＴサンドイッチAte the
+<0298> Ate the BLT sandwich
+
+//<0299> 
+<0299> 
+
+//<0300> フライドポテトAte the
+<0300> Ate the fried potatoes
+
+//<0301> 
+<0301> 
+
+//<0302> 豚角煮定食Ate the
+<0302> Ate the pork stew meal set
+
+//<0303> 
+<0303> 
+
+//<0304> ソースカツ丼Ate the
+<0304> Ate the sauce katsudon
+
+//<0305> 
+<0305> 
+
+//<0306> ゴーヤチャンプルー定食Ate the
+<0306> Ate the goya champuru meal set
+
+//<0307> 
+<0307> 
+
+//<0308> 朝のキムチ定食Ate the
+<0308> Ate the breakfast kimchi meal set
+
+//<0309> 
+<0309> 
+
+//<0310> ジンギスカンのモヤシとタマネギAte the
+<0310> Ate the sprouts and onions from genghis khan
+
+//<0311> 
+<0311> 
+
+//<0312> ビーフシチュー定食Ate the
+<0312> Ate the beef stew meal set
+
+//<0313> 
+<0313> 
+
+//<0314> フレンチトーストAte the
+<0314> Ate french toast
+
+//<0315> 
+<0315> 
+
+//<0316> ほうれん草サラダAte the
+<0316> Ate the spinach salad
+
+//<0317> 
+<0317> 
+
+//<0318> 味噌コーンバターラーメンAte the
+<0318> Ate the miso corn butter ramen
+
+//<0319> 
+<0319> 
+
+//<0320> 餃子単品Ate the
+<0320> Ate a single gyoza
+
+//<0321> 
+<0321> 
+
+//<0322> 麻婆豆腐Ate the
+<0322> Ate the mapo tofu
+
+//<0323> 
+<0323> 
+
+//<0324> Operation Guild Descent: 大玉でリタイア
+<0324> Operation Guild Descent: Flattened
+
+//<0325> 
+<0325> 
+
+//<0326> Operation Guild Descent: 切断されてリタイア
+<0326> Operation Guild Descent: Cut by the lasor
+
+//<0327> 
+<0327> 
+
+//<0328> Operation Guild Descent: ＴＫとリタイア
+<0328> Operation Guild Descent: Crushed with TK
+
+//<0329> 
+<0329> 
+
+//<0330> Operation Guild Descent: Fujimakiとリタイア
+<0330> Operation Guild Descent: Drowned with Fujimaki
+
+//<0331> 
+<0331> 
+
+//<0332> ギルド降下作戦を完遂した
+<0332> Completed the Operation Guild Descent
+
+//<0333> 
+<0333> 
+
+//<0334> Ball game tournament: Matsushitaが参戦した
+<0334> Ball game tournament: Matsushita joined
+
+//<0335> 
+<0335> 
+
+//<0336> Ball game tournament: ガルデモチームで勝利した
+<0336> Ball game tournament: Won with GalDeMo's team
+
+//<0337> 
+<0337> 
+
+//<0338> 球技大会の野球で優勝した
+<0338> Won in baseball in the ball game tournament
+
+//<0339> 
+<0339> 
+
+//<0340> 球技大会のバスケで優勝した
+<0340> Won in basketball in the ball game tournament
+
+//<0341> 
+<0341> 
+
+//<0342> Ooyamaの告白が成功した
+<0342> Ooyama's confession succeeded
+
+//<0343> 
+<0343> 
+
+//<0344> 入江の告白が成功した
+<0344> Irie's confession succeeded
+
+//<0345> 
+<0345> 
+
+//<0346> 神と怪獣の戦いを実況した
+<0346> Shoutcasted a battle between God and beast
+
+//<0347> 
+<0347> 
+
+//<0348> 主を釣り上げた
+<0348> Fished out my master
+
+//<0349> 
+<0349> 
+
+//<0350> 影と遭遇した
+<0350> Encountered a shadow
+
+//<0351> 
+<0351> 
+
+//<0352> 戦線と天使の因縁を知った
+<0352> Learnt the past of Tenshi and the battlefront
+
+//<0353> 
+<0353> 
+
+//<0354> 人間に生まれかわることを知った
+<0354> Learnt that we reincarnate as humans
+
+//<0355> 
+<0355> 
+
+//<0356> 銃の作製方法を知った
+<0356> Learnt how to make a gun
+
+//<0357> 
+<0357> 
+
+//<0358> 天使の特殊能力の謎に迫った
+<0358> Approached the mystery of Tenshi's abilities
+
+//<0359> 
+<0359> 
+
+//<0360> Takamatsuと心をかよわせた
+<0360> Thought the same thing as Takamatsu
+
+//<0361> 
+<0361> 
+
+//<0362> 天使が人間だと知った
+<0362> Learnt that Tenshi is a human
+
+//<0363> 
+<0363> 
+
+//<0364> ゆりの言質をとった
+<0364> Received Yuri's pledge
+
+//<0365> 
+<0365> 
+
+//<0366> ゆりの生前を聞いた
+<0366> Heard about Yuri's life
+
+//<0367> 
+<0367> 
+
+//<0368> チャーの生前を聞いた
+<0368> Heard about Chaa's life
+
+//<0369> 
+<0369> 
+
+//<0370> Hinataの生前を聞いた
+<0370> Heard about Hinata's life
+
+//<0371> 
+<0371> 
+
+//<0372> ひさ子の生前を聞いた
+<0372> Heard about Hisako's life
+
+//<0373> 
+<0373> 
+
+//<0374> ユイの言葉で記憶を取り戻した
+<0374> Got my memories back after talking to Yui
+
+//<0375> 
+<0375> 
+
+//<0376> 直井の催眠術で記憶を取り戻した
+<0376> Got my memories back with Naoi's hypnotism
+
+//<0377> 
+<0377> 
+
+//<0378> お魚バーベキューをした
+<0378> Had a fish barbeque
+
+//<0379> 
+<0379> 
+
+//<0380> 分身天使に世界を支配された
+<0380> Tenshi's clones took over the world
+
+//<0381> 
+<0381> 
+
+//<0382> ゆりを諦めなかったら除名された
+<0382> Was expulsed because I didn't give up on Yuri
+
+//<0383> 
+<0383> 
+
+//<0384> ゆりを襲い続けて除名された
+<0384> Was expulsed because I constantly attacked Yuri
+
+//<0385> 
+<0385> 
+
+//<0386> ゆりにキスしようとして除名された
+<0386> Was expulsed because I tried to kiss Yuri
+
+//<0387> 
+<0387> 
+
+//<0388> 直井とルームメイトになった
+<0388> Became roommates with Naoi
+
+//<0389> 
+<0389> 
+
+//<0390> 直井の催眠術でこの世界から去った
+<0390> Left this world with Naoi's hypnotism
+
+//<0391> 
+<0391> 
+
+//<0392> Hinataの腕の中でこの世界から去った
+<0392> Left this word in Hinata's arms
+
+//<0393> 
+<0393> 
+
+//<0394> ユイルートをクリアした
+<0394> Cleared Yui's route
+
+//<0395> 
+<0395> 
+
+//<0396> 岩沢ルートをクリアした
+<0396> Cleared Iwasawa's route
+
+//<0397> 
+<0397> 
+
+//<0398> Matsushitaルートをクリアした
+<0398> Cleared Matsushita's route
+
+//<0399> 
+<0399> 
+
+//<0400> 登録されていない種類のフラグです
+<0400> This type of flag is not registered
+
+//<0401> …
+<0401> …
+{b833} 23 // 0401
+
+//<0402> レコードを獲得しました
+<0402> Obtained a record
+
+//<0403> レコードを獲得しました
+<0403> Obtained a record
+
+//<0404> $obj_fa_test
+<0404> $obj_fa_test
+{c3c8} 02 // 0404
+
+//<0405> $fa_test
+<0405> $fa_test
+
+//<0406> dummy
+<0406> dummy
+
+//<0407> achievement_popup_bg02
+<0407> achievement_popup_bg02
+
+//<0408> achievement_popup_bg01
+<0408> achievement_popup_bg01
+

@@ -1,0 +1,341 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> se_wooddoor_open2
+<0000> se_wooddoor_open2
+
+//<0001> Otonashi
+<0001> Otonashi
+
+//<0002> クソ坊主
+<0002> クソ坊主
+
+//<0003> 代理人
+<0003> 代理人
+
+//<0004> 微妙すぎるイケメン
+<0004> 微妙すぎるイケメン
+
+//<0005> ロリコン
+<0005> ロリコン
+
+//<0006> メガネ仲間
+<0006> メガネ仲間
+
+//<0007> 暗算日本記録保持者
+<0007> 暗算日本記録保持者
+
+//<0008> 通り魔
+<0008> 通り魔
+
+//<0009> 記憶ナシ男
+<0009> 記憶ナシ男
+
+//<0010> 音速
+<0010> 音速
+
+//<0011> 無限
+<0011> 無限
+
+//<0012> Horny Samurai
+<0012> Horny Samurai
+
+//<0013> Super Horny Squad Member 1
+<0013> Super Horny Squad Member 1
+
+//<0014> Horny Boy
+<0014> Horny Boy
+
+//<0015> Ugri Yuri
+<0015> Ugri Yuri
+
+//<0016> Depussy
+<0016> Depussy
+
+//<0017> Perverted American Dog
+<0017> Perverted American Dog
+
+//<0018> Zeus
+<0018> Zeus
+
+//<0019> Hinata mark Ⅱ
+<0019> Hinata mark Ⅱ
+
+//<0020> Dung Beetle
+<0020> Dung Beetle
+
+//<0021> Mass Produced Hinata
+<0021> Mass Produced Hinata
+
+//<0022> ？？
+<0022> ？？
+
+//<0023> 「よう」
+<0023> 「Yo.」
+
+//<0024> nothing
+<0024> nothing
+
+//<0025> nothing
+<0025> nothing
+
+//<0026> nothing
+<0026> nothing
+
+//<0027> nothing
+<0027> nothing
+
+//<0028> nothing
+<0028> nothing
+
+//<0029> Iwasawa
+<0029> Iwasawa
+
+//<0030> 「またお前か」
+<0030> 「It's you again…」
+
+//<0031> Otonashi
+<0031> Otonashi
+
+//<0032> クソ坊主
+<0032> クソ坊主
+
+//<0033> 代理人
+<0033> 代理人
+
+//<0034> 微妙すぎるイケメン
+<0034> 微妙すぎるイケメン
+
+//<0035> ロリコン
+<0035> ロリコン
+
+//<0036> メガネ仲間
+<0036> メガネ仲間
+
+//<0037> 暗算日本記録保持者
+<0037> 暗算日本記録保持者
+
+//<0038> 通り魔
+<0038> 通り魔
+
+//<0039> 記憶ナシ男
+<0039> 記憶ナシ男
+
+//<0040> 音速
+<0040> 音速
+
+//<0041> 無限
+<0041> 無限
+
+//<0042> Horny Samurai
+<0042> Horny Samurai
+
+//<0043> Super Horny Squad Member 1
+<0043> Super Horny Squad Member 1
+
+//<0044> Horny Boy
+<0044> Horny Boy
+
+//<0045> Ugri Yuri
+<0045> Ugri Yuri
+
+//<0046> Depussy
+<0046> Depussy
+
+//<0047> Perverted American Dog
+<0047> Perverted American Dog
+
+//<0048> Zeus
+<0048> Zeus
+
+//<0049> Hinata mark Ⅱ
+<0049> Hinata mark Ⅱ
+
+//<0050> Dung Beetle
+<0050> Dung Beetle
+
+//<0051> Mass Produced Hinata
+<0051> Mass Produced Hinata
+
+//<0052> ？？
+<0052> ？？
+
+//<0053> 「邪魔か？」
+<0053> 「Am I a bother?」
+
+//<0054> nothing
+<0054> nothing
+
+//<0055> nothing
+<0055> nothing
+
+//<0056> nothing
+<0056> nothing
+
+//<0057> nothing
+<0057> nothing
+
+//<0058> nothing
+<0058> nothing
+
+//<0059> Iwasawa
+<0059> Iwasawa
+
+//<0060> 「いいや、興味深い話をしてくれるなら是非聞きたい」
+<0060> 「Nope. If you're here to tell me something interesting, I want to hear it.」
+
+//<0061> 04_岩沢の興味のある話題探し
+<0061> 04_岩沢の興味のある話題探し
+
+//<0062> nothing
+<0062> nothing
+
+//<0063> nothing
+<0063> nothing
+
+//<0064> nothing
+<0064> nothing
+
+//<0065> nothing
+<0065> nothing
+
+//<0066> nothing
+<0066> nothing
+
+//<0067> Iwasawa
+<0067> Iwasawa
+
+//<0068> 「さすがにな」
+<0068> 「Well, yeah.」
+
+//<0069> nothing
+<0069> nothing
+
+//<0070> nothing
+<0070> nothing
+
+//<0071> nothing
+<0071> nothing
+
+//<0072> nothing
+<0072> nothing
+
+//<0073> nothing
+<0073> nothing
+
+//<0074> nothing
+<0074> nothing
+
+//<0075> 歯に衣着せぬ返答。
+<0075> She gave me her honest reply.
+
+//<0076> 俺は項垂れるしかない。
+<0076> I could only hold my head down.
+
+//<0077> Otonashi
+<0077> Otonashi
+
+//<0078> クソ坊主
+<0078> クソ坊主
+
+//<0079> 代理人
+<0079> 代理人
+
+//<0080> 微妙すぎるイケメン
+<0080> 微妙すぎるイケメン
+
+//<0081> ロリコン
+<0081> ロリコン
+
+//<0082> メガネ仲間
+<0082> メガネ仲間
+
+//<0083> 暗算日本記録保持者
+<0083> 暗算日本記録保持者
+
+//<0084> 通り魔
+<0084> 通り魔
+
+//<0085> 記憶ナシ男
+<0085> 記憶ナシ男
+
+//<0086> 音速
+<0086> 音速
+
+//<0087> 無限
+<0087> 無限
+
+//<0088> Horny Samurai
+<0088> Horny Samurai
+
+//<0089> Super Horny Squad Member 1
+<0089> Super Horny Squad Member 1
+
+//<0090> Horny Boy
+<0090> Horny Boy
+
+//<0091> Ugri Yuri
+<0091> Ugri Yuri
+
+//<0092> Depussy
+<0092> Depussy
+
+//<0093> Perverted American Dog
+<0093> Perverted American Dog
+
+//<0094> Zeus
+<0094> Zeus
+
+//<0095> Hinata mark Ⅱ
+<0095> Hinata mark Ⅱ
+
+//<0096> Dung Beetle
+<0096> Dung Beetle
+
+//<0097> Mass Produced Hinata
+<0097> Mass Produced Hinata
+
+//<0098> ？？
+<0098> ？？
+
+//<0099> 「じゃあ、もう来ないよ、俺…」
+<0099> 「Then, I won't be coming here any more…」
+
+//<0100> Iwasawa
+<0100> Iwasawa
+
+//<0101> 「ふふん、ふーんふーんーふーん…」
+<0101> 「♪♪♪♪…」
+
+//<0102> すでにIwasawaはギターを紡ぎ、作曲作業に戻っていた。
+<0102> Iwasawa was already back to composing on her guitar.
+
+//<0103> 心が痛い…。
+<0103> My chest hurts…
+
+//<0104> 明日になれば、この痛みも消えてるのかな…。
+<0104> Will this pain go away by tomorrow…?
+
+//<0105> dummy
+<0105> dummy
+
+//<0106> ep03_bg015
+<0106> ep03_bg015
+
+//<0107> iw0108
+<0107> iw0108
+
+//<0108> iw0109_01
+<0108> iw0109_01
+
+//<0109> iw0109_08
+<0109> iw0109_08
+
+//<0110> iw0309_01
+<0110> iw0309_01
+
+//<0111> bg_kuro
+<0111> bg_kuro
+
